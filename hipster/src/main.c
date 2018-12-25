@@ -29,6 +29,13 @@ enum {
     FORMAT_END  = 1 << 3,
 };
 
+enum {
+    FRAME_NONE,
+    FRAME_EQUATORIAL,
+    FRAME_GALACTIC,
+    FRAME_ECLIPTIC,
+};
+
 typedef struct
 {
     char *inputs[2];
@@ -40,6 +47,7 @@ typedef struct
     bool bump_to_normal;
     const char *props[16];  // Added to the properties file.
     int   props_nb;
+    int   frame;
 } args_t;
 
 // Clever trick to check if int has only one bit set.
@@ -83,7 +91,7 @@ static bool file_exists(const char *path)
 
 static void create_tile(int lev, int pix, const img_t *src,
                         int size, double delta_theta,
-                        const char *base_dir, int format)
+                        bool flip_phi, const char *base_dir, int format)
 {
     char path[PATH_MAX];
     int x, y, xx, yy, ix, iy, face, f;
@@ -101,6 +109,7 @@ static void create_tile(int lev, int pix, const img_t *src,
             healpix_xyf2ang(nside * size, ix * size + x, iy * size + y, face,
                             &theta, &phi);
             if (phi < 0) phi += 2 * M_PI;
+            if (flip_phi) phi = 2 * M_PI - phi;
             theta = fmod(theta + delta_theta, 2 * M_PI);
             // transform coordinates the way it works in HiPS.
             xx = y;
@@ -229,11 +238,11 @@ static void create_allsky(int lev, int size, const char *base_dir,
 
 static void create_properties_file(const char *base_dir,
                                    int lev, int lev_min,
-                                   int size, int format,
+                                   int size, int format, int frame,
                                    const char **props, int props_nb)
 {
     FILE *file;
-    char *path, format_str[128] = "";
+    char *path, format_str[128] = "", frame_str[128] = "";
     int r, i;
     regex_t reg;
     regmatch_t ms[3];
@@ -247,12 +256,20 @@ static void create_properties_file(const char *base_dir,
     if (format & FORMAT_PNG) strcat(format_str, "png ");
     format_str[strlen(format_str) - 1] = '\0'; // Remove last ' '.
 
+    switch (frame) {
+    case FRAME_EQUATORIAL: strcat(frame_str, "equatorial"); break;
+    case FRAME_GALACTIC: strcat(frame_str, "galactic"); break;
+    case FRAME_ECLIPTIC: strcat(frame_str, "ecliptic"); break;
+    default: break;
+    }
+
 #define P(name, f, v) fprintf(file, "%-21s = " f "\n", name, v)
     P("hips_order", "%d", lev);
     P("hips_order_min", "%d", lev_min);
     if (size) P("hips_tile_width", "%d", size);
     P("hips_tile_format", "%s", format_str);
     P("dataproduct_type", "%s", "image");
+    if (frame) P("hips_frame", "%s", frame_str);
 #undef P
 
     // Add the custom properties.
@@ -300,6 +317,7 @@ static void post_process(int lev, int pix, args_t *args)
 #define OPT_PNGQUANT 1
 #define OPT_THETA 2
 #define OPT_BUMP_TO_NORMAL 3
+#define OPT_FRAME 4
 
 const char *argp_program_version = "hipster 0.1";
 static char doc[] = "Create hips surveys from images";
@@ -307,6 +325,7 @@ static char args_doc[] = "INPUTS";
 static struct argp_option options[] = {
     {"output",   'o', "DIR", 0, "Output to DIR" },
     {"format",   'f', "FORMAT", 0, "png|jpeg|webp" },
+    {"frame",    OPT_FRAME, "FRAME", 0, "equatorial|galactic|ecliptic" },
     {"pngquant", OPT_PNGQUANT, NULL, 0,
                  "use pngquant to compress the images" },
     {"propertie", 'p', "LINE", 0, "Add a propertie to the survey"},
@@ -332,6 +351,13 @@ static error_t parse_opt(int key, char *arg, struct argp_state *state)
         if (strstr(arg, "webp")) args->format |= FORMAT_WEBP;
         if (!args->format)
             argp_error(state, "Unknown format: '%s'", arg);
+        break;
+    case OPT_FRAME:
+        if (strstr(arg, "equatorial")) args->frame = FRAME_EQUATORIAL;
+        if (strstr(arg, "galactic")) args->frame = FRAME_GALACTIC;
+        if (strstr(arg, "ecliptic")) args->frame = FRAME_ECLIPTIC;
+        if (!args->frame)
+            argp_error(state, "Unknown frame: '%s'", arg);
         break;
     case 'p':
         args->props[args->props_nb++] = arg;
@@ -371,6 +397,7 @@ static int create_image_survey(args_t args)
 {
     int tile_size = 512;
     int lev, pix, l, lev_min;
+    bool flip_phi;
     img_t src = {};
 
     LOG_D("load %s", args.inputs[0]);
@@ -382,12 +409,13 @@ static int create_image_survey(args_t args)
     lev = ceil(log2(src.w / (4.0 * sqrt(2.0) * tile_size)));
     lev = max(lev, 0);
     lev_min = min(lev, 0);
+    flip_phi = args.frame != FRAME_NONE;
     LOG_D("creating tiles from level %d to %d", lev_min, lev);
 
     LOG_D("creating all tiles at level %d", lev);
     #pragma omp parallel for private(pix)
     for (pix = 0; pix < 12 * (1 << (2 * lev)); pix++) {
-        create_tile(lev, pix, &src, tile_size, args.theta,
+        create_tile(lev, pix, &src, tile_size, args.theta, flip_phi,
                     args.output, args.format);
         printf("\r%d/%d    ", pix, 12 * (1 << (2 * lev)));
         fflush(stdout);
@@ -421,7 +449,7 @@ static int create_image_survey(args_t args)
 
     // Add the properties file.
     create_properties_file(args.output, lev, lev_min, tile_size, args.format,
-                           args.props, args.props_nb);
+                           args.frame, args.props, args.props_nb);
     return 0;
 }
 
