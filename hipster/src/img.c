@@ -28,6 +28,7 @@
 #include <png.h>
 #include <webp/encode.h>
 #include <webp/decode.h>
+#include <tiffio.h>
 
 void img_init(img_t *img, int w, int h, int bpp)
 {
@@ -84,11 +85,42 @@ static int img_load_webp(img_t *img, const char *path, int bpp)
     return 0;
 }
 
+static int img_load_tiff(img_t *img, const char *path, int bpp)
+{
+    uint16_t spp;
+    uint8_t *data = NULL;
+    int i, j, k, ret = 0;
+    TIFF* tif = TIFFOpen(path, "r");
+    if (!tif) return -1;
+    assert(bpp == 0 || bpp == 4);
+    TIFFGetField(tif, TIFFTAG_IMAGEWIDTH, &img->w);
+    TIFFGetField(tif, TIFFTAG_IMAGELENGTH, &img->h);
+    TIFFGetField(tif, TIFFTAG_SAMPLESPERPIXEL, &spp);
+    data = calloc(img->w * img->h, 4);
+    img->bpp = spp;
+    if (!TIFFReadRGBAImage(tif, img->w, img->h, (uint32_t*)data, 0)) {
+        ret = -1;
+        goto end;
+    }
+    img->data = calloc(img->w * img->h, img->bpp);
+    for (i = 0; i < img->h; i++)
+    for (j = 0; j < img->w; j++)
+    for (k = 0; k < img->bpp; k++) {
+        img->data[(i * img->w + j) * img->bpp + k] =
+            data[(i * img->w + j) * 4 + k];
+    }
+end:
+    free(data);
+    TIFFClose(tif);
+    return ret;
+}
+
 int img_load(img_t *img, const char *path, int bpp)
 {
     if (strcmp(strrchr(path, '.') + 1, "webp") == 0)
         return img_load_webp(img, path, bpp);
-
+    if (strcasecmp(strrchr(path, '.') + 1, "tiff") == 0)
+        return img_load_tiff(img, path, bpp);
     img->data = stbi_load(path, &img->w, &img->h, &img->bpp, bpp);
     if (bpp) img->bpp = bpp;
     if (!img->data) return -1;
