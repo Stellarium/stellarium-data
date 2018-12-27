@@ -276,8 +276,8 @@ void img_map(const img_t *src, img_t *out, const double (*pos)[2])
     IMG_ITER(out, j, i) {
         p[0] = pos[i * out->w + j][0] * src->w;
         p[1] = pos[i * out->w + j][1] * src->h;
-        assert(p[0] >= 0 && p[0] < src->w);
-        assert(p[1] >= 0 && p[1] < src->h);
+        assert(p[0] >= 0 && p[0] <= src->w);
+        assert(p[1] >= 0 && p[1] <= src->h);
         img_interpolate(src, p, IMG_AT(out, j, i));
     }
 }
