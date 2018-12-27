@@ -43,6 +43,7 @@ typedef struct
     int format;
     bool pngquant;
     double theta;  // Theta value of center of the image (rad)
+    double phi;    // Phi value of center of the image (rad)
 
     bool bump_to_normal;
     const char *props[16];  // Added to the properties file.
@@ -54,6 +55,14 @@ typedef struct
 static bool has_only_one_bit(int x)
 {
     return x == (x & -x);
+}
+
+// Normalize angle into the range 0 <= a < 2pi.
+static double anp(double a)
+{
+   a = fmod(a, 2 * M_PI);
+   if (a < 0) a += 2 * M_PI;
+   return a;
 }
 
 static const char *get_format_ext(int format)
@@ -90,7 +99,7 @@ static bool file_exists(const char *path)
 }
 
 static void create_tile(int lev, int pix, const img_t *src,
-                        int size, double delta_theta,
+                        int size, double delta_theta, double delta_phi,
                         bool flip_phi, const char *base_dir, int format)
 {
     char path[PATH_MAX];
@@ -108,9 +117,11 @@ static void create_tile(int lev, int pix, const img_t *src,
         for (x = 0; x < size; x++) {
             healpix_xyf2ang(nside * size, ix * size + x, iy * size + y, face,
                             &theta, &phi);
-            if (phi < 0) phi += 2 * M_PI;
+            theta += delta_theta;
+            phi += delta_phi;
             if (flip_phi) phi = 2 * M_PI - phi;
-            theta = fmod(theta + delta_theta, 2 * M_PI);
+            theta = anp(theta);
+            phi = anp(phi);
             // transform coordinates the way it works in HiPS.
             xx = y;
             yy = x;
@@ -316,8 +327,9 @@ static void post_process(int lev, int pix, args_t *args)
 // Keys for options without short-option
 #define OPT_PNGQUANT 1
 #define OPT_THETA 2
-#define OPT_BUMP_TO_NORMAL 3
-#define OPT_FRAME 4
+#define OPT_PHI 3
+#define OPT_BUMP_TO_NORMAL 4
+#define OPT_FRAME 5
 
 const char *argp_program_version = "hipster 0.1";
 static char doc[] = "Create hips surveys from images";
@@ -330,6 +342,7 @@ static struct argp_option options[] = {
                  "use pngquant to compress the images" },
     {"propertie", 'p', "LINE", 0, "Add a propertie to the survey"},
     {"theta", OPT_THETA, "DEG", 0, "Theta angle of center of src image"},
+    {"phi", OPT_PHI, "DEG", 0, "Phi angle of center of src image"},
     {"bump-to-normal", OPT_BUMP_TO_NORMAL, NULL, 0,
                  "Convert bump texture to normal map"},
     { 0 }
@@ -367,6 +380,9 @@ static error_t parse_opt(int key, char *arg, struct argp_state *state)
         break;
     case OPT_THETA:
         args->theta = atoi(arg) * DD2R;
+        break;
+    case OPT_PHI:
+        args->phi = atoi(arg) * DD2R;
         break;
     case OPT_BUMP_TO_NORMAL:
         args->bump_to_normal = true;
@@ -415,8 +431,8 @@ static int create_image_survey(args_t args)
     LOG_D("creating all tiles at level %d", lev);
     #pragma omp parallel for private(pix)
     for (pix = 0; pix < 12 * (1 << (2 * lev)); pix++) {
-        create_tile(lev, pix, &src, tile_size, args.theta, flip_phi,
-                    args.output, args.format);
+        create_tile(lev, pix, &src, tile_size, args.theta, args.phi,
+                    flip_phi, args.output, args.format);
         printf("\r%d/%d    ", pix, 12 * (1 << (2 * lev)));
         fflush(stdout);
     }
