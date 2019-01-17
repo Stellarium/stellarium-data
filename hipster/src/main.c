@@ -417,7 +417,10 @@ static int create_image_survey(args_t args)
     img_t src = {};
 
     LOG_D("load %s", args.inputs[0]);
-    img_load(&src, args.inputs[0], (args.format & FORMAT_JPEG) ? 3 : 0);
+    if (img_load(&src, args.inputs[0], (args.format & FORMAT_JPEG) ? 3 : 0)) {
+        fprintf(stderr, "Cannot read source\n");
+        return -1;
+    }
     LOG_D("image size: %dx%d bpp:%d", src.w, src.h, src.bpp);
     if (args.bump_to_normal) img_bump_to_normal(&src, &src);
 

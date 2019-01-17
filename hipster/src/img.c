@@ -21,7 +21,9 @@
 
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
+#define STBI_FAILURE_USERMSG
 #pragma GCC diagnostic ignored "-Wmaybe-uninitialized"
+#pragma GCC diagnostic ignored "-Wunused-but-set-variable"
 
 #include "stb_image.h"
 #include <jpeglib.h>
@@ -122,8 +124,11 @@ int img_load(img_t *img, const char *path, int bpp)
     if (strcasecmp(strrchr(path, '.') + 1, "tiff") == 0)
         return img_load_tiff(img, path, bpp);
     img->data = stbi_load(path, &img->w, &img->h, &img->bpp, bpp);
+    if (!img->data) {
+        fprintf(stderr, "Error reading %s: %s\n", path, stbi_failure_reason());
+        return -1;
+    }
     if (bpp) img->bpp = bpp;
-    if (!img->data) return -1;
     return 0;
 }
 
