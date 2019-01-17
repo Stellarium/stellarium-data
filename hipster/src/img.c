@@ -117,12 +117,81 @@ end:
     return ret;
 }
 
+static int img_load_png(img_t *img, const char *path, int bpp)
+{
+    FILE *file;
+    png_structp png_ptr;
+    png_infop info_ptr;
+    int color_type, bit_depth, i;
+    png_bytep *row_pointers = NULL;
+
+    file = fopen(path, "rb");
+    if (!file) goto error;
+    png_ptr = png_create_read_struct(PNG_LIBPNG_VER_STRING, NULL, NULL, NULL);
+    info_ptr = png_create_info_struct(png_ptr);
+    if (setjmp(png_jmpbuf(png_ptr))) abort();
+    png_init_io(png_ptr, file);
+    png_read_info(png_ptr, info_ptr);
+
+    img->w = png_get_image_width(png_ptr, info_ptr);
+    img->h = png_get_image_height(png_ptr, info_ptr);
+    color_type = png_get_color_type(png_ptr, info_ptr);
+    bit_depth = png_get_bit_depth(png_ptr, info_ptr);
+
+    if (bit_depth == 16)
+        png_set_strip_16(png_ptr);
+    if (color_type == PNG_COLOR_TYPE_PALETTE)
+        png_set_palette_to_rgb(png_ptr);
+
+    if (bpp == 3 && (color_type & PNG_COLOR_MASK_ALPHA))
+        png_set_strip_alpha(png_ptr);
+
+    if ((bpp == 4) && (color_type == PNG_COLOR_TYPE_RGB ||
+                       color_type == PNG_COLOR_TYPE_GRAY ||
+                       color_type == PNG_COLOR_TYPE_PALETTE))
+        png_set_filler(png_ptr, 0xFF, PNG_FILLER_AFTER);
+
+    if ((bpp > 1) && (color_type == PNG_COLOR_TYPE_GRAY ||
+                      color_type == PNG_COLOR_TYPE_GRAY_ALPHA))
+        png_set_gray_to_rgb(png_ptr);
+
+    if (!bpp) {
+        switch (color_type) {
+        case PNG_COLOR_TYPE_GRAY: bpp = 1; break;
+        case PNG_COLOR_TYPE_RGB: bpp = 3; break;
+        case PNG_COLOR_TYPE_RGB_ALPHA: bpp = 4; break;
+        default: goto error;
+        }
+    }
+
+    img->data = malloc((size_t)bpp * img->w * img->h);
+    row_pointers = malloc(img->h * sizeof(*row_pointers));
+    for (i = 0; i < img->h; i++)
+        row_pointers[i] = img->data + (size_t)i * img->w * bpp;
+    png_read_image(png_ptr, row_pointers);
+    png_read_end(png_ptr, info_ptr);
+    png_destroy_read_struct(&png_ptr, &info_ptr, NULL);
+    fclose(file);
+    img->bpp = bpp;
+    free(row_pointers);
+    return 0;
+
+error:
+    if (file) fclose(file);
+    free(row_pointers);
+    fprintf(stderr, "Error reading png file %s\n", path);
+    return -1;
+}
+
 int img_load(img_t *img, const char *path, int bpp)
 {
     if (strcmp(strrchr(path, '.') + 1, "webp") == 0)
         return img_load_webp(img, path, bpp);
     if (strcasecmp(strrchr(path, '.') + 1, "tiff") == 0)
         return img_load_tiff(img, path, bpp);
+    if (strcasecmp(strrchr(path, '.') + 1, "png") == 0)
+        return img_load_png(img, path, bpp);
+    // Fallback using stb.
     img->data = stbi_load(path, &img->w, &img->h, &img->bpp, bpp);
     if (!img->data) {
         fprintf(stderr, "Error reading %s: %s\n", path, stbi_failure_reason());
