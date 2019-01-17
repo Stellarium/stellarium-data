@@ -73,7 +73,7 @@ typedef struct img_t {
     for (y = 0; y < (img)->h; y++) for (x = 0; x < (img)->w; x++)
 
 #define IMG_AT(img, x, y) \
-    (&((img)->data[((y) * (img)->w + (x)) * (img)->bpp]))
+    (&((img)->data[((size_t)(y) * (img)->w + (x)) * (img)->bpp]))
 
 
 void img_init(img_t *img, int w, int h, int bpp);
