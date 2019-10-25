@@ -1,0 +1,8 @@
+	{
+		"imageCredits" : {"Short": "Mine", "infoUrl": ""},
+		"imageUrl" : "M16 9-3-19_for_Stellarium.png",
+		"worldCoords" : [[[275.0204, -14.1244], [274.3752, -14.1257], [274.3817, -13.5020], [275.0135, -13.5022]]],
+		"textureCoords" : [[[0,0], [1,0], [1,1], [0,1]]],
+		"minResolution" : 0.2,
+		"maxBrightness" : 12.0
+	},

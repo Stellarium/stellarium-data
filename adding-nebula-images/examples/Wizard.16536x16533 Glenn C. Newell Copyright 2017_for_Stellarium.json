@@ -1,0 +1,8 @@
+	{
+		"imageCredits" : {"Short": "Mine", "infoUrl": ""},
+		"imageUrl" : "Wizard.16536x16533 Glenn C. Newell Copyright 2017_for_Stellarium.png",
+		"worldCoords" : [[[342.4160, 57.8053], [341.2227, 57.8025], [341.2044, 58.4381], [342.4222, 58.4414]]],
+		"textureCoords" : [[[0,0], [1,0], [1,1], [0,1]]],
+		"minResolution" : 0.2,
+		"maxBrightness" : 12.0
+	},

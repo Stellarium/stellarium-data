@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WCS_corners
+Comment=Execute the script with the file dropped
+Exec=gnome-terminal -e "sh -c '\$HOME/anaconda3/bin/python \$HOME/anaconda3/WCS_corners.py \"%u\"'"
+Icon=utilities-terminal
+Type=Application

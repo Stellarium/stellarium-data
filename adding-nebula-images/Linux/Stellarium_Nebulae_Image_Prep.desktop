@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Stellarium_Nebulae_Image_Prep
+Comment=Execute the script with the file dropped
+Exec=gnome-terminal -e "sh -c '\$HOME/anaconda3/bin/python \$HOME/anaconda3/Stellarium_Nebulae_Image_Prep.py \"%u\"'"
+Icon=utilities-terminal
+Type=Application
