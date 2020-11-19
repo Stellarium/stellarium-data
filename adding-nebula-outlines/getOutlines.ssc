@@ -36,7 +36,7 @@ for (var i = start; i <= end; i++) {
 	else
 	{
 		if (i == end)
-			core.output(ra.substr(0, 8) + " " + dec.substr(0, 9) + " end    ");
+			core.output(ra.substr(0, 8) + " " + dec.substr(0, 9) + " end ");
 		else
 			core.output(ra.substr(0, 8) + " " + dec.substr(0, 9) + " vertex ");
 	}
