@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+# http://cdsxmatch.u-strasbg.fr
+# V/137D/XHIP x B/wds/wds (by position; radius 3 arcsec)
+
 $HIPWDSDAT	= "./hipwds.dat";
 $CROSSID	= "./names.fab";
 $RESULT		= "./wds_hip_part.dat";
@@ -21,14 +24,14 @@ for($i=0;$i<scalar(@wdsdata);$i++)
 
 	$hip	= substr($wdsd, 35, 6);
 	$hip	=~ s/\s+//gi;
-	$wds	= substr($wdsd,164,10);
+	$wds	= substr($wdsd,201,10);
 	$wds	=~ s/\s+//gi;
-	$disc	= substr($wdsd,175, 7);
-	$year	= substr($wdsd,194, 4);
+	$disc	= substr($wdsd,212, 7);
+	$year	= substr($wdsd,231, 4);
 	$year	=~ s/\s+//gi;
-	$pa	= substr($wdsd,203, 3);
+	$pa	= substr($wdsd,240, 3);
 	$pa	=~ s/\s+//gi;
-	$sep	= substr($wdsd,213, 5);
+	$sep	= substr($wdsd,250, 5);
 	$sep	=~ s/\s+//gi;
 	
 	$data = $wds.$del.$year.$del.$pa.$del.$sep;
