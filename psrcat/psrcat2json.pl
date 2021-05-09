@@ -37,6 +37,11 @@ $NAMES	= "./propernames.lst";
 
 $FORMAT = 2;
 
+# Use tab char for reduce the file size
+$tab1   = "\t";
+$tab2   = $tab1.$tab1;
+$tab3   = $tab2.$tab1;
+
 open (PSRN, "<$NAMES");
 @psrnames = <PSRN>;
 close PSRN;
@@ -67,11 +72,11 @@ $CATVER =~ s/\s+//gi;
 
 open (JSON, ">$JSON");
 print JSON "{\n";
-print JSON "\t\"version\": \"".$FORMAT."\",\n";
-print JSON "\t\"shortName\": \"A catalogue of pulsars, based on ATNF Pulsar Catalogue v. ".$CATVER."\",\n";
-print JSON "\t\"originalCatalogURL\": \"http://www.atnf.csiro.au/research/pulsar/psrcat/\",\n";
-print JSON "\t\"pulsars\":\n";
-print JSON "\t{\n";
+print JSON $tab1."\"version\": \"".$FORMAT."\",\n";
+print JSON $tab1."\"shortName\": \"A catalogue of pulsars, based on ATNF Pulsar Catalogue v".$CATVER."\",\n";
+print JSON $tab1."\"originalCatalogURL\": \"http://www.atnf.csiro.au/research/pulsar/psrcat/\",\n";
+print JSON $tab1."\"pulsars\":\n";
+print JSON $tab1."{\n";
 
 %psrnameslist = ();
 for ($i=0;$i<scalar(@cat)-1;$i++) {
@@ -203,61 +208,61 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	}
 
 	$jname = "J".$name;
-	$out  = "\t\t\"PSR ".$jname."\":\n";
-	$out .= "\t\t{\n";
+	$out  = $tab2."\"PSR ".$jname."\":\n";
+	$out .= $tab2."{\n";
 	if (exists $psrname{$jname}) {
-		$out .= "\t\t\t\"name\": \"".$psrname{$jname}."\",\n";
+		$out .= $tab3."\"name\": \"".$psrname{$jname}."\",\n";
 	}
 	if ($parallax > 0) {
-		$out .= "\t\t\t\"parallax\": ".$parallax.",\n";
+		$out .= $tab3."\"parallax\": ".$parallax.",\n";
 	}
 	if ($distance > 0) {
-		$out .= "\t\t\t\"distance\": ".$distance.",\n";
+		$out .= $tab3."\"distance\": ".$distance.",\n";
 	}
 	if ($period > 0) {
-		$out .= "\t\t\t\"period\": ".$period.",\n";
+		$out .= $tab3."\"period\": ".$period.",\n";
 	}
 	if ($bperiod > 0) {
-		$out .= "\t\t\t\"bperiod\": ".$bperiod.",\n";
+		$out .= $tab3."\"bperiod\": ".$bperiod.",\n";
 	}
 	if ($eccentricity > 0) {
-		$out .= "\t\t\t\"eccentricity\": ".$eccentricity.",\n";
+		$out .= $tab3."\"eccentricity\": ".$eccentricity.",\n";
 	}
 	if ($pderivative != 0) {
-		$out .= "\t\t\t\"pderivative\": ".$pderivative.",\n";
+		$out .= $tab3."\"pderivative\": ".$pderivative.",\n";
 	}
 	if ($dmeasure > 0) {
-		$out .= "\t\t\t\"dmeasure\": ".$dmeasure.",\n";
+		$out .= $tab3."\"dmeasure\": ".$dmeasure.",\n";
 	}
 	if ($frequency > 0) {
-		$out .= "\t\t\t\"frequency\": ".$frequency.",\n";
+		$out .= $tab3."\"frequency\": ".$frequency.",\n";
 	}
 	if ($pfrequency != 0) {
-		$out .= "\t\t\t\"pfrequency\": ".$pfrequency.",\n";
+		$out .= $tab3."\"pfrequency\": ".$pfrequency.",\n";
 	}
 	if ($w50 > 0) {
-		$out .= "\t\t\t\"w50\": ".$w50.",\n";
+		$out .= $tab3."\"w50\": ".$w50.",\n";
 	}
 	if ($s400 > 0) {
-		$out .= "\t\t\t\"s400\": ".$s400.",\n";
+		$out .= $tab3."\"s400\": ".$s400.",\n";
 	}
 	if ($s600 > 0) {
-		$out .= "\t\t\t\"s600\": ".$s600.",\n";
+		$out .= $tab3."\"s600\": ".$s600.",\n";
 	}
 	if ($s1400 > 0) {
-		$out .= "\t\t\t\"s1400\": ".$s1400.",\n";
+		$out .= $tab3."\"s1400\": ".$s1400.",\n";
 	}
 	if ($glitch > 0) {
-		$out .= "\t\t\t\"glitch\": ".$glitch.",\n";
+		$out .= $tab3."\"glitch\": ".$glitch.",\n";
 	}
 	if ($notes ne '')
 	{
-		$out .= "\t\t\t\"notes\": \"".$notes."\",\n";
+		$out .= $tab3."\"notes\": \"".$notes."\",\n";
 	}
 	if (($outRA ne '') && ($outDE ne ''))
 	{
-		$out .= "\t\t\t\"RA\": \"".$outRA."\",\n";
-		$out .= "\t\t\t\"DE\": \"".$outDE."\"\n";
+		$out .= $tab3."\"RA\": \"".$outRA."\",\n";
+		$out .= $tab3."\"DE\": \"".$outDE."\"\n";
 	}
 	if (($elat ne '') && ($elong ne ''))
 	{
@@ -318,10 +323,10 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 			}
 		}
 		$outDE = sprintf("%02dd%02dm%05.3fs",$dd,$mm,$sec);
-		$out .= "\t\t\t\"RA\": \"".$outRA."\",\n";
-		$out .= "\t\t\t\"DE\": \"".$outDE."\"\n";
+		$out .= $tab3."\"RA\": \"".$outRA."\",\n";
+		$out .= $tab3."\"DE\": \"".$outDE."\"\n";
 	}
-	$out .= "\t\t}";
+	$out .= $tab2."}";
 	if ($i<scalar(@cat)-2) {
 		$out .= ",";
 	}
@@ -330,6 +335,6 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	}
 }
 
-print JSON "\t}\n}\n";
+print JSON $tab1."}\n}\n";
 
 close JSON;

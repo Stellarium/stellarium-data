@@ -1,0 +1,67 @@
+#number(unused),system name,planet name,planet type,conservative sample flag,flux,equilibrium temperature,Earth Similarity Index
+1,GJ 163,c,M-Warm Superterran,0,141,277,67
+2,GJ 273,b,M-Warm Terran,1,106,258,85
+3,GJ 3293,d,M-Warm Superterran,0,59,223,63
+4,GJ 357,d,M-Warm Superterran,0,38,200,58
+5,GJ 667 C,c,M-Warm Terran,1,88,247,80
+5,GJ 667C,c,M-Warm Terran,1,88,247,80
+6,GJ 667 C,e,M-Warm Terran,1,30,189,60
+6,GJ 667C,e,M-Warm Terran,1,30,189,60
+7,GJ 667 C,f,M-Warm Terran,1,56,221,77
+7,GJ 667C,f,M-Warm Terran,1,56,221,77
+8,GJ 832,c,M-Warm Superterran,0,99,253,74
+9,HD 40307,g,K-Warm Superterran,0,67,226,66
+10,K2-18,b,M-Warm Superterran,0,108,257,71
+11,K2-288 B,b,M-Warm Superterran,0,44,207,65
+11,K2-288B,b,M-Warm Superterran,0,44,207,65
+12,K2-3,d,M-Warm Superterran,0,150,282,78
+13,K2-72,e,M-Warm Terran,1,111,261,90
+14,K2-9,b,M-Warm Superterran,0,145,279,70
+15,Kepler-1090,b,G-Warm Superterran,0,120,267,72
+16,Kepler-1229,b,M-Warm Terran,1,49,213,73
+17,Kepler-1410,b,K-Warm Superterran,0,134,274,78
+18,Kepler-1540,b,K-Warm Superterran,0,92,250,70
+19,Kepler-1544,b,K-Warm Superterran,0,90,248,80
+20,Kepler-1552,b,K-Warm Superterran,0,110,261,70
+21,Kepler-1606,b,G-Warm Superterran,0,141,277,73
+22,Kepler-1632,b,F-Warm Superterran,0,127,270,69
+23,Kepler-1638,b,G-Warm Superterran,0,139,276,76
+24,Kepler-1652,b,M-Warm Superterran,0,84,244,83
+25,Kepler-1653,b,K-Warm Superterran,0,104,258,74
+26,Kepler-174,d,K-Warm Superterran,0,43,206,61
+27,Kepler-186,f,M-Warm Terran,1,29,188,61
+28,Kepler-22,b,G-Warm Superterran,0,110,261,71
+29,Kepler-283,c,K-Warm Superterran,0,90,248,79
+30,Kepler-296,e,M-Warm Superterran,0,150,276,80
+31,Kepler-296,f,M-Warm Superterran,0,66,225,75
+32,Kepler-298,d,K-Warm Superterran,0,129,271,68
+33,Kepler-440,b,K-Warm Superterran,0,144,273,75
+34,Kepler-442,b,K-Warm Terran,1,70,233,84
+35,Kepler-443,b,K-Warm Superterran,0,89,247,71
+36,Kepler-452,b,G-Warm Superterran,0,111,261,83
+37,Kepler-61,b,K-Warm Superterran,0,139,273,72
+38,Kepler-62,e,K-Warm Superterran,0,115,264,83
+39,Kepler-62,f,K-Warm Terran,1,41,204,68
+40,Kepler-705,b,M-Warm Superterran,0,83,243,74
+41,LHS 1140,b,M-Warm Superterran,0,50,214,70
+42,Proxima Cen,b,M-Warm Terran,1,70,228,87
+42,Proxima Centauri,b,M-Warm Terran,1,70,228,87
+43,TRAPPIST-1,d,M-Warm Subterran,1,114,263,90
+44,TRAPPIST-1,e,M-Warm Terran,1,66,230,85
+45,TRAPPIST-1,f,M-Warm Terran,1,38,200,68
+46,TRAPPIST-1,g,M-Warm Terran,1,26,181,58
+47,Teegarden's Star,b,M-Warm Terran,1,115,264,95
+47,Teegarden's,b,M-Warm Terran,1,115,264,95
+48,Teegarden's Star,c,M-Warm Terran,1,37,199,68
+48,Teegarden's,c,M-Warm Terran,1,37,199,68
+49,Wolf 1061,c,M-Warm Terran,1,130,271,80
+50,tau Cet,f,G-Warm Terran,1,32,190,58
+50,tau Ceti,f,G-Warm Terran,1,32,190,58
+51,K2-296,b,M-Warm Superterran,0,115,264,78
+52,GJ 1061,c,M-Warm Terran,1,145,275,86
+53,GJ 1061,d,M-Warm Terran,1,69,218,86
+54,TOI-700,d,M-Warm Terran,1,87,246,93
+55,Kepler-1649,c,M-Warm Terran,1,75,237,90
+56,Kepler-1701,b,K-Warm Superterran,0,137,275,71
+57,GJ 229 A,c,M-Warm Superterran,0,53,216,62
+57,GJ 229A,c,M-Warm Superterran,0,53,216,62
