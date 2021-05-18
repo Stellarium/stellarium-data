@@ -96,6 +96,8 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	$distance = 0;
 	$outRA = "";
 	$outDE = "";
+	$pmRA = "";
+	$pmDE = "";
 	$elat = "";
 	$elong = "";
 	$flag = 0;
@@ -135,6 +137,14 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 			$sec += $secf;
 			if ($sec<10) { $sec = "0".$sec; }
 			$outDE = $deg."d".$min."m".$sec."s";
+		}
+		
+		if ($lines[$j] =~ /^PMRA(\s+)([\-\+\d\.]+)\s+/) {
+			$pmRA = $2 + 0.0;
+		}
+		
+		if ($lines[$j] =~ /^PMDEC(\s+)([\-\+\d\.]+)\s+/) {
+			$pmDE = $2 + 0.0;
 		}
 
 		if ($lines[$j] =~ /^P0(\s+)([\d\.]+)/) {
@@ -261,6 +271,12 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	}
 	if (($outRA ne '') && ($outDE ne ''))
 	{
+		if ($pmRA ne '') {
+			$out .= $tab3."\"pmRA\": ".$pmRA.",\n";
+		}
+		if ($pmDE ne '') {
+			$out .= $tab3."\"pmDE\": ".$pmDE.",\n";
+		}
 		$out .= $tab3."\"RA\": \"".$outRA."\",\n";
 		$out .= $tab3."\"DE\": \"".$outDE."\"\n";
 	}
@@ -321,6 +337,12 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 					$dd = $dd - 1;
 				}
 			}
+		}
+		if ($pmRA ne '') {
+			$out .= $tab3."\"pmRA\": ".$pmRA.",\n";
+		}
+		if ($pmDE ne '') {
+			$out .= $tab3."\"pmDE\": ".$pmDE.",\n";
 		}
 		$outDE = sprintf("%02dd%02dm%05.3fs",$dd,$mm,$sec);
 		$out .= $tab3."\"RA\": \"".$outRA."\",\n";
