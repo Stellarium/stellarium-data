@@ -26,6 +26,7 @@
 
 $SRC	= "./cities15000.txt";
 $CODE	= "./admin1CodesASCII.txt";
+$GEOS	= "./regions-geoscheme.txt";
 $HDR	= "./base_locations.header";
 $ADX	= "./base_locations.appendix";
 $OUT	= "./base_locations.txt";
@@ -46,11 +47,29 @@ open(CC, "<$CODE");
 @code = <CC>;
 close CC;
 
+open(GS, "<$GEOS");
+@geosch = <GS>;
+close GS;
+
 %geo = ();
 for ($i=0;$i<scalar(@code);$i++)
 {
 	@gc = split(/\t/, $code[$i]);
 	$geo{$gc[0]} = $gc[2];
+}
+
+%geoscheme = ();
+for ($i=0;$i<scalar(@geosch);$i++)
+{
+	if (substr($geosch[$i], 0, 1) eq '#') { next; }
+	@gsm = split(/\t/, $geosch[$i]);
+	@countries = split(/,/, $gsm[2]);
+	for($j=0;$j<scalar(@countries);$j++)
+	{
+		$country = $countries[$j];
+		if (length($country)==3) { chop($country); }
+		$geoscheme{$country} = $gsm[0];
+	}
 }
 
 open(OUT, ">$OUT");
@@ -90,9 +109,21 @@ for($i=0;$i<scalar(@allData);$i++)
 		$pollution = '';
 	}
 	$country = $item[8];
-	$country =~ tr/[A-Z]+/[a-z]/;
+	if ($country eq 'RU') 
+	{
+		# Special case: Russia
+		if ($lonn>=60) { $geodata = 11; } else { $geodata = 17; }
+	} else {
+		$geodata = $geoscheme{$country};
+	}
+	if ($geodata eq '') 
+	{ 
+		$geodata = $country; 
+		print $item[2]."--".$geo{$item[8].".".$item[10]}."--".$country."\n";
+	}
+	#$country =~ tr/[A-Z]+/[a-z]/;
 	#print OUT join("\t", $item[2], $geo{$item[8].".".$item[10]}, $country, $type, $population, $lat, $lon, $item[16], $pollution, $item[17], "", "")."\n";
-	print OUT join("\t", $item[2], $geo{$item[8].".".$item[10]}, $country, $type, $population, $lat, $lon, $item[16], $pollution, $item[17])."\n";
+	print OUT join("\t", $item[2], $geo{$item[8].".".$item[10]}, $geodata, $type, $population, $lat, $lon, $item[16], $pollution, $item[17])."\n";
 }
 for($i=0;$i<scalar(@appdx);$i++)
 {

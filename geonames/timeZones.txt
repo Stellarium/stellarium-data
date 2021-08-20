@@ -1,4 +1,4 @@
-CountryCode	TimeZoneId	GMT offset 1. Jan 2019	DST offset 1. Jul 2019	rawOffset (independant of DST)
+CountryCode	TimeZoneId	GMT offset 1. Jan 2021	DST offset 1. Jul 2021	rawOffset (independant of DST)
 CI	Africa/Abidjan	0.0	0.0	0.0
 GH	Africa/Accra	0.0	0.0	0.0
 ET	Africa/Addis_Ababa	3.0	3.0	3.0
@@ -12,19 +12,19 @@ MW	Africa/Blantyre	2.0	2.0	2.0
 CG	Africa/Brazzaville	1.0	1.0	1.0
 BI	Africa/Bujumbura	2.0	2.0	2.0
 EG	Africa/Cairo	2.0	2.0	2.0
-MA	Africa/Casablanca	1.0	1.0	1.0
+MA	Africa/Casablanca	1.0	1.0	0.0
 ES	Africa/Ceuta	1.0	2.0	1.0
 GN	Africa/Conakry	0.0	0.0	0.0
 SN	Africa/Dakar	0.0	0.0	0.0
 TZ	Africa/Dar_es_Salaam	3.0	3.0	3.0
 DJ	Africa/Djibouti	3.0	3.0	3.0
 CM	Africa/Douala	1.0	1.0	1.0
-EH	Africa/El_Aaiun	1.0	1.0	1.0
+EH	Africa/El_Aaiun	1.0	1.0	0.0
 SL	Africa/Freetown	0.0	0.0	0.0
 BW	Africa/Gaborone	2.0	2.0	2.0
 ZW	Africa/Harare	2.0	2.0	2.0
 ZA	Africa/Johannesburg	2.0	2.0	2.0
-SS	Africa/Juba	3.0	3.0	3.0
+SS	Africa/Juba	3.0	2.0	2.0
 UG	Africa/Kampala	3.0	3.0	3.0
 SD	Africa/Khartoum	2.0	2.0	2.0
 RW	Africa/Kigali	2.0	2.0	2.0
@@ -47,10 +47,10 @@ NE	Africa/Niamey	1.0	1.0	1.0
 MR	Africa/Nouakchott	0.0	0.0	0.0
 BF	Africa/Ouagadougou	0.0	0.0	0.0
 BJ	Africa/Porto-Novo	1.0	1.0	1.0
-ST	Africa/Sao_Tome	1.0	0.0	0.0
+ST	Africa/Sao_Tome	0.0	0.0	0.0
 LY	Africa/Tripoli	2.0	2.0	2.0
 TN	Africa/Tunis	1.0	1.0	1.0
-NA	Africa/Windhoek	2.0	2.0	2.0
+NA	Africa/Windhoek	2.0	2.0	1.0
 US	America/Adak	-10.0	-9.0	-10.0
 US	America/Anchorage	-9.0	-8.0	-9.0
 AI	America/Anguilla	-4.0	-4.0	-4.0
@@ -81,7 +81,7 @@ BR	America/Boa_Vista	-4.0	-4.0	-4.0
 CO	America/Bogota	-5.0	-5.0	-5.0
 US	America/Boise	-7.0	-6.0	-7.0
 CA	America/Cambridge_Bay	-7.0	-6.0	-7.0
-BR	America/Campo_Grande	-3.0	-4.0	-4.0
+BR	America/Campo_Grande	-4.0	-4.0	-4.0
 MX	America/Cancun	-5.0	-5.0	-5.0
 VE	America/Caracas	-4.0	-4.0	-4.0
 GF	America/Cayenne	-3.0	-3.0	-3.0
@@ -90,10 +90,10 @@ US	America/Chicago	-6.0	-5.0	-6.0
 MX	America/Chihuahua	-7.0	-6.0	-7.0
 CR	America/Costa_Rica	-6.0	-6.0	-6.0
 CA	America/Creston	-7.0	-7.0	-7.0
-BR	America/Cuiaba	-3.0	-4.0	-4.0
+BR	America/Cuiaba	-4.0	-4.0	-4.0
 CW	America/Curacao	-4.0	-4.0	-4.0
 GL	America/Danmarkshavn	0.0	0.0	0.0
-CA	America/Dawson	-8.0	-7.0	-8.0
+CA	America/Dawson	-7.0	-7.0	-7.0
 CA	America/Dawson_Creek	-7.0	-7.0	-7.0
 US	America/Denver	-7.0	-6.0	-7.0
 US	America/Detroit	-5.0	-4.0	-5.0
@@ -143,7 +143,7 @@ MX	America/Matamoros	-6.0	-5.0	-6.0
 MX	America/Mazatlan	-7.0	-6.0	-7.0
 US	America/Menominee	-6.0	-5.0	-6.0
 MX	America/Merida	-6.0	-5.0	-6.0
-US	America/Metlakatla	-8.0	-8.0	-9.0
+US	America/Metlakatla	-9.0	-8.0	-9.0
 MX	America/Mexico_City	-6.0	-5.0	-6.0
 PM	America/Miquelon	-3.0	-2.0	-3.0
 CA	America/Moncton	-4.0	-3.0	-4.0
@@ -177,7 +177,7 @@ BR	America/Rio_Branco	-5.0	-5.0	-5.0
 BR	America/Santarem	-3.0	-3.0	-3.0
 CL	America/Santiago	-3.0	-4.0	-4.0
 DO	America/Santo_Domingo	-4.0	-4.0	-4.0
-BR	America/Sao_Paulo	-2.0	-3.0	-3.0
+BR	America/Sao_Paulo	-3.0	-3.0	-3.0
 GL	America/Scoresbysund	-1.0	0.0	-1.0
 US	America/Sitka	-9.0	-8.0	-9.0
 BL	America/St_Barthelemy	-4.0	-4.0	-4.0
@@ -194,14 +194,14 @@ MX	America/Tijuana	-8.0	-7.0	-8.0
 CA	America/Toronto	-5.0	-4.0	-5.0
 VG	America/Tortola	-4.0	-4.0	-4.0
 CA	America/Vancouver	-8.0	-7.0	-8.0
-CA	America/Whitehorse	-8.0	-7.0	-8.0
+CA	America/Whitehorse	-7.0	-7.0	-7.0
 CA	America/Winnipeg	-6.0	-5.0	-6.0
 US	America/Yakutat	-9.0	-8.0	-9.0
 CA	America/Yellowknife	-7.0	-6.0	-7.0
-AQ	Antarctica/Casey	8.0	8.0	8.0
+AQ	Antarctica/Casey	11.0	11.0	11.0
 AQ	Antarctica/Davis	7.0	7.0	7.0
 AQ	Antarctica/DumontDUrville	10.0	10.0	10.0
-AU	Antarctica/Macquarie	11.0	11.0	11.0
+AU	Antarctica/Macquarie	11.0	10.0	10.0
 AQ	Antarctica/Mawson	5.0	5.0	5.0
 AQ	Antarctica/McMurdo	13.0	12.0	12.0
 AQ	Antarctica/Palmer	-3.0	-3.0	-3.0
@@ -328,7 +328,7 @@ HU	Europe/Budapest	1.0	2.0	1.0
 DE	Europe/Busingen	1.0	2.0	1.0
 MD	Europe/Chisinau	2.0	3.0	2.0
 DK	Europe/Copenhagen	1.0	2.0	1.0
-IE	Europe/Dublin	0.0	1.0	1.0
+IE	Europe/Dublin	0.0	1.0	0.0
 GI	Europe/Gibraltar	1.0	2.0	1.0
 GG	Europe/Guernsey	0.0	1.0	0.0
 FI	Europe/Helsinki	2.0	3.0	2.0
@@ -370,7 +370,7 @@ LI	Europe/Vaduz	1.0	2.0	1.0
 VA	Europe/Vatican	1.0	2.0	1.0
 AT	Europe/Vienna	1.0	2.0	1.0
 LT	Europe/Vilnius	2.0	3.0	2.0
-RU	Europe/Volgograd	4.0	4.0	4.0
+RU	Europe/Volgograd	3.0	3.0	3.0
 PL	Europe/Warsaw	1.0	2.0	1.0
 HR	Europe/Zagreb	1.0	2.0	1.0
 UA	Europe/Zaporozhye	2.0	3.0	2.0
@@ -410,7 +410,7 @@ PF	Pacific/Marquesas	-9.5	-9.5	-9.5
 UM	Pacific/Midway	-11.0	-11.0	-11.0
 NR	Pacific/Nauru	12.0	12.0	12.0
 NU	Pacific/Niue	-11.0	-11.0	-11.0
-NF	Pacific/Norfolk	11.0	11.0	11.0
+NF	Pacific/Norfolk	12.0	11.0	11.0
 NC	Pacific/Noumea	11.0	11.0	11.0
 AS	Pacific/Pago_Pago	-11.0	-11.0	-11.0
 PW	Pacific/Palau	9.0	9.0	9.0
