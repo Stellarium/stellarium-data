@@ -20,7 +20,7 @@
 18	Northern Europe	AX,GG,JE,CQ,DK,EE,FO,FI,IS,IE,IM,LV,LT,NO,SJ,SE,GB
 19	Southern Europe	AL,AD,BA,HR,GI,GR,VA,IT,MT,ME,MK,PT,SM,RS,SI,ES,XK
 20	Western Europe	AT,BE,FR,DE,LI,LU,MC,NL,CH
-21	Australia and New Zealand	AU,CX,CC,HM,NZ,NF
+21	Australasia	AU,CX,CC,HM,NZ,NF
 22	Melanesia	FJ,NC,PG,SB,VU
 23	Micronesia	GU,KI,MH,FM,NR,MP,PW,UM
 24	Polynesia	AS,CK,PF,NU,PN,WS,TK,TO,TV,WF
