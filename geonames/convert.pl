@@ -111,15 +111,18 @@ for($i=0;$i<scalar(@allData);$i++)
 	$country = $item[8];
 	if ($country eq 'RU') 
 	{
-		# Special case: Russia
+		# Special case: Russia (Northern Asia / Eastern Europe)
 		if ($lonn>=60) { $geodata = 11; } else { $geodata = 17; }
+	} elsif ($country eq 'US') {
+		# Special case: United States ( Polynesia / Northern America )
+		if ($geo{$item[8].".".$item[10]} eq 'Hawaii') { $geodata = 24; } else { $geodata = '09'; }
 	} else {
 		$geodata = $geoscheme{$country};
 	}
 	if ($geodata eq '') 
 	{ 
 		$geodata = $country; 
-		print $item[2]."--".$geo{$item[8].".".$item[10]}."--".$country."\n";
+		print $item[2]." (".$geo{$item[8].".".$item[10]}."): ".$country."\n";
 	}
 	#$country =~ tr/[A-Z]+/[a-z]/;
 	#print OUT join("\t", $item[2], $geo{$item[8].".".$item[10]}, $country, $type, $population, $lat, $lon, $item[16], $pollution, $item[17], "", "")."\n";

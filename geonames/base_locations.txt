@@ -23853,19 +23853,19 @@ Laramie	Wyoming	09	N	32.158	41.31137N	105.5911W	2190	5	America/Denver
 Rock Springs	Wyoming	09	N	23.962	41.58746N	109.2029W	1954	5	America/Denver
 Sheridan	Wyoming	09	N	17.873	44.79719N	106.95618W	1147	5	America/Denver
 American Fork	Utah	09	N	28.326	40.3769N	111.79576W	1410	5	America/Denver
-Kahului	Hawaii	09	N	26.337	20.88953N	156.47432W	3	5	Pacific/Honolulu
-Kailua	Hawaii	09	N	38.635	21.40241N	157.74054W	8	5	Pacific/Honolulu
-Kaneohe	Hawaii	09	N	34.597	21.39994N	157.79895W	46	5	Pacific/Honolulu
-Kihei	Hawaii	09	N	20.881	20.76462N	156.44578W	21	5	Pacific/Honolulu
-Makakilo City	Hawaii	09	N	15.383	21.34694N	158.08583W	134	5	Pacific/Honolulu
-Mililani Town	Hawaii	09	N	27.629	21.4504N	158.01503W	206	5	Pacific/Honolulu
-Pearl City	Hawaii	09	N	47.698	21.39734N	157.97516W	31	5	Pacific/Honolulu
-Wahiawa	Hawaii	09	N	17.821	21.50279N	158.02464W	290	5	Pacific/Honolulu
-Wailuku	Hawaii	09	N	15.313	20.89133N	156.50604W	77	5	Pacific/Honolulu
-Waipahu	Hawaii	09	N	38.216	21.38667N	158.00917W	24	5	Pacific/Honolulu
-'Ewa Gentry	Hawaii	09	N	22.69	21.33999N	158.03039W	14	5	Pacific/Honolulu
-Hilo	Hawaii	09	N	43.263	19.72991N	155.09073W	30	5	Pacific/Honolulu
-Honolulu	Hawaii	09	R	371.657	21.30694N	157.85833W	18	7	Pacific/Honolulu
+Kahului	Hawaii	24	N	26.337	20.88953N	156.47432W	3	5	Pacific/Honolulu
+Kailua	Hawaii	24	N	38.635	21.40241N	157.74054W	8	5	Pacific/Honolulu
+Kaneohe	Hawaii	24	N	34.597	21.39994N	157.79895W	46	5	Pacific/Honolulu
+Kihei	Hawaii	24	N	20.881	20.76462N	156.44578W	21	5	Pacific/Honolulu
+Makakilo City	Hawaii	24	N	15.383	21.34694N	158.08583W	134	5	Pacific/Honolulu
+Mililani Town	Hawaii	24	N	27.629	21.4504N	158.01503W	206	5	Pacific/Honolulu
+Pearl City	Hawaii	24	N	47.698	21.39734N	157.97516W	31	5	Pacific/Honolulu
+Wahiawa	Hawaii	24	N	17.821	21.50279N	158.02464W	290	5	Pacific/Honolulu
+Wailuku	Hawaii	24	N	15.313	20.89133N	156.50604W	77	5	Pacific/Honolulu
+Waipahu	Hawaii	24	N	38.216	21.38667N	158.00917W	24	5	Pacific/Honolulu
+'Ewa Gentry	Hawaii	24	N	22.69	21.33999N	158.03039W	14	5	Pacific/Honolulu
+Hilo	Hawaii	24	N	43.263	19.72991N	155.09073W	30	5	Pacific/Honolulu
+Honolulu	Hawaii	24	R	371.657	21.30694N	157.85833W	18	7	Pacific/Honolulu
 Eagle River	Alaska	09	N	24.793	61.32139N	149.56778W	106	5	America/Anchorage
 Fairbanks	Alaska	09	N	32.325	64.83778N	147.71639W	132	5	America/Anchorage
 Anchorage	Alaska	09	N	298.695	61.21806N	149.90028W	16	7	America/Anchorage
@@ -23879,7 +23879,7 @@ Alafaya	Florida	09	N	78.113	28.5641N	81.2114W	31	6	America/New_York
 Briarwood	New York	09	N	53.877	40.70935N	73.81529W	45	6	America/New_York
 Stevenson Ranch	California	09	N	17.557	34.39048N	118.57372W	428	5	America/Los_Angeles
 Fort Bragg	North Carolina	09	N	29.183	35.139N	79.00603W	104	5	America/New_York
-Kapolei	Hawaii	09	N	15.186	21.33555N	158.0582W	22	5	Pacific/Honolulu
+Kapolei	Hawaii	24	N	15.186	21.33555N	158.0582W	22	5	Pacific/Honolulu
 City of Milford (balance)	Connecticut	09	N	51.271	41.22374N	73.06164W	19	6	America/New_York
 City of Sammamish	Washington	09	N	45.78	47.60444N	122.03768W	144	5	America/Los_Angeles
 Silver Firs	Washington	09	N	20.891	47.86602N	122.1551W	158	5	America/Los_Angeles
@@ -23927,12 +23927,12 @@ Union Hill-Novelty Hill	Washington	09	N	18.805	47.67887N	122.02833W	179	5	Americ
 Vincent	California	09	N	15.922	34.09836N	117.92383W	141	5	America/Los_Angeles
 West Whittier-Los Nietos	California	09	N	25.54	33.976N	118.06909W	51	5	America/Los_Angeles
 Summerlin South	Nevada	09	N	24.085	36.11708N	115.33001W	872	5	America/Los_Angeles
-Makakilo	Hawaii	09	N	18.248	21.35237N	158.08655W	194	5	Pacific/Honolulu
-Schofield Barracks	Hawaii	09	N	16.37	21.49837N	158.06515W	283	5	Pacific/Honolulu
+Makakilo	Hawaii	24	N	18.248	21.35237N	158.08655W	194	5	Pacific/Honolulu
+Schofield Barracks	Hawaii	24	N	16.37	21.49837N	158.06515W	283	5	Pacific/Honolulu
 San Tan Valley	Arizona	09	N	81.321	33.1911N	111.528W	461	6	America/Phoenix
 Midway	Florida	09	N	16.115	30.40648N	87.00553W	11	5	America/Chicago
 Oakleaf Plantation	Florida	09	N	20.315	30.17083N	81.83549W	17	5	America/New_York
-East Honolulu	Hawaii	09	N	49.914	21.28906N	157.71734W	7	5	Pacific/Honolulu
+East Honolulu	Hawaii	24	N	49.914	21.28906N	157.71734W	7	5	Pacific/Honolulu
 Old Jamestown	Missouri	09	N	19.184	38.83494N	90.28511W	173	5	America/Chicago
 Bothell West	Washington	09	N	16.607	47.80527N	122.24064W	142	5	America/Los_Angeles
 Eastmont	Washington	09	N	20.101	47.8974N	122.18154W	118	5	America/Los_Angeles
@@ -24595,7 +24595,7 @@ Alipurduar	West Bengal	15	N	127.342	26.489N	89.527E	93	4	Asia/Kolkata
 Richmond-Windsor	New South Wales	21	N	23.6	33.60S	150.74E	24	5	Australia/Sydney
 Haifa		16	R	268	32.816667N	34.983333E	0	4	Asia/Jerusalem
 Eilat		16	N	50	29.55N	34.95E	0	3	Asia/Jerusalem
-University of Tokyo Atacama Observatory	Cerro Chajnantor	cl	O	0	22.986667S	67.742222W	5640	1	America/Santiago
+University of Tokyo Atacama Observatory	Cerro Chajnantor	08	O	0	22.986667S	67.742222W	5640	1	America/Santiago
 Atacama Cosmology Telescope	Cerro Toco	08	O	0	22.958611S	67.787778W	5190	1	America/Santiago
 Llano de Chajnantor Observatory	Llano de Chajnantor	08	O	0	23.022778S	67.754722W	5104	1	America/Santiago
 Llano de Chajnantor Observatory	Pampa La Bola	08	O	0	22.971389S	67.702778W	4800	1	America/Santiago
@@ -24879,7 +24879,7 @@ Mullard Radio Astronomy Observatory	Cambridge	18	O	0	52.1674N	0.03264E	0	Europe/
 Nachi-Katsuura Observatory		13	O	0	33.61N	135.924722E	0	1	Asia/Tokyo
 National Astronomical Observatory		07	O	0	31.0439N	115.4637W	2800	1	America/Tijuana
 National Observatory	Rio de Janeiro	08	O	0	22.8953S	43.2246W	10	5	America/Sao_Paulo
-National Observatory of Athens		gr	O	0	37.97333N	23.72E	0	1	Europe/Athens
+National Observatory of Athens		19	O	0	37.97333N	23.72E	0	1	Europe/Athens
 TUBITAK Ulusal Gozlemevi		16	O	0	36.824167N	30.335556E	2450	1	Europe/Istanbul
 National Solar Observatory	New Mexico	09	O	0	32.788N	105.82W	0	1	America/Denver
 Naylor Observatory	Pennsylvania	09	O	0	40.1469N	76.8989W	170	1	America/New_York
