@@ -24603,17 +24603,17 @@ Large Millimeter Telescope	Sierra Negra	07	O	0	18.985N	97.314722W	4580	1	America
 Indian Astronomical Observatory	Mount Saraswati	15	O	0	32.779444N	78.964167E	4500	1	Asia/Kolkata
 Meyer-Womble Observatory	Colorado	09	O	0	39.586667N	105.64W	4312	1	America/Denver
 Yangbajing International Cosmic Ray Observatory	Yangbajain	13	O	0	30.083333N	90.55E	4300	1	Asia/Urumqi
-Mauna Kea Observatory	Hawaii	09	O	0	19.824444N	155.473333W	4190	1	Pacific/Honolulu
+Mauna Kea Observatory	Hawaii	24	O	0	19.824444N	155.473333W	4190	1	Pacific/Honolulu
 Barcroft Observatory	California	09	O	0	37.588611N	118.241944W	3890	1	America/Los_Angeles
-Very Long Baseline Array	Hawaii	09	O	0	19.801381N	155.455503W	3730	1	Pacific/Honolulu
+Very Long Baseline Array	Hawaii	24	O	0	19.801381N	155.455503W	3730	1	Pacific/Honolulu
 Llano del Hato National Astronomical Observatory	Llano del Hato	08	O	0	8.786389N	70.871944W	3600	1	America/Caracas
 Sphinx Observatory	Jungfraujoch	20	O	0	46.5475N	7.985E	3571	1	Europe/Zurich
-Mauna Loa Observatory	Hawaii	09	O	0	19.536111N	155.576111W	3394	1	Pacific/Honolulu
+Mauna Loa Observatory	Hawaii	24	O	0	19.536111N	155.576111W	3394	1	Pacific/Honolulu
 Magdalena Ridge Observatory	New Mexico	09	O	0	33.976667N	107.184722W	3230	1	America/Denver
 Mount Graham International Observatory	Arizona	09	O	0	32.701389N	109.891944W	3191	1	America/Phoenix
 Gornergrat Observatory	Gornergrat	20	O	0	45.984444N	7.785833E	3135	1	Europe/Zurich
 European Extremely Large Telescope	Cerro Armazones	20	O	0	24.588889S	70.192222W	3060	1	America/Santiago
-Haleakala Observatory	Hawaii	09	O	0	20.708333N	156.2575W	3036	1	Pacific/Honolulu
+Haleakala Observatory	Hawaii	24	O	0	20.708333N	156.2575W	3036	1	Pacific/Honolulu
 Pic du Midi Observatory	Pic du Midi de Bigorre	20	O	0	42.936389N	0.142778E	2877	1	Europe/Paris
 Amundsen-Scott South Pole Station	South Pole	10	O	0	90S	139.266667W	2835	1	UTC
 Cerro Armazones Observatory	Cerro Armazones	20	O	0	24.598333S	70.201111W	2817	1	America/Santiago
@@ -24640,7 +24640,7 @@ Aldershot Observatory	Hampshire	18	O	0	51.25883N	0.76319W	0	1	Europe/London
 Algonquin Radio Observatory	Ontario	09	O	0	45.955503N	78.073042W	0	1	America/Toronto
 Allegheny Observatory	Pennsylvania	09	O	0	40.482525N	80.020829W	0	1	America/New_York
 Ametlla de Mar Observatory	Catalonia	19	O	0	40.928933N	0.79125E	0	1	Europe/Madrid
-Array for Microwave Background Anisotropy	Hawaii	09	O	0	19.536194N	155.575278W	3396	1	Pacific/Honolulu
+Array for Microwave Background Anisotropy	Hawaii	24	O	0	19.536194N	155.575278W	3396	1	Pacific/Honolulu
 Anderson Mesa Station	Arizona	09	O	0	35.096944N	111.535833W	2163	1	America/Phoenix
 Angell Hall Observatory	Michigan	09	O	0	42.27675N	83.739917W	0	1	America/Detroit
 Apollo Observatory	Ohio	09	O	0	39.788823N	84.201794W	0	1	America/New_York
@@ -24687,7 +24687,7 @@ Byurakan Observatory		16	O	0	40.330833N	44.268333E	1500	1	Asia/Yerevan
 Cagigal Observatory		08	O	0	10.503611N	66.928889W	1037	1	America/Caracas
 Cagliari Observatory		19	O	0	39.136528N	8.972778E	0	1	Europe/Rome
 Calar Alto Observatory		19	O	0	37.223611N	2.546111W	2168	1	Europe/Madrid
-Caltech Submillimeter Observatory	Hawaii	09	O	0	19.8225N	155.47585W	0	1	Pacific/Honolulu
+Caltech Submillimeter Observatory	Hawaii	24	O	0	19.8225N	155.47585W	0	1	Pacific/Honolulu
 Campbelltown Rotary Observatory	New South Wales	21	O	0	34.07S	150.8E	100	1	Australia/Sydney
 Canopus Hill Observatory	Tasmania	21	O	0	42.8475S	147.432778E	260	1	Australia/Hobart
 Capilla Peak Observatory	New Mexico	09	O	0	34.706667N	106.408611W	2835	1	America/Denver
@@ -24796,7 +24796,7 @@ Judson B. Coit Observatory	Massachusetts	09	O	0	42.35025N	71.105372W	32	5	Americ
 Kamioka Observatory	Gifu	13	O	0	36.426667N	137.311667E	0	3	Asia/Tokyo
 Kanzelhoehe Solar Observatory	Villach	20	O	0	46.678333N	13.906667E	1526	1	Europe/Vienna
 Karl Schwarzschild Observatory		20	O	0	50.980111N	11.711167E	341	1	Europe/Berlin
-Keck Observatory	Hawaii	09	O	0	19.82636N	155.47501W	4154	1	Pacific/Honolulu
+Keck Observatory	Hawaii	24	O	0	19.82636N	155.47501W	4154	1	Pacific/Honolulu
 Keeble Observatory	Virginia	09	O	0	37.762389N	77.475389W	0	1	America/New_York
 Kennon Observatory	Mississippi	09	O	0	34.36425N	89.536444W	0	1	America/Chicago
 Kevola Observatory		18	O	0	60.42N	22.765E	0	1	Europe/Helsinki
