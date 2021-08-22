@@ -17,14 +17,26 @@ unzip -o '*.zip'
 echo "[Step 3] Create base_locations.txt file for Stellarium...\n"
 
 cp -f base_locations.txt base_locations.previous
+cp -f iso3166.tab iso3166.previous
 
 ./convert.pl
 
 oldFileSize=$(stat -c%s "./base_locations.previous")
 newFileSize=$(stat -c%s "./base_locations.txt")
+oldISOFileSize=$(stat -c%s "./iso3166.previous")
+newISOFileSize=$(stat -c%s "./iso3166.tab")
+
+echo "[Step 4] Removing temporary files...\n"
+
+rm -f ./base_locations.previous ./iso3166.previous ./cities15000.zip
+
+echo "Done!\n";
+
 if [ $oldFileSize != $newFileSize ]
 then
-    echo "base_locations.txt is changed!\n"
+    echo "...The file base_locations.txt changed!\n"
 fi
-
-rm -f ./base_locations.previous ./cities15000.zip
+if [ $oldISOFileSize != $newISOFileSize ]
+then
+    echo "...The file iso3166.tab changed!\n"
+fi

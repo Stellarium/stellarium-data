@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
 #
-# Tool for create a base_locations.txt file for Stellarium
+# Tool for create a base_locations.txt and iso3166.tab files for Stellarium
 #
-# Copyright (C) 2013 Alexander Wolf
+# Copyright (C) 2013, 2021 Alexander Wolf
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the "Software"),
@@ -30,6 +30,8 @@ $GEOS	= "./regions-geoscheme.tab";
 $HDR	= "./base_locations.header";
 $ADX	= "./base_locations.appendix";
 $OUT	= "./base_locations.txt";
+$ISOS	= "./countryInfo.txt";
+$ISOO	= "./iso3166.tab";
 
 open(ALL, "<$SRC");
 @allData = <ALL>;
@@ -51,6 +53,10 @@ open(GS, "<$GEOS");
 @geosch = <GS>;
 close GS;
 
+open(ISOSC, "<$ISOS");
+@isocode = <ISOSC>;
+close ISOSC;
+
 %geo = ();
 for ($i=0;$i<scalar(@code);$i++)
 {
@@ -71,6 +77,23 @@ for ($i=0;$i<scalar(@geosch);$i++)
 		$geoscheme{$country} = $gsm[0];
 	}
 }
+
+open(ISOOC, ">$ISOO");
+print ISOOC "# ISO 3166 alpha-2 country codes\n";
+print ISOOC "# This file contains a table of two-letter country codes.  Columns are\n";
+print ISOOC "# separated by a single tab.  Lines beginning with '#' are comments.\n";
+print ISOOC "# All text uses UTF-8 encoding.  The columns of the table are as follows:\n#\n";
+print ISOOC "# 1.  ISO 3166-1 alpha-2 country code.\n";
+print ISOOC "# 2.  The usual English name for the coded region,\n";
+print ISOOC "#     chosen so that alphabetic sorting of subsets produces helpful lists.\n";
+print ISOOC "#     This is not the same as the English name in the ISO 3166 tables.\n#\n";
+for ($i=0;$i<scalar(@isocode);$i++)
+{
+	if (substr($isocode[$i], 0, 1) eq '#') { next; }
+	@iso = split(/\t/, $isocode[$i]);
+	print ISOOC $iso[0]."\t".$iso[4]."\n";
+}
+close ISOOC;
 
 open(OUT, ">$OUT");
 for($i=0;$i<scalar(@header);$i++)
