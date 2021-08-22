@@ -63,7 +63,7 @@ for ($i=0;$i<scalar(@geosch);$i++)
 {
 	if (substr($geosch[$i], 0, 1) eq '#') { next; }
 	@gsm = split(/\t/, $geosch[$i]);
-	@countries = split(/,/, $gsm[2]);
+	@countries = split(/,/, $gsm[3]);
 	for($j=0;$j<scalar(@countries);$j++)
 	{
 		$country = $countries[$j];
