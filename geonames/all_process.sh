@@ -27,4 +27,4 @@ then
     echo "base_locations.txt is changed!\n"
 fi
 
-rm -f ./base_locations.previous
+rm -f ./base_locations.previous ./cities1500.zip
