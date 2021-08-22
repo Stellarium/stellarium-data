@@ -26,7 +26,7 @@
 
 $SRC	= "./cities15000.txt";
 $CODE	= "./admin1CodesASCII.txt";
-$GEOS	= "./regions-geoscheme.txt";
+$GEOS	= "./regions-geoscheme.tab";
 $HDR	= "./base_locations.header";
 $ADX	= "./base_locations.appendix";
 $OUT	= "./base_locations.txt";
