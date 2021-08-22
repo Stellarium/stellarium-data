@@ -79,7 +79,9 @@ for ($i=0;$i<scalar(@geosch);$i++)
 }
 
 open(ISOOC, ">$ISOO");
-print ISOOC "# ISO 3166 alpha-2 country codes\n";
+print ISOOC "# ISO 3166 alpha-2 country codes\n#\n";
+print ISOOC "# This file is licensed under a Creative Commons Attribution 4.0 License,\n";
+print ISOOC "# see https://creativecommons.org/licenses/by/4.0/\n#\n";
 print ISOOC "# This file contains a table of two-letter country codes.  Columns are\n";
 print ISOOC "# separated by a single tab.  Lines beginning with '#' are comments.\n";
 print ISOOC "# All text uses UTF-8 encoding.  The columns of the table are as follows:\n#\n";
@@ -87,6 +89,7 @@ print ISOOC "# 1.  ISO 3166-1 alpha-2 country code.\n";
 print ISOOC "# 2.  The usual English name for the coded region,\n";
 print ISOOC "#     chosen so that alphabetic sorting of subsets produces helpful lists.\n";
 print ISOOC "#     This is not the same as the English name in the ISO 3166 tables.\n#\n";
+print ISOOC "# See: http://download.geonames.org/export/dump/countryInfo.txt\n#\n";
 for ($i=0;$i<scalar(@isocode);$i++)
 {
 	if (substr($isocode[$i], 0, 1) eq '#') { next; }

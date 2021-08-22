@@ -30,13 +30,13 @@ echo "[Step 4] Removing temporary files...\n"
 
 rm -f ./base_locations.previous ./iso3166.previous ./cities15000.zip
 
-echo "Done!\n";
+echo "[Step 5] Done!";
 
 if [ $oldFileSize != $newFileSize ]
 then
-    echo "...The file base_locations.txt changed!\n"
+    echo "...The file base_locations.txt changed!"
 fi
 if [ $oldISOFileSize != $newISOFileSize ]
 then
-    echo "...The file iso3166.tab changed!\n"
+    echo "...The file iso3166.tab changed!"
 fi
