@@ -25071,7 +25071,7 @@ Apollo 11	USA	26	L	0	0.67N	23.47E	523	0		Moon	moon
 Apollo 12	USA	25	L	0	3.01S	23.42W	0	0		Moon	moon
 Apollo 14	USA	31	L	0	3.65S	17.47W	0	0		Moon	moon
 Apollo 15	USA	29	L	0	26.132N	3.634E	669	0		Moon	moon
-Apollo 16	USA	32	L	0	8.97S	15.50E	1135	0		Moon	moon
+Apollo 16	USA	26	L	0	8.97S	15.50E	1135	0		Moon	moon
 Apollo 17	USA	33	L	0	20.19N	30.77E	241	0		Moon	moon
 Luna 2	USSR	29	I	0	29.10N	0.00E	192	0		Moon	moon
 Luna 5	USSR	30	A	0	31.00S	8.00E	0	0		Moon	moon

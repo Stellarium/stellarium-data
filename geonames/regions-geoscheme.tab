@@ -42,7 +42,6 @@
 29	Moon	Mare Imbrium
 30	Moon	Mare Nubium
 31	Moon	Mare Cognitum
-32	Moon	Cayley Plains
 33	Moon	Mare Serenitatis
 34	Moon	Alphonsus
 35	Moon	Mare Insularum
@@ -77,4 +76,4 @@
 62	Venus	Navka Planitia
 63	Venus	Aphrodite Terra
 # for locations on Titan
-64	Titan	Xanadu Region
+64	Titan	Xanadu
