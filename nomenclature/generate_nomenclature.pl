@@ -58,11 +58,12 @@ for(my $j=0;$j<scalar(@header);$j++) {
 }
 print FAB "\n";
 
-for(my $i=0; $i<scalar(@dbfiles); $i++)
+my @dbfiless = sort @dbfiles;
+for(my $i=0; $i<scalar(@dbfiless); $i++)
 {
-    my $fileName = $dbfiles[$i];
+    my $fileName = $dbfiless[$i];
     my $planetName  = $fileName;
-    $planetName =~ s/_nomenclature.dbf//gi;
+    $planetName =~ s/_nomenclature([\w]*).dbf//gi;
     my $pName   = substr($planetName, 0, 1);
     my $pNameLC = substr($planetName, 1);
     $pNameLC = lc $pNameLC;
@@ -85,7 +86,7 @@ for(my $i=0; $i<scalar(@dbfiles); $i++)
 	my $origin = $arr->[8];
 	$origin =~ s/\r\n/ /gi;
 	# if ($featureName !~ m/\'/ && $featureName !~ m/\./) { $featureName = $arr->[1]; }
-	print FAB "# TRANSLATORS: ".$origin."\n";
+	print FAB "# TRANSLATORS: (".$pName."); ".$origin."\n";
 	print FAB $pName."\t".$id."\t_(\"".$featureName."\",\"".$type."\")\t".$arr->[5]."\t".$latitude."\t".$longitude."\t".$arr->[2]."\n";
     }
 }
