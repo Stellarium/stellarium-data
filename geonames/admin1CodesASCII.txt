@@ -1833,8 +1833,8 @@ LV.B5	Ropažu	Ropazu	7628359
 LV.C7	Sigulda	Sigulda	7628362
 LV.C5	Saulkrastu	Saulkrastu	7628366
 LV.D1	Smiltene	Smiltene	7628380
-LV.DN	LV.DN	South Kurzeme Municipality	12276857
-LV.AN	LV.AN	Augsdaugava Municipality	12276858
+LV.DN	South Kurzeme Municipality	South Kurzeme Municipality	12276857
+LV.AN	Augšdaugava Municipality	Augsdaugava Municipality	12276858
 LY.70	Darnah	Darnah	87204
 LY.69	Banghāzī	Banghazi	88318
 LY.66	Al Marj	Al Marj	88904

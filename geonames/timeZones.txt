@@ -50,7 +50,7 @@ BJ	Africa/Porto-Novo	1.0	1.0	1.0
 ST	Africa/Sao_Tome	0.0	0.0	0.0
 LY	Africa/Tripoli	2.0	2.0	2.0
 TN	Africa/Tunis	1.0	1.0	1.0
-NA	Africa/Windhoek	2.0	2.0	1.0
+NA	Africa/Windhoek	2.0	2.0	2.0
 US	America/Adak	-10.0	-9.0	-10.0
 US	America/Anchorage	-9.0	-8.0	-9.0
 AI	America/Anguilla	-4.0	-4.0	-4.0
