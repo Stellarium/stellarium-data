@@ -1,14 +1,26 @@
-# United Nations geoscheme (UN M49)
+# United Nations geoscheme (UN M49) with extensions
 #
-# This file contains a table of UN geoscheme codes. Columns are
-# separated by a single tab. Lines beginning with '#' are comments.
-# All text uses UTF-8 encoding. The columns of the table are as follows:
+# This file contains a table of UN geoscheme codes for Earth. The codes 
+# for other Solar system bodies are extension. Columns are separated by 
+# a single tab. Lines beginning with '#' are comments. All text uses 
+# UTF-8 encoding. The columns of the table are as follows:
 #
 # 1. Digital code for geographic region (ourself code)
 # 2. The name of celestial object of the geographic region
 # 3. The usual English name for the coded geographic region
 # 4. The list of ISO 3166-1 alpha-2 codes of countries from the coded 
 #    geographic region (may be empty)
+#
+# Notes:
+# 1. All codes <100 (0xx) are uses for Earth's regions
+# 2. All 1xx codes are using for regions of Mercury
+# 3. All 2xx codes are using for regions of Venus
+# 4. All 3xx codes are using for regions of the Moon
+# 5. All 4xx codes are using for regions of Mars and their moons
+# 6. All 5xx codes are using for regions of Jupiter's moons
+# 7. All 6xx codes are using for regions of Saturn's moons
+# 8. All 7xx codes are using for regions of Uranus' moons
+# 9. All 8xx codes are using for regions of Neptune' moons
 #
 01	Earth	Northern Africa	DZ,EG,LY,MA,SD,TN,EH
 02	Earth	Eastern Africa	BI,KM,DJ,ER,ET,TF,KE,MG,MW,MU,YT,MZ,RE,RW,SC,SO,SS,TZ,UG,ZM,ZW
