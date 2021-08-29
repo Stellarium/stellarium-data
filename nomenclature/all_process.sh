@@ -33,6 +33,11 @@ gzip -nc nomenclature.fab > nomenclature.dat
 
 oldFileSize=$(stat -c%s "./nomenclature.previous")
 newFileSize=$(stat -c%s "./nomenclature.fab")
+
+echo "[Step 3] Clean up...\n"
+
+rm -rf $sdir $dbf ./nomenclature.previous
+
 if [ $oldFileSize != $newFileSize ]
 then
     echo "Nomenclature is changed!\n"
