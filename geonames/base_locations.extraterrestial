@@ -1,0 +1,88 @@
+Apollo 11	USA	320	L	0	0.67N	23.47E	523	0		Moon	moon
+Apollo 12	USA	300	L	0	3.01S	23.42W	0	0		Moon	moon
+Apollo 13 S-IVB	USA	300	A	0	2.75S	27.86W	0	0		Moon	moon
+Apollo 14	USA	335	L	0	3.65S	17.47W	0	0		Moon	moon
+Apollo 15	USA	330	L	0	26.132N	3.634E	669	0		Moon	moon
+Apollo 16	USA	336	L	0	8.97S	15.50E	1135	0		Moon	moon
+Apollo 17	USA	309	L	0	20.19N	30.77E	241	0		Moon	moon
+Luna 2	USSR	309	I	0	29.10N	0.00E	192	0		Moon	moon
+Luna 5	USSR	315	A	0	31.00S	8.00E	0	0		Moon	moon
+Luna 7	USSR	300	A	0	9.00N	40.00W	0	0		Moon	moon
+Luna 8	USSR	300	A	0	9.08N	63.18W	68	0		Moon	moon
+Luna 9	USSR	300	L	0	7.08N	64.33W	310	0		Moon	moon
+Luna 13	USSR	300	L	0	18.87N	62.05W	0	0		Moon	moon
+Luna 15	USSR	304	A	0	17.00N	60.00E	0	0		Moon	moon
+Luna 16	USSR	305	L	0	0.68S	56.30E	0	0		Moon	moon
+Luna 17	USSR	309	L	0	38.28N	35.00W	0	0		Moon	moon
+Luna 18	USSR	305	A	0	3.57N	56.50E	0	0		Moon	moon
+Luna 20	USSR	305	L	0	3.57N	56.50E	0	0		Moon	moon
+Luna 21	USSR	317	L	0	25.51N	30.38E	134	0		Moon	moon
+Luna 23	USSR	304	L	0	12.68N	62.30E	0	0		Moon	moon
+Luna 24	USSR	304	L	0	12.25N	62.20E	0	0		Moon	moon
+Lunokhod 1	USSR	309	L	0	38.2378N	35.0017W	0	0		Moon	moon
+Lunokhod 2	USSR	317	L	0	25.51N	30.27E	134	0		Moon	moon
+Ranger 4	USA	349	I	0	15.50S	130.70W	0	0		Moon	moon
+Ranger 6	USA	320	I	0	9.33N	21.52E	0	0		Moon	moon
+Ranger 7	USA	303	I	0	10.35S	21.58W	0	0		Moon	moon
+Ranger 8	USA	320	I	0	2.67N	24.65E	447	0		Moon	moon
+Ranger 9	USA	337	I	0	12.83S	2.37W	0	0		Moon	moon
+Surveyor 1	USA	300	L	0	2.45S	43.21W	4	0		Moon	moon
+Surveyor 2	USA	336	A	0	4S	11W	0	0		Moon	moon
+Surveyor 3	USA	300	L	0	2.94S	23.34W	0	0		Moon	moon
+Surveyor 4	USA	345	A	0	0.43N	1.33W	0	0		Moon	moon
+Surveyor 5	USA	320	L	0	1.41N	23.18E	430	0		Moon	moon
+Surveyor 6	USA	345	L	0	0.46N	1.37W	0	0		Moon	moon
+Surveyor 7	USA	338	L	0	41.01S	11.41W	0	0		Moon	moon
+Lunar Orbiter 1	USA	349	I	0	7.00N	161.00E	0	0		Moon	moon
+Lunar Orbiter 2	USA	343	I	0	3.00N	119.10E	0	0		Moon	moon
+Lunar Orbiter 3	USA	344	I	0	14.32N	92.70W	0	0		Moon	moon
+Lunar Orbiter 5	USA	344	I	0	2.79S	83.00W	0	0		Moon	moon
+Lunar Prospector	USA	340	I	0	87.7S	42.1E	0	0		Moon	moon
+Chang'e 1	China	305	L	0	1.5S	52.36E	0	0		Moon	moon
+Chang'e 3	China	309	L	0	44.12N	19.51W	0	0		Moon	moon
+Yutu	China	309	L	0	44.12N	19.51W	0	0		Moon	moon
+Chang'e 4	China	347	L	0	45.5S	177.6E	0	0		Moon	moon
+Yutu-2	China	347	L	0	44.8S	175.9E	0	0		Moon	moon
+Chang'e 5	China	300	L	0	43.05680N	51.91648W	0	0		Moon	moon
+Kaguya	Japan	340	A	0	65.5S	80.4E	0	0		Moon	moon
+Hiten	Japan	340	A	0	34.3S	55.6E	0	0		Moon	moon
+Chandrayaan-1	India	340	A	0	89.76S	39.4E	0	0		Moon	moon
+Chandrayaan-2	India	340	A	0	70.881S	22.784E	0	0		Moon	moon
+Beresheet	Israel	317	A	0	32.5956N	19.3496E	0	0		Moon	moon
+SMART-1	Europe	308	I	0	34.262S	46.193W	0	0		Moon	moon
+LCROSS Shepherding Spacecraft	USA	340	A	0	84.729S	49.36W	0	0		Moon	moon
+LCROSS Centaur	USA	340	A	0	84.675S	48.725W	0	0		Moon	moon
+GRAIL	USA	323	A	0	75.62N	26.63W	0	0		Moon	moon
+LADEE	USA	344	A	0	10.8N	91.6W	0	0		Moon	moon
+Longjiang-2	China	349	A	0	16.6956N	159.517E	0	0		Moon	moon
+Mars 2	USSR	407	A	0	45.00S	58.00W	0	0		Mars	mars
+Mars 3	USSR	418	L	0	45.00S	158.00W	0	0		Mars	mars
+Mars 6	USSR	412	A	0	23.90S	19.42W	0	0		Mars	mars
+Viking 1	USA	404	L	0	22.27N	47.95W	0	0		Mars	mars
+Viking 2	USA	409	L	0	47.967N	225.737W	39	0		Mars	mars
+Mars Pathfinder	USA	404	L	0	19.13N	33.22W	0	0		Mars	mars
+Mars Polar Lander	USA	416	L	0	76.00S	164.00E	0	0		Mars	mars
+Beagle 2	Europe	408	A	0	11.5265N	90.4295E	0	0		Mars	mars
+Spirit	USA	418	L	0	14.5684S	175.472636E	0	0		Mars	mars
+Opportunity	USA	411	L	0	1.9462S	354.4734E	0	0		Mars	mars
+Phoenix	USA	421	L	0	68.22N	125.7W	0	0		Mars	mars
+Curiosity	USA	416	L	0	4.5895S	137.4417E	0	0		Mars	mars
+Schiaparelli EDM lander	EU	411	A	0	2.07S	6.21W	0	0		Mars	mars
+InSight	USA	405	L	0	4.5N	135E	0	0		Mars	mars
+Zhurong	China	409	L	0	24.748N	110.318E	0	0		Mars	mars
+Perseverance	USA	408	L	0	18.4457N	77.4508E	0	0		Mars	mars
+Venera 3	USSR	224	I	0	20N	80E	0	0		Venus
+Venera 4	USSR	210	I	0	19N	38E	0	0		Venus
+Venera 5	USSR	210	I	0	3S	18E	0	0		Venus
+Venera 6	USSR	257	I	0	5S	23E	0	0		Venus
+Venera 7	USSR	237	L	0	5S	351E	0	0		Venus
+Venera 8	USSR	221	L	0	10.70S	335.25E	0	0		Venus
+Venera 9	USSR	211	L	0	31.01N	291.64E	0	0		Venus
+Venera 10	USSR	211	L	0	15.42N	291.51E	0	0		Venus
+Venera 11	USSR	229	L	0	14S	299E	237	0		Venus
+Venera 12	USSR	229	L	0	7S	294E	104	0		Venus
+Venera 13	USSR	217	L	0	7.5S	303E	256	0		Venus
+Venera 14	USSR	217	L	0	13.25S	310E	253	0		Venus
+Vega 1	USSR	200	L	0	7.5N	177.7E	0	0		Venus
+Vega 2	USSR	251	L	0	8.5S	164.5E	0	0		Venus
+Huygens	Europe	604	L	0	15S	168E	0	0		Titan

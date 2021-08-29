@@ -24,36 +24,43 @@
 # SOFTWARE.
 #
 
+use utf8;
+
 $SRC	= "./cities15000.txt";
 $CODE	= "./admin1CodesASCII.txt";
 $GEOS	= "./regions-geoscheme.tab";
 $HDR	= "./base_locations.header";
 $ADX	= "./base_locations.appendix";
+$ETL	= "./base_locations.extraterrestial";
 $OUT	= "./base_locations.txt";
 $ISOS	= "./countryInfo.txt";
 $ISOO	= "./iso3166.tab";
 
-open(ALL, "<$SRC");
+open(ALL, "<:encoding(utf8)", "$SRC");
 @allData = <ALL>;
 close ALL;
 
-open(BLH, "<$HDR");
+open(BLH, "<:encoding(utf8)", "$HDR");
 @header = <BLH>;
 close BLH;
 
-open(APX, "<$ADX");
+open(APX, "<:encoding(utf8)", "$ADX");
 @appdx = <APX>;
 close APX;
 
-open(CC, "<$CODE");
+open(ETL, "<:encoding(utf8)", "$ETL");
+@appet = <ETL>;
+close ETL;
+
+open(CC, "<:encoding(utf8)", "$CODE");
 @code = <CC>;
 close CC;
 
-open(GS, "<$GEOS");
+open(GS, "<:encoding(utf8)", "$GEOS");
 @geosch = <GS>;
 close GS;
 
-open(ISOSC, "<$ISOS");
+open(ISOSC, "<:encoding(utf8)", "$ISOS");
 @isocode = <ISOSC>;
 close ISOSC;
 
@@ -78,7 +85,7 @@ for ($i=0;$i<scalar(@geosch);$i++)
 	}
 }
 
-open(ISOOC, ">$ISOO");
+open(ISOOC, ">:encoding(utf8)", "$ISOO");
 print ISOOC "# ISO 3166 alpha-2 country codes\n#\n";
 print ISOOC "# This file is licensed under a Creative Commons Attribution 4.0 License,\n";
 print ISOOC "# see https://creativecommons.org/licenses/by/4.0/\n#\n";
@@ -98,7 +105,7 @@ for ($i=0;$i<scalar(@isocode);$i++)
 }
 close ISOOC;
 
-open(OUT, ">$OUT");
+open(OUT, ">:encoding(utf8)", "$OUT");
 for($i=0;$i<scalar(@header);$i++)
 {
 	print OUT $header[$i];
@@ -156,7 +163,48 @@ for($i=0;$i<scalar(@allData);$i++)
 }
 for($i=0;$i<scalar(@appdx);$i++)
 {
-	print OUT $appdx[$i];
+	@sitem = split(/\t/, $appdx[$i]);
+	$lat = $sitem[5];
+	$lon = $sitem[6];
+	if ($lat =~ m/N/gi) {
+		$latn =~ s/N//;
+		$latn += 0;
+	} else {
+		$latn =~ s/S//;
+		$latn += 0;
+		$latn *= -1;
+	}
+	if ($lon =~ m/E/gi) {
+		$lonn =~ s/E//;
+		$lonn += 0;
+	} else {
+		$lonn =~ s/W//;
+		$lonn += 0;
+		$lonn *= -1;
+	}
+
+	$country = uc($sitem[2]);
+	if ($country eq 'RU') 
+	{
+		# Special case: Russia (Northern Asia / Eastern Europe)
+		if ($lonn>=60) { $geodata = 11; } else { $geodata = 17; }
+	} elsif ($country eq 'US') {
+		# Special case: United States ( Polynesia / Northern America )
+		if ($sitem[1] eq 'Hawaii') { $geodata = 24; } else { $geodata = '09'; }
+	} else {
+		$geodata = $geoscheme{$country};
+	}
+	if ($geodata eq '') 
+	{ 
+		$geodata = $country; 
+	}
+	$sitem[2] = $geodata;
+	print OUT join("\t", @sitem);
+}
+print OUT "#\n# extraterrestial locations\n#\n";
+for($i=0;$i<scalar(@appet);$i++)
+{
+	print OUT $appet[$i];
 }
 
 close OUT;
