@@ -5693,57 +5693,57 @@ Tadjourah	Tadjourah	02	R	22.193	11.78778N	42.88222E	3	5	Africa/Djibouti
 Obock	Obock	02	R	17.776	11.96693N	43.28835E	13	5	Africa/Djibouti
 Djibouti	Djibouti	02	C	623.891	11.58901N	43.14503E	6	8	Africa/Djibouti
 'Ali Sabieh	Ali Sabieh	02	R	55	11.15583N	42.7125E	699	6	Africa/Djibouti
-Viborg	Central Jutland	09	R	34.831	56.45319N	9.40201E	50	5	Europe/Copenhagen
-Vejle	South Denmark	09	R	51.177	55.70927N	9.5357E	5	6	Europe/Copenhagen
-Vanlose	Capital Region	09	N	37.115	55.68361N	12.48713E	14	5	Europe/Copenhagen
-Valby	Capital Region	09	N	46.161	55.66613N	12.51388E	12	5	Europe/Copenhagen
-Taastrup	Capital Region	09	N	30.977	55.65006N	12.3016E	15	5	Europe/Copenhagen
-Svendborg	South Denmark	09	N	27.553	55.05982N	10.60677E	14	5	Europe/Copenhagen
-Stenlose	Capital Region	09	N	19.998	55.76828N	12.19723E	14	5	Europe/Copenhagen
-Sonderborg	South Denmark	09	N	27.033	54.90896N	9.78917E	15	5	Europe/Copenhagen
-Slagelse	Zealand	09	N	31.896	55.40276N	11.35459E	51	5	Europe/Copenhagen
-Skive	Central Jutland	09	N	20.815	56.56699N	9.02707E	24	5	Europe/Copenhagen
-Silkeborg	Central Jutland	09	N	41.674	56.1697N	9.54508E	19	5	Europe/Copenhagen
-Roskilde	Zealand	09	N	44.285	55.64152N	12.08035E	41	5	Europe/Copenhagen
-Rodovre	Capital Region	09	N	30	55.68062N	12.45373E	20	5	Europe/Copenhagen
-Ringsted	Zealand	09	N	20.188	55.4426N	11.79011E	54	5	Europe/Copenhagen
-Randers	Central Jutland	09	N	55.78	56.4607N	10.03639E	12	6	Europe/Copenhagen
-Odense	South Denmark	09	N	145.931	55.39594N	10.38831E	17	7	Europe/Copenhagen
-Nykobing Falster	Zealand	09	N	16.807	54.76906N	11.87425E	2	5	Europe/Copenhagen
-Nyborg	South Denmark	09	N	15.826	55.31274N	10.78964E	7	5	Europe/Copenhagen
-Naestved	Zealand	09	N	40.66	55.22992N	11.76092E	16	5	Europe/Copenhagen
-Norresundby	North Denmark	09	N	22.083	57.05877N	9.92284E	10	5	Europe/Copenhagen
-Lillerod	Capital Region	09	N	15.359	55.87496N	12.34579E	45	5	Europe/Copenhagen
-Korsor	Zealand	09	N	15.029	55.32993N	11.13857E	2	5	Europe/Copenhagen
-Koge	Zealand	09	N	33.885	55.45802N	12.18214E	4	5	Europe/Copenhagen
-Copenhagen	Capital Region	09	C	1153.615	55.67594N	12.56553E	14	9	Europe/Copenhagen
-Kolding	South Denmark	09	N	55.363	55.4904N	9.47216E	8	6	Europe/Copenhagen
-Kalundborg	Zealand	09	N	15.939	55.67954N	11.08864E	3	5	Europe/Copenhagen
-Ishoj	Capital Region	09	N	19.453	55.61543N	12.35182E	4	5	Europe/Copenhagen
-Hvidovre	Capital Region	09	N	49.38	55.65719N	12.47364E	9	5	Europe/Copenhagen
-Horsens	Central Jutland	09	N	58.646	55.86066N	9.85034E	4	6	Europe/Copenhagen
-Horsholm	Capital Region	09	N	36.67	55.88098N	12.50111E	29	5	Europe/Copenhagen
-Holstebro	Central Jutland	09	N	32.072	56.36009N	8.61607E	16	5	Europe/Copenhagen
-Holbaek	Zealand	09	N	24.544	55.7175N	11.71279E	1	5	Europe/Copenhagen
-Hjorring	North Denmark	09	N	24.634	57.46417N	9.98229E	51	5	Europe/Copenhagen
-Hillerod	Capital Region	09	R	30.853	55.92791N	12.30081E	29	5	Europe/Copenhagen
-Herning	Central Jutland	09	N	44.763	56.13615N	8.97662E	48	5	Europe/Copenhagen
-Helsingor	Capital Region	09	N	35.048	56.03606N	12.6136E	8	5	Europe/Copenhagen
-Haderslev	South Denmark	09	N	20.825	55.24943N	9.48771E	13	5	Europe/Copenhagen
-Greve	Zealand	09	N	47.671	55.58333N	12.3E	3	5	Europe/Copenhagen
-Glostrup	Capital Region	09	N	20.673	55.6666N	12.40377E	18	5	Europe/Copenhagen
-Frederikshavn	North Denmark	09	N	24.103	57.44073N	10.53661E	8	5	Europe/Copenhagen
-Frederiksberg	Capital Region	09	N	95.029	55.67938N	12.53463E	15	6	Europe/Copenhagen
-Fredericia	South Denmark	09	N	36.946	55.56568N	9.75257E	16	5	Europe/Copenhagen
-Farum	Capital Region	09	N	18.376	55.80858N	12.36066E	33	5	Europe/Copenhagen
-Esbjerg	South Denmark	09	N	72.205	55.47028N	8.45187E	17	6	Europe/Copenhagen
-Charlottenlund	Capital Region	09	N	40	55.75238N	12.5745E	14	5	Europe/Copenhagen
-Birkerod	Capital Region	09	N	18.901	55.84759N	12.42791E	53	5	Europe/Copenhagen
-Ballerup	Capital Region	09	N	40	55.73165N	12.36328E	34	5	Europe/Copenhagen
-Arhus	Central Jutland	09	N	237.551	56.15674N	10.21076E	10	7	Europe/Copenhagen
-Aalborg	North Denmark	09	R	122.219	57.048N	9.9187E	10	7	Europe/Copenhagen
-Albertslund	Capital Region	09	N	30	55.65691N	12.36381E	12	5	Europe/Copenhagen
-Aabenraa	South Denmark	09	N	16.344	55.04434N	9.41741E	16	5	Europe/Copenhagen
+Viborg	Central Jutland	18	R	34.831	56.45319N	9.40201E	50	5	Europe/Copenhagen
+Vejle	South Denmark	18	R	51.177	55.70927N	9.5357E	5	6	Europe/Copenhagen
+Vanlose	Capital Region	18	N	37.115	55.68361N	12.48713E	14	5	Europe/Copenhagen
+Valby	Capital Region	18	N	46.161	55.66613N	12.51388E	12	5	Europe/Copenhagen
+Taastrup	Capital Region	18	N	30.977	55.65006N	12.3016E	15	5	Europe/Copenhagen
+Svendborg	South Denmark	18	N	27.553	55.05982N	10.60677E	14	5	Europe/Copenhagen
+Stenlose	Capital Region	18	N	19.998	55.76828N	12.19723E	14	5	Europe/Copenhagen
+Sonderborg	South Denmark	18	N	27.033	54.90896N	9.78917E	15	5	Europe/Copenhagen
+Slagelse	Zealand	18	N	31.896	55.40276N	11.35459E	51	5	Europe/Copenhagen
+Skive	Central Jutland	18	N	20.815	56.56699N	9.02707E	24	5	Europe/Copenhagen
+Silkeborg	Central Jutland	18	N	41.674	56.1697N	9.54508E	19	5	Europe/Copenhagen
+Roskilde	Zealand	18	N	44.285	55.64152N	12.08035E	41	5	Europe/Copenhagen
+Rodovre	Capital Region	18	N	30	55.68062N	12.45373E	20	5	Europe/Copenhagen
+Ringsted	Zealand	18	N	20.188	55.4426N	11.79011E	54	5	Europe/Copenhagen
+Randers	Central Jutland	18	N	55.78	56.4607N	10.03639E	12	6	Europe/Copenhagen
+Odense	South Denmark	18	N	145.931	55.39594N	10.38831E	17	7	Europe/Copenhagen
+Nykobing Falster	Zealand	18	N	16.807	54.76906N	11.87425E	2	5	Europe/Copenhagen
+Nyborg	South Denmark	18	N	15.826	55.31274N	10.78964E	7	5	Europe/Copenhagen
+Naestved	Zealand	18	N	40.66	55.22992N	11.76092E	16	5	Europe/Copenhagen
+Norresundby	North Denmark	18	N	22.083	57.05877N	9.92284E	10	5	Europe/Copenhagen
+Lillerod	Capital Region	18	N	15.359	55.87496N	12.34579E	45	5	Europe/Copenhagen
+Korsor	Zealand	18	N	15.029	55.32993N	11.13857E	2	5	Europe/Copenhagen
+Koge	Zealand	18	N	33.885	55.45802N	12.18214E	4	5	Europe/Copenhagen
+Copenhagen	Capital Region	18	C	1153.615	55.67594N	12.56553E	14	9	Europe/Copenhagen
+Kolding	South Denmark	18	N	55.363	55.4904N	9.47216E	8	6	Europe/Copenhagen
+Kalundborg	Zealand	18	N	15.939	55.67954N	11.08864E	3	5	Europe/Copenhagen
+Ishoj	Capital Region	18	N	19.453	55.61543N	12.35182E	4	5	Europe/Copenhagen
+Hvidovre	Capital Region	18	N	49.38	55.65719N	12.47364E	9	5	Europe/Copenhagen
+Horsens	Central Jutland	18	N	58.646	55.86066N	9.85034E	4	6	Europe/Copenhagen
+Horsholm	Capital Region	18	N	36.67	55.88098N	12.50111E	29	5	Europe/Copenhagen
+Holstebro	Central Jutland	18	N	32.072	56.36009N	8.61607E	16	5	Europe/Copenhagen
+Holbaek	Zealand	18	N	24.544	55.7175N	11.71279E	1	5	Europe/Copenhagen
+Hjorring	North Denmark	18	N	24.634	57.46417N	9.98229E	51	5	Europe/Copenhagen
+Hillerod	Capital Region	18	R	30.853	55.92791N	12.30081E	29	5	Europe/Copenhagen
+Herning	Central Jutland	18	N	44.763	56.13615N	8.97662E	48	5	Europe/Copenhagen
+Helsingor	Capital Region	18	N	35.048	56.03606N	12.6136E	8	5	Europe/Copenhagen
+Haderslev	South Denmark	18	N	20.825	55.24943N	9.48771E	13	5	Europe/Copenhagen
+Greve	Zealand	18	N	47.671	55.58333N	12.3E	3	5	Europe/Copenhagen
+Glostrup	Capital Region	18	N	20.673	55.6666N	12.40377E	18	5	Europe/Copenhagen
+Frederikshavn	North Denmark	18	N	24.103	57.44073N	10.53661E	8	5	Europe/Copenhagen
+Frederiksberg	Capital Region	18	N	95.029	55.67938N	12.53463E	15	6	Europe/Copenhagen
+Fredericia	South Denmark	18	N	36.946	55.56568N	9.75257E	16	5	Europe/Copenhagen
+Farum	Capital Region	18	N	18.376	55.80858N	12.36066E	33	5	Europe/Copenhagen
+Esbjerg	South Denmark	18	N	72.205	55.47028N	8.45187E	17	6	Europe/Copenhagen
+Charlottenlund	Capital Region	18	N	40	55.75238N	12.5745E	14	5	Europe/Copenhagen
+Birkerod	Capital Region	18	N	18.901	55.84759N	12.42791E	53	5	Europe/Copenhagen
+Ballerup	Capital Region	18	N	40	55.73165N	12.36328E	34	5	Europe/Copenhagen
+Arhus	Central Jutland	18	N	237.551	56.15674N	10.21076E	10	7	Europe/Copenhagen
+Aalborg	North Denmark	18	R	122.219	57.048N	9.9187E	10	7	Europe/Copenhagen
+Albertslund	Capital Region	18	N	30	55.65691N	12.36381E	12	5	Europe/Copenhagen
+Aabenraa	South Denmark	18	N	16.344	55.04434N	9.41741E	16	5	Europe/Copenhagen
 Roseau	Saint George	06	C	16.571	15.30174N	61.38808W	11	5	America/Dominica
 Villa Francisca	Nacional	06	N	50.185	18.48278N	69.88914W	42	6	America/Santo_Domingo
 Villa Consuelo	Nacional	06	N	28.621	18.48333N	69.9W	50	5	America/Santo_Domingo
@@ -24967,7 +24967,7 @@ Sproul Observatory	Pennsylvania	09	O	0	39.903611N	75.355278W	60	3	America/New_Yo
 Stardome Observatory		21	O	0	36.905978S	174.776736E	0	1	Pacific/Auckland
 Starkenburg Observatory		20	O	0	49.648056N	8.653056E	0	3	Europe/Berlin
 Stefanik's Observatory		17	O	0	50.081194N	14.398222E	0	5	Europe/Prague
-Stjerneborg		09	O	0	55.9068N	12.6967E	0	3	Europe/Stockholm
+Stjerneborg		18	O	0	55.9068N	12.6967E	0	3	Europe/Stockholm
 Stockholm Observatory		18	O	0	59.27167N	18.30833E	0	3	Europe/Stockholm
 Stokesville Observatory	Virginia	09	O	0	38.352361N	79.151944W	0	1	America/New_York
 Stonyhurst Observatory	Lancashire	18	O	0	53.8N	2.5W	115	1	Europe/London
@@ -25002,7 +25002,7 @@ University of Oklahoma Observatory	Oklahoma	09	O	0	35.2025N	97.444056W	372	2	Ame
 Uppsala Astronomical Observatory		18	O	0	59.837417N	17.647833E	0	3	Europe/Stockholm
 Urania	Vienna	20	O	0	48.211667N	16.383611E	0	6	Europe/Vienna
 Urania Sternwarte	Zurich	20	O	0	47.3744N	8.5395E	0	5	Europe/Zurich
-Uraniborg		09	O	0	55.907778N	12.696111E	0	1	Europe/Stockholm
+Uraniborg		18	O	0	55.907778N	12.696111E	0	1	Europe/Stockholm
 Xinjiang Astronomical Observatory	Urumqi	13	O	0	43.47N	87.18E	100	1	Asia/Urumqi
 Valongo Observatory		08	O	0	22.898333S	43.186667W	14	7	America/Sao_Paulo
 Vainu Bappu Observatory		15	O	0	12.566667N	78.833333E	700	1	Asia/Kolkata
@@ -25063,8 +25063,8 @@ Quatro Pontes	Parana	08	N	3.6	24.575000S	53.976944W	427	4	America/Sao_Paulo
 Santa Helena	Parana	08	N	23.4	24.860019S	54.332832W	258	5	America/Sao_Paulo
 Sao Jose das Palmeiras	Parana	08	N	4.1	24.837778S	54.063889W	563	4	America/Sao_Paulo
 Terra Roxa	Parana	08	N	16.3	24.165314S	54.097281W	410	5	America/Sao_Paulo
-Nykobing Sjaelland	Zealand	09	N	5.096	55.925N	11.666667E	0	4	Europe/Copenhagen
-Nykobing Mors	Nordjylland	09	R	9.2	56.795278N	8.859167E	0	4	Europe/Copenhagen
+Nykobing Sjaelland	Zealand	18	N	5.096	55.925N	11.666667E	0	4	Europe/Copenhagen
+Nykobing Mors	Nordjylland	18	R	9.2	56.795278N	8.859167E	0	4	Europe/Copenhagen
 Battlesteads Observatory	Northumberland	18	O	0	55.085817N	2.221499W	100	2	Europe/London
 #
 # extraterrestial locations

@@ -149,9 +149,6 @@ for($i=0;$i<scalar(@allData);$i++)
 	} elsif ($country eq 'US') {
 		# Special case: United States ( Polynesia / Northern America )
 		if ($geo{$item[8].".".$item[10]} eq 'Hawaii') { $geodata = 24; } else { $geodata = '09'; }
-	} elsif ($country eq 'DK') {
-		# Special case: Denmark ( Northern Europe / Northern America )
-		if ($lonn<0) { $geodata = 18; } else { $geodata = '09'; }
 	} else {
 		$geodata = $geoscheme{$country};
 	}
@@ -194,9 +191,6 @@ for($i=0;$i<scalar(@appdx);$i++)
 	} elsif ($country eq 'US') {
 		# Special case: United States ( Polynesia / Northern America )
 		if ($sitem[1] eq 'Hawaii') { $geodata = 24; } else { $geodata = '09'; }
-	} elsif ($country eq 'DK') {
-		# Special case: Denmark ( Northern Europe / Northern America )
-		if ($lonn<0) { $geodata = 18; } else { $geodata = '09'; }
 	} else {
 		$geodata = $geoscheme{$country};
 	}
