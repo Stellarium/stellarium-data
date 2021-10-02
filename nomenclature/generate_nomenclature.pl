@@ -71,7 +71,7 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 
     my $dbh = DBI->connect("DBI:XBase:./") or die $DBI::errstr;
     my $dbname = $dbf.$fileName;
-    my $sth = $dbh->prepare("SELECT name, clean_name, diameter, center_lon, center_lat, code, link, type, origin FROM $dbname") or die $dbh->errstr;
+    my $sth = $dbh->prepare("SELECT name, clean_name, diameter, center_lon, center_lat, code, link, type, origin FROM $dbname ORDER BY code ASC") or die $dbh->errstr;
     $sth->execute() or die $sth->errstr;
     
     while(my $arr = $sth->fetchrow_arrayref ) 
