@@ -2441,11 +2441,11 @@ NZ.F7	Otago	Otago	6612109
 NZ.G3	West Coast	West Coast	6612113
 OM.01	Ad Dakhiliyah	Ad Dakhiliyah	411735
 OM.02	Al Batinah South	Al Batinah South	411736
-OM.03	Al Wusţá	Al Wusta	411737
+OM.03	Al Wusta Governorate	Al Wusta Governorate	411737
 OM.04	Southeastern Governorate	Southeastern Governorate	411738
-OM.09	Az̧ Z̧āhirah	Az Zahirah	411739
+OM.09	Ad Dhahirah	Ad Dhahirah	411739
 OM.06	Muscat	Muscat	411740
-OM.07	Musandam	Musandam	411741
+OM.07	Musandam Governorate	Musandam Governorate	411741
 OM.08	Dhofar	Dhofar	411742
 OM.10	Al Buraimi	Al Buraimi	7110710
 OM.12	Northeastern Governorate	Northeastern Governorate	8394433
