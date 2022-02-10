@@ -2875,10 +2875,14 @@ Mars	15771	_("Alofi","crater")	AA	9.840000	359.980000	43
 Mars	15768	_("Kaporo","crater")	AA	-0.120000	14.350000	42.7
 # TRANSLATORS: (Mars); Town in Mexico.
 Mars	15770	_("Yelapa","crater")	AA	3.830000	1.130000	29
+# TRANSLATORS: (Mars); Town in China.
+Mars	16038	_("Zhengji","crater")	AA	24.812000	109.939000	0.48
 # TRANSLATORS: (Mars); Town in Italy.
 Mars	15778	_("Cagli","crater")	AA	4.730000	356.450000	28.162
 # TRANSLATORS: (Mars); Town in Vietnam.
 Mars	15473	_("Prao","crater")	AA	-11.164200	56.605100	20
+# TRANSLATORS: (Mars); Town in China.
+Mars	16037	_("Huxiang","crater")	AA	24.887000	109.825000	0.46
 # TRANSLATORS: (Mars); Village in Angola.
 Mars	15440	_("Catota","crater")	AA	51.668000	333.024900	1.3
 # TRANSLATORS: (Mars); Town in Benin.
