@@ -108,26 +108,27 @@ $status  = $csvdata->parse($currformat);
 @fdata = $csvdata->fields();
 %column = ();
 for ($i=0;$i<scalar(@fdata);$i++) {
-	if ($fdata[$i] eq "name") {		$column{'pname'} = $i;		}
-	if ($fdata[$i] eq "mass") {		$column{'pmass'} = $i;		}
-	if ($fdata[$i] eq "radius") {		$column{'pradius'} = $i;	}
-	if ($fdata[$i] eq "orbital_period") {	$column{'pperiod'} = $i;	}
-	if ($fdata[$i] eq "semi_major_axis") {	$column{'paxis'} = $i;		}
-	if ($fdata[$i] eq "eccentricity") {	$column{'pecc'} = $i;		}
-	if ($fdata[$i] eq "inclination") {	$column{'pincl'} = $i;		}
-	if ($fdata[$i] eq "angular_distance") {	$column{'angdist'} = $i;	}
-	if ($fdata[$i] eq "discovered") {	$column{'discovered'} = $i;	}
-	if ($fdata[$i] eq "detection_type") {	$column{'detectiontype'} = $i;	}
-	if ($fdata[$i] eq "star_name") {	$column{'starname'} = $i;	}
-	if ($fdata[$i] eq "ra") {		$column{'sra'} = $i;		}
-	if ($fdata[$i] eq "dec") {		$column{'sdec'} = $i;		}
-	if ($fdata[$i] eq "mag_v") {		$column{'svmag'} = $i;		}
-	if ($fdata[$i] eq "star_distance") {	$column{'sdist'} = $i;		}
-	if ($fdata[$i] eq "star_metallicity") {	$column{'smetal'} = $i;		}
-	if ($fdata[$i] eq "star_mass") {	$column{'smass'} = $i;		}
-	if ($fdata[$i] eq "star_radius") {	$column{'sradius'} = $i;	}
-	if ($fdata[$i] eq "star_sp_type") {	$column{'sstype'} = $i;		}
-	if ($fdata[$i] eq "star_teff") {	$column{'sefftemp'} = $i;	}
+	if ($fdata[$i] eq "name") {			$column{'pname'} = $i;		}
+	if ($fdata[$i] eq "mass") {			$column{'pmass'} = $i;		}
+	if ($fdata[$i] eq "radius") {			$column{'pradius'} = $i;	}
+	if ($fdata[$i] eq "orbital_period") {		$column{'pperiod'} = $i;	}
+	if ($fdata[$i] eq "semi_major_axis") {		$column{'paxis'} = $i;		}
+	if ($fdata[$i] eq "eccentricity") {		$column{'pecc'} = $i;		}
+	if ($fdata[$i] eq "inclination") {		$column{'pincl'} = $i;		}
+	if ($fdata[$i] eq "angular_distance") {		$column{'angdist'} = $i;	}
+	if ($fdata[$i] eq "discovered") {		$column{'discovered'} = $i;	}
+	if ($fdata[$i] eq "detection_type") {		$column{'detectiontype'} = $i;	}
+	if ($fdata[$i] eq "star_name") {		$column{'starname'} = $i;	}
+	if ($fdata[$i] eq "ra") {			$column{'sra'} = $i;		}
+	if ($fdata[$i] eq "dec") {			$column{'sdec'} = $i;		}
+	if ($fdata[$i] eq "mag_v") {			$column{'svmag'} = $i;		}
+	if ($fdata[$i] eq "star_distance") {		$column{'sdist'} = $i;		}
+	if ($fdata[$i] eq "star_metallicity") {		$column{'smetal'} = $i;		}
+	if ($fdata[$i] eq "star_mass") {		$column{'smass'} = $i;		}
+	if ($fdata[$i] eq "star_radius") {		$column{'sradius'} = $i;	}
+	if ($fdata[$i] eq "star_sp_type") {		$column{'sstype'} = $i;		}
+	if ($fdata[$i] eq "star_teff") {		$column{'sefftemp'} = $i;	}
+	if ($fdata[$i] eq "star_alternate_names") {	$column{'alternames'} = $i;	}
 }
 
 # parse other all lines for get data
@@ -172,6 +173,7 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 	$sradius	= $psdata[$column{'sradius'}];		# star radius
 	$sstype		= $psdata[$column{'sstype'}];		# star spectral type
 	$sefftemp	= $psdata[$column{'sefftemp'}];		# star effective temperature
+	$alternames	= $psdata[$column{'alternames'}];	# star alternate names
 	
 	$part = $sRA/15;
 	$hour = int($part);
@@ -191,11 +193,20 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 		$hour = 15; $mint = 20; $sect = 8.4;
 		$deg = 29; $min = 36; $sec = 57.9;
 	}
+	# fixed bug for TOI-500
+	if ($starname =~ m/toi-500/gi) {
+		$hour = 7; $mint = 6; $sect = 13.975;
+		$deg = -47; $min = 35; $sec = 13.87;
+	}
 	
 	$outRA = $hour."h".abs($mint)."m".abs($sect)."s";
 	$outDE = $deg."d".abs($min)."m".abs($sec)."s";
 	# fixed bug for 24 Sex
 	if ($starname =~ m/24\s+Sex/gi) {
+		$outDE = "-".$outDE;
+	}
+	# fixed bug for TOI-544
+	if ($starname =~ m/toi-544/gi) {
 		$outDE = "-".$outDE;
 	}
 
@@ -236,7 +247,7 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 				($hssname,$hspname,$sProperName) = $csvdata->fields();
 			}
 			# insert star data
-			$sth = $dbh->do(q{INSERT INTO stars (ra_coord,dec_coord,sname,propername,distance,stype,smass,smetal,vmag,sradius,sefftemp,has_habit_planet) VALUES (?,?,?,?,?,?,?,?,?,?,?,?)}, undef, $outRA, $outDE, $starname, $sProperName, $sdist, $sstype, $smass, $smetal, $sVmag, $sradius, $sefftemp, $HPflag);
+			$sth = $dbh->do(q{INSERT INTO stars (ra_coord,dec_coord,sname,propername,distance,stype,smass,smetal,vmag,sradius,sefftemp,has_habit_planet,alternames) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)}, undef, $outRA, $outDE, $starname, $sProperName, $sdist, $sstype, $smass, $smetal, $sVmag, $sradius, $sefftemp, $HPflag, $alternames);
 			$sth = $dbh->prepare(q{SELECT sid,sname FROM stars ORDER BY sid DESC LIMIT 0,1});
 			$sth->execute();
 			@starDATA = $sth->fetchrow_array();
@@ -301,6 +312,7 @@ while (@stars = $sth->fetchrow_array()) {
 	$sradius	= $stars[10];
 	$sefftemp	= $stars[11];
 	$hasHabitPl	= $stars[12];
+	$alternames	= $stars[13];
 	
 	$sname =~ s/^alpha/α/gi;
 	$sname =~ s/^alf/α/gi;
@@ -332,14 +344,16 @@ while (@stars = $sth->fetchrow_array()) {
 	$sname =~ s/^psi/ψ/gi;
 	$sname =~ s/^omega/ω/gi;
 	$sname =~ s/^ome/ω/gi;
-
-
 	
 	if ($sname eq "Kapteyn's") {
 		$sname .= " Star"; # cosmetic fix for translation support
 	}
 	if ($sname eq "Barnard's star") {
 		$sname =~ s/star/Star/gi; # cosmetic fix for translation support
+	}
+	$saltername = '';
+	if ($alternames ne '') {
+		$saltername = $alternames;
 	}
 	
 	$out  = $tab2."\"".$sname."\":\n";
@@ -461,6 +475,9 @@ while (@stars = $sth->fetchrow_array()) {
 	}
 	if ($spropname ne '') {
 		$out .= $tab3."\"starProperName\": \"".$spropname."\",\n";
+	}
+	if ($saltername ne '') {
+		$out .= $tab3."\"starAlterName\": \"".$saltername."\",\n";
 	}
 	$out .= $tab3."\"RA\": \"".$RA."\",\n";
 	$out .= $tab3."\"DE\": \"".$DE."\"\n";
