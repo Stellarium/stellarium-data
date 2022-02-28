@@ -194,7 +194,7 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 		$deg = 29; $min = 36; $sec = 57.9;
 	}
 	# fixed bug for TOI-500
-	if ($starname =~ m/toi-500/gi) {
+	if ($starname =~ m/TOI-500/gi) {
 		$hour = 7; $mint = 6; $sect = 13.975;
 		$deg = -47; $min = 35; $sec = 13.87;
 	}
@@ -206,7 +206,7 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 		$outDE = "-".$outDE;
 	}
 	# fixed bug for TOI-544
-	if ($starname =~ m/toi-544/gi) {
+	if ($starname =~ m/TOI-544/gi) {
 		$outDE = "-".$outDE;
 	}
 
