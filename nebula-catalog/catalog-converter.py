@@ -190,8 +190,9 @@ otypedic = {
 }
 
 # convert catalog.txt to catalog.pack
+# default_ver and default_type only effect when text has no head note
 
-def ConverttxtToPack(in1,out1):
+def ConverttxtToPack(in1,out1,default_ver='3.13',default_type='standard'):
     dsoIn = QFile(in1)
     if dsoIn.open(QIODevice.ReadOnly | QIODevice.Text) is False:
         return
@@ -226,8 +227,8 @@ def ConverttxtToPack(in1,out1):
         
         # write when could not get label from txt
         if not addedHead:
-            dsoOutStream.writeQString('3.13')
-            dsoOutStream.writeQString('standard')
+            dsoOutStream.writeQString(default_ver)
+            dsoOutStream.writeQString(default_type)
             addedHead=True
 
         lis=record.split('\t')
