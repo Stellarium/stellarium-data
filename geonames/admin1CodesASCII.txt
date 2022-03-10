@@ -1439,7 +1439,7 @@ IT.11	Molise	Molise	3173222
 IT.10	The Marches	The Marches	3174004
 IT.09	Lombardy	Lombardy	3174618
 IT.08	Liguria	Liguria	3174725
-IT.07	Latium	Latium	3174976
+IT.07	Lazio	Lazio	3174976
 IT.06	Friuli Venezia Giulia	Friuli Venezia Giulia	3176525
 IT.05	Emilia-Romagna	Emilia-Romagna	3177401
 IT.04	Campania	Campania	3181042
