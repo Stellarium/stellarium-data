@@ -314,15 +314,12 @@ while (@stars = $sth->fetchrow_array()) {
 	$hasHabitPl	= $stars[12];
 	$alternames	= $stars[13];
 	
-	$sname =~ s/^alpha/α/gi;
-	$sname =~ s/^alf/α/gi;
-	$sname =~ s/^beta/β/gi;
+	$sname =~ s/^(alpha|alf)/α/gi;
+	$sname =~ s/^(beta|bet)/β/gi;
 	$sname =~ s/^(gamma|gam)/γ/gi;
 	$sname =~ s/^delta/δ/gi;
-	$sname =~ s/^epsilon/ε/gi;
-	$sname =~ s/^eps/ε/gi;
-	$sname =~ s/^zeta/ζ/gi;
-	$sname =~ s/^zet/ζ/gi;
+	$sname =~ s/^(epsilon|eps)/ε/gi;
+	$sname =~ s/^(zeta|zet)/ζ/gi;
 	$sname =~ s/^theta/θ/gi;
 	$sname =~ s/^eta/η/gi;
 	$sname =~ s/^iota/ι/gi;
@@ -330,22 +327,68 @@ while (@stars = $sth->fetchrow_array()) {
 	$sname =~ s/^lambda/λ/gi;
 	$sname =~ s/^mu/μ/gi;
 	$sname =~ s/^nu/ν/gi;
-	$sname =~ s/^xi/ξ/gi;
-	$sname =~ s/^ksi/ξ/gi;
+	$sname =~ s/^(xi|ksi)/ξ/gi;
 	$sname =~ s/^(omicron|omi)/ο/gi;
 	$sname =~ s/^pi/π/gi;
 	$sname =~ s/^rho/ρ/gi;
 	$sname =~ s/^(sigma|sig)/σ/gi;
 	$sname =~ s/^tau/τ/gi;
-	$sname =~ s/^upsilon/υ/gi;
-	$sname =~ s/^ups/υ/gi;
+	$sname =~ s/^(upsilon|ups)/υ/gi;
 	$sname =~ s/^phi/φ/gi;
 	$sname =~ s/^chi/χ/gi;
 	$sname =~ s/^psi/ψ/gi;
-	$sname =~ s/^omega/ω/gi;
-	$sname =~ s/^ome/ω/gi;
+	$sname =~ s/^(omega|ome)/ω/gi;
 	
-	if ($sname eq "Kapteyn's") {
+	$alternames =~ s/^(alpha|alf)/α/gi;
+	$alternames =~ s/,\s+(alpha|alf)/, α/gi;
+	$alternames =~ s/^(beta|bet)/β/gi;
+	$alternames =~ s/,\s+(beta|bet)/, β/gi;
+	$alternames =~ s/^(gamma|gam)/γ/gi;
+	$alternames =~ s/,\s+(gamma|gam)/, γ/gi;
+	$alternames =~ s/^delta/δ/gi;
+	$alternames =~ s/,\s+delta/, δ/gi;
+	$alternames =~ s/^(epsilon|eps)/ε/gi;
+	$alternames =~ s/,\s+(epsilon|eps)/, ε/gi;
+	$alternames =~ s/^(zeta|zet)/ζ/gi;
+	$alternames =~ s/,\s+(zeta|zet)/, ζ/gi;
+	$alternames =~ s/^theta/θ/gi;
+	$alternames =~ s/,\s+theta/, θ/gi;
+	$alternames =~ s/^eta/η/gi;
+	$alternames =~ s/,\s+eta/, η/gi;
+	$alternames =~ s/^iota/ι/gi;
+	$alternames =~ s/,\s+iota/, ι/gi;
+	$alternames =~ s/^kappa/κ/gi;
+	$alternames =~ s/,\s+kappa/, κ/gi;
+	$alternames =~ s/^lambda/λ/gi;
+	$alternames =~ s/,\s+lambda/, λ/gi;
+	$alternames =~ s/^mu/μ/gi;
+	$alternames =~ s/,\s+mu/, μ/gi;
+	$alternames =~ s/^nu/ν/gi;
+	$alternames =~ s/,\s+nu/, ν/gi;
+	$alternames =~ s/^(xi|ksi)/ξ/gi;
+	$alternames =~ s/,\s+(xi|ksi)/, ξ/gi;
+	$alternames =~ s/^(omicron|omi)/ο/gi;
+	$alternames =~ s/,\s+(omicron|omi)/, ο/gi;
+	$alternames =~ s/^pi/π/gi;
+	$alternames =~ s/,\s+pi/, π/gi;
+	$alternames =~ s/^rho/ρ/gi;
+	$alternames =~ s/,\s+rho/, ρ/gi;
+	$alternames =~ s/^(sigma|sig)/σ/gi;
+	$alternames =~ s/,\s+(sigma|sig)/, σ/gi;
+	$alternames =~ s/^tau/τ/gi;
+	$alternames =~ s/,\s+tau/, τ/gi;
+	$alternames =~ s/^(upsilon|ups)/υ/gi;
+	$alternames =~ s/,\s+(upsilon|ups)/, υ/gi;
+	$alternames =~ s/^phi/φ/gi;
+	$alternames =~ s/,\s+phi/, φ/gi;
+	$alternames =~ s/^chi/χ/gi;
+	$alternames =~ s/,\s+chi/, χ/gi;
+	$alternames =~ s/^psi/ψ/gi;
+	$alternames =~ s/,\s+psi/, ψ/gi;
+	$alternames =~ s/^(omega|ome)/ω/gi;
+	$alternames =~ s/,\s+(omega|ome)/, ω/gi;
+	
+	if ($sname eq "Kapteyn's" || $sname eq "Teegarden's") {
 		$sname .= " Star"; # cosmetic fix for translation support
 	}
 	if ($sname eq "Barnard's star") {
@@ -477,7 +520,7 @@ while (@stars = $sth->fetchrow_array()) {
 		$out .= $tab3."\"starProperName\": \"".$spropname."\",\n";
 	}
 	if ($saltername ne '') {
-		$out .= $tab3."\"starAlterName\": \"".$saltername."\",\n";
+		$out .= $tab3."\"starAltNames\": \"".$saltername."\",\n";
 	}
 	$out .= $tab3."\"RA\": \"".$RA."\",\n";
 	$out .= $tab3."\"DE\": \"".$DE."\"\n";
