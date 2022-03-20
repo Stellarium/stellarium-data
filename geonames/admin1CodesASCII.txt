@@ -2705,7 +2705,7 @@ RO.40	Vrancea	Vrancea	662447
 RO.39	Vâlcea	Valcea	662892
 RO.38	Vaslui	Vaslui	663116
 RO.37	Tulcea	Tulcea	664517
-RO.36	Timiş	Timis	665091
+RO.36	Timiș	Timis	665091
 RO.35	Teleorman	Teleorman	665283
 RO.34	Suceava	Suceava	665849
 RO.33	Sibiu	Sibiu	667267
@@ -2713,30 +2713,30 @@ RO.32	Satu Mare	Satu Mare	667869
 RO.31	Sălaj	Salaj	668248
 RO.30	Prahova	Prahova	669737
 RO.29	Olt	Olt	671857
-RO.28	Neamţ	Neamt	672460
-RO.27	Mureş	Mures	672628
-RO.26	Mehedinţi	Mehedinti	673612
+RO.28	Neamț	Neamt	672460
+RO.27	Mureș	Mures	672628
+RO.26	Mehedinți	Mehedinti	673612
 RO.25	Maramureş	Maramures	673887
-RO.23	Iaşi	Iasi	675809
-RO.22	Ialomiţa	Ialomita	675848
+RO.23	Iași	Iasi	675809
+RO.22	Ialomița	Ialomita	675848
 RO.21	Hunedoara	Hunedoara	675917
 RO.20	Harghita	Harghita	676309
 RO.19	Gorj	Gorj	676898
 RO.42	Giurgiu	Giurgiu	677104
-RO.18	Galaţi	Galati	677692
+RO.18	Galați	Galati	677692
 RO.17	Dolj	Dolj	679134
-RO.16	Dâmboviţa	Dambovita	679385
+RO.16	Dâmbovița	Dambovita	679385
 RO.15	Covasna	Covasna	680428
 RO.14	Constanța	Constanta	680962
 RO.13	Cluj	Cluj	681291
-RO.12	Caraş-Severin	Caras-Severin	682714
-RO.41	Călăraşi	Calarasi	683016
+RO.12	Caraș-Severin	Caras-Severin	682714
+RO.41	Călărași	Calarasi	683016
 RO.11	Buzău	Buzau	683121
-RO.10	Bucureşti	Bucuresti	683504
-RO.09	Braşov	Brasov	683843
+RO.10	București	Bucuresti	683504
+RO.09	Brașov	Brasov	683843
 RO.08	Brăila	Braila	683901
-RO.07	Botoşani	Botosani	684038
-RO.06	Bistriţa-Năsăud	Bistrita-Nasaud	684647
+RO.07	Botoșani	Botosani	684038
+RO.06	Bistrița-Năsăud	Bistrita-Nasaud	684647
 RO.05	Bihor	Bihor	684878
 RO.04	Bacău	Bacau	685947
 RO.03	Arges	Arges	686192
@@ -3571,7 +3571,7 @@ UA.13	Kiev	Kiev	703446
 UA.12	Kyiv City	Kyiv City	703447
 UA.11	Crimea	Crimea	703883
 UA.10	Kirovohrad Oblast	Kirovohrad Oblast	705811
-UA.09	Khmelnytskyy Oblast	Khmelnytskyy Oblast	706370
+UA.09	Khmelnytskyi Oblast	Khmelnytskyi Oblast	706370
 UA.08	Kherson Oblast	Kherson Oblast	706442
 UA.07	Kharkiv	Kharkiv	706482
 UA.06	Ivano-Frankivsk Oblast	Ivano-Frankivsk Oblast	707470

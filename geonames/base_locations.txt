@@ -3330,6 +3330,7 @@ Bafang	West	03	N	80.688	5.15705N	10.1771E	1179	6	Africa/Douala
 Akonolinga	Centre	03	N	17.181	3.76667N	12.25E	643	5	Africa/Douala
 Zhefang	Yunnan	13	N	51.477	24.26667N	98.28333E	847	6	Asia/Shanghai
 Zhangfeng	Yunnan	13	N	53.37	24.19064N	97.80191E	973	6	Asia/Shanghai
+Zepu	Xinjiang	13	N	51.691	38.18867N	77.27075E	1273	6	Asia/Urumqi
 Zibihu	Yunnan	13	N	56.246	26.1143N	99.95267E	2052	6	Asia/Shanghai
 Yingpan	Yunnan	13	N	37.406	26.45N	99.15E	1727	5	Asia/Shanghai
 Rikaze	Tibet	13	N	80	29.25N	88.88333E	3847	6	Asia/Shanghai
@@ -3345,7 +3346,9 @@ Qiemo	Xinjiang	13	N	18.893	38.13407N	85.52977E	1252	5	Asia/Urumqi
 Qarek	Xinjiang	13	N	29.946	38.37222N	76.99028E	1259	5	Asia/Urumqi
 Qamdo	Tibet	13	N	86.28	31.1304N	97.17982E	3235	6	Asia/Shanghai
 Yingjiang	Yunnan	13	N	80.481	24.71022N	97.93671E	826	6	Asia/Shanghai
+Oytograk	Xinjiang	13	N	18.271	36.83333N	81.93333E	1460	5	Asia/Urumqi
 Nagqu	Tibet	13	N	30	31.47678N	92.05729E	4512	5	Asia/Shanghai
+Qaraqash	Xinjiang	13	N	54.664	37.27246N	79.73438E	1330	6	Asia/Urumqi
 Mengmao	Yunnan	13	N	112.578	24.00139N	97.86499E	754	7	Asia/Shanghai
 Menglang	Yunnan	13	N	86.877	22.56214N	99.91029E	1082	6	Asia/Shanghai
 Mangshi	Yunnan	13	N	46.353	24.45329N	98.57037E	885	5	Asia/Shanghai
@@ -3353,6 +3356,8 @@ Liuku	Yunnan	13	N	63.013	25.8505N	98.85567E	829	6	Asia/Shanghai
 Lhasa	Tibet	13	R	118.721	29.65N	91.1E	3651	7	Asia/Shanghai
 Laojunmiao	Gansu	13	N	84.769	39.83333N	97.73333E	2026	6	Asia/Shanghai
 Bonan	Yunnan	13	N	55.685	25.46335N	99.52826E	1633	6	Asia/Shanghai
+Langru	Xinjiang	13	N	16.505	36.89333N	79.62139E	1595	5	Asia/Urumqi
+Kokyar	Xinjiang	13	N	18.582	36.81899N	81.63334E	1422	5	Asia/Urumqi
 Kashgar	Xinjiang	13	N	506.64	39.47066N	75.98951E	1297	8	Asia/Urumqi
 Kaqun	Xinjiang	13	N	18.749	37.97806N	76.86722E	1455	5	Asia/Urumqi
 Judian	Yunnan	13	N	21.368	27.30612N	99.6491E	1879	5	Asia/Shanghai
@@ -3361,12 +3366,15 @@ Jinding	Yunnan	13	N	53.667	26.43903N	99.44061E	2511	6	Asia/Shanghai
 Jietou	Yunnan	13	N	65.843	25.4274N	98.65324E	1605	6	Asia/Shanghai
 Jiayuguan	Gansu	13	N	231.853	39.81121N	98.28618E	1635	7	Asia/Shanghai
 Houqiao	Yunnan	13	N	27.965	25.32356N	98.27802E	1712	5	Asia/Shanghai
-Hotan	Xinjiang	13	N	410.19	37.1075N	79.93548E	1384	7	Asia/Urumqi
+Hotan	Xinjiang	13	N	408.894	37.1075N	79.93548E	1384	7	Asia/Urumqi
 Gudong	Yunnan	13	N	45.528	25.34165N	98.48297E	1679	5	Asia/Shanghai
 Elixku	Xinjiang	13	N	36.793	38.70917N	77.37056E	1197	5	Asia/Urumqi
 Deqen	Tibet	13	N	62.4	29.96178N	90.71875E	3974	6	Asia/Shanghai
+Langgar	Xinjiang	13	N	19.524	36.7N	81.5E	1602	5	Asia/Urumqi
 Baoshan	Yunnan	13	N	935.618	25.11626N	99.16366E	1680	8	Asia/Shanghai
-Yining	Xinjiang	13	N	515.082	43.97799N	81.51804E	792	8	Asia/Urumqi
+Layka	Xinjiang	13	N	29.032	37.07694N	79.73167E	1421	5	Asia/Urumqi
+Arix	Xinjiang	13	N	17.941	36.75541N	81.60765E	1495	5	Asia/Urumqi
+Xambabazar	Xinjiang	13	N	19.796	36.88639N	81.50972E	1426	5	Asia/Urumqi
 Xinyuan	Xinjiang	13	N	282.718	43.42649N	83.24959E	953	7	Asia/Urumqi
 Wusu	Xinjiang	13	N	72.587	44.43105N	84.67623E	474	6	Asia/Urumqi
 UEruemqi	Xinjiang	13	R	3029.372	43.80096N	87.60046E	862	9	Asia/Urumqi
@@ -3374,10 +3382,12 @@ Turpan	Xinjiang	13	N	273.385	42.94769N	89.17886E	41	7	Asia/Urumqi
 Tacheng	Xinjiang	13	N	161.037	46.74535N	82.95847E	546	7	Asia/Urumqi
 Shihezi	Xinjiang	13	N	572.772	44.3023N	86.03694E	467	8	Asia/Urumqi
 Sandaohezi	Xinjiang	13	N	60.129	44.32597N	85.62009E	528	6	Asia/Urumqi
-Qapqal	Xinjiang	13	N	160	43.80194N	81.08722E	638	7	Asia/Urumqi
+Qapqal	Xinjiang	13	N	22.111	43.80194N	81.08722E	638	5	Asia/Urumqi
 Kuqa	Xinjiang	13	N	102.752	41.71707N	82.93064E	1056	7	Asia/Urumqi
 Korla	Xinjiang	13	N	549.324	41.76055N	86.15231E	945	8	Asia/Urumqi
 Karamay	Xinjiang	13	N	261.445	45.58473N	84.88724E	366	7	Asia/Urumqi
+Jelilyuezi	Xinjiang	13	N	37.238	43.9749N	81.53555E	783	5	Asia/Urumqi
+Yili	Xinjiang	13	N	269.158	43.9N	81.35E	645	7	Asia/Urumqi
 Hoxtolgay	Xinjiang	13	N	22	46.51872N	86.00214E	804	5	Asia/Urumqi
 Hami	Xinjiang	13	N	246.373	42.83393N	93.50601E	762	7	Asia/Urumqi
 Fuyun	Xinjiang	13	N	19.772	46.9919N	89.52115E	800	5	Asia/Urumqi
@@ -3392,6 +3402,12 @@ Aral	Xinjiang	13	N	260	40.54184N	81.26566E	1014	7	Asia/Urumqi
 Altay	Xinjiang	13	N	190.064	47.84864N	88.13361E	866	7	Asia/Urumqi
 Aksu	Xinjiang	13	N	535.657	41.18418N	80.27921E	1119	8	Asia/Urumqi
 Oymak	Xinjiang	13	N	15.187	47.87809N	86.98955E	521	5	Asia/Urumqi
+Kax	Xinjiang	13	N	23.543	43.64111N	81.87E	704	5	Asia/Urumqi
+Baytokay	Xinjiang	13	N	19.217	43.68167N	81.78889E	728	5	Asia/Urumqi
+Yengitam	Xinjiang	13	N	24.761	43.74583N	81.65694E	708	5	Asia/Urumqi
+Dadamtu	Xinjiang	13	N	36.572	43.98028N	81.31417E	679	5	Asia/Urumqi
+Yuqunweng	Xinjiang	13	N	46.759	43.87444N	81.62056E	709	5	Asia/Urumqi
+Panjim	Xinjiang	13	N	25.307	44.00754N	81.4247E	766	5	Asia/Urumqi
 Liangji	Jiangsu	13	N	52.048	33.96389N	117.96944E	28	6	Asia/Shanghai
 Lanshan	Jiangsu	13	N	55.442	33.93611N	117.725E	26	6	Asia/Shanghai
 Qing'an	Jiangsu	13	N	48.234	33.96944N	117.88056E	22	5	Asia/Shanghai
@@ -4376,7 +4392,7 @@ Bojia	Hunan	13	N	25	26.46722N	111.96806E	89	5	Asia/Shanghai
 Santangpu	Hunan	13	N	58	27.40556N	111.98694E	125	6	Asia/Shanghai
 Hedong	Guangdong	13	N	101.825	23.9196N	115.7801E	113	7	Asia/Shanghai
 Zhenlai	Jilin	13	N	67.76	45.84955N	123.2973E	135	6	Asia/Shanghai
-Zhengjiatun	Jilin	13	N	93.666	43.50639N	123.50639E	117	6	Asia/Shanghai
+Shuangliao	Jilin	13	N	93.666	43.51067N	123.50069E	115	6	Asia/Shanghai
 Zhaozhou	Heilongjiang	13	N	62.373	45.68333N	125.31667E	152	6	Asia/Shanghai
 Zhaoyuan	Heilongjiang	13	N	59.37	45.5N	125.13333E	127	6	Asia/Shanghai
 Zhaodong	Heilongjiang	13	N	154.406	46.05223N	125.9552E	143	7	Asia/Shanghai
@@ -4405,7 +4421,7 @@ Wangqing	Jilin	13	N	88.732	43.32179N	129.76342E	235	6	Asia/Shanghai
 Hepingjie	Jilin	13	N	65.298	42.05972N	126.91583E	730	6	Asia/Shanghai
 Wangkui	Heilongjiang	13	N	69.915	46.83283N	126.47768E	176	6	Asia/Shanghai
 Ulanhot	Inner Mongolia	13	N	165.846	46.08333N	122.08333E	303	7	Asia/Shanghai
-Tumen	Jilin	13	N	78.719	42.96611N	129.8425E	98	6	Asia/Shanghai
+Tumen	Jilin	13	N	78.719	42.96562N	129.84199E	98	6	Asia/Shanghai
 Tongliao	Inner Mongolia	13	N	261.11	43.6125N	122.26528E	182	7	Asia/Shanghai
 Tonghua	Jilin	13	N	510	41.71972N	125.92639E	375	8	Asia/Shanghai
 Tieling	Liaoning	13	N	333.907	42.29306N	123.84139E	64	7	Asia/Shanghai
@@ -4413,7 +4429,7 @@ Tieli	Heilongjiang	13	N	109.636	46.98043N	128.04497E	214	7	Asia/Shanghai
 Guangming	Jilin	13	N	112.819	45.33333N	122.78333E	150	7	Asia/Shanghai
 Tailai	Heilongjiang	13	N	66.623	46.39004N	123.40849E	141	6	Asia/Shanghai
 Dorbod	Heilongjiang	13	N	55.316	46.86135N	124.442E	146	6	Asia/Shanghai
-Tahe	Heilongjiang	13	N	60.874	52.33333N	124.73333E	432	6	Asia/Shanghai
+Tahe	Heilongjiang	13	N	60.874	52.32148N	124.69761E	353	6	Asia/Shanghai
 Sujiatun	Liaoning	13	N	148.113	41.65917N	123.33917E	40	7	Asia/Shanghai
 Suiling	Heilongjiang	13	N	57.124	47.23489N	127.10769E	164	6	Asia/Shanghai
 Suihua	Heilongjiang	13	N	252.245	46.63954N	126.99508E	183	7	Asia/Shanghai
@@ -4421,7 +4437,7 @@ Suifenhe	Heilongjiang	13	N	15.183	44.39982N	131.14775E	441	5	Asia/Shanghai
 Songjianghe	Jilin	13	N	67.672	42.1859N	127.47895E	737	6	Asia/Shanghai
 Siping	Jilin	13	N	555.609	43.16143N	124.37785E	176	8	Asia/Shanghai
 Shunyi	Beijing	13	N	117.623	40.12175N	116.64783E	45	7	Asia/Shanghai
-Shulan	Jilin	13	N	77.42	44.41667N	126.95E	233	6	Asia/Shanghai
+Shulan	Jilin	13	N	77.42	44.41134N	126.94827E	239	6	Asia/Shanghai
 Shuangyashan	Heilongjiang	13	N	600	46.67686N	131.13273E	153	8	Asia/Shanghai
 Shuangyang	Jilin	13	N	62.137	43.52417N	125.67361E	210	6	Asia/Shanghai
 Shuangcheng	Heilongjiang	13	N	130.71	45.3798N	126.30711E	164	7	Asia/Shanghai
@@ -4434,13 +4450,13 @@ Sanchazi	Jilin	13	N	66.576	42.08167N	126.60028E	558	6	Asia/Shanghai
 Salaqi	Inner Mongolia	13	N	64.704	40.54139N	110.51083E	1000	6	Asia/Shanghai
 Fendou	Heilongjiang	13	N	226.298	46.64142N	124.86283E	147	7	Asia/Shanghai
 Qitaihe	Heilongjiang	13	N	345.033	45.768N	130.9953E	212	7	Asia/Shanghai
-Qiqihar	Heilongjiang	13	N	882.364	47.34088N	123.96045E	151	8	Asia/Shanghai
-Qinggang	Heilongjiang	13	N	64.182	46.68469N	126.10595E	215	6	Asia/Shanghai
+Qiqihar	Heilongjiang	13	N	882.364	47.33922N	123.96154E	146	8	Asia/Shanghai
+Qinggang	Heilongjiang	13	N	64.182	46.69833N	126.0921E	209	6	Asia/Shanghai
 Songyuan	Jilin	13	N	113.611	45.12902N	124.82769E	134	7	Asia/Shanghai
 Pingzhuang	Inner Mongolia	13	N	67.273	42.03722N	119.28889E	514	6	Asia/Shanghai
 Panshi	Jilin	13	N	80.2	42.94222N	126.05611E	323	6	Asia/Shanghai
 Panshan	Liaoning	13	N	625.04	41.18806N	122.04944E	9	8	Asia/Shanghai
-Nianzishan	Heilongjiang	13	N	62.131	47.51667N	122.88333E	234	6	Asia/Shanghai
+Nianzishan	Heilongjiang	13	N	62.131	47.51344N	122.88788E	231	6	Asia/Shanghai
 Nenjiang	Heilongjiang	13	N	87.236	49.17414N	125.21774E	229	6	Asia/Shanghai
 Nehe	Heilongjiang	13	N	108.253	48.48333N	124.83333E	197	7	Asia/Shanghai
 Nantai	Liaoning	13	N	56.478	40.9241N	122.80437E	34	6	Asia/Shanghai
@@ -4542,7 +4558,7 @@ Chaoyang	Jilin	13	N	75.347	42.66223N	126.0263E	297	6	Asia/Shanghai
 Chaoyang	Liaoning	13	N	410.005	41.57028N	120.45861E	162	7	Asia/Shanghai
 Changtu	Liaoning	13	N	71.284	42.77884N	124.09545E	135	6	Asia/Shanghai
 Changping	Beijing	13	N	93.174	40.21612N	116.23471E	68	6	Asia/Shanghai
-Changling	Jilin	13	N	55.841	44.26532N	124.00045E	190	6	Asia/Shanghai
+Changling	Jilin	13	N	55.841	44.27295N	123.97559E	191	6	Asia/Shanghai
 Changchun	Jilin	13	R	4193.073	43.88N	125.32278E	206	9	Asia/Shanghai
 Chaihe	Heilongjiang	13	N	67.963	44.7598N	129.67826E	229	6	Asia/Shanghai
 Boli	Heilongjiang	13	N	95.26	45.7529N	130.58452E	216	6	Asia/Shanghai
@@ -4556,7 +4572,7 @@ Baoshan	Heilongjiang	13	N	123.791	46.57472N	131.39318E	192	7	Asia/Shanghai
 Baoqing	Heilongjiang	13	N	62.991	46.32452N	132.1897E	94	6	Asia/Shanghai
 Muling	Heilongjiang	13	N	66.17	44.91647N	130.51707E	259	6	Asia/Shanghai
 Baishishan	Jilin	13	N	56.992	43.58333N	127.56667E	348	6	Asia/Shanghai
-Baiquan	Heilongjiang	13	N	70.472	47.60605N	126.08481E	237	6	Asia/Shanghai
+Baiquan	Heilongjiang	13	N	70.472	47.60659N	126.08231E	226	6	Asia/Shanghai
 Baicheng	Jilin	13	N	316.97	45.60746N	122.82076E	152	7	Asia/Shanghai
 Baishan	Jilin	13	N	183.88	41.93853N	126.41965E	471	7	Asia/Shanghai
 Anshan	Liaoning	13	N	1450	41.12361N	122.99E	55	9	Asia/Shanghai
@@ -4634,11 +4650,18 @@ Bole	Xinjiang	13	N	235.585	44.89334N	82.06993E	509	7	Asia/Shanghai
 Liupanshui	Guizhou	13	N	1320.825	26.59444N	104.83333E	1799	9	Asia/Shanghai
 Huanggang	Hubei	13	N	366.769	30.45143N	114.87035E	46	7	Asia/Shanghai
 Anxiang	Henan	13	N	38.345	38.38339N	114.54046E	101	5	Asia/Shanghai
+Mugala	Xinjiang	13	N	30.179	36.8576N	81.66844E	1432	5	Asia/Urumqi
 Xingning	Guangdong	13	N	274.499	24.1483N	115.72272E	122	7	Asia/Shanghai
 Damoujia	Shandong	13	N	47.569	36.54356N	119.81326E	13	5	Asia/Shanghai
+Bageqi	Xinjiang	13	N	57.153	37.14071N	79.83509E	1355	6	Asia/Urumqi
+Tawakule	Xinjiang	13	N	26.983	37.75884N	80.21654E	1255	5	Asia/Urumqi
+Han'airike	Xinjiang	13	N	43.751	37.54174N	80.11735E	1280	5	Asia/Urumqi
+Ying'awati	Xinjiang	13	N	23.624	37.29875N	79.83031E	1298	5	Asia/Urumqi
 Rizhao	Shandong	13	N	661.943	35.41414N	119.52908E	25	8	Asia/Shanghai
 Shanwang	Shandong	13	N	63.195	36.5454N	118.711E	246	6	Asia/Shanghai
 Puyang	Henan	13	N	655.674	35.76318N	115.01721E	56	8	Asia/Shanghai
+Taxkowruek	Xinjiang	13	N	17.015	43.89257N	81.30604E	627	5	Asia/Urumqi
+Onyar	Xinjiang	13	N	26.322	43.85037N	81.78308E	769	5	Asia/Urumqi
 Fudong	Yunnan	13	N	16.754	23.12319N	100.00014E	1954	5	Asia/Shanghai
 Jianshui	Yunnan	13	N	490	24.2774N	101.224E	1939	7	Asia/Shanghai
 Tuantian	Yunnan	13	N	17.484	24.7113N	98.6532E	1373	5	Asia/Shanghai
@@ -4663,6 +4686,7 @@ Bayan Nur	Inner Mongolia	13	N	1760	40.74143N	107.38599E	1041	9	Asia/Shanghai
 Huoshilafu	Xinjiang	13	N	17.351	37.86642N	76.69579E	1585	5	Asia/Urumqi
 Gulebage	Xinjiang	13	N	22.255	38.41269N	77.23028E	1240	5	Asia/Urumqi
 Sandaoling Lutiankuang Wuqi Nongchang	Xinjiang	13	N	30.513	43.01478N	92.88279E	770	5	Asia/Urumqi
+Siyeke	Xinjiang	13	N	21.862	36.88527N	81.52298E	1425	5	Asia/Urumqi
 Tumxuk	Xinjiang	13	N	135.727	39.86984N	79.06118E	1099	7	Asia/Urumqi
 Chongzuo	Guangxi	13	N	384.905	22.38161N	107.3683E	128	7	Asia/Shanghai
 Zhakou	Guangxi	13	N	31.173	21.70656N	109.47502E	12	5	Asia/Shanghai
@@ -4782,6 +4806,20 @@ Paikeqi	Xinjiang	13	N	19.809	38.55011N	77.20825E	1211	5	Asia/Urumqi
 Tage'erqi	Xinjiang	13	N	34.554	38.54516N	77.25732E	1208	5	Asia/Urumqi
 Tuomuwusitang	Xinjiang	13	N	29.579	38.36309N	77.23151E	1236	5	Asia/Urumqi
 Wudalike	Xinjiang	13	N	31.525	38.3618N	77.12973E	1242	5	Asia/Urumqi
+Yigai'erqi	Xinjiang	13	N	27.038	38.34075N	77.46915E	1216	5	Asia/Urumqi
+Yishikuli	Xinjiang	13	N	29.93	38.48889N	77.20145E	1222	5	Asia/Urumqi
+Bayandai	Xinjiang	13	N	33.131	43.96586N	81.24852E	640	5	Asia/Urumqi
+Hudiyuzi	Xinjiang	13	N	18.537	43.92551N	81.41212E	681	5	Asia/Urumqi
+Arewusitang	Xinjiang	13	N	19.986	43.79773N	81.52435E	663	5	Asia/Urumqi
+Awuliya	Xinjiang	13	N	15.427	43.93033N	81.69317E	827	5	Asia/Urumqi
+Samuyuzi	Xinjiang	13	N	19.621	43.71947N	81.86398E	749	5	Asia/Urumqi
+Weiwu'eryuqiwen	Xinjiang	13	N	18.669	43.75598N	81.86063E	769	5	Asia/Urumqi
+Arele	Xinjiang	13	N	17.941	36.81295N	81.66687E	1420	5	Asia/Urumqi
+Jiayi	Xinjiang	13	N	17.612	36.85481N	81.63545E	1410	5	Asia/Urumqi
+Buzhake	Xinjiang	13	N	27.137	37.06568N	79.79997E	1406	5	Asia/Urumqi
+Yisilamu'awati	Xinjiang	13	N	19.828	37.58491N	80.18401E	1247	5	Asia/Urumqi
+Akesalayi	Xinjiang	13	N	27.352	37.1692N	79.68984E	1352	5	Asia/Urumqi
+Jiahanbage	Xinjiang	13	N	24.524	37.19652N	79.70572E	1341	5	Asia/Urumqi
 Zipaquira	Cundinamarca	08	N	91.235	5.02208N	74.00481W	2607	6	America/Bogota
 Zarzal	Valle del Cauca	08	N	28.761	4.39462N	76.0715W	921	5	America/Bogota
 Zaragoza	Antioquia	08	N	18.795	7.48971N	74.86919W	66	5	America/Bogota
@@ -5140,7 +5178,7 @@ Colon	Matanzas	06	N	63.882	22.72064N	80.90492W	60	6	America/Havana
 Colombia	Las Tunas	06	N	20.096	20.98812N	77.42598W	64	5	America/Havana
 Ciro Redondo	Ciego de Avila	06	N	29.56	22.01921N	78.70365W	44	5	America/Havana
 Cifuentes	Villa Clara	06	N	40.142	22.6493N	80.04935W	63	5	America/Havana
-Cienfuegos	Cienfuegos	06	R	186.644	22.14957N	80.44662W	13	7	America/Havana
+Cienfuegos	Cienfuegos	06	R	186.644	22.14681N	80.4481W	18	7	America/Havana
 Ciego de Avila	Ciego de Avila	06	R	142.027	21.84N	78.76194W	49	7	America/Havana
 Chambas	Ciego de Avila	06	N	24.114	22.19534N	78.9123W	43	5	America/Havana
 Cerro	Havana	06	N	132.351	23.10809N	82.3866W	41	7	America/Havana
@@ -6421,7 +6459,7 @@ San Pedro de Macoris	San Pedro de Macoris	06	R	217.899	18.4539N	69.30864W	6	7	Am
 San Juan de la Maguana	San Juan	06	R	72.95	18.80588N	71.22991W	418	6	America/Santo_Domingo
 San Jose de Ocoa	San Jose de Ocoa	06	R	21.148	18.54661N	70.50631W	481	5	America/Santo_Domingo
 San Francisco de Macoris	Duarte	06	R	124.763	19.30099N	70.25259W	121	7	America/Santo_Domingo
-San Fernando de Monte Cristi	Monte Cristi	06	R	17.001	19.84826N	71.64597W	16	5	America/Santo_Domingo
+San Fernando de Monte Cristi	Monte Cristi	06	R	17.001	19.84799N	71.64604W	31	5	America/Santo_Domingo
 Puerto Plata	Puerto Plata	06	R	146	19.79344N	70.6884W	34	7	America/Santo_Domingo
 Salvaleon de Higueey	La Altagracia	06	R	123.787	18.61501N	68.70798W	95	7	America/Santo_Domingo
 Salcedo	Hermanas Mirabal	06	R	45.299	19.37762N	70.41762W	196	5	America/Santo_Domingo
@@ -15399,7 +15437,7 @@ Veracruz	Veracruz	07	N	428.323	19.18095N	96.1429W	15	7	America/Mexico_City
 Venustiano Carranza	Chiapas	07	N	15.496	16.33815N	92.563W	775	5	America/Mexico_City
 Valle Hermoso	Tamaulipas	07	N	48.918	25.67207N	97.81313W	20	5	America/Monterrey
 Valladolid	Yucatan	07	N	48.973	20.68812N	88.19936W	24	5	America/Merida
-Uman	Yucatan	07	N	39.611	20.88213N	89.74649W	10	5	America/Merida
+Uman	Yucatan	07	N	39.611	20.88136N	89.74728W	15	5	America/Merida
 Tuxtla	Chiapas	07	R	537.102	16.75973N	93.11308W	526	8	America/Mexico_City
 Tuxpam de Rodriguez Cano	Veracruz	07	N	84.75	20.95777N	97.40805W	11	6	America/Mexico_City
 Tulum	Quintana Roo	07	N	18.233	20.21173N	87.46325W	5	5	America/Cancun
@@ -15493,7 +15531,7 @@ Puerto Escondido	Oaxaca	07	N	25.902	15.87037N	97.07726W	75	5	America/Mexico_City
 Puente de Ixtla	Morelos	07	N	21.098	18.61472N	99.31806W	911	5	America/Mexico_City
 Puebla	Puebla	07	R	1434.062	19.03793N	98.20346W	2143	9	America/Mexico_City
 Progreso de Alvaro Obregon	Hidalgo	07	N	17.486	20.24929N	99.18988W	1998	5	America/Mexico_City
-Progreso	Yucatan	07	N	37.369	21.28306N	89.66123W	3	5	America/Merida
+Progreso	Yucatan	07	N	37.369	21.28298N	89.66416W	1	5	America/Merida
 Poza Rica de Hidalgo	Veracruz	07	N	185.242	20.53315N	97.45946W	58	7	America/Mexico_City
 Polanco	Mexico City	07	N	50	19.43332N	99.19919W	2264	6	America/Mexico_City
 Playa del Carmen	Quintana Roo	07	N	149.923	20.6274N	87.07987W	9	7	America/Cancun
@@ -15502,7 +15540,7 @@ Peto	Yucatan	07	N	19.821	20.12776N	88.92282W	39	5	America/Merida
 Perote	Veracruz	07	N	37.516	19.56233N	97.24235W	2416	5	America/Mexico_City
 Paraiso	Tabasco	07	N	25.186	18.40116N	93.21406W	8	5	America/Mexico_City
 Papantla de Olarte	Veracruz	07	N	53.546	20.44655N	97.32494W	184	6	America/Mexico_City
-Panuco	Veracruz	07	N	40.754	22.05373N	98.18498W	16	5	America/Mexico_City
+Panuco	Veracruz	07	N	40.754	22.05378N	98.18192W	10	5	America/Mexico_City
 Palmarito Tochapan	Puebla	07	N	17.213	18.90135N	97.63833W	2157	5	America/Mexico_City
 Palenque	Chiapas	07	N	42.947	17.50953N	91.98248W	75	5	America/Mexico_City
 Pachuca de Soto	Hidalgo	07	R	256.584	20.11697N	98.73329W	2393	7	America/Mexico_City
@@ -15574,7 +15612,7 @@ Iztacalco	Mexico City	07	N	384.326	19.39528N	99.09778W	2239	7	America/Mexico_Cit
 Ixmiquilpan	Hidalgo	07	N	34.814	20.47841N	99.21697W	1711	5	America/Mexico_City
 Villa Independencia	Veracruz	07	N	15.297	20.05523N	97.05214W	71	5	America/Mexico_City
 Iguala de la Independencia	Guerrero	07	N	118.468	18.34536N	99.5413W	743	7	America/Mexico_City
-Hunucma	Yucatan	07	N	24.91	21.01723N	89.87551W	6	5	America/Merida
+Hunucma	Yucatan	07	N	24.91	21.0173N	89.87559W	6	5	America/Merida
 Huixtla	Chiapas	07	N	32.033	15.13915N	92.4641W	52	5	America/Mexico_City
 Ciudad de Huitzuco	Guerrero	07	N	17.475	18.30334N	99.33376W	942	5	America/Mexico_City
 Huimanguillo	Tabasco	07	N	27.344	17.83366N	93.38926W	37	5	America/Mexico_City
@@ -21215,7 +21253,7 @@ Yahotyn	Kiev	17	N	19.27	50.27975N	31.76246E	130	5	Europe/Kiev
 Vyshhorod	Kiev	17	N	22.08	50.58476N	30.4898E	112	5	Europe/Kiev
 Vynohradiv	Transcarpathia	17	N	25.442	48.14126N	23.03623E	137	5	Europe/Uzhgorod
 Voznesensk	Mykolayiv Oblast	17	N	34.757	47.56218N	31.33602E	9	5	Europe/Kiev
-Volochysk	Khmelnytskyy Oblast	17	N	18.802	49.53606N	26.20681E	319	5	Europe/Kiev
+Volochysk	Khmelnytskyi Oblast	17	N	18.802	49.53606N	26.20681E	319	5	Europe/Kiev
 Volnovakha	Donetsk Oblast	17	N	23.731	47.60103N	37.49674E	260	5	Europe/Kiev
 Vilnohirsk	Dnipropetrovsk Oblast	17	N	22.458	48.48416N	34.01708E	176	5	Europe/Kiev
 Vovchansk	Kharkiv	17	N	19.486	50.29078N	36.94108E	111	5	Europe/Kiev
@@ -21244,21 +21282,21 @@ Sumy	Sumy	17	R	294.456	50.9216N	34.80029E	143	7	Europe/Kiev
 Sudak	Crimea	17	N	16.597	44.84924N	34.97471E	33	5	Europe/Simferopol
 Stryi	Lviv Oblast	17	N	61.404	49.26171N	23.84721E	297	6	Europe/Kiev
 Stebnyk	Lviv Oblast	17	N	20.398	49.30098N	23.55197E	334	5	Europe/Kiev
-Starokostyantyniv	Khmelnytskyy Oblast	17	N	34.571	49.75522N	27.21229E	267	5	Europe/Kiev
+Starokostyantyniv	Khmelnytskyi Oblast	17	N	34.571	49.75522N	27.21229E	267	5	Europe/Kiev
 Starobilsk	Luhansk	17	N	22	49.27832N	38.91069E	62	5	Europe/Zaporozhye
 Kadiyivka	Luhansk	17	N	84.425	48.56818N	38.64352E	217	6	Europe/Zaporozhye
 Sokal	Lviv Oblast	17	N	20.659	50.47438N	24.28288E	198	5	Europe/Kiev
 Snizhne	Donetsk Oblast	17	N	55.587	48.02612N	38.77225E	290	6	Europe/Kiev
 Smila	Cherkasy Oblast	17	N	67.534	49.23295N	31.88427E	96	6	Europe/Kiev
 Sloviansk	Donetsk Oblast	17	N	106.972	48.84974N	37.59739E	59	7	Europe/Kiev
-Slavuta	Khmelnytskyy Oblast	17	N	35.444	50.29609N	26.86613E	218	5	Europe/Kiev
+Slavuta	Khmelnytskyi Oblast	17	N	35.444	50.29609N	26.86613E	218	5	Europe/Kiev
 Skvyra	Kiev	17	N	17.452	49.73303N	29.66426E	198	5	Europe/Kiev
 Skadovsk	Kherson Oblast	17	N	17.915	46.11313N	32.90978E	6	5	Europe/Kiev
 Synelnykove	Dnipropetrovsk Oblast	17	N	30.556	48.32362N	35.52612E	184	5	Europe/Kiev
 Simferopol	Crimea	17	N	336.46	44.95719N	34.11079E	247	7	Europe/Simferopol
 Shpola	Cherkasy Oblast	17	N	16.674	49.01291N	31.3926E	153	5	Europe/Kiev
 Shostka	Sumy	17	N	85.432	51.86296N	33.4698E	154	6	Europe/Kiev
-Shepetivka	Khmelnytskyy Oblast	17	N	41.599	50.18118N	27.06517E	255	5	Europe/Kiev
+Shepetivka	Khmelnytskyi Oblast	17	N	41.599	50.18118N	27.06517E	255	5	Europe/Kiev
 Shakhtarsk	Donetsk Oblast	17	N	71.7	48.05657N	38.43826E	227	6	Europe/Kiev
 Sevastopol	Sevastopol City	17	R	416.263	44.60795N	33.52134E	35	7	Europe/Simferopol
 Selydove	Donetsk Oblast	17	N	21.916	48.14708N	37.30032E	167	5	Europe/Kiev
@@ -21278,7 +21316,7 @@ Putyvl	Sumy	17	N	15.1	51.33745N	33.87066E	184	5	Europe/Kiev
 Pryluky	Chernihiv	17	N	62.823	50.59323N	32.38761E	127	6	Europe/Kiev
 Popasna	Luhansk	17	N	25.442	48.63328N	38.37804E	243	5	Europe/Zaporozhye
 Poltava	Poltava Oblast	17	R	288.324	49.58925N	34.55367E	160	7	Europe/Kiev
-Polonne	Khmelnytskyy Oblast	17	N	20.785	50.11944N	27.50856E	241	5	Europe/Kiev
+Polonne	Khmelnytskyi Oblast	17	N	20.785	50.11944N	27.50856E	241	5	Europe/Kiev
 Polohy	Zaporizhzhya Oblast	17	N	18.886	47.47865N	36.25463E	111	5	Europe/Zaporozhye
 Pidhorodne	Dnipropetrovsk Oblast	17	N	19.336	48.57422N	35.09702E	59	5	Europe/Kiev
 Pyriatyn	Poltava Oblast	17	N	15.391	50.24388N	32.5203E	103	5	Europe/Kiev
@@ -21301,7 +21339,7 @@ Novohrad-Volynskyi	Zhytomyr	17	N	55.925	50.59412N	27.6165E	218	6	Europe/Kiev
 Nova Kakhovka	Kherson Oblast	17	N	45.069	46.75966N	33.35591E	19	5	Europe/Kiev
 Nizhyn	Chernihiv	17	N	75.499	51.04801N	31.88688E	128	6	Europe/Kiev
 Nikopol	Dnipropetrovsk Oblast	17	N	110.669	47.56826N	34.39126E	70	7	Europe/Kiev
-Netishyn	Khmelnytskyy Oblast	17	N	36.661	50.32863N	26.64872E	197	5	Europe/Kiev
+Netishyn	Khmelnytskyi Oblast	17	N	36.661	50.32863N	26.64872E	197	5	Europe/Kiev
 Nadvirna	Ivano-Frankivsk Oblast	17	N	22.447	48.63659N	24.5714E	422	5	Europe/Kiev
 Mykolayiv	Mykolayiv Oblast	17	R	483.186	46.97625N	31.99296E	23	7	Europe/Kiev
 Mukachevo	Transcarpathia	17	N	85.881	48.44248N	22.718E	126	6	Europe/Uzhgorod
@@ -21337,7 +21375,7 @@ Yany Kapu	Crimea	17	N	30.7	45.95547N	33.79261E	5	5	Europe/Simferopol
 Krasnohrad	Kharkiv	17	N	21.426	49.37511N	35.45493E	169	5	Europe/Kiev
 Sorokyne	Luhansk	17	N	49.352	48.29235N	39.73921E	143	5	Europe/Zaporozhye
 Pokrovsk	Donetsk Oblast	17	N	68.263	48.28198N	37.17585E	199	6	Europe/Kiev
-Krasyliv	Khmelnytskyy Oblast	17	N	18.868	49.65376N	26.97211E	289	5	Europe/Kiev
+Krasyliv	Khmelnytskyi Oblast	17	N	18.868	49.65376N	26.97211E	289	5	Europe/Kiev
 Kramatorsk	Donetsk Oblast	17	N	150.084	48.73049N	37.58793E	152	7	Europe/Kiev
 Kivsharivka	Kharkiv	17	N	19.738	49.63026N	37.6775E	98	5	Europe/Kiev
 Kovel	Volyn	17	N	66.4	51.21526N	24.70867E	172	6	Europe/Kiev
@@ -21355,7 +21393,7 @@ Holubivka	Luhansk	17	N	26.838	48.63751N	38.6428E	196	5	Europe/Zaporozhye
 Kropyvnytskyy	Kirovohrad Oblast	17	R	227.413	48.50834N	32.26618E	114	7	Europe/Kiev
 Kiliya	Odessa	17	N	19.54	45.44445N	29.26396E	7	5	Europe/Kiev
 Khust	Transcarpathia	17	N	28.424	48.17193N	23.29791E	166	5	Europe/Uzhgorod
-Khmelnytskyy	Khmelnytskyy Oblast	17	R	271.263	49.41835N	26.97936E	308	7	Europe/Kiev
+Khmelnytskyi	Khmelnytskyi Oblast	17	R	271.263	49.41835N	26.97936E	308	7	Europe/Kiev
 Khmilnyk	Vinnytsya Oblast	17	N	27.707	49.5581N	27.95682E	261	5	Europe/Kiev
 Kherson	Kherson Oblast	17	R	289.096	46.63695N	32.61458E	45	7	Europe/Kiev
 Khartsyzk	Donetsk Oblast	17	N	56.367	48.04243N	38.14728E	241	6	Europe/Kiev
@@ -21363,18 +21401,18 @@ Kharkiv	Kharkiv	17	R	1430.885	49.98081N	36.25272E	113	9	Europe/Kiev
 Kerch	Crimea	17	N	148.932	45.35675N	36.47542E	3	7	Europe/Simferopol
 Kozyatyn	Vinnytsya Oblast	17	N	23.241	49.7164N	28.83858E	295	5	Europe/Kiev
 Kaniv	Cherkasy Oblast	17	N	23.742	49.75187N	31.47003E	90	5	Europe/Kiev
-Kamyianets-Podilskyy	Khmelnytskyy Oblast	17	N	99.755	48.67882N	26.58516E	219	6	Europe/Kiev
+Kamyianets-Podilskyy	Khmelnytskyi Oblast	17	N	99.755	48.67882N	26.58516E	219	6	Europe/Kiev
 Kalush	Ivano-Frankivsk Oblast	17	N	66.406	49.02398N	24.37206E	318	6	Europe/Kiev
 Kalynivka	Vinnytsya Oblast	17	N	18.907	49.46129N	28.51541E	297	5	Europe/Kiev
 Kakhovka	Kherson Oblast	17	N	35.983	46.81601N	33.47862E	28	5	Europe/Kiev
 Izium	Kharkiv	17	N	53.778	49.20697N	37.27679E	71	6	Europe/Kiev
-Izyaslav	Khmelnytskyy Oblast	17	N	16.515	50.11978N	26.82475E	229	5	Europe/Kiev
+Izyaslav	Khmelnytskyi Oblast	17	N	16.515	50.11978N	26.82475E	229	5	Europe/Kiev
 Izmail	Odessa	17	N	70.731	45.35058N	28.83751E	30	6	Europe/Kiev
 Ivano-Frankivsk	Ivano-Frankivsk Oblast	17	R	236.602	48.92312N	24.71248E	257	7	Europe/Kiev
 Irpin	Kiev	17	N	62.456	50.52175N	30.25055E	121	6	Europe/Kiev
 Ilovays'k	Donetsk Oblast	17	N	15.447	47.92498N	38.20235E	194	5	Europe/Kiev
 Chornomors'k	Odessa	17	N	58.524	46.29914N	30.65529E	21	6	Europe/Kiev
-Horodok	Khmelnytskyy Oblast	17	N	16.046	49.17209N	26.56357E	258	5	Europe/Kiev
+Horodok	Khmelnytskyi Oblast	17	N	16.046	49.17209N	26.56357E	258	5	Europe/Kiev
 Horlivka	Donetsk Oblast	17	N	278.55	48.33576N	38.05325E	282	7	Europe/Kiev
 Hlukhiv	Sumy	17	N	32.248	51.67822N	33.9162E	169	5	Europe/Kiev
 Hostomel	Kiev	17	N	17.534	50.56841N	30.2651E	109	5	Europe/Kiev
@@ -21387,7 +21425,7 @@ Fastiv	Kiev	17	N	51.143	50.0767N	29.9177E	208	6	Europe/Kiev
 Enerhodar	Zaporizhzhya Oblast	17	N	52.887	47.49048N	34.66199E	22	6	Europe/Zaporozhye
 Dzhankoi	Crimea	17	N	41.731	45.7131N	34.39273E	14	5	Europe/Simferopol
 Toretsk	Donetsk Oblast	17	N	41.758	48.39869N	37.84787E	200	5	Europe/Kiev
-Dunayivtsi	Khmelnytskyy Oblast	17	N	15.799	48.88697N	26.84816E	324	5	Europe/Kiev
+Dunayivtsi	Khmelnytskyi Oblast	17	N	15.799	48.88697N	26.84816E	324	5	Europe/Kiev
 Dubno	Rivne	17	N	37.69	50.41694N	25.73432E	199	5	Europe/Kiev
 Drohobych	Lviv Oblast	17	N	79.406	49.351N	23.5174E	294	6	Europe/Kiev
 Donetsk	Donetsk Oblast	17	R	1024.7	48.023N	37.80224E	223	9	Europe/Kiev
