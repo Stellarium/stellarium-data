@@ -95,7 +95,7 @@ CI	CIV	384	IV	Ivory Coast	Yamoussoukro	322460	25069229	AF	.ci	XOF	Franc	225			fr
 CK	COK	184	CW	Cook Islands	Avarua	240	21388	OC	.ck	NZD	Dollar	682			en-CK,mi	1899402		
 CL	CHL	152	CI	Chile	Santiago	756950	18729160	SA	.cl	CLP	Peso	56	#######	^(\d{7})$	es-CL	3895114	PE,BO,AR	
 CM	CMR	120	CM	Cameroon	Yaounde	475440	25216237	AF	.cm	XAF	Franc	237			en-CM,fr-CM	2233387	TD,CF,GA,GQ,CG,NG	
-CN	CHN	156	CH	China	Beijing	9596960	1392730000	AS	.cn	CNY	Yuan Renminbi	86	######	^(\d{6})$	zh-CN,yue,wuu,dta,ug,za	1814991	LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN	
+CN	CHN	156	CH	China	Beijing	9596960	1411778724	AS	.cn	CNY	Yuan Renminbi	86	######	^(\d{6})$	zh-CN,yue,wuu,dta,ug,za	1814991	LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN	
 CO	COL	170	CO	Colombia	Bogota	1138910	49648685	SA	.co	COP	Peso	57	######	^(\d{6})$	es-CO	3686110	EC,PE,PA,BR,VE	
 CR	CRI	188	CS	Costa Rica	San Jose	51100	4999441	NA	.cr	CRC	Colon	506	#####	^(\d{5})$	es-CR,en	3624060	PA,NI	
 CU	CUB	192	CU	Cuba	Havana	110860	11338138	NA	.cu	CUP	Peso	53	CP #####	^(?:CP)*(\d{5})$	es-CU,pap	3562981	US	
@@ -276,7 +276,7 @@ TO	TON	776	TN	Tonga	Nuku'alofa	748	103197	OC	.to	TOP	Pa'anga	676			to,en-TO	4032
 TR	TUR	792	TU	Turkey	Ankara	780580	82319724	AS	.tr	TRY	Lira	90	#####	^(\d{5})$	tr-TR,ku,diq,az,av	298795	SY,GE,IQ,IR,GR,AM,AZ,BG	
 TT	TTO	780	TD	Trinidad and Tobago	Port of Spain	5128	1389858	NA	.tt	TTD	Dollar	+1-868			en-TT,hns,fr,es,zh	3573591		
 TV	TUV	798	TV	Tuvalu	Funafuti	26	11508	OC	.tv	AUD	Dollar	688			tvl,en,sm,gil	2110297		
-TW	TWN	158	TW	Taiwan	Taipei	35980	22894384	AS	.tw	TWD	Dollar	886	#####	^(\d{5})$	zh-TW,zh,nan,hak	1668284		
+TW	TWN	158	TW	Taiwan	Taipei	35980	23451837	AS	.tw	TWD	Dollar	886	#####	^(\d{5})$	zh-TW,zh,nan,hak	1668284		
 TZ	TZA	834	TZ	Tanzania	Dodoma	945087	56318348	AF	.tz	TZS	Shilling	255			sw-TZ,en,ar	149590	MZ,KE,CD,RW,ZM,BI,UG,MW	
 UA	UKR	804	UP	Ukraine	Kyiv	603700	44622516	EU	.ua	UAH	Hryvnia	380	#####	^(\d{5})$	uk,ru-UA,rom,pl,hu	690791	PL,MD,HU,SK,BY,RO,RU	
 UG	UGA	800	UG	Uganda	Kampala	236040	42723139	AF	.ug	UGX	Shilling	256			en-UG,lg,sw,ar	226074	TZ,KE,SS,CD,RW	

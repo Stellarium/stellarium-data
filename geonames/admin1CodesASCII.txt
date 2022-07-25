@@ -753,7 +753,7 @@ DE.03	Bremen	Bremen	2944387
 DE.11	Brandenburg	Brandenburg	2945356
 DE.16	Berlin	Berlin	2950157
 DE.02	Bavaria	Bavaria	2951839
-DE.01	Baden-Württemberg	Baden-Wuerttemberg	2953481
+DE.01	Baden-Wurttemberg	Baden-Wurttemberg	2953481
 DJ.05	Tadjourah	Tadjourah	220781
 DJ.04	Obock	Obock	221525
 DJ.07	Djibouti	Djibouti	223818
@@ -2071,7 +2071,7 @@ ML.12070577	Ménaka	Menaka	12070577
 MM.12	Tanintharyi	Tanintharyi	1293118
 MM.11	Shan	Shan	1297099
 MM.10	Sagain	Sagain	1298480
-MM.17	Rangoon	Rangoon	1298822
+MM.17	Yangon	Yangon	1298822
 MM.01	Rakhine	Rakhine	1298852
 MM.16	Bago	Bago	1300463
 MM.13	Mon	Mon	1308528

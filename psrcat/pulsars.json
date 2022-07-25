@@ -705,6 +705,7 @@
 			"distance": 2.293,
 			"period": 0.00296,
 			"bperiod": 1.67,
+			"pderivative": 1.17E-20,
 			"dmeasure": 53.5,
 			"s400": 0.5,
 			"notes": "HE",
@@ -6659,6 +6660,7 @@
 		{
 			"distance": 1.717,
 			"period": 0.00241,
+			"pderivative": 0.58E-20,
 			"dmeasure": 44.9,
 			"s400": 0.3,
 			"notes": "HE",
@@ -21211,6 +21213,7 @@
 			"distance": 2.004,
 			"period": 0.00166,
 			"bperiod": 0.15,
+			"pderivative": 0.46E-20,
 			"dmeasure": 39.7,
 			"s400": 20,
 			"notes": "HE",
@@ -26889,7 +26892,7 @@
 		},
 		"PSR J1856-3754":
 		{
-			"parallax": 8.16,
+			"parallax": 8.2,
 			"frequency": 0.1417393685,
 			"pfrequency": -5.98E-16,
 			"notes": "XINS,NRAD",
@@ -34628,6 +34631,7 @@
 			"distance": 2.048,
 			"period": 0.00429,
 			"bperiod": 0.12,
+			"pderivative": 2.10E-20,
 			"dmeasure": 34.6,
 			"notes": "HE",
 			"RA": "20h47m10.246s",
@@ -36455,7 +36459,7 @@
 			"RA": "23h22m34.64004s",
 			"DE": "-26d50m58.3171s"
 		},
-		"PSR J2323+1241":
+		"PSR J2323+1214":
 		{
 			"distance": 1.668,
 			"dmeasure": 29.0,
