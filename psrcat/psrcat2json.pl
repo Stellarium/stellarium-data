@@ -103,7 +103,12 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	$flag = 0;
 	$notes = "";
 	$glitch = 0;
+	$psrbname = "";
 	for ($j=0;$j<scalar(@lines);$j++) {
+		if ($lines[$j] =~ /^PSRB(\s+)B([\d]{4})([\+\-]{1})([\d]{2,4})([\w]{0,1})(\s+)/) {
+			$psrbname = "PSR B".$2.$3.$4.$5;
+		}
+
 		if ($lines[$j] =~ /^PSRJ(\s+)J([\d]{4})([\+\-]{1})([\d]{2,4})([\w]{0,1})(\s+)/) {
 			$name = $2.$3.$4.$5;
 			$flag = 1;
@@ -222,6 +227,9 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	$out .= $tab2."{\n";
 	if (exists $psrname{$jname}) {
 		$out .= $tab3."\"name\": \"".$psrname{$jname}."\",\n";
+	}
+	if ($psrbname ne '') {
+		$out .= $tab3."\"bdesignation\": \"".$psrbname."\",\n";
 	}
 	if ($parallax > 0) {
 		$out .= $tab3."\"parallax\": ".$parallax.",\n";
