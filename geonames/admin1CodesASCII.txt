@@ -1238,7 +1238,7 @@ HT.11	Ouest	Ouest	3719432
 HT.03	Nord-Ouest	Nord-Ouest	3719536
 HT.10	Nord-Est	Nord-Est	3719540
 HT.09	Nord	Nord	3719543
-HT.14	GrandʼAnse	Grandans	3724613
+HT.14	GrandʼAnse	Grand'Anse	3724613
 HT.07	Centre	Centre	3728069
 HT.06	Artibonite	Artibonite	3731053
 HT.15	Nippes	Nippes	7115999
