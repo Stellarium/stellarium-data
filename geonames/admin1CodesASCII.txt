@@ -1639,7 +1639,7 @@ KP.06	Hwanghae-namdo	Hwanghae-namdo	1876884
 KP.07	Hwanghae-bukto	Hwanghae-bukto	1876888
 KP.03	Hamgyŏng-namdo	Hamgyong-namdo	1877450
 KP.13	Yanggang-do	Yanggang-do	2039332
-KP.17	Hamgyŏng-bukto	Hamgyong-bukto	2044245
+KP.17	Hambuk	Hambuk	2044245
 KP.01	Chagang-do	Chagang-do	2045265
 KP.18	Rason	Rason	2054927
 KR.21	Ulsan	Ulsan	1833742

@@ -335,8 +335,8 @@ IM	Europe/Isle_of_Man	0.0	1.0	0.0
 TR	Europe/Istanbul	3.0	3.0	3.0
 JE	Europe/Jersey	0.0	1.0	0.0
 RU	Europe/Kaliningrad	2.0	2.0	2.0
-UA	Europe/Kiev	2.0	3.0	2.0
 RU	Europe/Kirov	3.0	3.0	3.0
+UA	Europe/Kyiv	2.0	3.0	2.0
 PT	Europe/Lisbon	0.0	1.0	0.0
 SI	Europe/Ljubljana	1.0	2.0	1.0
 GB	Europe/London	0.0	1.0	0.0
