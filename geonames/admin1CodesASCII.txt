@@ -1296,7 +1296,7 @@ ID.39	West Papua	West Papua	1996549
 ID.41	West Sulawesi	West Sulawesi	1996550
 ID.40	Riau Islands	Riau Islands	1996551
 ID.42	North Kalimantan	North Kalimantan	8604684
-IE.C	Connaught	Connaught	7521313
+IE.C	Connacht	Connacht	7521313
 IE.L	Leinster	Leinster	7521314
 IE.M	Munster	Munster	7521315
 IE.U	Ulster	Ulster	7521316
