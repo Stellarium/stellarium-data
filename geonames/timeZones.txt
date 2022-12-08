@@ -87,7 +87,7 @@ VE	America/Caracas	-4.0	-4.0	-4.0
 GF	America/Cayenne	-3.0	-3.0	-3.0
 KY	America/Cayman	-5.0	-5.0	-5.0
 US	America/Chicago	-6.0	-5.0	-6.0
-MX	America/Chihuahua	-7.0	-6.0	-7.0
+MX	America/Chihuahua	-7.0	-6.0	-6.0
 CR	America/Costa_Rica	-6.0	-6.0	-6.0
 CA	America/Creston	-7.0	-7.0	-7.0
 BR	America/Cuiaba	-4.0	-4.0	-4.0
@@ -158,7 +158,7 @@ US	America/North_Dakota/Beulah	-6.0	-5.0	-6.0
 US	America/North_Dakota/Center	-6.0	-5.0	-6.0
 US	America/North_Dakota/New_Salem	-6.0	-5.0	-6.0
 GL	America/Nuuk	-3.0	-2.0	-3.0
-MX	America/Ojinaga	-7.0	-6.0	-7.0
+MX	America/Ojinaga	-7.0	-6.0	-6.0
 PA	America/Panama	-5.0	-5.0	-5.0
 CA	America/Pangnirtung	-5.0	-4.0	-5.0
 SR	America/Paramaribo	-3.0	-3.0	-3.0
@@ -212,7 +212,7 @@ AQ	Antarctica/Vostok	6.0	6.0	6.0
 SJ	Arctic/Longyearbyen	1.0	2.0	1.0
 YE	Asia/Aden	3.0	3.0	3.0
 KZ	Asia/Almaty	6.0	6.0	6.0
-JO	Asia/Amman	2.0	3.0	2.0
+JO	Asia/Amman	2.0	3.0	3.0
 RU	Asia/Anadyr	12.0	12.0	12.0
 KZ	Asia/Aqtau	5.0	5.0	5.0
 KZ	Asia/Aqtobe	5.0	5.0	5.0
@@ -229,7 +229,7 @@ BN	Asia/Brunei	8.0	8.0	8.0
 RU	Asia/Chita	9.0	9.0	9.0
 MN	Asia/Choibalsan	8.0	8.0	8.0
 LK	Asia/Colombo	5.5	5.5	5.5
-SY	Asia/Damascus	2.0	3.0	2.0
+SY	Asia/Damascus	2.0	3.0	3.0
 BD	Asia/Dhaka	6.0	6.0	6.0
 TL	Asia/Dili	9.0	9.0	9.0
 AE	Asia/Dubai	4.0	4.0	4.0

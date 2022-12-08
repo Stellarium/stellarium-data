@@ -101,7 +101,7 @@ CR	CRI	188	CS	Costa Rica	San Jose	51100	4999441	NA	.cr	CRC	Colon	506	#####	^(\d{
 CU	CUB	192	CU	Cuba	Havana	110860	11338138	NA	.cu	CUP	Peso	53	CP #####	^(?:CP)*(\d{5})$	es-CU,pap	3562981	US	
 CV	CPV	132	CV	Cabo Verde	Praia	4033	543767	AF	.cv	CVE	Escudo	238	####	^(\d{4})$	pt-CV	3374766		
 CW	CUW	531	UC	Curacao	 Willemstad	444	159849	NA	.cw	ANG	Guilder	599			nl,pap	7626836		
-CX	CXR	162	KT	Christmas Island	Flying Fish Cove	135	1500	OC	.cx	AUD	Dollar	61	####	^(\d{4})$	en,zh,ms-CC	2078138		
+CX	CXR	162	KT	Christmas Island	Flying Fish Cove	135	1500	OC	.cx	AUD	Dollar	61	####	^(\d{4})$	en,zh,ms-CX	2078138		
 CY	CYP	196	CY	Cyprus	Nicosia	9250	1189265	EU	.cy	EUR	Euro	357	####	^(\d{4})$	el-CY,tr-CY,en	146669		
 CZ	CZE	203	EZ	Czechia	Prague	78866	10625695	EU	.cz	CZK	Koruna	420	### ##	^\d{3}\s?\d{2}$	cs,sk	3077311	PL,DE,SK,AT	
 DE	DEU	276	GM	Germany	Berlin	357021	82927922	EU	.de	EUR	Euro	49	#####	^(\d{5})$	de	2921044	CH,PL,NL,DK,BE,CZ,LU,FR,AT	
@@ -114,7 +114,7 @@ EC	ECU	218	EC	Ecuador	Quito	283560	17084357	SA	.ec	USD	Dollar	593	@####@	^([a-zA
 EE	EST	233	EN	Estonia	Tallinn	45226	1320884	EU	.ee	EUR	Euro	372	#####	^(\d{5})$	et,ru	453733	RU,LV	
 EG	EGY	818	EG	Egypt	Cairo	1001450	98423595	AF	.eg	EGP	Pound	20	#####	^(\d{5})$	ar-EG,en,fr	357994	LY,SD,IL,PS	
 EH	ESH	732	WI	Western Sahara	El-Aaiun	266000	273008	AF	.eh	MAD	Dirham	212			ar,mey	2461445	DZ,MR,MA	
-ER	ERI	232	ER	Eritrea	Asmara	121320	0	AF	.er	ERN	Nakfa	291			aa-ER,ar,tig,kun,ti-ER	338010	ET,SD,DJ	
+ER	ERI	232	ER	Eritrea	Asmara	121320	6209262	AF	.er	ERN	Nakfa	291			aa-ER,ar,tig,kun,ti-ER	338010	ET,SD,DJ	
 ES	ESP	724	SP	Spain	Madrid	504782	46723749	EU	.es	EUR	Euro	34	#####	^(\d{5})$	es-ES,ca,gl,eu,oc	2510769	AD,PT,GI,FR,MA	
 ET	ETH	231	ET	Ethiopia	Addis Ababa	1127127	109224559	AF	.et	ETB	Birr	251	####	^(\d{4})$	am,en-ET,om-ET,ti-ET,so-ET,sid	337996	ER,KE,SD,SS,SO,DJ	
 FI	FIN	246	FI	Finland	Helsinki	337030	5518050	EU	.fi	EUR	Euro	358	#####	^(?:FI)*(\d{5})$	fi-FI,sv-FI,smn	660013	NO,RU,SE	
@@ -225,7 +225,7 @@ PA	PAN	591	PM	Panama	Panama City	78200	4176873	NA	.pa	PAB	Balboa	507			es-PA,en	
 PE	PER	604	PE	Peru	Lima	1285220	31989256	SA	.pe	PEN	Sol	51	#####	^(\d{5})$	es-PE,qu,ay	3932488	EC,CL,BO,BR,CO	
 PF	PYF	258	FP	French Polynesia	Papeete	4167	277679	OC	.pf	XPF	Franc	689	#####	^((97|98)7\d{2})$	fr-PF,ty	4030656		
 PG	PNG	598	PP	Papua New Guinea	Port Moresby	462840	8606316	OC	.pg	PGK	Kina	675	###	^(\d{3})$	en-PG,ho,meu,tpi	2088628	ID	
-PH	PHL	608	RP	Philippines	Manila	300000	106651922	AS	.ph	PHP	Peso	63	####	^(\d{4})$	tl,en-PH,fil,ceb,tgl,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx	1694008		
+PH	PHL	608	RP	Philippines	Manila	300000	106651922	AS	.ph	PHP	Peso	63	####	^(\d{4})$	tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx	1694008		
 PK	PAK	586	PK	Pakistan	Islamabad	803940	212215030	AS	.pk	PKR	Rupee	92	#####	^(\d{5})$	ur-PK,en-PK,pa,sd,ps,brh	1168579	CN,AF,IR,IN	
 PL	POL	616	PL	Poland	Warsaw	312685	37978548	EU	.pl	PLN	Zloty	48	##-###	^\d{2}-\d{3}$	pl	798544	DE,LT,SK,CZ,BY,UA,RU	
 PM	SPM	666	SB	Saint Pierre and Miquelon	Saint-Pierre	242	7012	NA	.pm	EUR	Euro	508	#####	^(97500)$	fr-PM	3424932		
@@ -239,7 +239,7 @@ QA	QAT	634	QA	Qatar	Doha	11437	2781677	AS	.qa	QAR	Rial	974			ar-QA,es	289688	SA
 RE	REU	638	RE	Reunion	Saint-Denis	2517	776948	AF	.re	EUR	Euro	262	#####	^((97|98)(4|7|8)\d{2})$	fr-RE	935317		
 RO	ROU	642	RO	Romania	Bucharest	237500	19473936	EU	.ro	RON	Leu	40	######	^(\d{6})$	ro,hu,rom	798549	MD,HU,UA,BG,RS	
 RS	SRB	688	RI	Serbia	Belgrade	88361	6982084	EU	.rs	RSD	Dinar	381	######	^(\d{6})$	sr,hu,bs,rom	6290252	AL,HU,MK,RO,HR,BA,BG,ME,XK	
-RU	RUS	643	RS	Russia	Moscow	17100000	144478050	EU	.ru	RUB	Ruble	7	######	^(\d{6})$	ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,av,sah,nog	2017370	GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP	
+RU	RUS	643	RS	Russia	Moscow	17100000	144478050	EU	.ru	RUB	Ruble	7	######	^(\d{6})$	ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,kbd,krc,av,sah,nog	2017370	GE,CN,BY,UA,KZ,LV,PL,EE,LT,FI,MN,NO,AZ,KP	
 RW	RWA	646	RW	Rwanda	Kigali	26338	12301939	AF	.rw	RWF	Franc	250			rw,en-RW,fr-RW,sw	49518	TZ,CD,BI,UG	
 SA	SAU	682	SA	Saudi Arabia	Riyadh	1960582	33699947	AS	.sa	SAR	Rial	966	#####	^(\d{5})$	ar-SA	102358	QA,OM,IQ,YE,JO,AE,KW	
 SB	SLB	090	BP	Solomon Islands	Honiara	28450	652858	OC	.sb	SBD	Dollar	677			en-SB,tpi	2103350		

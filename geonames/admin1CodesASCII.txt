@@ -1907,7 +1907,7 @@ MD.58	Transnistria	Transnistria	858889
 MD.51	Găgăuzia	Gagauzia	858895
 MD.62	Bender Municipality	Bender Municipality	861487
 MD.60	Bălţi	Balti	873909
-ME.17	Opština Rožaje	Opstina Rozaje	786233
+ME.17	Rožaje Municipality	Rozaje Municipality	786233
 ME.21	Opština Žabljak	Opstina Zabljak	3186995
 ME.20	Ulcinj	Ulcinj	3188514
 ME.19	Tivat	Tivat	3189071
@@ -2225,7 +2225,7 @@ MV.44	Raa Atoll	Raa Atoll	1281918
 MV.43	Noonu Atoll	Noonu Atoll	1281937
 MV.42	Gnyaviyani Atoll	Gnyaviyani Atoll	1281945
 MV.41	Meemu Atholhu	Meemu Atholhu	1281985
-MV.39	Lhaviyani Atholhu	Lhaviyani Atholhu	1282096
+MV.39	Faadhippolhu Atoll	Faadhippolhu Atoll	1282096
 MV.05	Laamu	Laamu	1282101
 MV.38	Kaafu Atoll	Kaafu Atoll	1282208
 MV.37	Haa Dhaalu Atholhu	Haa Dhaalu Atholhu	1282293
@@ -2363,20 +2363,20 @@ NG.42	Osun	Osun	2597365
 NG.43	Taraba	Taraba	2597366
 NG.44	Yobe	Yobe	2597367
 NI.15	Rivas	Rivas	3617051
-NI.14	Río San Juan	Rio San Juan	3617056
-NI.13	Nueva Segovia	Nueva Segovia	3617458
-NI.12	Matagalpa	Matagalpa	3617707
-NI.11	Masaya	Masaya	3617722
-NI.10	Managua	Managua	3617762
-NI.09	Madriz	Madriz	3617796
-NI.08	León	Leon	3618029
-NI.07	Jinotega	Jinotega	3618928
-NI.06	Granada	Granada	3619135
-NI.05	Estelí	Esteli	3619193
-NI.04	Chontales	Chontales	3620368
+NI.14	Río San Juan Department	Rio San Juan Department	3617056
+NI.13	Nueva Segovia Department	Nueva Segovia Department	3617458
+NI.12	Matagalpa Department	Matagalpa Department	3617707
+NI.11	Masaya Department	Masaya Department	3617722
+NI.10	Managua Department	Managua Department	3617762
+NI.09	Madriz Department	Madriz Department	3617796
+NI.08	León Department	Leon Department	3618029
+NI.07	Jinotega Department	Jinotega Department	3618928
+NI.06	Granada Department	Granada Department	3619135
+NI.05	Estelí Department	Esteli Department	3619193
+NI.04	Chontales Department	Chontales Department	3620368
 NI.03	Chinandega	Chinandega	3620380
-NI.02	Carazo	Carazo	3620481
-NI.01	Boaco	Boaco	3620673
+NI.02	Carazo Department	Carazo Department	3620481
+NI.01	Boaco Department	Boaco Department	3620673
 NI.17	North Caribbean Coast	North Caribbean Coast	3830307
 NI.18	South Caribbean Coast	South Caribbean Coast	3830308
 NL.11	South Holland	South Holland	2743698
@@ -2459,11 +2459,11 @@ PA.06	Herrera	Herrera	3708710
 PA.05	Darién	Darien	3711671
 PA.04	Colón	Colon	3712073
 PA.03	Coclé	Cocle	3712162
-PA.02	Chiriquí	Chiriqui	3712410
-PA.01	Bocas del Toro	Bocas del Toro	3713954
+PA.02	Chiriquí Province	Chiriqui Province	3712410
+PA.01	Bocas del Toro Province	Bocas del Toro Province	3713954
 PA.11	Emberá	Embera	7303686
 PA.12	Ngöbe-Buglé	Ngoebe-Bugle	7303688
-PA.13	Panamá Oeste	Panama Oeste	11353126
+PA.13	Panamá Oeste Province	Panama Oeste Province	11353126
 PE.25	Ucayali	Ucayali	3691099
 PE.24	Tumbes	Tumbes	3691146
 PE.22	San Martín	San Martin	3692385
@@ -2748,17 +2748,17 @@ RS.VO	Vojvodina	Vojvodina	784272
 RS.SE	Central Serbia	Central Serbia	785958
 RU.88	Yaroslavl Oblast	Yaroslavl Oblast	468898
 RU.86	Voronezh Oblast	Voronezh Oblast	472039
-RU.85	Vologda	Vologda	472454
+RU.85	Vologda Oblast	Vologda Oblast	472454
 RU.84	Volgograd Oblast	Volgograd Oblast	472755
 RU.81	Ulyanovsk	Ulyanovsk	479119
 RU.80	Udmurtiya Republic	Udmurtiya Republic	479613
-RU.77	Tver’ Oblast	Tver' Oblast	480041
-RU.76	Tula	Tula	480508
+RU.77	Tver Oblast	Tver Oblast	480041
+RU.76	Tula Oblast	Tula Oblast	480508
 RU.73	Tatarstan Republic	Tatarstan Republic	484048
-RU.72	Tambov	Tambov	484638
-RU.70	Stavropol Krai	Stavropol Krai	487839
-RU.69	Smolenskaya Oblast’	Smolenskaya Oblast'	491684
-RU.67	Saratovskaya Oblast	Saratovskaya Oblast	498671
+RU.72	Tambov Oblast	Tambov Oblast	484638
+RU.70	Stavropol Kray	Stavropol Kray	487839
+RU.69	Smolensk Oblast	Smolensk Oblast	491684
+RU.67	Saratov Oblast	Saratov Oblast	498671
 RU.65	Samara Oblast	Samara Oblast	499068
 RU.62	Ryazan Oblast	Ryazan Oblast	500059
 RU.61	Rostov	Rostov	501165
@@ -2801,12 +2801,12 @@ RU.08	Bashkortostan Republic	Bashkortostan Republic	578853
 RU.07	Astrakhan Oblast	Astrakhan Oblast	580491
 RU.06	Arkhangelskaya	Arkhangelskaya	581043
 RU.01	Adygeya Republic	Adygeya Republic	584222
-RU.83	Vladimir	Vladimir	826294
+RU.83	Vladimir Oblast	Vladimir Oblast	826294
 RU.87	Yamalo-Nenets	Yamalo-Nenets	1486462
-RU.78	Tyumen’ Oblast	Tyumen' Oblast	1488747
+RU.78	Tyumen Oblast	Tyumen Oblast	1488747
 RU.79	Republic of Tyva	Republic of Tyva	1488873
 RU.75	Tomsk Oblast	Tomsk Oblast	1489421
-RU.71	Sverdlovsk	Sverdlovsk	1490542
+RU.71	Sverdlovsk Oblast	Sverdlovsk Oblast	1490542
 RU.54	Omsk Oblast	Omsk Oblast	1496152
 RU.53	Novosibirsk Oblast	Novosibirsk Oblast	1496745
 RU.40	Kurgan Oblast	Kurgan Oblast	1501312
@@ -2828,7 +2828,7 @@ RU.64	Sakhalin Oblast	Sakhalin Oblast	2121529
 RU.44	Magadan Oblast	Magadan Oblast	2123627
 RU.92	Kamchatka	Kamchatka	2125072
 RU.15	Chukotka	Chukotka	2126099
-RU.93	Zabaykalsky Krai	Zabaykalsky Krai	7779061
+RU.93	Zabaykalskiy (Transbaikal) Kray	Zabaykalskiy (Transbaikal) Kray	7779061
 RW.11	Eastern Province	Eastern Province	6413337
 RW.12	Kigali	Kigali	6413338
 RW.13	Northern Province	Northern Province	6413339
