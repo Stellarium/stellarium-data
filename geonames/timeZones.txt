@@ -88,6 +88,7 @@ GF	America/Cayenne	-3.0	-3.0	-3.0
 KY	America/Cayman	-5.0	-5.0	-5.0
 US	America/Chicago	-6.0	-5.0	-6.0
 MX	America/Chihuahua	-7.0	-6.0	-6.0
+MX	America/Ciudad_Juarez	-7.0	-6.0	-7.0
 CR	America/Costa_Rica	-6.0	-6.0	-6.0
 CA	America/Creston	-7.0	-7.0	-7.0
 BR	America/Cuiaba	-4.0	-4.0	-4.0
@@ -151,7 +152,6 @@ UY	America/Montevideo	-3.0	-3.0	-3.0
 MS	America/Montserrat	-4.0	-4.0	-4.0
 BS	America/Nassau	-5.0	-4.0	-5.0
 US	America/New_York	-5.0	-4.0	-5.0
-CA	America/Nipigon	-5.0	-4.0	-5.0
 US	America/Nome	-9.0	-8.0	-9.0
 BR	America/Noronha	-2.0	-2.0	-2.0
 US	America/North_Dakota/Beulah	-6.0	-5.0	-6.0
@@ -160,7 +160,6 @@ US	America/North_Dakota/New_Salem	-6.0	-5.0	-6.0
 GL	America/Nuuk	-3.0	-2.0	-3.0
 MX	America/Ojinaga	-7.0	-6.0	-6.0
 PA	America/Panama	-5.0	-5.0	-5.0
-CA	America/Pangnirtung	-5.0	-4.0	-5.0
 SR	America/Paramaribo	-3.0	-3.0	-3.0
 US	America/Phoenix	-7.0	-7.0	-7.0
 HT	America/Port-au-Prince	-5.0	-4.0	-5.0
@@ -168,7 +167,6 @@ TT	America/Port_of_Spain	-4.0	-4.0	-4.0
 BR	America/Porto_Velho	-4.0	-4.0	-4.0
 PR	America/Puerto_Rico	-4.0	-4.0	-4.0
 CL	America/Punta_Arenas	-3.0	-3.0	-3.0
-CA	America/Rainy_River	-6.0	-5.0	-6.0
 CA	America/Rankin_Inlet	-6.0	-5.0	-6.0
 BR	America/Recife	-3.0	-3.0	-3.0
 CA	America/Regina	-6.0	-6.0	-6.0
@@ -189,7 +187,6 @@ VC	America/St_Vincent	-4.0	-4.0	-4.0
 CA	America/Swift_Current	-6.0	-6.0	-6.0
 HN	America/Tegucigalpa	-6.0	-6.0	-6.0
 GL	America/Thule	-4.0	-3.0	-4.0
-CA	America/Thunder_Bay	-5.0	-4.0	-5.0
 MX	America/Tijuana	-8.0	-7.0	-8.0
 CA	America/Toronto	-5.0	-4.0	-5.0
 VG	America/Tortola	-4.0	-4.0	-4.0
@@ -364,7 +361,6 @@ SE	Europe/Stockholm	1.0	2.0	1.0
 EE	Europe/Tallinn	2.0	3.0	2.0
 AL	Europe/Tirane	1.0	2.0	1.0
 RU	Europe/Ulyanovsk	4.0	4.0	4.0
-UA	Europe/Uzhgorod	2.0	3.0	2.0
 LI	Europe/Vaduz	1.0	2.0	1.0
 VA	Europe/Vatican	1.0	2.0	1.0
 AT	Europe/Vienna	1.0	2.0	1.0
@@ -372,7 +368,6 @@ LT	Europe/Vilnius	2.0	3.0	2.0
 RU	Europe/Volgograd	3.0	3.0	3.0
 PL	Europe/Warsaw	1.0	2.0	1.0
 HR	Europe/Zagreb	1.0	2.0	1.0
-UA	Europe/Zaporozhye	2.0	3.0	2.0
 CH	Europe/Zurich	1.0	2.0	1.0
 MG	Indian/Antananarivo	3.0	3.0	3.0
 IO	Indian/Chagos	6.0	6.0	6.0

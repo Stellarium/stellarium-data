@@ -1115,28 +1115,28 @@ GR.ESYE42	South Aegean	South Aegean	6697808
 GR.ESYE14	Thessaly	Thessaly	6697809
 GR.ESYE23	West Greece	West Greece	6697810
 GR.ESYE13	West Macedonia	West Macedonia	6697811
-GT.22	Zacapa	Zacapa	3587586
-GT.21	Totonicapán	Totonicapan	3588257
+GT.22	Zacapa Department	Zacapa Department	3587586
+GT.21	Totonicapán Department	Totonicapan Department	3588257
 GT.20	Suchitepeque	Suchitepeque	3588668
-GT.19	Sololá	Solola	3588697
-GT.18	Santa Rosa	Santa Rosa	3589172
-GT.17	San Marcos	San Marcos	3589801
-GT.16	Sacatepéquez	Sacatepequez	3590686
+GT.19	Sololá Department	Solola Department	3588697
+GT.18	Santa Rosa Department	Santa Rosa Department	3589172
+GT.17	San Marcos Department	San Marcos Department	3589801
+GT.16	Sacatepéquez Department	Sacatepequez Department	3590686
 GT.15	Retalhuleu	Retalhuleu	3590857
-GT.14	Quiché	Quiche	3590964
-GT.13	Quetzaltenango	Quetzaltenango	3590978
-GT.12	Petén	Peten	3591410
+GT.14	Quiché Department	Quiche Department	3590964
+GT.13	Quetzaltenango Department	Quetzaltenango Department	3590978
+GT.12	Petén Department	Peten Department	3591410
 GT.11	Jutiapa	Jutiapa	3595067
 GT.10	Jalapa	Jalapa	3595236
-GT.09	Izabal	Izabal	3595259
+GT.09	Izabal Department	Izabal Department	3595259
 GT.08	Huehuetenango	Huehuetenango	3595415
-GT.07	Guatemala	Guatemala	3595530
+GT.07	Guatemala Department	Guatemala Department	3595530
 GT.06	Escuintla	Escuintla	3595802
-GT.05	El Progreso	El Progreso	3596416
-GT.04	Chiquimula	Chiquimula	3598464
-GT.03	Chimaltenango	Chimaltenango	3598571
-GT.02	Baja Verapaz	Baja Verapaz	3599602
-GT.01	Alta Verapaz	Alta Verapaz	3599773
+GT.05	El Progreso Department	El Progreso Department	3596416
+GT.04	Chiquimula Department	Chiquimula Department	3598464
+GT.03	Chimaltenango Department	Chimaltenango Department	3598571
+GT.02	Zacapa Department	Zacapa Department	3599602
+GT.01	Alta Verapaz Department	Alta Verapaz Department	3599773
 GU.PI	Piti	Piti	4038478
 GU.SR	Santa Rita	Santa Rita	4038555
 GU.SJ	Sinajana	Sinajana	4038590
@@ -1296,6 +1296,9 @@ ID.39	West Papua	West Papua	1996549
 ID.41	West Sulawesi	West Sulawesi	1996550
 ID.40	Riau Islands	Riau Islands	1996551
 ID.42	North Kalimantan	North Kalimantan	8604684
+ID.PT	Central Papua	Central Papua	12503511
+ID.PE	Highland Papua	Highland Papua	12503512
+ID.PS	South Papua	South Papua	12503513
 IE.C	Connacht	Connacht	7521313
 IE.L	Leinster	Leinster	7521314
 IE.M	Munster	Munster	7521315
@@ -1535,12 +1538,12 @@ KE.54	Wajir	Wajir	178440
 KE.52	Uasin Gishu	Uasin Gishu	178837
 KE.51	Turkana	Turkana	178914
 KE.50	Trans Nzoia	Trans Nzoia	179068
-KE.49	Tharaka - Nithi	Tharaka District	179380
+KE.49	Tharaka - Nithi	Tharaka - Nithi	179380
 KE.48	Tana River	Tana River	179585
 KE.46	Siaya	Siaya	180320
 KE.45	Samburu	Samburu	180782
 KE.05	Nairobi Area	Nairobi Area	184742
-KE.38	Murang'A	Murang'a District	185578
+KE.38	Murang'A	Murang'A	185578
 KE.37	Mombasa	Mombasa	186298
 KE.35	Meru	Meru	186824
 KE.34	Marsabit	Marsabit	187583
@@ -1575,7 +1578,7 @@ KE.11	Bomet	Bomet	7667666
 KE.36	Migori	Migori	7667678
 KE.39	Nakuru	Nakuru	7668902
 KE.41	Narok	Narok	7668904
-KE.42	Nyamira	Nyamira District	7806857
+KE.42	Nyamira	Nyamira	7806857
 KE.40	Nandi	Nandi	8051212
 KG.08	Osh	Osh	1346798
 KG.09	Batken	Batken	1463580
@@ -3555,32 +3558,32 @@ TZ.29	Katavi	Katavi	8469240
 TZ.30	Njombe	Njombe	8469241
 TZ.32	Songwe	Songwe	11124984
 UA.27	Zhytomyr	Zhytomyr	686966
-UA.26	Zaporizhzhya Oblast	Zaporizhzhya Oblast	687699
+UA.26	Zaporizhzhia	Zaporizhzhia	687699
 UA.25	Transcarpathia	Transcarpathia	687869
 UA.24	Volyn	Volyn	689064
-UA.23	Vinnytsya Oblast	Vinnytsya Oblast	689559
-UA.22	Ternopil Oblast	Ternopil Oblast	691649
+UA.23	Vinnytsia	Vinnytsia	689559
+UA.22	Ternopil	Ternopil	691649
 UA.21	Sumy	Sumy	692196
 UA.20	Sevastopol City	Sevastopol City	694422
 UA.19	Rivne	Rivne	695592
-UA.18	Poltava Oblast	Poltava Oblast	696634
+UA.18	Poltava	Poltava	696634
 UA.17	Odessa	Odessa	698738
-UA.16	Mykolayiv Oblast	Mykolayiv Oblast	700567
-UA.15	Lviv Oblast	Lviv Oblast	702549
+UA.16	Mykolaiv	Mykolaiv	700567
+UA.15	Lviv	Lviv	702549
 UA.14	Luhansk	Luhansk	702657
 UA.13	Kiev	Kiev	703446
 UA.12	Kyiv City	Kyiv City	703447
 UA.11	Crimea	Crimea	703883
-UA.10	Kirovohrad Oblast	Kirovohrad Oblast	705811
-UA.09	Khmelnytskyi Oblast	Khmelnytskyi Oblast	706370
-UA.08	Kherson Oblast	Kherson Oblast	706442
+UA.10	Kirovohrad	Kirovohrad	705811
+UA.09	Khmelnytskyi	Khmelnytskyi	706370
+UA.08	Kherson	Kherson	706442
 UA.07	Kharkiv	Kharkiv	706482
-UA.06	Ivano-Frankivsk Oblast	Ivano-Frankivsk Oblast	707470
-UA.05	Donetsk Oblast	Donetsk Oblast	709716
-UA.04	Dnipropetrovsk Oblast	Dnipropetrovsk Oblast	709929
-UA.03	Chernivtsi Oblast	Chernivtsi Oblast	710720
+UA.06	Ivano-Frankivsk	Ivano-Frankivsk	707470
+UA.05	Donetsk	Donetsk	709716
+UA.04	Dnipropetrovsk	Dnipropetrovsk	709929
+UA.03	Chernivtsi	Chernivtsi	710720
 UA.02	Chernihiv	Chernihiv	710734
-UA.01	Cherkasy Oblast	Cherkasy Oblast	710802
+UA.01	Cherkasy	Cherkasy	710802
 UG.C	Central Region	Central Region	234594
 UG.E	Eastern Region	Eastern Region	8260673
 UG.N	Northern Region	Northern Region	8260674
