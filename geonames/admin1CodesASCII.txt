@@ -68,18 +68,18 @@ AI.11205441	Island Harbour	Island Harbour	11205441
 AI.11205442	George Hill	George Hill	11205442
 AI.11205443	Stoney Ground	Stoney Ground	11205443
 AI.11205444	The Farrington	The Farrington	11205444
-AL.40	Berat	Berat	865730
-AL.41	Dibër	Diber	865731
-AL.43	Elbasan	Elbasan	865732
-AL.45	Gjirokastër	Gjirokaster	865733
-AL.46	Korçë	Korce	865734
-AL.47	Kukës	Kukes	865735
-AL.42	Durrës	Durres	3344947
-AL.44	Fier	Fier	3344948
-AL.48	Lezhë	Lezhe	3344949
-AL.49	Shkodër	Shkoder	3344950
+AL.40	Berat County	Berat County	865730
+AL.41	Dibër County	Diber County	865731
+AL.43	Elbasan County	Elbasan County	865732
+AL.45	Gjirokastër County	Gjirokaster County	865733
+AL.46	Korçë County	Korce County	865734
+AL.47	Kukës County	Kukes County	865735
+AL.42	Durrës County	Durres County	3344947
+AL.44	Fier County	Fier County	3344948
+AL.48	Lezhë County	Lezhe County	3344949
+AL.49	Shkodër County	Shkoder County	3344950
 AL.50	Tirana	Tirana	3344951
-AL.51	Vlorë	Vlore	3344952
+AL.51	Vlorë County	Vlore County	3344952
 AM.02	Ararat	Ararat	409313
 AM.08	Syunik	Syunik	409314
 AM.10	Vayots Dzor	Vayots Dzor	409315
@@ -344,15 +344,15 @@ BN.04	Tutong	Tutong	1820068
 BN.03	Temburong	Temburong	1820106
 BN.02	Brunei-Muara District	Brunei-Muara District	1820818
 BN.01	Belait	Belait	1820869
-BO.09	Tarija	Tarija	3903319
-BO.08	Santa Cruz	Santa Cruz	3904907
-BO.07	Potosí	Potosi	3907580
+BO.09	Tarija Department	Tarija Department	3903319
+BO.08	Santa Cruz Department	Santa Cruz Department	3904907
+BO.07	Potosí Department	Potosi Department	3907580
 BO.06	Pando	Pando	3908600
 BO.05	Oruro	Oruro	3909233
-BO.04	La Paz	La Paz	3911924
+BO.04	La Paz Department	La Paz Department	3911924
 BO.02	Cochabamba	Cochabamba	3919966
-BO.01	Chuquisaca	Chuquisaca	3920177
-BO.03	El Beni	El Beni	3923172
+BO.01	Chuquisaca Department	Chuquisaca Department	3920177
+BO.03	Beni Department	Beni Department	3923172
 BQ.BO	Bonaire	Bonaire	7609816
 BQ.SB	Saba	Saba	7610358
 BQ.SE	Sint Eustatius	Sint Eustatius	7610359
@@ -415,22 +415,22 @@ BS.51	South Andros	South Andros	8030556
 BS.52	South Eleuthera	South Eleuthera	8030557
 BS.53	Spanish Wells	Spanish Wells	8030558
 BS.54	West Grand Bahama	West Grand Bahama	8030559
-BT.05	Bumthang	Bumthang	1337278
+BT.05	Bumthang District	Bumthang District	1337278
 BT.06	Chukha	Chukha	1337279
 BT.08	Dagana	Dagana	1337280
-BT.07	Chirang	Chirang	1337281
-BT.09	Geylegphug	Geylegphug	1337282
+BT.07	Tsirang District	Tsirang District	1337281
+BT.09	Sarpang District	Sarpang District	1337282
 BT.10	Haa	Haa	1337283
 BT.11	Lhuntse	Lhuntse	1337284
 BT.12	Mongar	Mongar	1337285
 BT.13	Paro	Paro	1337286
 BT.14	Pemagatshel	Pemagatshel	1337287
 BT.15	Punakha	Punakha	1337288
-BT.16	Samchi	Samchi	1337289
+BT.16	Samtse District	Samtse District	1337289
 BT.17	Samdrup Jongkhar	Samdrup Jongkhar	1337290
-BT.18	Shemgang	Shemgang	1337291
-BT.19	Tashigang	Tashigang	1337292
-BT.20	Thimphu	Thimphu	1337293
+BT.18	Zhemgang District	Zhemgang District	1337291
+BT.19	Trashigang District	Trashigang District	1337292
+BT.20	Thimphu District	Thimphu District	1337293
 BT.21	Tongsa	Tongsa	1337294
 BT.22	Wangdi Phodrang	Wangdi Phodrang	1337295
 BT.23	Gasa	Gasa	7303651
@@ -460,7 +460,7 @@ BY.02	Gomel Oblast	Gomel Oblast	628281
 BY.01	Brest	Brest	629631
 BZ.06	Toledo	Toledo	3580913
 BZ.05	Southern District	Southern District	3580975
-BZ.04	Orange Walk	Orange Walk	3581511
+BZ.04	Orange Walk District	Orange Walk District	3581511
 BZ.03	Corozal	Corozal	3582302
 BZ.02	Cayo	Cayo	3582429
 BZ.01	Belize	Belize	3582676
@@ -650,22 +650,22 @@ CO.25	San Andres y Providencia	San Andres y Providencia	3670205
 CO.24	Risaralda	Risaralda	3670698
 CO.23	Quindío	Quindio	3671087
 CO.22	Putumayo	Putumayo	3671178
-CO.21	Norte de Santander	Norte de Santander	3673798
+CO.21	Norte de Santander Department	Norte de Santander Department	3673798
 CO.20	Nariño	Narino	3674021
 CO.19	Meta	Meta	3674810
 CO.38	Magdalena	Magdalena	3675686
-CO.17	La Guajira	La Guajira	3678847
+CO.17	La Guajira Department	La Guajira Department	3678847
 CO.16	Huila	Huila	3680692
 CO.14	Guaviare	Guaviare	3681344
-CO.15	Guainía	Guainia	3681652
+CO.15	Guainía Department	Guainia Department	3681652
 CO.33	Cundinamarca	Cundinamarca	3685413
 CO.12	Córdoba	Cordoba	3685889
 CO.11	Chocó	Choco	3686431
 CO.10	Cesar	Cesar	3686880
 CO.09	Cauca	Cauca	3687029
-CO.32	Casanare	Casanare	3687173
+CO.32	Casanare Department	Casanare Department	3687173
 CO.08	Caquetá	Caqueta	3687479
-CO.37	Caldas	Caldas	3687951
+CO.37	Caldas Department	Caldas Department	3687951
 CO.36	Boyacá	Boyaca	3688536
 CO.35	Bolívar	Bolivar	3688650
 CO.34	Bogota D.C.	Bogota D.C.	3688685
@@ -674,25 +674,25 @@ CO.03	Departamento de Arauca	Departamento de Arauca	3689717
 CO.02	Antioquia	Antioquia	3689815
 CO.01	Amazonas	Amazonas	3689982
 CR.08	San José	San Jose	3621837
-CR.07	Puntarenas	Puntarenas	3622226
-CR.06	Limón	Limon	3623064
-CR.04	Heredia	Heredia	3623484
-CR.03	Guanacaste	Guanacaste	3623582
-CR.02	Cartago	Cartago	3624368
-CR.01	Alajuela	Alajuela	3624953
-CU.16	Villa Clara	Villa Clara	3534168
+CR.07	Puntarenas Province	Puntarenas Province	3622226
+CR.06	Limón Province	Limon Province	3623064
+CR.04	Heredia Province	Heredia Province	3623484
+CR.03	Guanacaste Province	Guanacaste Province	3623582
+CR.02	Cartago Province	Cartago Province	3624368
+CR.01	Alajuela Province	Alajuela Province	3624953
+CU.16	Villa Clara Province	Villa Clara Province	3534168
 CU.15	Santiago de Cuba	Santiago de Cuba	3536725
-CU.14	Sancti Spíritus	Sancti Spiritus	3540665
+CU.14	Sancti Spíritus Province	Sancti Spiritus Province	3540665
 CU.01	Pinar del Río	Pinar del Rio	3544088
-CU.03	Matanzas	Matanzas	3547394
+CU.03	Matanzas Province	Matanzas Province	3547394
 CU.13	Las Tunas	Las Tunas	3550595
 CU.04	Isla de la Juventud	Isla de la Juventud	3556608
-CU.12	Holguín	Holguin	3556965
-CU.10	Guantánamo	Guantanamo	3557685
-CU.09	Granma	Granma	3558052
+CU.12	Holguín Province	Holguin Province	3556965
+CU.10	Guantánamo Province	Guantanamo Province	3557685
+CU.09	Granma Province	Granma Province	3558052
 CU.02	Havana	Havana	3564073
-CU.08	Cienfuegos	Cienfuegos	3564120
-CU.07	Ciego de Ávila	Ciego de Avila	3564175
+CU.08	Cienfuegos Province	Cienfuegos Province	3564120
+CU.07	Ciego de Ávila Province	Ciego de Avila Province	3564175
 CU.05	Camagüey	Camaguey	3566062
 CU.AR	Artemisa	Artemisa	7668824
 CU.MA	Mayabeque	Mayabeque	7668827
@@ -734,7 +734,7 @@ CZ.83	Liberecký kraj	Liberecky kraj	3339541
 CZ.84	Olomoucký	Olomoucky	3339542
 CZ.85	Moravskoslezský	Moravskoslezsky	3339573
 CZ.86	Pardubický	Pardubicky	3339574
-CZ.87	Plzeňský kraj	Plzensky kraj	3339575
+CZ.87	Plzeň Region	Plzen Region	3339575
 CZ.88	Central Bohemia	Central Bohemia	3339576
 CZ.89	Ústecký kraj	Ustecky kraj	3339577
 CZ.90	Zlín	Zlin	3339578
@@ -1115,28 +1115,28 @@ GR.ESYE42	South Aegean	South Aegean	6697808
 GR.ESYE14	Thessaly	Thessaly	6697809
 GR.ESYE23	West Greece	West Greece	6697810
 GR.ESYE13	West Macedonia	West Macedonia	6697811
-GT.22	Zacapa Department	Zacapa Department	3587586
-GT.21	Totonicapán Department	Totonicapan Department	3588257
+GT.22	Zacapa	Zacapa	3587586
+GT.21	Totonicapán	Totonicapan	3588257
 GT.20	Suchitepeque	Suchitepeque	3588668
-GT.19	Sololá Department	Solola Department	3588697
+GT.19	Sololá	Solola	3588697
 GT.18	Santa Rosa Department	Santa Rosa Department	3589172
-GT.17	San Marcos Department	San Marcos Department	3589801
-GT.16	Sacatepéquez Department	Sacatepequez Department	3590686
+GT.17	San Marcos	San Marcos	3589801
+GT.16	Sacatepéquez	Sacatepequez	3590686
 GT.15	Retalhuleu	Retalhuleu	3590857
-GT.14	Quiché Department	Quiche Department	3590964
-GT.13	Quetzaltenango Department	Quetzaltenango Department	3590978
-GT.12	Petén Department	Peten Department	3591410
+GT.14	Quiché	Quiche	3590964
+GT.13	Quetzaltenango	Quetzaltenango	3590978
+GT.12	Petén	Peten	3591410
 GT.11	Jutiapa	Jutiapa	3595067
 GT.10	Jalapa	Jalapa	3595236
 GT.09	Izabal Department	Izabal Department	3595259
 GT.08	Huehuetenango	Huehuetenango	3595415
-GT.07	Guatemala Department	Guatemala Department	3595530
+GT.07	Guatemala	Guatemala	3595530
 GT.06	Escuintla	Escuintla	3595802
-GT.05	El Progreso Department	El Progreso Department	3596416
-GT.04	Chiquimula Department	Chiquimula Department	3598464
-GT.03	Chimaltenango Department	Chimaltenango Department	3598571
-GT.02	Zacapa Department	Zacapa Department	3599602
-GT.01	Alta Verapaz Department	Alta Verapaz Department	3599773
+GT.05	El Progreso	El Progreso	3596416
+GT.04	Chiquimula	Chiquimula	3598464
+GT.03	Chimaltenango	Chimaltenango	3598571
+GT.02	Baja Verapaz	Baja Verapaz	3599602
+GT.01	Alta Verapaz	Alta Verapaz	3599773
 GU.PI	Piti	Piti	4038478
 GU.SR	Santa Rita	Santa Rita	4038555
 GU.SJ	Sinajana	Sinajana	4038590
@@ -1193,45 +1193,45 @@ HK.NKT	Kwai Tsing	Kwai Tsing	7533615
 HK.NTM	Tuen Mun	Tuen Mun	7533616
 HK.NNO	North	North	7533617
 HK.NST	Sha Tin	Sha Tin	7533618
-HN.18	Yoro	Yoro	3600193
-HN.17	Valle	Valle	3600456
-HN.16	Santa Bárbara	Santa Barbara	3601689
-HN.15	Olancho	Olancho	3604249
-HN.14	Ocotepeque	Ocotepeque	3604318
-HN.13	Lempira	Lempira	3606066
-HN.12	La Paz	La Paz	3607251
+HN.18	Yoro Department	Yoro Department	3600193
+HN.17	Valle Department	Valle Department	3600456
+HN.16	Santa Bárbara Department	Santa Barbara Department	3601689
+HN.15	Olancho Department	Olancho Department	3604249
+HN.14	Ocotepeque Department	Ocotepeque Department	3604318
+HN.13	Lempira Department	Lempira Department	3606066
+HN.12	La Paz Department	La Paz Department	3607251
 HN.11	Bay Islands	Bay Islands	3608814
-HN.10	Intibucá	Intibuca	3608833
-HN.09	Gracias a Dios	Gracias a Dios	3609583
-HN.08	Francisco Morazán	Francisco Morazan	3609672
-HN.07	El Paraíso	El Paraiso	3610942
-HN.06	Cortés	Cortes	3613140
-HN.05	Copán	Copan	3613229
-HN.04	Comayagua	Comayagua	3613319
-HN.03	Colón	Colon	3613358
-HN.02	Choluteca	Choluteca	3613527
-HN.01	Atlántida	Atlantida	3615027
-HR.01	Bjelovarsko-Bilogorska	Bjelovarsko-Bilogorska	3337511
-HR.02	Slavonski Brod-Posavina	Slavonski Brod-Posavina	3337512
-HR.03	Dubrovačko-Neretvanska	Dubrovacko-Neretvanska	3337513
+HN.10	Intibucá Department	Intibuca Department	3608833
+HN.09	Gracias a Dios Department	Gracias a Dios Department	3609583
+HN.08	Francisco Morazán Department	Francisco Morazan Department	3609672
+HN.07	El Paraíso Department	El Paraiso Department	3610942
+HN.06	Cortés Department	Cortes Department	3613140
+HN.05	Copán Department	Copan Department	3613229
+HN.04	Comayagua Department	Comayagua Department	3613319
+HN.03	Colón Department	Colon Department	3613358
+HN.02	Choluteca Department	Choluteca Department	3613527
+HN.01	Atlántida Department	Atlantida Department	3615027
+HR.01	Bjelovar-Bilogora	Bjelovar-Bilogora	3337511
+HR.02	Brod-Posavina	Brod-Posavina	3337512
+HR.03	Dubrovnik-Neretva	Dubrovnik-Neretva	3337513
 HR.04	Istria	Istria	3337514
-HR.05	Karlovačka	Karlovacka	3337515
-HR.06	Koprivničko-Križevačka	Koprivnicko-Krizevacka	3337518
-HR.07	Krapinsko-Zagorska	Krapinsko-Zagorska	3337519
-HR.08	Ličko-Senjska	Licko-Senjska	3337520
-HR.09	Međimurska	Medimurska	3337521
-HR.10	Osječko-Baranjska	Osjecko-Baranjska	3337522
-HR.11	Požeško-Slavonska	Pozesko-Slavonska	3337523
-HR.12	Primorsko-Goranska	Primorsko-Goranska	3337524
-HR.13	Šibensko-Kniniska	Sibensko-Kniniska	3337525
-HR.14	Sisačko-Moslavačka	Sisacko-Moslavacka	3337526
+HR.05	Karlovac	Karlovac	3337515
+HR.06	County of Koprivnica-Križevci	County of Koprivnica-Krizevci	3337518
+HR.07	County of Krapina-Zagorje	County of Krapina-Zagorje	3337519
+HR.08	County of Lika-Senj	County of Lika-Senj	3337520
+HR.09	County of Međimurje	County of Megimurje	3337521
+HR.10	County of Osijek-Baranja	County of Osijek-Baranja	3337522
+HR.11	County of Požega-Slavonia	County of Pozega-Slavonia	3337523
+HR.12	County of Primorje-Gorski Kotar	County of Primorje-Gorski Kotar	3337524
+HR.13	Šibenik-Knin	Sibenik-Knin	3337525
+HR.14	County of Sisak-Moslavina	County of Sisak-Moslavina	3337526
 HR.15	Split-Dalmatia	Split-Dalmatia	3337527
-HR.16	Varaždinska	Varazdinska	3337528
+HR.16	County of Varaždin	County of Varazdin	3337528
 HR.18	Vukovar-Sirmium	Vukovar-Sirmium	3337529
-HR.19	Zadarska	Zadarska	3337530
-HR.20	Zagrebačka	Zagrebacka	3337531
+HR.19	County of Zadar	County of Zadar	3337530
+HR.20	County of Zagreb	County of Zagreb	3337531
 HR.21	City of Zagreb	City of Zagreb	3337532
-HR.17	Virovitičk-Podravska	Virovitick-Podravska	3337533
+HR.17	County of Virovitica-Podravina	County of Virovitica-Podravina	3337533
 HT.13	Sud-Est	Sud-Est	3716950
 HT.12	Sud	Sud	3716952
 HT.11	Ouest	Ouest	3719432
@@ -1296,6 +1296,7 @@ ID.39	West Papua	West Papua	1996549
 ID.41	West Sulawesi	West Sulawesi	1996550
 ID.40	Riau Islands	Riau Islands	1996551
 ID.42	North Kalimantan	North Kalimantan	8604684
+ID.PD	Southwest Papua	Southwest Papua	12503510
 ID.PT	Central Papua	Central Papua	12503511
 ID.PE	Highland Papua	Highland Papua	12503512
 ID.PS	South Papua	South Papua	12503513
@@ -1692,6 +1693,9 @@ KZ.01	Almaty Oblysy	Almaty Oblysy	1537162
 KZ.1537272	Shymkent	Shymkent	1537272
 KZ.08	Baikonur	Baikonur	1538316
 KZ.05	Astana	Astana	1538317
+KZ.12510143	Abai Region	Abai Region	12510143
+KZ.12510144	Jetisu Region	Jetisu Region	12510144
+KZ.12510145	Ulytau Region	Ulytau Region	12510145
 LA.14	Xiangkhoang	Xiangkhoang	1652077
 LA.13	Xiagnabouli	Xiagnabouli	1652210
 LA.27	Vientiane	Vientiane	1652238
@@ -2087,9 +2091,9 @@ MM.04	Kachin	Kachin	1321702
 MM.03	Ayeyarwady	Ayeyarwady	1321850
 MM.02	Chin	Chin	1327132
 MM.18	Nay Pyi Taw	Nay Pyi Taw	8239588
-MN.19	Uvs	Uvs	1514967
+MN.19	Uvs Province	Uvs Province	1514967
 MN.12	Hovd	Hovd	1515696
-MN.10	Govĭ-Altay	Govi-Altay	1515917
+MN.10	Govi-Altai Province	Govi-Altai Province	1515917
 MN.09	Dzabkhan	Dzabkhan	1516012
 MN.03	Bayan-Ölgiy	Bayan-Olgiy	1516278
 MN.02	Bayanhongor	Bayanhongor	1516290
@@ -2099,13 +2103,13 @@ MN.17	Sühbaatar	Suhbaatar	2029155
 MN.16	Selenge	Selenge	2029432
 MN.15	Övörhangay	OEvoerhangay	2029546
 MN.14	Ömnögovĭ	OEmnoegovi	2029669
-MN.13	Hövsgöl	Hovsgol	2030469
+MN.13	Khövsgöl Province	Khoevsgoel Province	2030469
 MN.11	Hentiy	Hentiy	2030783
 MN.08	Middle Govĭ	Middle Govi	2031740
 MN.07	East Gobi Aymag	East Gobi Aymag	2031798
 MN.06	East Aimak	East Aimak	2031799
 MN.21	Bulgan	Bulgan	2032199
-MN.01	Arhangay	Arhangay	2032855
+MN.01	Arkhangai Province	Arkhangai Province	2032855
 MN.23	Darhan Uul	Darhan Uul	2055111
 MN.24	Govĭ-Sumber	Govi-Sumber	2055112
 MN.25	Orhon	Orhon	2055113
@@ -2467,6 +2471,7 @@ PA.01	Bocas del Toro Province	Bocas del Toro Province	3713954
 PA.11	Emberá	Embera	7303686
 PA.12	Ngöbe-Buglé	Ngoebe-Bugle	7303688
 PA.13	Panamá Oeste Province	Panama Oeste Province	11353126
+PA.NT	Naso Tjër Di	Naso Tjer Di	12508964
 PE.25	Ucayali	Ucayali	3691099
 PE.24	Tumbes	Tumbes	3691146
 PE.22	San Martín	San Martin	3692385
@@ -2642,7 +2647,7 @@ PR.153	Yauco	Yauco	4568918
 PR.147	Vieques	Vieques	4568924
 PS.GZ	Gaza Strip	Gaza Strip	281132
 PS.WE	West Bank	West Bank	285153
-PT.19	District of Setúbal	District of Setubal	2262961
+PT.19	Setúbal	Setubal	2262961
 PT.18	Santarém	Santarem	2263478
 PT.16	Portalegre	Portalegre	2264507
 PT.14	Lisbon	Lisbon	2267056
@@ -3389,29 +3394,29 @@ TM.S	Ashgabat	Ashgabat	162182
 TM.03	Daşoguz	Dasoguz	601465
 TM.05	Mary	Mary	1218666
 TM.04	Lebap	Lebap	1219651
-TN.37	Zaghwān	Zaghwan	2464038
-TN.36	Tūnis	Tunis	2464464
-TN.35	Tawzar	Tawzar	2464645
+TN.37	Zaghouan Governorate	Zaghouan Governorate	2464038
+TN.36	Tunis Governorate	Tunis Governorate	2464464
+TN.35	Tozeur Governorate	Tozeur Governorate	2464645
 TN.34	Tataouine	Tataouine	2464698
-TN.23	Sūsah	Susah	2464912
-TN.22	Silyānah	Silyanah	2465027
-TN.33	Sīdī Bū Zayd	Sidi Bu Zayd	2465837
-TN.32	Şafāqis	Safaqis	2467450
-TN.31	Qibilī	Qibili	2468014
+TN.23	Sousse Governorate	Sousse Governorate	2464912
+TN.22	Siliana Governorate	Siliana Governorate	2465027
+TN.33	Sidi Bouzid Governorate	Sidi Bouzid Governorate	2465837
+TN.32	Sfax Governorate	Sfax Governorate	2467450
+TN.31	Kebili Governorate	Kebili Governorate	2468014
 TN.30	Gafsa	Gafsa	2468351
 TN.29	Qābis	Qabis	2468365
-TN.19	Nābul	Nabul	2468576
-TN.28	Madanīn	Madanin	2469470
-TN.06	Jundūbah	Jundubah	2470085
-TN.27	Bin ‘Arūs	Bin 'Arus	2472477
-TN.18	Banzart	Banzart	2472699
-TN.17	Bājah	Bajah	2472770
-TN.38	Ariana	Ariana	2473245
+TN.19	Nabeul Governorate	Nabeul Governorate	2468576
+TN.28	Medenine Governorate	Medenine Governorate	2469470
+TN.06	Jendouba Governorate	Jendouba Governorate	2470085
+TN.27	Ben Arous Governorate	Ben Arous Governorate	2472477
+TN.18	Bizerte Governorate	Bizerte Governorate	2472699
+TN.17	Béja Governorate	Beja Governorate	2472770
+TN.38	Ariana Governorate	Ariana Governorate	2473245
 TN.03	Kairouan	Kairouan	2473451
-TN.02	Al Qaşrayn	Al Qasrayn	2473460
-TN.16	Al Munastīr	Al Munastir	2473495
-TN.15	Al Mahdīyah	Al Mahdiyah	2473574
-TN.14	Kef	Kef	2473637
+TN.02	Kasserine Governorate	Kasserine Governorate	2473460
+TN.16	Monastir Governorate	Monastir Governorate	2473495
+TN.15	Mahdia Governorate	Mahdia Governorate	2473574
+TN.14	Kef Governorate	Kef Governorate	2473637
 TN.39	Manouba	Manouba	6201192
 TO.03	Vava‘u	Vava`u	4032231
 TO.02	Tongatapu	Tongatapu	4032279
@@ -3648,21 +3653,21 @@ US.KY	Kentucky	Kentucky	6254925
 US.MA	Massachusetts	Massachusetts	6254926
 US.PA	Pennsylvania	Pennsylvania	6254927
 US.VA	Virginia	Virginia	6254928
-UY.19	Treinta y Tres	Treinta y Tres	3439780
-UY.18	Tacuarembó	Tacuarembo	3440033
+UY.19	Treinta y Tres Department	Treinta y Tres Department	3439780
+UY.18	Tacuarembó Department	Tacuarembo Department	3440033
 UY.17	Soriano	Soriano	3440054
-UY.16	San José	San Jose	3440645
-UY.15	Salto	Salto	3440711
-UY.14	Rocha	Rocha	3440771
-UY.13	Rivera	Rivera	3440780
-UY.12	Río Negro	Rio Negro	3440789
-UY.11	Paysandú	Paysandu	3441242
-UY.10	Montevideo	Montevideo	3441572
+UY.16	San José Department	San Jose Department	3440645
+UY.15	Salto Department	Salto Department	3440711
+UY.14	Rocha Department	Rocha Department	3440771
+UY.13	Rivera Department	Rivera Department	3440780
+UY.12	Río Negro Department	Rio Negro Department	3440789
+UY.11	Paysandú Department	Paysandu Department	3441242
+UY.10	Montevideo Department	Montevideo Department	3441572
 UY.09	Maldonado	Maldonado	3441890
 UY.08	Lavalleja	Lavalleja	3442007
 UY.07	Florida	Florida	3442584
-UY.06	Flores	Flores	3442587
-UY.05	Durazno	Durazno	3442720
+UY.06	Flores Department	Flores Department	3442587
+UY.05	Durazno Department	Durazno Department	3442720
 UY.04	Colonia	Colonia	3443025
 UY.03	Cerro Largo	Cerro Largo	3443173
 UY.02	Canelones	Canelones	3443411
