@@ -31,6 +31,14 @@ close ORIG;
 $delimiter = "\t";
 
 open(FAB, ">./discovery_circumstances.fab");
+print FAB "#\n";
+print FAB "# Discovery Circumstances: Numbered Minor Planets\n";
+print FAB "#\n";
+print FAB "# The official discovery circumstances for the numbered minor planets\n";
+print FAB "# are maintained by the Minor Planet Center.\n";
+print FAB "#\n";
+print FAB "# Source: https://minorplanetcenter.net/iau/lists/NumberedMPs.html\n";
+print FAB "#\n";
 for($i=0; $i<scalar(@original); $i++)
 {
     $text       = $original[$i];
