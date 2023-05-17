@@ -54,7 +54,7 @@ for($i=0; $i<scalar(@codes); $i++)
     $ModernID  =~ s/\r/-/gi;
     $ModernID  =~ s/\n/-/gi;
 
-    print FAB $BelyaevID."/".$delimiter.$ModernID."\n";
+    print FAB $BelyaevID.$delimiter.$ModernID."\n";
 }
 
 close FAB;
