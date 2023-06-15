@@ -13,9 +13,9 @@ AE.04	Fujairah	Fujairah	292879
 AE.02	Ajman	Ajman	292933
 AE.01	Abu Dhabi	Abu Dhabi	292969
 AF.28	Zabul	Zabul	1121143
-AF.27	Vardak	Vardak	1121863
+AF.27	Maidan Wardak Province	Maidan Wardak Province	1121863
 AF.26	Takhar	Takhar	1123230
-AF.33	Sar-e Pol	Sar-e Pol	1127106
+AF.33	Sar-e Pol Province	Sar-e Pol Province	1127106
 AF.32	Samangan	Samangan	1127766
 AF.40	Parwan	Parwan	1131054
 AF.29	Paktika	Paktika	1131256
@@ -724,7 +724,7 @@ CY.05	Limassol	Limassol	146383
 CY.03	Larnaka	Larnaka	146398
 CY.02	Keryneia	Keryneia	146411
 CY.01	Ammochostos	Ammochostos	146615
-CZ.52	Hlavní město Praha	Hlavni mesto Praha	3067695
+CZ.52	Prague	Prague	3067695
 CZ.78	South Moravian	South Moravian	3339536
 CZ.79	Jihočeský kraj	Jihocesky kraj	3339537
 CZ.80	Vysočina	Vysocina	3339538
@@ -3404,7 +3404,7 @@ TN.33	Sidi Bouzid Governorate	Sidi Bouzid Governorate	2465837
 TN.32	Sfax Governorate	Sfax Governorate	2467450
 TN.31	Kebili Governorate	Kebili Governorate	2468014
 TN.30	Gafsa	Gafsa	2468351
-TN.29	Qābis	Qabis	2468365
+TN.29	Gabès Governorate	Gabes Governorate	2468365
 TN.19	Nabeul Governorate	Nabeul Governorate	2468576
 TN.28	Medenine Governorate	Medenine Governorate	2469470
 TN.06	Jendouba Governorate	Jendouba Governorate	2470085
@@ -3430,8 +3430,8 @@ TR.63	Şanlıurfa	Sanliurfa	298332
 TR.62	Tunceli	Tunceli	298845
 TR.58	Sivas	Sivas	300617
 TR.74	Siirt	Siirt	300821
-TR.73	Niğde	Nigde	303826
-TR.50	Nevşehir	Nevsehir	303830
+TR.73	Niğde Province	Nigde Province	303826
+TR.50	Nevşehir Province	Nevsehir Province	303830
 TR.49	Muş	Mus	304041
 TR.48	Muğla	Mugla	304183
 TR.72	Mardin	Mardin	304794
@@ -3442,7 +3442,7 @@ TR.71	Konya	Konya	306569
 TR.40	Kırşehir	Kirsehir	307513
 TR.38	Kayseri	Kayseri	308463
 TR.46	Kahramanmaraş	Kahramanmaras	310858
-TR.35	İzmir	Izmir	311044
+TR.35	İzmir Province	Izmir Province	311044
 TR.33	Isparta	Isparta	311071
 TR.32	Mersin	Mersin	311728
 TR.31	Hatay	Hatay	312394
@@ -3452,7 +3452,7 @@ TR.26	Eskişehir	Eskisehir	315201
 TR.25	Erzurum	Erzurum	315367
 TR.24	Erzincan	Erzincan	315372
 TR.23	Elazığ	Elazig	315807
-TR.21	Diyarbakır	Diyarbakir	316540
+TR.21	Diyarbakır Province	Diyarbakir Province	316540
 TR.20	Denizli	Denizli	317106
 TR.15	Burdur	Burdur	320390
 TR.13	Bitlis	Bitlis	321022
@@ -3463,8 +3463,8 @@ TR.09	Aydın	Aydin	322819
 TR.07	Antalya	Antalya	323776
 TR.68	Ankara	Ankara	323784
 TR.04	Ağrı	Agri	325163
-TR.03	Afyonkarahisar	Afyonkarahisar	325302
-TR.02	Adıyaman	Adiyaman	325329
+TR.03	Afyonkarahisar Province	Afyonkarahisar Province	325302
+TR.02	Adıyaman Province	Adiyaman Province	325329
 TR.81	Adana	Adana	325361
 TR.91	Osmaniye	Osmaniye	443183
 TR.88	Iğdır	Igdir	443184
@@ -3481,28 +3481,28 @@ TR.59	Tekirdağ	Tekirdag	738926
 TR.57	Sinop	Sinop	739598
 TR.55	Samsun	Samsun	740263
 TR.54	Sakarya	Sakarya	740352
-TR.53	Rize	Rize	740481
+TR.53	Rize Province	Rize Province	740481
 TR.52	Ordu	Ordu	741098
 TR.41	Kocaeli	Kocaeli	742865
 TR.39	Kırklareli	Kirklareli	743165
 TR.37	Kastamonu	Kastamonu	743881
-TR.84	Kars	Kars	743942
+TR.84	Kars Province	Kars Province	743942
 TR.34	Istanbul	Istanbul	745042
-TR.69	Gümüşhane	Gumushane	746423
+TR.69	Gümüşhane Province	Guemueshane Province	746423
 TR.28	Giresun	Giresun	746878
 TR.22	Edirne	Edirne	747711
 TR.19	Çorum	Corum	748877
 TR.82	Çankırı	Cankiri	749747
 TR.17	Canakkale	Canakkale	749778
-TR.16	Bursa	Bursa	750268
+TR.16	Bursa Province	Bursa Province	750268
 TR.14	Bolu	Bolu	750510
 TR.08	Artvin	Artvin	751816
 TR.05	Amasya	Amasya	752014
 TR.87	Bartın	Bartin	862467
-TR.89	Karabük	Karabuk	862468
+TR.89	Karabük Province	Karabuek Province	862468
 TR.92	Yalova	Yalova	862469
 TR.86	Ardahan	Ardahan	862470
-TR.77	Bayburt	Bayburt	862471
+TR.77	Bayburt Province	Bayburt Province	862471
 TR.93	Düzce	Duzce	865521
 TT.11	Tobago	Tobago	3573606
 TT.10	San Fernando	San Fernando	3573739
@@ -3812,23 +3812,23 @@ XK.10097360	Pristina	Pristina	10097360
 XK.10097361	Prizren	Prizren	10097361
 YE.25	Ta‘izz	Ta'izz	70222
 YE.05	Shabwah	Shabwah	70935
-YE.16	Sanaa	Sanaa	71132
+YE.16	Sanaa Governorate	Sanaa Governorate	71132
 YE.15	Şa‘dah	Sa'dah	71333
 YE.27	Raymah	Raymah	71532
 YE.14	Ma’rib	Ma'rib	72966
-YE.10	Al Maḩwīt	Al Mahwit	73200
+YE.10	Al Mahwit Governorate	Al Mahwit Governorate	73200
 YE.21	Al Jawf	Al Jawf	74222
 YE.04	Muhafazat Hadramaout	Muhafazat Hadramaout	75411
 YE.11	Dhamār	Dhamar	76183
-YE.03	Al Mahrah	Al Mahrah	78985
+YE.03	Al Mahrah Governorate	Al Mahrah Governorate	78985
 YE.08	Al Hudaydah	Al Hudaydah	79416
 YE.20	Al Bayda	Al Bayda	79838
 YE.02	Aden	Aden	80412
-YE.01	Abyan	Abyan	80425
+YE.01	Abyan Governorate	Abyan Governorate	80425
 YE.18	Aḑ Ḑāli‘	Ad Dali'	6201193
 YE.19	Omran	Omran	6201194
 YE.22	Ḩajjah	Hajjah	6201195
-YE.23	Ibb	Ibb	6201196
+YE.23	Ibb Governorate	Ibb Governorate	6201196
 YE.24	Laḩij	Lahij	6201197
 YE.26	Amanat Alasimah	Amanat Alasimah	6940571
 YE.28	Soqatra	Soqatra	9645387
