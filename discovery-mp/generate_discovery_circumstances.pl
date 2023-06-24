@@ -60,7 +60,7 @@ for($i=0; $i<scalar(@original); $i++)
             push @names, $initials." ".$fio[$j];
         }
         if (scalar(@names)>3) {
-    	    $discoverer = $names[0]." et.al.";
+    	    $discoverer = $names[0]." et al.";
         } else {
             $discoverer = join(", ", @names);
         }
