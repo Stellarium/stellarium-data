@@ -338,6 +338,7 @@ while (@stars = $sth->fetchrow_array()) {
 	$sname =~ s/^chi/χ/gi;
 	$sname =~ s/^psi/ψ/gi;
 	$sname =~ s/^(omega|ome)/ω/gi;
+	$sname =~ s/&ouml;/ö/g;
 	
 	$alternames =~ s/^(alpha|alf)/α/gi;
 	$alternames =~ s/,\s+(alpha|alf)/, α/gi;
@@ -389,6 +390,7 @@ while (@stars = $sth->fetchrow_array()) {
 	$alternames =~ s/,\s+(omega|ome)/, ω/gi;
 	$alternames =~ s/Umi$/UMi/g;
 	$alternames =~ s/Umi,/UMi,/g;
+	$alternames =~ s/&ouml;/ö/g;
 	
 	if ($sname eq "Kapteyn's" || $sname eq "Teegarden's") {
 		$sname .= " Star"; # cosmetic fix for translation support
