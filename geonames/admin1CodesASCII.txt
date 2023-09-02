@@ -1803,43 +1803,43 @@ LV.33	Ventspils Rajons	Ventspils Rajons	454307
 LV.32	Ventspils	Ventspils	454311
 LV.31	Valmiera	Valmiera	454564
 LV.30	Valka	Valka	454571
-LV.29	Tukuma novads	Tukuma novads	454771
+LV.29	Tukums Municipality	Tukums Municipality	454771
 LV.28	Talsi Municipality	Talsi Municipality	454968
 LV.27	Saldus Rajons	Saldus Rajons	455888
 LV.25	Riga	Riga	456173
-LV.24	Rēzeknes Novads	Rezeknes Novads	456197
+LV.24	Rēzekne Municipality	Rezekne Municipality	456197
 LV.23	Rēzekne	Rezekne	456203
 LV.22	Preiļu novads	Preilu novads	456528
 LV.21	Ogre	Ogre	457061
 LV.20	Madona Municipality	Madona Municipality	457712
-LV.19	Ludzas novads	Ludzas novads	457773
-LV.18	Limbažu novads	Limbazu novads	457889
+LV.19	Ludza Municipality	Ludza Municipality	457773
+LV.18	Limbaži Municipality	Limbazi Municipality	457889
 LV.16	Liepāja	Liepaja	457955
-LV.15	Kuldīgas novads	Kuldigas novads	458459
-LV.14	Krāslavas novads	Kraslavas novads	458621
+LV.15	Kuldīga Municipality	Kuldiga Municipality	458459
+LV.14	Krāslava Municipality	Kraslava Municipality	458621
 LV.13	Jūrmala	Jurmala	459202
-LV.12	Jelgavas novads	Jelgavas novads	459278
+LV.12	Jelgava Municipality	Jelgava Municipality	459278
 LV.11	Jelgava	Jelgava	459281
 LV.10	Jēkabpils Municipality	Jekabpils Municipality	459282
-LV.09	Gulbenes novads	Gulbenes novads	459664
-LV.08	Dobeles novads	Dobeles novads	460311
+LV.09	Gulbene Municipality	Gulbene Municipality	459664
+LV.08	Dobele Municipality	Dobele Municipality	460311
 LV.06	Daugavpils	Daugavpils	460414
-LV.05	Cēsu Rajons	Cesu Rajons	460569
-LV.04	Bauskas Rajons	Bauskas Rajons	461112
-LV.03	Balvu Novads	Balvu Novads	461160
-LV.02	Alūksnes Novads	Aluksnes Novads	461525
-LV.01	Aizkraukles novads	Aizkraukles novads	461613
+LV.05	Cēsis Municipality	Cesis Municipality	460569
+LV.04	Bauska Municipality	Bauska Municipality	461112
+LV.03	Balvi Municipality	Balvi Municipality	461160
+LV.02	Alūksne Municipality	Aluksne Municipality	461525
+LV.01	Aizkraukle Municipality	Aizkraukle Municipality	461613
 LV.95	Mārupe	Marupe	7628319
 LV.A2	Olaine	Olaine	7628320
 LV.80	Ķekava	Kekava	7628322
-LV.C3	Salaspils	Salaspils	7628323
+LV.C3	Salaspils Municipality	Salaspils Municipality	7628323
 LV.34	Ādaži	Adazi	7628327
 LV.90	Līvāni	Livani	7628341
-LV.E1	Varakļāni	Varaklani	7628342
-LV.B5	Ropažu	Ropazu	7628359
-LV.C7	Sigulda	Sigulda	7628362
-LV.C5	Saulkrastu	Saulkrastu	7628366
-LV.D1	Smiltene	Smiltene	7628380
+LV.E1	Varakļāni Municipality	Varaklani Municipality	7628342
+LV.B5	Ropaži Municipality	Ropazi Municipality	7628359
+LV.C7	Sigulda Municipality	Sigulda Municipality	7628362
+LV.C5	Saulkrasti Municipality	Saulkrasti Municipality	7628366
+LV.D1	Smiltene Municipality	Smiltene Municipality	7628380
 LV.DN	South Kurzeme Municipality	South Kurzeme Municipality	12276857
 LV.AN	Augšdaugava Municipality	Augsdaugava Municipality	12276858
 LY.70	Darnah	Darnah	87204

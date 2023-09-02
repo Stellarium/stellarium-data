@@ -19,6 +19,7 @@ Luna 20	USSR	305	L	0	3.57N	56.50E	0	0		Moon	moon
 Luna 21	USSR	317	L	0	25.51N	30.38E	134	0		Moon	moon
 Luna 23	USSR	304	L	0	12.68N	62.30E	0	0		Moon	moon
 Luna 24	USSR	304	L	0	12.25N	62.20E	0	0		Moon	moon
+Luna 25	Russia	340	A	0	57.865S	61.360E	0	0		Moon	moon
 Lunokhod 1	USSR	309	L	0	38.2378N	35.0017W	0	0		Moon	moon
 Lunokhod 2	USSR	317	L	0	25.51N	30.27E	134	0		Moon	moon
 Ranger 4	USA	349	I	0	15.50S	130.70W	0	0		Moon	moon
@@ -48,6 +49,7 @@ Kaguya	Japan	340	A	0	65.5S	80.4E	0	0		Moon	moon
 Hiten	Japan	340	A	0	34.3S	55.6E	0	0		Moon	moon
 Chandrayaan-1	India	340	A	0	89.76S	39.4E	0	0		Moon	moon
 Chandrayaan-2	India	340	A	0	70.881S	22.784E	0	0		Moon	moon
+Chandrayaan-3	India	340	L	0	69.373S	32.319E	0	0		Moon	moon
 Beresheet	Israel	317	A	0	32.5956N	19.3496E	0	0		Moon	moon
 SMART-1	Europe	308	I	0	34.262S	46.193W	0	0		Moon	moon
 LCROSS Shepherding Spacecraft	USA	340	A	0	84.729S	49.36W	0	0		Moon	moon
