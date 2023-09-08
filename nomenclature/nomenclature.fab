@@ -1463,6 +1463,8 @@ Europa	6651	_("Yelland Linea","linea")	LI	-16.700000	164.000000	186
 Europa	2988	_("Kennet Linea","linea")	LI	-41.000000	48.000000	3200
 # TRANSLATORS: (Europa); Stone row in Brittany, France.
 Europa	3803	_("Mehen Linea","linea")	LI	56.000000	123.300000	1500
+# TRANSLATORS: (Europa); Daughter-in-law of Europa, wife of King Minos (Europa’s son by Zeus), mother of the Minotaur.
+Europa	16256	_("Pasiphae Linea","linea")	LI	41.080000	351.940000	1306
 # TRANSLATORS: (Europa); Granddaughter of Europa and sibling of Phaedra and Katreus.
 Europa	16081	_("Acacallis Linea","linea")	LI	-5.270000	134.440000	940
 # TRANSLATORS: (Europa); The nephew of Europa, in Greek mythology.
