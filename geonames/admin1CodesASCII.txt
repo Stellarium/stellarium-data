@@ -885,7 +885,7 @@ EC.05	Carchi	Carchi	3659718
 EC.04	Cañar	Canar	3659849
 EC.03	Bolívar	Bolivar	3660130
 EC.02	Azuay	Azuay	3660431
-EC.22	Sucumbios	Sucumbios	3830305
+EC.22	Sucumbíos	Sucumbios	3830305
 EC.24	Orellana	Orellana	3830306
 EC.26	Santo Domingo de los Tsáchilas	Santo Domingo de los Tsachilas	7062136
 EC.25	Santa Elena	Santa Elena	7062138
