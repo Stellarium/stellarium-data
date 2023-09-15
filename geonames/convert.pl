@@ -31,7 +31,7 @@ $CODE	= "./admin1CodesASCII.txt";
 $GEOS	= "./regions-geoscheme.tab";
 $HDR	= "./base_locations.header";
 $ADX	= "./base_locations.appendix";
-$ETL	= "./base_locations.extraterrestial";
+$ETL	= "./base_locations.extraterrestrial";
 $OUT	= "./base_locations.txt";
 $ISOS	= "./countryInfo.txt";
 $ISOO	= "./iso3166.tab";
@@ -201,7 +201,7 @@ for($i=0;$i<scalar(@appdx);$i++)
 	$sitem[2] = $geodata;
 	print OUT join("\t", @sitem);
 }
-print OUT "#\n# extraterrestial locations\n#\n";
+print OUT "#\n# extraterrestrial locations\n#\n";
 for($i=0;$i<scalar(@appet);$i++)
 {
 	print OUT $appet[$i];
