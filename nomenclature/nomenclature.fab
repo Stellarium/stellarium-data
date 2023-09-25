@@ -26427,6 +26427,10 @@ Pluto	15967	_("Lunokhod Planitia","planitia")	PL	30.750000	109.570000	557
 Pluto	15669	_("Sputnik Planitia","planitia")	PL	19.510000	178.690000	1492
 # TRANSLATORS: (Pluto); Rosetta mission, the first mission to orbit and land a spacecraft on a comet.
 Pluto	16082	_("Rosetta Planitia","planitia")	PL	-22.310000	157.220000	480
+# TRANSLATORS: (Pluto); Viktor; Russian astronomer who proposed the planetesimal hypothesis for how the Solar System formed from a disk of gas and dust around the Sun (1917-1999).
+Pluto	16258	_("Safronov Regio","regio")	RE	-13.360000	209.490000	740
+# TRANSLATORS: (Pluto); Michael J. S.; British astronomer who in 2002 chaired the first Planetary Science Decadal Survey, which established NASA’s New Frontiers Program, including the New Horizons mission to Pluto and the Kuiper Belt (1934-2018).
+Pluto	16257	_("Belton Regio","regio")	RE	-9.210000	91.420000	3255
 # TRANSLATORS: (Pluto); Percival; American astronomer who in 1906-1916 undertook extensive searches of transneptunian planets (1855-1916).
 Pluto	15838	_("Lowell Regio","regio")	RE	86.000000	338.000000	1215
 # TRANSLATORS: (Pluto); Clyde William; American astronomer, discoverer of Pluto (1906–1997).
