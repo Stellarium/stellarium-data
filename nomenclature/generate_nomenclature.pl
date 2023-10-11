@@ -44,11 +44,6 @@ open(TMPL, "<./header.tmpl");
 @header = <TMPL>;
 close TMPL;
 
-my @headerinfo;
-open(TMPL, "<./header-origins.tmpl");
-@headerinfo = <TMPL>;
-close TMPL;
-
 # Some objects do not have DBF for nomenclature; let's use extra file for it
 my @extra;
 #open(TMPL, "<:encoding(UTF-8)", "./nomenclature.extra");
@@ -62,13 +57,6 @@ for(my $j=0;$j<scalar(@header);$j++) {
     print FAB $header[$j];
 }
 print FAB "\n";
-
-open(INFO, ">./nomenclature-origins.fab");
-for(my $k=0;$k<scalar(@headerinfo);$k++)
-{
-    print INFO $headerinfo[$k];
-}
-print INFO "\n";
 
 my @dbfiless = sort @dbfiles;
 for(my $i=0; $i<scalar(@dbfiless); $i++)
@@ -96,14 +84,12 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 	my $type = lc $ntype[0]; # context
 	my $featureName = $arr->[0];
 	my $origin = $arr->[8];
-	$origin =~ s/\r\n/ /gi;
+	$origin =~ s/\r\n/ /gi;	
 	# if ($featureName !~ m/\'/ && $featureName !~ m/\./) { $featureName = $arr->[1]; }
 	print FAB "# TRANSLATORS: (".$pName."); ".$origin."\n";
-	print FAB $pName."\t".$id."\t_(\"".$featureName."\",\"".$type."\")\t".$arr->[5]."\t".$latitude."\t".$longitude."\t".$arr->[2]."\n";
 	$origin =~ s/ \"/ “/g;
 	$origin =~ s/\"/”/g;
-	print INFO "# TRANSLATORS: Origin of planetary feature name\n";
-	print INFO $id."\t_(\"".$origin."\")\n";
+	print FAB $pName."\t".$id."\t_(\"".$featureName."\",\"".$type."\")\t".$arr->[5]."\t".$latitude."\t".$longitude."\t".$arr->[2]."\t_(\"".$origin."\",\"origin\")\n";
     }
 }
 
@@ -111,8 +97,6 @@ for(my $k=0;$k<scalar(@extra);$k++) {
     print FAB $extra[$k];
 }
 print FAB "\n";
-print INFO "\n";
 
 close FAB;
-close INFO;
 

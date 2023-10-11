@@ -26,19 +26,17 @@ done
 echo "[Step 3] Create nomenclature files for Stellarium...\n"
 
 cp -f nomenclature.fab nomenclature.previous
-cp -f nomenclature-origins.fab nomenclature-origins.previous
 
 ./generate_nomenclature.pl
 
 gzip -nc nomenclature.fab > nomenclature.dat
-gzip -nc nomenclature-origins.fab > nomenclature-origins.dat
 
 oldFileSize=$(stat -c%s "./nomenclature.previous")
 newFileSize=$(stat -c%s "./nomenclature.fab")
 
 echo "[Step 3] Clean up...\n"
 
-rm -rf $sdir $dbf ./nomenclature.previous ./nomenclature-origins.previous
+rm -rf $sdir $dbf ./nomenclature.previous
 
 if [ $oldFileSize != $newFileSize ]
 then
