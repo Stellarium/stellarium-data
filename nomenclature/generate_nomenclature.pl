@@ -5,7 +5,7 @@
 #
 # Please extract all DBF files from archives into this directory and run the tool.
 #
-# Copyright (c) 2017, 2018, 2019 Alexander Wolf
+# Copyright (c) 2017, 2018, 2019, 2023 Alexander Wolf
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -44,6 +44,11 @@ open(TMPL, "<./header.tmpl");
 @header = <TMPL>;
 close TMPL;
 
+my @headerinfo;
+open(TMPL, "<./header-origins.tmpl");
+@headerinfo = <TMPL>;
+close TMPL;
+
 # Some objects do not have DBF for nomenclature; let's use extra file for it
 my @extra;
 #open(TMPL, "<:encoding(UTF-8)", "./nomenclature.extra");
@@ -57,6 +62,13 @@ for(my $j=0;$j<scalar(@header);$j++) {
     print FAB $header[$j];
 }
 print FAB "\n";
+
+open(INFO, ">./nomenclature-origins.fab");
+for(my $k=0;$k<scalar(@headerinfo);$k++)
+{
+    print INFO $headerinfo[$k];
+}
+print INFO "\n";
 
 my @dbfiless = sort @dbfiles;
 for(my $i=0; $i<scalar(@dbfiless); $i++)
@@ -88,6 +100,10 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 	# if ($featureName !~ m/\'/ && $featureName !~ m/\./) { $featureName = $arr->[1]; }
 	print FAB "# TRANSLATORS: (".$pName."); ".$origin."\n";
 	print FAB $pName."\t".$id."\t_(\"".$featureName."\",\"".$type."\")\t".$arr->[5]."\t".$latitude."\t".$longitude."\t".$arr->[2]."\n";
+	$origin =~ s/ \"/ “/g;
+	$origin =~ s/\"/”/g;
+	print INFO "# TRANSLATORS: Origin of planetary feature name\n";
+	print INFO $id."\t_(\"".$origin."\")\n";
     }
 }
 
@@ -95,6 +111,8 @@ for(my $k=0;$k<scalar(@extra);$k++) {
     print FAB $extra[$k];
 }
 print FAB "\n";
+print INFO "\n";
 
 close FAB;
+close INFO;
 
