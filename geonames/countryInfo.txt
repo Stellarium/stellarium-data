@@ -214,7 +214,7 @@ NE	NER	562	NG	Niger	Niamey	1267000	22442948	AF	.ne	XOF	Franc	227	####	^(\d{4})$	
 NF	NFK	574	NF	Norfolk Island	Kingston	34.6	1828	OC	.nf	AUD	Dollar	672	####	^(\d{4})$	en-NF	2155115		
 NG	NGA	566	NI	Nigeria	Abuja	923768	195874740	AF	.ng	NGN	Naira	234	######	^(\d{6})$	en-NG,ha,yo,ig,ff	2328926	TD,NE,BJ,CM	
 NI	NIC	558	NU	Nicaragua	Managua	129494	6465513	NA	.ni	NIO	Cordoba	505	###-###-#	^(\d{7})$	es-NI,en	3617476	CR,HN	
-NL	NLD	528	NL	Netherlands	Amsterdam	41526	17231017	EU	.nl	EUR	Euro	31	#### @@	^(\d{4}\s?[a-zA-Z]{2})$	nl-NL,fy-NL	2750405	DE,BE	
+NL	NLD	528	NL	The Netherlands	Amsterdam	41526	17231017	EU	.nl	EUR	Euro	31	#### @@	^(\d{4}\s?[a-zA-Z]{2})$	nl-NL,fy-NL	2750405	DE,BE	
 NO	NOR	578	NO	Norway	Oslo	324220	5314336	EU	.no	NOK	Krone	47	####	^(\d{4})$	no,nb,nn,se,fi	3144096	FI,RU,SE	
 NP	NPL	524	NP	Nepal	Kathmandu	140800	28087871	AS	.np	NPR	Rupee	977	#####	^(\d{5})$	ne,en	1282988	CN,IN	
 NR	NRU	520	NR	Nauru	Yaren	21	12704	OC	.nr	AUD	Dollar	674			na,en-NR	2110425		

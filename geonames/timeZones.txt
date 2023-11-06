@@ -157,7 +157,7 @@ BR	America/Noronha	-2.0	-2.0	-2.0
 US	America/North_Dakota/Beulah	-6.0	-5.0	-6.0
 US	America/North_Dakota/Center	-6.0	-5.0	-6.0
 US	America/North_Dakota/New_Salem	-6.0	-5.0	-6.0
-GL	America/Nuuk	-3.0	-2.0	-3.0
+GL	America/Nuuk	-3.0	-2.0	-2.0
 MX	America/Ojinaga	-6.0	-5.0	-6.0
 PA	America/Panama	-5.0	-5.0	-5.0
 SR	America/Paramaribo	-3.0	-3.0	-3.0
