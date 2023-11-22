@@ -1216,22 +1216,22 @@ HR.02	Brod-Posavina	Brod-Posavina	3337512
 HR.03	Dubrovnik-Neretva	Dubrovnik-Neretva	3337513
 HR.04	Istria	Istria	3337514
 HR.05	Karlovac	Karlovac	3337515
-HR.06	County of Koprivnica-Križevci	County of Koprivnica-Krizevci	3337518
-HR.07	County of Krapina-Zagorje	County of Krapina-Zagorje	3337519
-HR.08	County of Lika-Senj	County of Lika-Senj	3337520
-HR.09	County of Međimurje	County of Megimurje	3337521
+HR.06	Koprivnica-Križevci	Koprivnica-Krizevci	3337518
+HR.07	Krapina-Zagorje	Krapina-Zagorje	3337519
+HR.08	Lika-Senj	Lika-Senj	3337520
+HR.09	Međimurje	Megimurje	3337521
 HR.10	County of Osijek-Baranja	County of Osijek-Baranja	3337522
-HR.11	County of Požega-Slavonia	County of Pozega-Slavonia	3337523
-HR.12	County of Primorje-Gorski Kotar	County of Primorje-Gorski Kotar	3337524
+HR.11	Požega-Slavonia	Pozega-Slavonia	3337523
+HR.12	Primorje-Gorski Kotar	Primorje-Gorski Kotar	3337524
 HR.13	Šibenik-Knin	Sibenik-Knin	3337525
-HR.14	County of Sisak-Moslavina	County of Sisak-Moslavina	3337526
+HR.14	Sisak-Moslavina	Sisak-Moslavina	3337526
 HR.15	Split-Dalmatia	Split-Dalmatia	3337527
-HR.16	County of Varaždin	County of Varazdin	3337528
-HR.18	Vukovar-Sirmium	Vukovar-Sirmium	3337529
-HR.19	County of Zadar	County of Zadar	3337530
-HR.20	County of Zagreb	County of Zagreb	3337531
-HR.21	City of Zagreb	City of Zagreb	3337532
-HR.17	County of Virovitica-Podravina	County of Virovitica-Podravina	3337533
+HR.16	Varaždin	Varazdin	3337528
+HR.18	Vukovar-Srijem	Vukovar-Srijem	3337529
+HR.19	Zadar	Zadar	3337530
+HR.20	Zagreb County	Zagreb County	3337531
+HR.21	Zagreb	Zagreb	3337532
+HR.17	Virovitica-Podravina	Virovitica-Podravina	3337533
 HT.13	Sud-Est	Sud-Est	3716950
 HT.12	Sud	Sud	3716952
 HT.11	Ouest	Ouest	3719432
