@@ -22251,6 +22251,7 @@ Dovzhansk	Luhansk	17	N	62.691	48.08964N	39.65243E	271	6	Europe/Kyiv
 Svatove	Luhansk	17	N	16.145	49.40719N	38.15362E	89	5	Europe/Kyiv
 Svalyava	Transcarpathia	17	N	17.068	48.54735N	22.98673E	203	5	Europe/Kyiv
 Sumy	Sumy	17	R	259.66	50.9216N	34.80029E	143	7	Europe/Kyiv
+Sukhodilsk	Luhansk	17	N	20.39	48.35022N	39.72698E	201	5	Europe/Kyiv
 Sudak	Crimea	17	N	16.597	44.84924N	34.97471E	33	5	Europe/Simferopol
 Stryi	Lviv	17	N	61.404	49.26171N	23.84721E	297	6	Europe/Kyiv
 Stebnyk	Lviv	17	N	20.2	49.30098N	23.55197E	334	5	Europe/Kyiv
