@@ -61,6 +61,9 @@ print FAB "\n";
 open(NOTE, ">./nomenclature.warning");
 print NOTE "#\n# WARNING: the truncated origin statements\n#\n";
 
+open(TYPO, ">./nomenclature.typo");
+print TYPO "#\n# WARNING: probables typos and mistakes\n#\n";
+
 my @dbfiless = sort @dbfiles;
 for(my $i=0; $i<scalar(@dbfiless); $i++)
 {
@@ -79,19 +82,23 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
     
     while(my $arr = $sth->fetchrow_arrayref ) 
     {
+	my $cbname = sprintf("%-12s", $pName);
 	my $id = $arr->[6];
 	$id =~ s/http\:\/\/planetarynames\.wr\.usgs\.gov\/Feature\///gi;
+	my $pfid = sprintf("%5d", $id);
 	my $latitude  = sprintf "%.6f", $arr->[4];
 	my $longitude = sprintf "%.6f", $arr->[3];
 	my @ntype = split(",",$arr->[7]);
 	my $type = lc $ntype[0]; # context
 	my $featureName = $arr->[0];
 	my $origin = $arr->[8];
-	$origin =~ s/\r\n/ /gi;	
+	$origin =~ s/\r\n/ /gi;
+	my $message = $cbname."[".$pfid."] ".$origin."\n";
 	if (length($origin)>=250) {
-	    my $cbname = sprintf("%-10s", $pName);
-	    my $pfid   = sprintf("%-5d", $id);
-	    print NOTE $cbname."[".$pfid."] ".$origin."\n";
+	    print NOTE $message;
+	}
+	if ($origin =~ /\w\s\/\w/ || $origin =~ /\s{2,}/ || $origin =~ /\s\,/ || $origin =~ /\s\./ || $origin =~ /\s\;/) {
+	    print TYPO $message;
 	}
 	# if ($featureName !~ m/\'/ && $featureName !~ m/\./) { $featureName = $arr->[1]; }
 	print FAB "# TRANSLATORS: (".$pName."); ".$origin."\n";
@@ -102,6 +109,7 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 }
 
 close NOTE;
+close TYPO;
 
 for(my $k=0;$k<scalar(@extra);$k++) {
     print FAB $extra[$k];
