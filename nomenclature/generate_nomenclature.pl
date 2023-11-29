@@ -58,6 +58,9 @@ for(my $j=0;$j<scalar(@header);$j++) {
 }
 print FAB "\n";
 
+open(NOTE, ">./nomenclature.warning");
+print NOTE "#\n# WARNING: the truncated origin statements\n#\n";
+
 my @dbfiless = sort @dbfiles;
 for(my $i=0; $i<scalar(@dbfiless); $i++)
 {
@@ -85,6 +88,11 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 	my $featureName = $arr->[0];
 	my $origin = $arr->[8];
 	$origin =~ s/\r\n/ /gi;	
+	if (length($origin)>=250) {
+	    my $cbname = sprintf("%-10s", $pName);
+	    my $pfid   = sprintf("%-5d", $id);
+	    print NOTE $cbname."[".$pfid."] ".$origin."\n";
+	}
 	# if ($featureName !~ m/\'/ && $featureName !~ m/\./) { $featureName = $arr->[1]; }
 	print FAB "# TRANSLATORS: (".$pName."); ".$origin."\n";
 	$origin =~ s/ \"/ “/g;
@@ -92,6 +100,8 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 	print FAB $pName."\t".$id."\t_(\"".$featureName."\",\"".$type."\")\t".$arr->[5]."\t".$latitude."\t".$longitude."\t".$arr->[2]."\t_(\"".$origin."\",\"origin\")\n";
     }
 }
+
+close NOTE;
 
 for(my $k=0;$k<scalar(@extra);$k++) {
     print FAB $extra[$k];
