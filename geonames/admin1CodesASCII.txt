@@ -1911,7 +1911,7 @@ MD.61	Basarabeasca	Basarabeasca	618565
 MD.77	Hînceşti	Hincesti	858803
 MD.86	Şoldăneşti	Soldanesti	858808
 MD.58	Transnistria	Transnistria	858889
-MD.51	Găgăuzia	Gagauzia	858895
+MD.51	Gagauzia	Gagauzia	858895
 MD.62	Bender Municipality	Bender Municipality	861487
 MD.60	Bălţi	Balti	873909
 ME.17	Rožaje Municipality	Rozaje Municipality	786233
@@ -1938,6 +1938,7 @@ ME.01	Andrijevica	Andrijevica	3343959
 ME.22	Gusinje	Gusinje	11497642
 ME.23	Petnjica	Petnjica	11497643
 ME.24	Tuzi	Tuzi	12104729
+ME.25	ME.25	Zeta	12640530
 MG.71	Diana	Diana	7670842
 MG.72	Sava	Sava	7670846
 MG.42	Sofia	Sofia	7670847
@@ -2474,30 +2475,30 @@ PA.13	Panamá Oeste Province	Panama Oeste Province	11353126
 PA.NT	Naso Tjër Di	Naso Tjer Di	12508964
 PE.25	Ucayali	Ucayali	3691099
 PE.24	Tumbes	Tumbes	3691146
-PE.22	San Martín	San Martin	3692385
+PE.22	San Martín Department	San Martin Department	3692385
 PE.20	Piura	Piura	3693525
 PE.16	Loreto	Loreto	3695238
 PE.14	Lambayeque	Lambayeque	3695753
 PE.13	La Libertad	La Libertad	3695781
-PE.10	Huanuco	Huanuco	3696416
-PE.06	Cajamarca	Cajamarca	3699087
+PE.10	Huánuco Department	Huanuco Department	3696416
+PE.06	Cajamarca Department	Cajamarca Department	3699087
 PE.02	Ancash	Ancash	3699674
 PE.01	Amazonas	Amazonas	3699699
 PE.23	Tacna	Tacna	3928127
 PE.21	Puno	Puno	3931275
 PE.19	Pasco	Pasco	3932834
-PE.18	Moquegua	Moquegua	3934607
+PE.18	Moquegua Department	Moquegua Department	3934607
 PE.17	Madre de Dios	Madre de Dios	3935619
-PE.LMA	Lima	Lima	3936451
+PE.LMA	Lima Province	Lima Province	3936451
 PE.15	Lima region	Lima region	3936452
 PE.12	Junin	Junin	3937485
 PE.11	Ica	Ica	3938526
 PE.09	Huancavelica	Huancavelica	3939467
-PE.08	Cusco	Cusco	3941583
+PE.08	Cuzco Department	Cuzco Department	3941583
 PE.07	Callao	Callao	3946080
 PE.05	Ayacucho	Ayacucho	3947018
 PE.04	Arequipa	Arequipa	3947319
-PE.03	Apurímac	Apurimac	3947421
+PE.03	Apurímac Department	Apurimac Department	3947421
 PF.04	Îles Marquises	Iles Marquises	4019991
 PF.03	Îles Tuamotu-Gambier	Iles Tuamotu-Gambier	4030621
 PF.02	Leeward Islands	Leeward Islands	4034364
@@ -2711,46 +2712,46 @@ QA.13	Baladīyat az̧ Z̧a‘āyin	Baladiyat az Za`ayin	8030540
 QA.14	Al-Shahaniya	Al-Shahaniya	11777514
 RE.RE	Réunion	Reunion	6690283
 RO.40	Vrancea	Vrancea	662447
-RO.39	Vâlcea	Valcea	662892
-RO.38	Vaslui	Vaslui	663116
-RO.37	Tulcea	Tulcea	664517
-RO.36	Timiș	Timis	665091
-RO.35	Teleorman	Teleorman	665283
+RO.39	Vâlcea County	Valcea County	662892
+RO.38	Vaslui County	Vaslui County	663116
+RO.37	Tulcea County	Tulcea County	664517
+RO.36	Timiș County	Timis County	665091
+RO.35	Teleorman County	Teleorman County	665283
 RO.34	Suceava	Suceava	665849
-RO.33	Sibiu	Sibiu	667267
-RO.32	Satu Mare	Satu Mare	667869
-RO.31	Sălaj	Salaj	668248
+RO.33	Sibiu County	Sibiu County	667267
+RO.32	Satu Mare County	Satu Mare County	667869
+RO.31	Sălaj County	Salaj County	668248
 RO.30	Prahova	Prahova	669737
 RO.29	Olt	Olt	671857
-RO.28	Neamț	Neamt	672460
-RO.27	Mureș	Mures	672628
-RO.26	Mehedinți	Mehedinti	673612
+RO.28	Neamț County	Neamt County	672460
+RO.27	Mureș County	Mures County	672628
+RO.26	Mehedinți County	Mehedinti County	673612
 RO.25	Maramureş	Maramures	673887
-RO.23	Iași	Iasi	675809
-RO.22	Ialomița	Ialomita	675848
-RO.21	Hunedoara	Hunedoara	675917
-RO.20	Harghita	Harghita	676309
-RO.19	Gorj	Gorj	676898
-RO.42	Giurgiu	Giurgiu	677104
-RO.18	Galați	Galati	677692
+RO.23	Iași County	Iasi County	675809
+RO.22	Ialomița County	Ialomita County	675848
+RO.21	Hunedoara County	Hunedoara County	675917
+RO.20	Harghita County	Harghita County	676309
+RO.19	Gorj County	Gorj County	676898
+RO.42	Giurgiu County	Giurgiu County	677104
+RO.18	Galați County	Galati County	677692
 RO.17	Dolj	Dolj	679134
-RO.16	Dâmbovița	Dambovita	679385
-RO.15	Covasna	Covasna	680428
-RO.14	Constanța	Constanta	680962
-RO.13	Cluj	Cluj	681291
-RO.12	Caraș-Severin	Caras-Severin	682714
-RO.41	Călărași	Calarasi	683016
-RO.11	Buzău	Buzau	683121
+RO.16	Dâmbovița County	Dambovita County	679385
+RO.15	Covasna County	Covasna County	680428
+RO.14	Constanța County	Constanta County	680962
+RO.13	Cluj County	Cluj County	681291
+RO.12	Caraș-Severin County	Caras-Severin County	682714
+RO.41	Călărași County	Calarasi County	683016
+RO.11	Buzău County	Buzau County	683121
 RO.10	București	Bucuresti	683504
-RO.09	Brașov	Brasov	683843
-RO.08	Brăila	Braila	683901
-RO.07	Botoșani	Botosani	684038
-RO.06	Bistrița-Năsăud	Bistrita-Nasaud	684647
-RO.05	Bihor	Bihor	684878
-RO.04	Bacău	Bacau	685947
+RO.09	Brașov County	Brasov County	683843
+RO.08	Brăila County	Braila County	683901
+RO.07	Botoșani County	Botosani County	684038
+RO.06	Bistrița-Năsăud County	Bistrita-Nasaud County	684647
+RO.05	Bihor County	Bihor County	684878
+RO.04	Bacău County	Bacau County	685947
 RO.03	Arges	Arges	686192
-RO.02	Arad	Arad	686253
-RO.01	Alba	Alba	686581
+RO.02	Arad County	Arad County	686253
+RO.01	Alba County	Alba County	686581
 RO.43	Ilfov	Ilfov	865518
 RS.VO	Vojvodina	Vojvodina	784272
 RS.SE	Central Serbia	Central Serbia	785958
@@ -3149,14 +3150,14 @@ SI.P9	Ankaran	Ankaran	11288217
 SI.O6	Mirna	Mirna	11288255
 SJ.22	Jan Mayen	Jan Mayen	3041964
 SJ.21	Svalbard	Svalbard	7521757
-SK.03	Košický kraj	Kosicky kraj	865084
-SK.05	Prešovský kraj	Presovsky kraj	865085
-SK.08	Žilinský kraj	Zilinsky kraj	3056506
-SK.01	Banskobystrický kraj	Banskobystricky kraj	3343954
-SK.02	Bratislavský Kraj	Bratislavsky Kraj	3343955
-SK.04	Nitriansky kraj	Nitriansky kraj	3343956
-SK.06	Trenčiansky kraj	Trenciansky kraj	3343957
-SK.07	Trnava	Trnava	3343958
+SK.03	Košice Region	Kosice Region	865084
+SK.05	Prešov Region	Presov Region	865085
+SK.08	Žilina Region	Zilina Region	3056506
+SK.01	Banská Bystrica Region	Banska Bystrica Region	3343954
+SK.02	Bratislava Region	Bratislava Region	3343955
+SK.04	Nitra Region	Nitra Region	3343956
+SK.06	Trenčín Region	Trencin Region	3343957
+SK.07	Trnava Region	Trnava Region	3343958
 SL.04	Western Area	Western Area	2403068
 SL.03	Southern Province	Southern Province	2403745
 SL.02	Northern Province	Northern Province	2404798
@@ -3203,16 +3204,16 @@ SO.02	Banaadir	Banaadir	64833
 SO.01	Bakool	Bakool	64982
 SO.21	Awdal	Awdal	6268943
 SO.22	Sool	Sool	6268947
-SR.19	Wanica	Wanica	3382761
-SR.18	Sipaliwini	Sipaliwini	3383062
-SR.17	Saramacca	Saramacca	3383110
-SR.16	Paramaribo	Paramaribo	3383329
-SR.15	Para	Para	3383337
+SR.19	Wanica District	Wanica District	3382761
+SR.18	Sipaliwini District	Sipaliwini District	3383062
+SR.17	Saramacca District	Saramacca District	3383110
+SR.16	Paramaribo District	Paramaribo District	3383329
+SR.15	Para District	Para District	3383337
 SR.14	Nickerie	Nickerie	3383438
-SR.13	Marowijne	Marowijne	3383560
-SR.12	Coronie	Coronie	3384397
-SR.11	Commewijne	Commewijne	3384418
-SR.10	Brokopondo	Brokopondo	3384481
+SR.13	Marowijne District	Marowijne District	3383560
+SR.12	Coronie District	Coronie District	3384397
+SR.11	Commewijne District	Commewijne District	3384418
+SR.10	Brokopondo District	Brokopondo District	3384481
 SS.07	Upper Nile	Upper Nile	381229
 SS.04	Lakes	Lakes	408647
 SS.06	Unity	Unity	408650
@@ -3720,68 +3721,68 @@ VE.26	Vargas	Vargas	3830309
 VI.010	Saint Croix Island	Saint Croix Island	7267902
 VI.020	Saint John Island	Saint John Island	7267903
 VI.030	Saint Thomas Island	Saint Thomas Island	7267904
-VN.58	Nghệ An	Nghe An	1559969
-VN.59	Ninh Bình	Ninh Binh	1559970
-VN.60	Ninh Thuận	Ninh Thuan	1559971
-VN.65	Sóc Trăng	Soc Trang	1559972
-VN.67	Trà Vinh	Tra Vinh	1559975
-VN.68	Tuyên Quang	Tuyen Quang	1559976
-VN.69	Vĩnh Long	Vinh Long	1559977
-VN.70	Yên Bái	Yen Bai	1559978
-VN.90	Lào Cai	Lao Cai	1562412
+VN.58	Nghệ An Province	Nghe An Province	1559969
+VN.59	Ninh Bình Province	Ninh Binh Province	1559970
+VN.60	Ninh Thuận Province	Ninh Thuan Province	1559971
+VN.65	Sóc Trăng Province	Soc Trang Province	1559972
+VN.67	Trà Vinh Province	Tra Vinh Province	1559975
+VN.68	Tuyên Quang Province	Tuyen Quang Province	1559976
+VN.69	Vĩnh Long Province	Vinh Long Province	1559977
+VN.70	Yên Bái Province	Yen Bai Province	1559978
+VN.90	Lào Cai Province	Lao Cai Province	1562412
 VN.37	Tiền Giang	Tien Giang	1564676
-VN.66	Thừa Thiên-Huế	Thua Thien-Hue	1565033
+VN.66	Thừa Thiên Huế Province	Thua Thien Hue Province	1565033
 VN.55	Kon Tum	Kon Tum	1565088
-VN.34	Thanh Hóa	Thanh Hoa	1566165
-VN.35	Thái Bình	Thai Binh	1566338
+VN.34	Thanh Hóa Province	Thanh Hoa Province	1566165
+VN.35	Thái Bình Province	Thai Binh Province	1566338
 VN.33	Tây Ninh Province	Tay Ninh Province	1566557
-VN.32	Sơn La	Son La	1567643
-VN.64	Quảng Trị	Quang Tri	1568733
+VN.32	Sơn La Province	Son La Province	1567643
+VN.64	Quảng Trị Province	Quang Tri Province	1568733
 VN.30	Quảng Ninh	Quang Ninh	1568758
 VN.63	Quảng Ngãi Province	Quang Ngai Province	1568769
-VN.62	Quảng Bình	Quang Binh	1568839
-VN.61	Phú Yên	Phu Yen	1569805
-VN.53	Hòa Bình	Hoa Binh	1572594
-VN.24	Long An	Long An	1575788
-VN.39	Lạng Sơn	Lang Son	1576632
-VN.23	Lâm Đồng	Lam Dong	1577882
-VN.89	Lai Châu	Lai Chau	1577954
-VN.21	Kiến Giang	Kien Giang	1579008
-VN.54	Khánh Hòa	Khanh Hoa	1579634
+VN.62	Quảng Bình Province	Quang Binh Province	1568839
+VN.61	Phú Yên Province	Phu Yen Province	1569805
+VN.53	Hòa Bình Province	Hoa Binh Province	1572594
+VN.24	Long An Povince	Long An Povince	1575788
+VN.39	Lạng Sơn Province	Lang Son Province	1576632
+VN.23	Lâm Đồng Province	Lam GJong Province	1577882
+VN.89	Lai Châu Province	Lai Chau Province	1577954
+VN.21	Kiên Giang Province	Kien Giang Province	1579008
+VN.54	Khánh Hòa Province	Khanh Hoa Province	1579634
 VN.20	Ho Chi Minh	Ho Chi Minh	1580578
-VN.52	Hà Tĩnh	Ha Tinh	1580700
-VN.50	Hà Giang	Ha Giang	1581030
-VN.49	Gia Lai	Gia Lai	1581088
+VN.52	Hà Tĩnh Province	Ha Tinh Province	1580700
+VN.50	Hà Giang Province	Ha Giang Province	1581030
+VN.49	Gia Lai Province	Gia Lai Province	1581088
 VN.44	Hanoi	Hanoi	1581129
 VN.87	Can Tho	Can Tho	1581188
 VN.13	Haiphong	Haiphong	1581297
-VN.47	Bình Thuận	Binh Thuan	1581882
-VN.09	Đồng Tháp	Dong Thap	1582562
-VN.43	Đồng Nai	Dong Nai	1582720
+VN.47	Bình Thuận Province	Binh Thuan Province	1581882
+VN.09	Đồng Tháp Province	GJong Thap Province	1582562
+VN.43	Đồng Nai Province	GJong Nai Province	1582720
 VN.88	Đắk Lắk	GJak Lak	1584169
-VN.45	Bà Rịa-Vũng Tàu	Ba Ria-Vung Tau	1584534
-VN.05	Cao Bằng	Cao Bang	1586182
-VN.46	Bình Định	Binh Dinh	1587871
-VN.03	Bến Tre	Ben Tre	1587974
-VN.01	An Giang	An Giang	1594446
-VN.91	Ðắk Nông	Dak Nong	1904987
-VN.92	Ðiện Biên	Dien Bien	1905099
-VN.74	Bắc Ninh	Bac Ninh	1905412
-VN.71	Bắc Giang	Bac Giang	1905419
+VN.45	Bà Rịa–Vũng Tàu Province	Ba Ria-Vung Tau Province	1584534
+VN.05	Cao Bằng Province	Cao Bang Province	1586182
+VN.46	ình Định Province	inh GJinh Province	1587871
+VN.03	Bến Tre Province	Ben Tre Province	1587974
+VN.01	An Giang Province	An Giang Province	1594446
+VN.91	Đăk Nông Province	GJak Nong Province	1904987
+VN.92	Điện Biên Province	GJien Bien Province	1905099
+VN.74	Bắc Ninh Province	Bac Ninh Province	1905412
+VN.71	Bắc Giang Province	Bac Giang Province	1905419
 VN.78	Da Nang	Da Nang	1905468
-VN.75	Bình Dương	Binh Duong	1905475
-VN.76	Bình Phước	Binh Phuoc	1905480
-VN.85	Thái Nguyên	Thai Nguyen	1905497
-VN.84	Quảng Nam	Quang Nam	1905516
-VN.83	Phú Thọ	Phu Tho	1905577
-VN.82	Nam Định	Nam Dinh	1905626
-VN.80	Hà Nam	Ha Nam	1905637
-VN.72	Bắc Kạn	Bac Kan	1905669
-VN.73	Bạc Liêu	Bac Lieu	1905675
-VN.77	Cà Mau	Ca Mau	1905678
-VN.79	Hải Dương	Hai Duong	1905686
-VN.81	Hưng Yên	Hung Yen	1905699
-VN.86	Vĩnh Phúc	Vinh Phuc	1905856
+VN.75	Bình Dương Province	Binh Duong Province	1905475
+VN.76	Bình Phước Province	Binh Phuoc Province	1905480
+VN.85	Thái Nguyên Province	Thai Nguyen Province	1905497
+VN.84	Quảng Nam Province	Quang Nam Province	1905516
+VN.83	Phú Thọ Province	Phu Tho Province	1905577
+VN.82	Nam Định Province	Nam GJinh Province	1905626
+VN.80	Hà Nam Province	Ha Nam Province	1905637
+VN.72	Bắc Kạn Province	Bac Kan Province	1905669
+VN.73	Bạc Liêu Province	Bac Lieu Province	1905675
+VN.77	Cà Mau Province	Ca Mau Province	1905678
+VN.79	Hải Dương Province	Hai Duong Province	1905686
+VN.81	Hưng Yên Province	Hung Yen Province	1905699
+VN.86	Vĩnh Phúc Province	Vinh Phuc Province	1905856
 VN.93	Hậu Giang	Hau Giang	7506719
 VU.15	Tafea	Tafea	2134739
 VU.13	Sanma	Sanma	2134898
