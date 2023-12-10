@@ -9782,7 +9782,7 @@ Ripon	England	18	N	16.363	54.13579N	1.52826W	40	5	Europe/London
 Ripley	England	18	N	21.097	53.03333N	1.4W	126	5	Europe/London
 Richmond	England	18	N	21.469	51.46171N	0.30633W	10	5	Europe/London
 Rhyl	Wales	18	N	25.874	53.31929N	3.49228W	8	5	Europe/London
-Rhosllanerchrugog	Wales	18	N	25.362	53.00974N	3.05814W	175	5	Europe/London
+Rhosllannerchrugog	Wales	18	N	25.362	53.00974N	3.05814W	175	5	Europe/London
 Rhondda	Wales	18	N	59.45	51.65896N	3.44885W	256	6	Europe/London
 Renfrew	Scotland	18	N	22.01	55.87197N	4.39253W	7	5	Europe/London
 Reigate	England	18	N	52.123	51.23736N	0.20582W	85	6	Europe/London
@@ -22897,7 +22897,7 @@ Vilnyansk	Zaporizhzhia	17	N	15.044	47.94768N	35.44034E	148	5	Europe/Kyiv
 Verkhnodniprovsk	Dnipropetrovsk	17	N	15.477	48.65557N	34.3262E	71	5	Europe/Kyiv
 Vatutine	Cherkasy	17	N	15.763	49.01198N	31.04659E	146	5	Europe/Kyiv
 Vasylkiv	Kiev	17	N	37.068	50.18693N	30.31346E	164	5	Europe/Kyiv
-Uzhgorod	Transcarpathia	17	R	115.449	48.6242N	22.2947E	118	7	Europe/Kyiv
+Uzhhorod	Transcarpathia	17	R	115.449	48.6242N	22.2947E	118	7	Europe/Kyiv
 Uman	Cherkasy	17	N	100.135	48.7501N	30.21944E	219	7	Europe/Kyiv
 Tulchyn	Vinnytsia	17	N	15.011	48.67397N	28.86848E	199	5	Europe/Kyiv
 Oleshky	Kherson	17	N	24.639	46.62553N	32.72426E	13	5	Europe/Kyiv

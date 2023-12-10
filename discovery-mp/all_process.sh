@@ -22,7 +22,7 @@ gzip -nc discovery_circumstances.fab > discovery_circumstances.dat
 oldFileSize=$(stat -c%s "./discovery_circumstances.previous")
 newFileSize=$(stat -c%s "./discovery_circumstances.fab")
 
-echo "[Step 3] Clean up...\n"
+echo "[Step 4] Clean up...\n"
 
 rm ./*.txt ./*.previous
 
