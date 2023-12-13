@@ -97,7 +97,7 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 	if (length($origin)>=250) {
 	    print NOTE $message;
 	}
-	if ($origin =~ /\w\s\/\w/ || $origin =~ /\s{2,}/ || $origin =~ /\s\,/ || $origin =~ /\s\./ || $origin =~ /\s\;/ || $origin =~ /Odinn/ || $origin =~ /chieftan/) {
+	if ($origin =~ /\w\s\/\w/ || $origin =~ /\s{2,}/ || $origin =~ /\s\,/ || $origin =~ /\s\./ || $origin =~ /\s\;/ || $origin =~ /Odinn/ || $origin =~ /chieftan/ || $origin =~ /lightening/) {
 	    print TYPO $message;
 	}
 	# if ($featureName !~ m/\'/ && $featureName !~ m/\./) { $featureName = $arr->[1]; }
