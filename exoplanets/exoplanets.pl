@@ -184,6 +184,14 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 	$min = int(($sDec-$deg)*60);
 	$sec = int((($sDec-$deg)*3600-60*$min)*10)/10;
 	
+	$sign = "";
+	if (substr($sDec, 0, 1) ne '-' && $deg > 0) {
+		$sign = "+";
+	}
+	if (substr($sDec, 0, 1) eq '-' && $deg == 0) {
+		$sign = "-";
+	}
+	
 	# fixed bug for Kepler-68
 	if ($starname =~ m/kepler-68/gi) {
 		$hour = 19;
@@ -200,15 +208,7 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 	}
 	
 	$outRA = $hour."h".abs($mint)."m".abs($sect)."s";
-	$outDE = $deg."d".abs($min)."m".abs($sec)."s";
-	# fixed bug for 24 Sex
-	if ($starname =~ m/24\s+Sex/gi) {
-		$outDE = "-".$outDE;
-	}
-	# fixed bug for TOI-544
-	if ($starname =~ m/TOI-544/gi) {
-		$outDE = "-".$outDE;
-	}
+	$outDE = $sign.$deg."d".abs($min)."m".abs($sec)."s";
 
 	# fixed proper names of stars
 	$starname =~ s/Fomalhaut/alpha PsA/gi;
