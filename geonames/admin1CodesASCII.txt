@@ -3383,7 +3383,7 @@ TL.LI	Liquiçá	Liquica	1637729
 TL.LA	Lautém	Lautem	1638294
 TL.CO	Cova Lima	Cova Lima	1639462
 TL.ER	Ermera	Ermera	1644865
-TL.DI	Díli	Dili	1645456
+TL.DI	Dili Municipality	Dili Municipality	1645456
 TL.BO	Bobonaro	Bobonaro	1648513
 TL.BA	Baucau	Baucau	1649538
 TL.OE	Oecusse	Oecusse	1651539
