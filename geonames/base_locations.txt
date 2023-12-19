@@ -914,7 +914,7 @@ Kushtia	Khulna	15	N	135.724	23.9028N	89.11943E	17	7	Asia/Dhaka
 Kaliganj	Khulna	15	N	45.631	23.40964N	89.13801E	16	5	Asia/Dhaka
 Jhingergacha	Khulna	15	N	41.957	23.11134N	89.09061E	15	5	Asia/Dhaka
 Joypur Hat	Rajshahi Division	15	N	73.068	25.10147N	89.02734E	24	6	Asia/Dhaka
-Ishurdi	Rajshahi Division	15	N	81.995	24.12858N	89.06573E	19	6	Asia/Dhaka
+Ishwardi	Rajshahi Division	15	N	81.995	24.12858N	89.06573E	19	6	Asia/Dhaka
 Habiganj	Sylhet	15	N	88.76	24.38044N	91.41299E	15	6	Asia/Dhaka
 Gaurnadi	Barisal	15	N	40.519	22.97372N	90.22376E	12	5	Asia/Dhaka
 Gafargaon	Mymensingh Division	15	N	34.177	24.432N	90.5585E	16	5	Asia/Dhaka
