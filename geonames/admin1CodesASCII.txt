@@ -167,7 +167,7 @@ AZ.46	Sabirabad	Sabirabad	147284
 AZ.45	Saatlı	Saatli	147287
 AZ.13	Bilǝsuvar	Bilasuvar Rayon	147310
 AZ.36	Neftçala	Neftcala	147422
-AZ.35	Nakhichevan	Nakhichevan	147435
+AZ.35	Nakhichevan ASSR	Nakhichevan ASSR	147435
 AZ.32	Masally	Masally	147551
 AZ.31	Lerik	Lerik	147610
 AZ.29	Lənkəran	Lankaran	147613
@@ -620,7 +620,7 @@ CN.24	Shanxi	Shanxi	1795912
 CN.23	Shanghai	Shanghai	1796231
 CN.25	Shandong	Shandong	1796328
 CN.26	Shaanxi	Shaanxi	1796480
-CN.21	Ningxia Hui Autonomous Region	Ningxia Hui Autonomous Region	1799355
+CN.21	Ningxia	Ningxia	1799355
 CN.03	Jiangxi	Jiangxi	1806222
 CN.04	Jiangsu	Jiangsu	1806260
 CN.11	Hunan	Hunan	1806691
@@ -1034,7 +1034,7 @@ GD.02	Saint David	Saint David	3579932
 GD.01	Saint Andrew	Saint Andrew	3579938
 GD.10	Carriacou and Petite Martinique	Carriacou and Petite Martinique	7303836
 GE.51	T'bilisi	T'bilisi	611716
-GE.04	Achara	Achara	615929
+GE.04	Adjara	Adjara	615929
 GE.68	Kvemo Kartli	Kvemo Kartli	865536
 GE.67	Kakheti	Kakheti	865537
 GE.65	Guria	Guria	865538
@@ -1938,7 +1938,7 @@ ME.01	Andrijevica	Andrijevica	3343959
 ME.22	Gusinje	Gusinje	11497642
 ME.23	Petnjica	Petnjica	11497643
 ME.24	Tuzi	Tuzi	12104729
-ME.25	ME.25	Zeta	12640530
+ME.25	Zeta	Zeta	12640530
 MG.71	Diana	Diana	7670842
 MG.72	Sava	Sava	7670846
 MG.42	Sofia	Sofia	7670847
@@ -2399,16 +2399,20 @@ NL.03	Gelderland	Gelderland	2755634
 NL.02	Friesland	Friesland	2755812
 NL.01	Drenthe	Drenthe	2756631
 NL.16	Flevoland	Flevoland	3319179
+NO.05	Finnmark	Finnmark	780166
+NO.20	Vestfold	Vestfold	3132015
+NO.18	Troms	Troms	3133897
+NO.17	Telemark	Telemark	3134723
 NO.14	Rogaland	Rogaland	3141558
+NO.13	Østfold	Ostfold	3143188
 NO.12	Oslo	Oslo	3143242
 NO.09	Nordland	Nordland	3144301
 NO.08	Møre og Romsdal	More og Romsdal	3145495
+NO.04	Buskerud	Buskerud	3159665
+NO.01	Akershus	Akershus	3163480
 NO.21	Trøndelag	Trondelag	11862827
-NO.30	Viken	Viken	12110595
 NO.42	Agder	Agder	12110596
-NO.54	Troms og Finnmark	Troms og Finnmark	12110597
 NO.34	Innlandet	Innlandet	12110598
-NO.38	Vestfold og Telemark	Vestfold og Telemark	12110599
 NO.46	Vestland	Vestland	12110600
 NP.1	Province 1	Province 1	12095447
 NP.2	Province 2	Province 2	12095448

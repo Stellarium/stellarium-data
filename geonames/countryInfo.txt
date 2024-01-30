@@ -221,7 +221,7 @@ NR	NRU	520	NR	Nauru	Yaren	21	12704	OC	.nr	AUD	Dollar	674			na,en-NR	2110425
 NU	NIU	570	NE	Niue	Alofi	260	2166	OC	.nu	NZD	Dollar	683			niu,en-NU	4036232		
 NZ	NZL	554	NZ	New Zealand	Wellington	268680	4885500	OC	.nz	NZD	Dollar	64	####	^(\d{4})$	en-NZ,mi	2186224		
 OM	OMN	512	MU	Oman	Muscat	212460	4829483	AS	.om	OMR	Rial	968	###	^(\d{3})$	ar-OM,en,bal,ur	286963	SA,YE,AE	
-PA	PAN	591	PM	Panama	Panama City	78200	4176873	NA	.pa	PAB	Balboa	507			es-PA,en	3703430	CR,CO	
+PA	PAN	591	PM	Panama	Panama City	78200	4176873	NA	.pa	PAB	Balboa	507	#####	^(\d{5})$	es-PA,en	3703430	CR,CO	
 PE	PER	604	PE	Peru	Lima	1285220	31989256	SA	.pe	PEN	Sol	51	#####	^(\d{5})$	es-PE,qu,ay	3932488	EC,CL,BO,BR,CO	
 PF	PYF	258	FP	French Polynesia	Papeete	4167	277679	OC	.pf	XPF	Franc	689	#####	^((97|98)7\d{2})$	fr-PF,ty	4030656		
 PG	PNG	598	PP	Papua New Guinea	Port Moresby	462840	8606316	OC	.pg	PGK	Kina	675	###	^(\d{3})$	en-PG,ho,meu,tpi	2088628	ID	

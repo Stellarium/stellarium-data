@@ -1,4 +1,4 @@
-CountryCode	TimeZoneId	GMT offset 1. Jan 2023	DST offset 1. Jul 2023	rawOffset (independant of DST)
+CountryCode	TimeZoneId	GMT offset 1. Jan 2024	DST offset 1. Jul 2024	rawOffset (independant of DST)
 CI	Africa/Abidjan	0.0	0.0	0.0
 GH	Africa/Accra	0.0	0.0	0.0
 ET	Africa/Addis_Ababa	3.0	3.0	3.0
@@ -157,7 +157,7 @@ BR	America/Noronha	-2.0	-2.0	-2.0
 US	America/North_Dakota/Beulah	-6.0	-5.0	-6.0
 US	America/North_Dakota/Center	-6.0	-5.0	-6.0
 US	America/North_Dakota/New_Salem	-6.0	-5.0	-6.0
-GL	America/Nuuk	-3.0	-2.0	-2.0
+GL	America/Nuuk	-2.0	-1.0	-2.0
 MX	America/Ojinaga	-6.0	-5.0	-6.0
 PA	America/Panama	-5.0	-5.0	-5.0
 SR	America/Paramaribo	-3.0	-3.0	-3.0
