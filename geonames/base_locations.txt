@@ -8102,7 +8102,7 @@ Al-Minya al-Jadidah	Minya	01	N	17.47	28.08639N	30.81464E	128	5	Africa/Cairo
 An-Najaylah	Matruh	01	N	19.768	31.4071N	26.5832E	112	5	Africa/Cairo
 Ar-Rawdah	Damietta	01	N	31.24	31.32336N	31.76122E	13	5	Africa/Cairo
 Ash-Shaykh Zayid	Giza	01	N	95.854	30.02N	31E	133	6	Africa/Cairo
-Yusuf as-Siddiq	Faiyum	01	N	23.965	29.36043N	30.44646E	29	5	Africa/Cairo
+Yusuf as-Siddiq	Faiyum	01	N	23.965	29.37843N	30.5646E	11	5	Africa/Cairo
 Laayoune		01	R	196.331	27.1418N	13.18797W	68	7	Africa/El_Aaiun
 Boujdour		01	N	42.651	26.13073N	14.48513W	28	5	Africa/El_Aaiun
 Dakhla		01	R	75	23.68477N	15.95798W	6	6	Africa/El_Aaiun
@@ -8435,7 +8435,7 @@ Tordera	Catalonia	19	N	15.345	41.69914N	2.71888E	41	5	Europe/Madrid
 Tolosa	Basque Country	19	N	18.044	43.13484N	2.07801W	80	5	Europe/Madrid
 Tetuan de las Victorias	Madrid	19	N	155	40.45975N	3.6975W	725	7	Europe/Madrid
 Teruel	Aragon	19	N	35.396	40.3456N	1.10646W	908	5	Europe/Madrid
-Teo	Galicia	19	N	17.807	42.75N	8.5W	170	5	Europe/Madrid
+Teo	Galicia	19	N	17.807	42.795N	8.548W	121	5	Europe/Madrid
 Tarrega	Catalonia	19	N	16.539	41.64704N	1.13957E	384	5	Europe/Madrid
 Terrassa	Catalonia	19	N	218.535	41.56667N	2.01667E	302	7	Europe/Madrid
 Tarragona	Catalonia	19	N	132.299	41.11905N	1.24544E	60	7	Europe/Madrid
@@ -10984,6 +10984,7 @@ Yau Tong	Kwun Tong	13	N	34.755	22.29569N	114.23599E	17	5	Asia/Hong_Kong
 Yau Ma Tei	Yau Tsim Mong	13	N	29.644	22.3138N	114.16857E	16	5	Asia/Hong_Kong
 Wong Tai Sin	Wong Tai Sin	13	R	425.235	22.35N	114.18333E	253	7	Asia/Hong_Kong
 Wo Che	Sha Tin	13	N	17.572	22.39016N	114.19217E	33	5	Asia/Hong_Kong
+Wang Tau Hom	Kowloon City	13	N	16.936	22.3401N	114.18732E	34	5	Asia/Hong_Kong
 Wan Chai	Wan Chai	13	R	166.695	22.28142N	114.17258E	40	7	Asia/Hong_Kong
 Wah Fu	Southern	13	N	26.275	22.25474N	114.13622E	55	5	Asia/Hong_Kong
 Tuen Mun San Hui	Tuen Mun	13	N	19.398	22.39877N	113.97596E	18	5	Asia/Hong_Kong
@@ -10994,6 +10995,7 @@ Tsim Sha Tsui	Kowloon City	13	N	24.557	22.3N	114.16667E	0	5	Asia/Hong_Kong
 Tseung Kwan O	Sai Kung	13	N	412.9	22.32789N	114.24992E	19	7	Asia/Hong_Kong
 To Kwa Wan	Kowloon City	13	N	15.646	22.31693N	114.19052E	24	5	Asia/Hong_Kong
 Tiu Keng Leng	Kwun Tong	13	N	51.751	22.29853N	114.25115E	137	6	Asia/Hong_Kong
+Tin Wan	Southern	13	N	16.811	22.25113N	114.14726E	46	5	Asia/Hong_Kong
 Tin Shui Wai	Yuen Long	13	N	282.4	22.45679N	114.00234E	10	7	Asia/Hong_Kong
 Ting Kau	Tsuen Wan	13	N	17.009	22.36956N	114.07907E	10	5	Asia/Hong_Kong
 Tai Wo Hau	Kwai Tsing	13	N	20.848	22.36718N	114.12347E	38	5	Asia/Hong_Kong
@@ -11071,6 +11073,36 @@ Sun Tin Wai	Sha Tin	13	N	16.628	22.37058N	114.18696E	34	5	Asia/Hong_Kong
 Pat Heung	Yuen Long	13	N	40.357	22.4461N	114.09226E	18	5	Asia/Hong_Kong
 Butterfly	Tuen Mun	13	N	15.488	22.37591N	113.96251E	8	5	Asia/Hong_Kong
 Fairview Park	Yuen Long	13	N	20.268	22.46738N	114.04766E	2	5	Asia/Hong_Kong
+Shap Pat Heung	Yuen Long	13	N	77.775	22.4248N	114.03581E	15	6	Asia/Hong_Kong
+South Horizons	Southern	13	N	29.391	22.24383N	114.14828E	1	5	Asia/Hong_Kong
+LOHAS Park	Sai Kung	13	N	50	22.29315N	114.27245E	1	6	Asia/Hong_Kong
+Braemar Hill	Eastern	13	N	16.171	22.28282N	114.20034E	266	5	Asia/Hong_Kong
+Hok Yuen	Kowloon City	13	N	18.091	22.31027N	114.18816E	16	5	Asia/Hong_Kong
+Laguna Verde	Kowloon City	13	N	18.091	22.30719N	114.19071E	2	5	Asia/Hong_Kong
+Wu Kai Sha	Sha Tin	13	N	23.511	22.43016N	114.24212E	-9999	5	Asia/Hong_Kong
+Lee On	Sha Tin	13	N	15.621	22.42635N	114.24133E	6	5	Asia/Hong_Kong
+Kam Ying	Sha Tin	13	N	16.691	22.42285N	114.23664E	87	5	Asia/Hong_Kong
+Sam Shing	Tuen Mun	13	N	16.423	22.38128N	113.97872E	1	5	Asia/Hong_Kong
+Aldrich Bay	Eastern	13	N	17.925	22.28203N	114.22474E	-9999	5	Asia/Hong_Kong
+City Garden	Eastern	13	N	15.212	22.28997N	114.19259E	42	5	Asia/Hong_Kong
+Keng Hau	Sha Tin	13	N	18.707	22.36507N	114.17472E	28	5	Asia/Hong_Kong
+Un Chau Estate	Sham Shui Po	13	N	18.67	22.33633N	114.15616E	1	5	Asia/Hong_Kong
+Pak Tin Estate	Sham Shui Po	13	N	16.843	22.33713N	114.16673E	27	5	Asia/Hong_Kong
+Shek Kip Mei Estate	Sham Shui Po	13	N	25.561	22.33412N	114.16531E	12	5	Asia/Hong_Kong
+Mei Foo Sun Chuen	Sham Shui Po	13	N	37.299	22.33636N	114.14018E	2	5	Asia/Hong_Kong
+Hoi Lai Estate	Sham Shui Po	13	N	16.071	22.33182N	114.14667E	1	5	Asia/Hong_Kong
+Fu Cheong Estate	Sham Shui Po	13	N	15.655	22.32891N	114.15399E	1	5	Asia/Hong_Kong
+So Uk Estate	Sham Shui Po	13	N	18.748	22.34153N	114.15653E	1	5	Asia/Hong_Kong
+Siu Sai Wan Estate	Eastern	13	N	18.803	22.26155N	114.24881E	-9999	5	Asia/Hong_Kong
+Taikoo Shing	Eastern	13	N	34.799	22.28613N	114.2187E	-9999	5	Asia/Hong_Kong
+Heng Fa Chuen	Eastern	13	N	17.963	22.27668N	114.24077E	-9999	5	Asia/Hong_Kong
+Yiu Tung Estate	Eastern	13	N	15.061	22.27849N	114.22299E	-9999	5	Asia/Hong_Kong
+Lei Tung Estate	Southern	13	N	18.575	22.24115N	114.15523E	1	5	Asia/Hong_Kong
+South Horizons (Estate)	Southern	13	N	29.18	22.24411N	114.14616E	1	5	Asia/Hong_Kong
+Wah Fu Estate (I & II)	Southern	13	N	24.897	22.2517N	114.13645E	51	5	Asia/Hong_Kong
+Whampoa Garden	Kowloon City	13	N	30.038	22.30534N	114.18936E	2	5	Asia/Hong_Kong
+Oi Man Estate	Kowloon City	13	N	17.407	22.31197N	114.17853E	33	5	Asia/Hong_Kong
+Tak Long Estate	Kowloon City	13	N	18.72	22.3302N	114.20338E	3	5	Asia/Hong_Kong
 Puerto Cortez	Cortes Department	07	N	48.013	15.82562N	87.92968W	10	5	America/Tegucigalpa
 Yoro	Yoro Department	07	R	15.774	15.1375N	87.12778W	648	5	America/Tegucigalpa
 Villanueva	Cortes Department	07	N	31.571	15.31476N	87.99383W	85	5	America/Tegucigalpa
@@ -16163,7 +16195,6 @@ Kakuma	Turkana	02	N	22.984	3.71363N	34.8572E	603	5	Africa/Nairobi
 Kakamega	Kakamega	02	R	1867.579	0.28422N	34.75229E	1563	9	Africa/Nairobi
 Kajiado	Kajiado	02	R	24.678	1.85238S	36.77683E	1725	5	Africa/Nairobi
 Kabarnet	Baringo	02	R	24.661	0.49194N	35.74303E	2048	5	Africa/Nairobi
-Juja	Kiambu	02	N	156.041	1.18285S	37.11081E	1468	7	Africa/Nairobi
 Iten	Marakwet District	02	R	42	0.67028N	35.50806E	2355	5	Africa/Nairobi
 Isiolo	Isiolo	02	R	78.65	0.35462N	37.58218E	1095	6	Africa/Nairobi
 Isebania	Migori	02	N	23.891	1.22511S	34.46385E	1595	5	Africa/Nairobi
@@ -16192,8 +16223,8 @@ Siaya	Siaya	02	R	33.153	0.0607N	34.28806E	1321	5	Africa/Nairobi
 Takaba	Mandera	02	N	21.517	3.35528N	40.22278E	598	5	Africa/Nairobi
 Ol Kalou	Nyandarua	02	R	47.795	0.27088S	36.37917E	2348	5	Africa/Nairobi
 Kitengela	Kajiado	02	N	154.436	1.47612S	36.96144E	1574	7	Africa/Nairobi
-Juja		02	N	156.041	1.10148S	37.0132E	1521	7	Africa/Nairobi
-Lang'ata		02	N	172.569	1.3666S	36.73324E	1819	7	Africa/Nairobi
+Juja	Kiambu	02	N	156.041	1.10148S	37.0132E	1521	7	Africa/Nairobi
+Lang'ata	Nairobi Area	02	N	172.569	1.3666S	36.73324E	1819	7	Africa/Nairobi
 Mlolongo	Machakos	02	N	136.351	1.39639S	36.94028E	1600	7	Africa/Nairobi
 Lafey	Mandera	02	N	22.882	3.15106N	41.18577E	418	5	Africa/Nairobi
 Mtwapa	Kilifi	02	N	90.677	3.93938S	39.74877E	23	6	Africa/Nairobi
@@ -17115,7 +17146,7 @@ Cair	Grad Skopje	19	N	64.773	42.01528N	21.44111E	270	6	Europe/Skopje
 Ilinden	Ilinden	19	R	16.406	41.99451N	21.58002E	228	5	Europe/Skopje
 Kisela Voda	Grad Skopje	19	N	58.216	41.94889N	21.50278E	239	6	Europe/Skopje
 Centar Zupa	Centar Zhupa	19	R	45.412	41.47849N	20.55945E	738	5	Europe/Skopje
-Zegoua		05	N	31.593	10.5N	5.66667W	339	5	Africa/Bamako
+Zegoua	Sikasso	05	N	31.593	10.48804N	5.64943W	344	5	Africa/Bamako
 Yorosso	Sikasso	05	N	17.447	12.35811N	4.77688W	418	5	Africa/Bamako
 Yanfolila	Sikasso	05	N	24.399	11.18333N	8.15W	363	5	Africa/Bamako
 Toubakoura	Koulikoro	05	N	22.059	13.4637N	7.38278W	340	5	Africa/Bamako
@@ -18150,7 +18181,7 @@ Monapo	Nampula	02	N	50.134	14.91694S	40.30222E	111	6	Africa/Maputo
 Mocimboa	Cabo Delgado	02	N	27.909	11.31667S	40.35E	19	5	Africa/Maputo
 Mozambique	Nampula	02	N	55.829	15.03466S	40.73447E	11	6	Africa/Maputo
 Milange	Zambezia	02	N	35.146	16.09861S	35.77E	681	5	Africa/Maputo
-Micolene		02	N	29.686	16.73333S	39.23333E	4	5	Africa/Maputo
+Micolene	Nampula	02	N	29.686	16.73333S	39.23333E	4	5	Africa/Maputo
 Maxixe	Inhambane	02	N	126.408	23.85972S	35.34722E	21	7	Africa/Maputo
 Matola	Maputo Province	02	R	1198.988	25.96222S	32.45889E	42	9	Africa/Maputo
 Massinga	Inhambane	02	N	24.312	23.32917S	35.38139E	111	5	Africa/Maputo
@@ -21334,7 +21365,7 @@ Cherkessk	Karachayevo-Cherkesiya Republic	17	R	122.395	44.22333N	42.05778E	532	7
 Cherepovets	Vologda Oblast	17	N	315.738	59.13333N	37.9E	136	7	Europe/Moscow
 Cheremushki	Moscow	17	N	106.587	55.66473N	37.56135E	190	7	Europe/Moscow
 Chekhov	Moscow Oblast	17	N	75.643	55.14552N	37.46193E	183	6	Europe/Moscow
-Chegem	Kabardino-Balkariya Republic	17	N	18.429	43.55862N	43.59285E	467	5	Europe/Moscow
+Chegem	Kabardino-Balkariya Republic	17	N	18	43.56722N	43.58528E	476	5	Europe/Moscow
 Cheboksary	Chuvashia	17	R	492.331	56.13222N	47.25194E	106	7	Europe/Moscow
 Chaykovskiy	Perm Krai	17	N	86.712	56.76864N	54.11484E	89	6	Asia/Yekaterinburg
 Chapayevsk	Samara Oblast	17	N	70.147	52.9771N	49.7086E	39	6	Europe/Samara
@@ -21995,7 +22026,7 @@ Jurong Town		14	N	262.73	1.33417N	103.72278E	20	7	Asia/Singapore
 Woodlands		14	N	254.73	1.43801N	103.78877E	27	7	Asia/Singapore
 Marine Parade		14	N	46.39	1.30306N	103.90778E	16	5	Asia/Singapore
 Queenstown Estate		14	N	95.93	1.29417N	103.8025E	22	6	Asia/Singapore
-Jamestown	Saint Helena	05	C	6.875	15.93872S	5.71675W	426	4	Atlantic/St_Helena
+Jamestown	Saint Helena	05	C	0.637	15.93872S	5.71675W	304		Atlantic/St_Helena
 Trbovlje	Trbovlje	19	R	15.163	46.155N	15.05333E	285	5	Europe/Ljubljana
 Velenje	Velenje	19	R	24.327	46.35917N	15.11028E	391	5	Europe/Ljubljana
 Ptuj	Ptuj	19	R	18.164	46.42005N	15.87018E	237	5	Europe/Ljubljana
@@ -25711,7 +25742,7 @@ Newburgh	New York	09	N	28.29	41.50343N	74.01042W	46	5	America/New_York
 Niagara Falls	New York	09	N	48.916	43.0945N	79.05671W	187	5	America/New_York
 North Amityville	New York	09	N	17.862	40.6976N	73.42512W	12	5	America/New_York
 North Babylon	New York	09	N	17.509	40.71649N	73.32179W	11	5	America/New_York
-North Bay Shore	New York	09	N	18.944	40.73621N	73.26262W	13	5	America/New_York
+North Bay Shore	New York	09	N	18.944	40.753N	73.2602W	15	5	America/New_York
 North Bellmore	New York	09	N	19.941	40.69149N	73.53346W	16	5	America/New_York
 North Massapequa	New York	09	N	17.886	40.70093N	73.46207W	17	5	America/New_York
 North Tonawanda	New York	09	N	30.785	43.03867N	78.8642W	177	5	America/New_York
@@ -27438,8 +27469,8 @@ Aden	Aden	16	R	863	12.77944N	45.03667E	16	8	Asia/Aden
 Mamoudzou	Mamoudzou	02	C	54.831	12.78234S	45.22878E	23	6	Indian/Mayotte
 Dzaoudzi	Dzaoudzi	02	R	15.339	12.78339S	45.25693E	26	5	Indian/Mayotte
 Koungou	Koungou	02	R	18.118	12.73361S	45.20417E	40	5	Indian/Mayotte
-Kaoueni		02	N	17.06	12.77121S	45.22419E	9	5	Indian/Mayotte
-Mtsapere		02	N	15.88	12.78636S	45.21732E	37	5	Indian/Mayotte
+Kaoueni	Mamoudzou	02	N	17.06	12.77121S	45.22419E	9	5	Indian/Mayotte
+Mtsapere	Mamoudzou	02	N	15.88	12.78636S	45.21732E	37	5	Indian/Mayotte
 Labattoir	Dzaoudzi	02	N	17.739	12.77698S	45.28234E	34	5	Indian/Mayotte
 Roodepoort	Gauteng	04	N	326.416	26.1625S	27.8725E	1738	7	Africa/Johannesburg
 Zeerust	North-West	04	N	17.708	25.53695S	26.07512E	1213	5	Africa/Johannesburg
@@ -27529,7 +27560,6 @@ Mabopane	Gauteng	04	N	110.972	25.49768S	28.10065E	1225	7	Africa/Johannesburg
 Lydenburg	Mpumalanga	04	N	21.695	25.09598S	30.44393E	1371	5	Africa/Johannesburg
 Louis Trichardt	Limpopo	04	N	86.854	23.04385S	29.90319E	956	6	Africa/Johannesburg
 Lichtenburg	North-West	04	N	65.863	26.152S	26.15968E	1486	6	Africa/Johannesburg
-Lebowakgomo	Limpopo	04	N	33.308	24.2S	29.5E	1161	5	Africa/Johannesburg
 Lady Frere	Eastern Cape	04	N	25.041	31.70312S	27.2329E	1020	5	Africa/Johannesburg
 Ladybrand	Orange Free State	04	N	17.228	29.19448S	27.45739E	1588	5	Africa/Johannesburg
 Kutloanong	Orange Free State	04	N	95.008	27.83333S	26.75E	1326	6	Africa/Johannesburg
