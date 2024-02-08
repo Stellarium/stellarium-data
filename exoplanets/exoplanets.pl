@@ -3,7 +3,7 @@
 #
 # Tool for generate catalog of exoplanets
 #
-# Copyright (C) 2013, 2014, 2017, 2018, 2020 Alexander Wolf
+# Copyright (C) 2013, 2014, 2017, 2018, 2020, 2024 Alexander Wolf
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the "Software"),
@@ -469,7 +469,7 @@ while (@stars = $sth->fetchrow_array()) {
 			$out .= $tab5."\"pclass\": \"".$hpltype."\",\n";
 		}
 		if ($eqktemp > 0) {
-			$out .= $tab5."\"EqTemp\": ".$eqktemp.",\n";
+			$out .= $tab5."\"SurfTemp\": ".$eqktemp.",\n";
 		}
 		if ($fluxdata > 0) {
 			$out .= $tab5."\"flux\": ".$fluxdata.",\n";
