@@ -46,12 +46,12 @@ AF.37	Khowst	Khowst	1444362
 AF.38	Nuristan	Nuristan	1444363
 AF.41	Daykundi	Daykundi	6957553
 AF.42	Panjshir	Panjshir	6957555
-AG.08	Saint Philip	Saint Philip	3576015
-AG.07	Saint Peter	Saint Peter	3576016
-AG.06	Saint Paul	Saint Paul	3576017
-AG.05	Saint Mary	Saint Mary	3576018
-AG.04	Saint John	Saint John	3576023
-AG.03	Saint George	Saint George	3576024
+AG.08	Saint Philip Parish	Saint Philip Parish	3576015
+AG.07	Saint Peter Parish	Saint Peter Parish	3576016
+AG.06	Saint Paul Parish	Saint Paul Parish	3576017
+AG.05	Saint Mary Parish	Saint Mary Parish	3576018
+AG.04	Saint John Parish	Saint John Parish	3576023
+AG.03	Saint George Parish	Saint George Parish	3576024
 AG.09	Redonda	Redonda	3576037
 AG.01	Barbuda	Barbuda	3576390
 AI.11205389	Blowing Point	Blowing Point	11205389
@@ -159,22 +159,22 @@ AX.211	Mariehamns stad	Mariehamns stad	9611689
 AX.212	Ålands landsbygd	Alands landsbygd	9611692
 AX.213	Ålands skärgård	Alands skaergard	9611694
 AZ.12	Beyləqan	Beylaqan	146879
-AZ.69	Zǝngilan	Zangilan Rayon	146900
-AZ.66	Yardımlı	Yardimli	146962
+AZ.69	Zangilan District	Zangilan District	146900
+AZ.66	Yardimli District	Yardimli District	146962
 AZ.55	Shusha	Shusha	147163
-AZ.49	Salyan	Salyan	147269
-AZ.46	Sabirabad	Sabirabad	147284
+AZ.49	Salyan District	Salyan District	147269
+AZ.46	Sabirabad District	Sabirabad District	147284
 AZ.45	Saatlı	Saatli	147287
-AZ.13	Bilǝsuvar	Bilasuvar Rayon	147310
+AZ.13	Bilasuvar District	Bilasuvar District	147310
 AZ.36	Neftçala	Neftcala	147422
 AZ.35	Nakhichevan ASSR	Nakhichevan ASSR	147435
 AZ.32	Masally	Masally	147551
-AZ.31	Lerik	Lerik	147610
+AZ.31	Lerik District	Lerik District	147610
 AZ.29	Lənkəran	Lankaran	147613
 AZ.28	Laçın	Lacin	147626
 AZ.43	Qubadlı	Qubadli	147694
 AZ.24	İmişli	Imisli	147983
-AZ.18	Füzuli	Fuezuli	148107
+AZ.18	Fuzuli District	Fuzuli District	148107
 AZ.14	Jabrayil	Jabrayil	148140
 AZ.15	Jalilabad	Jalilabad	148155
 AZ.08	Astara	Astara	148442
@@ -184,39 +184,39 @@ AZ.03	Ağdam	Agdam	148617
 AZ.07	Shirvan	Shirvan	409417
 AZ.30	Lankaran Sahari	Lankaran Sahari	409418
 AZ.56	Shusha City	Shusha City	409419
-AZ.57	Tǝrtǝr	Tartar Rayon	409420
+AZ.57	Tartar District	Tartar District	409420
 AZ.61	Xankǝndi	Xankandi Sahari	409421
 AZ.65	Khojavend	Khojavend	409423
 AZ.71	Zərdab	Zardab	584583
-AZ.70	Zaqatala	Zaqatala	584604
+AZ.70	Zaqatala District	Zaqatala District	584604
 AZ.67	Yevlax	Yevlax	584650
 AZ.37	Oğuz	Oguz	584742
 AZ.59	Ucar	Ucar	584783
-AZ.58	Tovuz	Tovuz	584861
+AZ.58	Tovuz District	Tovuz District	584861
 AZ.50	Şamaxı	Samaxi	585030
 AZ.47	Shaki	Shaki	585031
 AZ.51	Şǝmkir	Shamkir Rayon	585059
-AZ.27	Kürdǝmir	Kurdamir Rayon	585686
-AZ.38	Qǝbǝlǝ	Qabala Rayon	585738
-AZ.44	Qusar	Qusar	585749
+AZ.27	Kurdamir District	Kurdamir District	585686
+AZ.38	Qabala District	Qabala District	585738
+AZ.44	Qusar District	Qusar District	585749
 AZ.42	Quba	Quba	585786
 AZ.62	Goygol Rayon	Goygol Rayon	585967
 AZ.60	Xaçmaz	Xacmaz	586001
 AZ.26	Kalbajar	Kalbajar	586047
 AZ.40	Qazax	Qazax	586087
-AZ.21	Goranboy	Goranboy	586112
+AZ.21	Goranboy District	Goranboy District	586112
 AZ.39	Qax	Qax	586290
-AZ.25	İsmayıllı	Ismayilli	586320
+AZ.25	Ismayilli District	Ismayilli District	586320
 AZ.22	Göyçay	Goeycay	586482
 AZ.17	Shabran	Shabran	586725
 AZ.16	Daşkǝsǝn	Dashkasan Rayon	586771
-AZ.10	Balakǝn	Balakan Rayon	587010
+AZ.10	Balakan District	Balakan District	587010
 AZ.11	Barda	Barda	587056
 AZ.09	Baki	Baki	587081
 AZ.01	Abşeron	Abseron	587245
-AZ.06	Ağsu	Agsu	587342
+AZ.06	Agsu District	Agsu District	587342
 AZ.04	Ağdaş	Agdas	587376
-AZ.19	Gǝdǝbǝy	Gadabay Rayon	627535
+AZ.19	Gadabay District	Gadabay District	627535
 AZ.05	Ağstafa	Agstafa	828297
 AZ.20	Gǝncǝ	Ganja City	828298
 AZ.33	Mingǝcevir	Mingacevir City	828299
@@ -244,18 +244,18 @@ BB.03	Saint George	Saint George	3373572
 BB.02	Saint Andrew	Saint Andrew	3373580
 BB.01	Christ Church	Christ Church	3373988
 BD.83	Rajshahi Division	Rajshahi Division	1337166
-BD.81	Dhaka	Dhaka	1337179
+BD.81	Dhaka Division	Dhaka Division	1337179
 BD.84	Chittagong	Chittagong	1337200
-BD.82	Khulna	Khulna	1337210
-BD.85	Barisāl	Barisal	1337229
-BD.86	Sylhet	Sylhet	1477362
+BD.82	Khulna Division	Khulna Division	1337210
+BD.85	Barisal Division	Barisal Division	1337229
+BD.86	Sylhet Division	Sylhet Division	1477362
 BD.87	Rangpur Division	Rangpur Division	7671048
 BD.H	Mymensingh Division	Mymensingh Division	11287936
 BE.BRU	Brussels Capital	Brussels Capital	2800867
 BE.WAL	Wallonia	Wallonia	3337387
 BE.VLG	Flanders	Flanders	3337388
 BF.01	Boucle du Mouhoun	Boucle du Mouhoun	6930701
-BF.02	Cascades	Cascades	6930703
+BF.02	Cascades Region	Cascades Region	6930703
 BF.03	Centre	Centre	6930704
 BF.04	Centre-Est	Centre-Est	6930705
 BF.05	Centre-Nord	Centre-Nord	6930706
@@ -458,12 +458,12 @@ BY.04	Minsk City	Minsk City	625143
 BY.03	Grodnenskaya	Grodnenskaya	628035
 BY.02	Gomel Oblast	Gomel Oblast	628281
 BY.01	Brest	Brest	629631
-BZ.06	Toledo	Toledo	3580913
+BZ.06	Toledo District	Toledo District	3580913
 BZ.05	Southern District	Southern District	3580975
 BZ.04	Orange Walk District	Orange Walk District	3581511
-BZ.03	Corozal	Corozal	3582302
-BZ.02	Cayo	Cayo	3582429
-BZ.01	Belize	Belize	3582676
+BZ.03	Corozal District	Corozal District	3582302
+BZ.02	Cayo District	Cayo District	3582429
+BZ.01	Belize District	Belize District	3582676
 CA.01	Alberta	Alberta	5883102
 CA.02	British Columbia	British Columbia	5909050
 CA.03	Manitoba	Manitoba	6065171
@@ -559,18 +559,18 @@ CH.AR	Appenzell Ausserrhoden	Appenzell Ausserrhoden	2661739
 CH.AI	Appenzell Innerrhoden	Appenzell Innerrhoden	2661741
 CH.AG	Aargau	Aargau	2661876
 CI.98	Yamoussoukro	Yamoussoukro	10629377
-CI.76	Bas-Sassandra	Bas-Sassandra	11153052
+CI.76	Bas-Sassandra District	Bas-Sassandra District	11153052
 CI.94	Comoé	Comoe	11153053
-CI.77	Denguélé	Denguele	11153054
+CI.77	Denguélé District	Denguele District	11153054
 CI.95	Gôh-Djiboua	Goh-Djiboua	11153055
-CI.81	Lacs	Lacs	11153056
-CI.82	Lagunes	Lagunes	11153057
+CI.81	Lacs District	Lacs District	11153056
+CI.82	Lagunes District	Lagunes District	11153057
 CI.78	Montagnes	Montagnes	11153058
 CI.96	Sassandra-Marahoué	Sassandra-Marahoue	11153059
-CI.87	Savanes	Savanes	11153060
-CI.90	Vallée du Bandama	Vallee du Bandama	11153061
+CI.87	Savanes District	Savanes District	11153060
+CI.90	Vallée du Bandama District	Vallee du Bandama District	11153061
 CI.97	Woroba	Woroba	11153062
-CI.92	Zanzan	Zanzan	11153063
+CI.92	Zanzan District	Zanzan District	11153063
 CI.93	Abidjan	Abidjan	11153151
 CK.11695124	Aitutaki	Aitutaki	11695124
 CK.11695126	Atiu	Atiu	11695126
@@ -596,7 +596,7 @@ CL.04	Araucanía	Araucania	3899463
 CL.03	Antofagasta	Antofagasta	3899537
 CL.02	Aysén	Aysen	3900333
 CL.10	Region of Magallanes	Region of Magallanes	4036650
-CL.16	Arica y Parinacota	Arica y Parinacota	6693562
+CL.16	Arica y Parinacota Region	Arica y Parinacota Region	6693562
 CL.17	Los Ríos Region	Los Rios Region	6693563
 CL.18	Ñuble	Nuble	11979367
 CM.09	South-West	South-West	2221788
@@ -640,29 +640,29 @@ CN.19	Liaoning	Liaoning	2036115
 CN.05	Jilin	Jilin	2036500
 CN.08	Heilongjiang	Heilongjiang	2036965
 CN.22	Beijing	Beijing	2038349
-CO.31	Vichada	Vichada	3666082
+CO.31	Vichada Department	Vichada Department	3666082
 CO.30	Vaupés	Vaupes	3666254
-CO.29	Valle del Cauca	Valle del Cauca	3666313
-CO.28	Tolima	Tolima	3666951
-CO.27	Sucre	Sucre	3667725
-CO.26	Santander	Santander	3668578
+CO.29	Valle del Cauca Department	Valle del Cauca Department	3666313
+CO.28	Tolima Department	Tolima Department	3666951
+CO.27	Sucre Department	Sucre Department	3667725
+CO.26	Santander Department	Santander Department	3668578
 CO.25	San Andres y Providencia	San Andres y Providencia	3670205
-CO.24	Risaralda	Risaralda	3670698
-CO.23	Quindío	Quindio	3671087
-CO.22	Putumayo	Putumayo	3671178
+CO.24	Risaralda Department	Risaralda Department	3670698
+CO.23	Quindío Department	Quindio Department	3671087
+CO.22	Putumayo Department	Putumayo Department	3671178
 CO.21	Norte de Santander Department	Norte de Santander Department	3673798
 CO.20	Nariño	Narino	3674021
-CO.19	Meta	Meta	3674810
-CO.38	Magdalena	Magdalena	3675686
+CO.19	Meta Department	Meta Department	3674810
+CO.38	Magdalena Department	Magdalena Department	3675686
 CO.17	La Guajira Department	La Guajira Department	3678847
-CO.16	Huila	Huila	3680692
-CO.14	Guaviare	Guaviare	3681344
+CO.16	Huila Department	Huila Department	3680692
+CO.14	Guaviare Department	Guaviare Department	3681344
 CO.15	Guainía Department	Guainia Department	3681652
 CO.33	Cundinamarca	Cundinamarca	3685413
 CO.12	Córdoba	Cordoba	3685889
 CO.11	Chocó	Choco	3686431
-CO.10	Cesar	Cesar	3686880
-CO.09	Cauca	Cauca	3687029
+CO.10	Cesar Department	Cesar Department	3686880
+CO.09	Cauca Department	Cauca Department	3687029
 CO.32	Casanare Department	Casanare Department	3687173
 CO.08	Caquetá	Caqueta	3687479
 CO.37	Caldas Department	Caldas Department	3687951
@@ -670,9 +670,9 @@ CO.36	Boyacá	Boyaca	3688536
 CO.35	Bolívar	Bolivar	3688650
 CO.34	Bogota D.C.	Bogota D.C.	3688685
 CO.04	Atlántico	Atlantico	3689436
-CO.03	Departamento de Arauca	Departamento de Arauca	3689717
+CO.03	Arauca Department	Arauca Department	3689717
 CO.02	Antioquia	Antioquia	3689815
-CO.01	Amazonas	Amazonas	3689982
+CO.01	Amazonas Department	Amazonas Department	3689982
 CR.08	San José	San Jose	3621837
 CR.07	Puntarenas Province	Puntarenas Province	3622226
 CR.06	Limón Province	Limon Province	3623064
@@ -681,11 +681,11 @@ CR.03	Guanacaste Province	Guanacaste Province	3623582
 CR.02	Cartago Province	Cartago Province	3624368
 CR.01	Alajuela Province	Alajuela Province	3624953
 CU.16	Villa Clara Province	Villa Clara Province	3534168
-CU.15	Santiago de Cuba	Santiago de Cuba	3536725
+CU.15	Santiago de Cuba Province	Santiago de Cuba Province	3536725
 CU.14	Sancti Spíritus Province	Sancti Spiritus Province	3540665
 CU.01	Pinar del Río	Pinar del Rio	3544088
 CU.03	Matanzas Province	Matanzas Province	3547394
-CU.13	Las Tunas	Las Tunas	3550595
+CU.13	Las Tunas Province	Las Tunas Province	3550595
 CU.04	Isla de la Juventud	Isla de la Juventud	3556608
 CU.12	Holguín Province	Holguin Province	3556965
 CU.10	Guantánamo Province	Guantanamo Province	3557685
@@ -765,48 +765,48 @@ DK.18	Central Jutland	Central Jutland	6418539
 DK.19	North Denmark	North Denmark	6418540
 DK.20	Zealand	Zealand	6418541
 DK.21	South Denmark	South Denmark	6418542
-DM.11	Saint Peter	Saint Peter	3575618
-DM.10	Saint Paul	Saint Paul	3575619
-DM.09	Saint Patrick	Saint Patrick	3575620
-DM.08	Saint Mark	Saint Mark	3575621
-DM.07	Saint Luke	Saint Luke	3575622
-DM.06	Saint Joseph	Saint Joseph	3575625
-DM.05	Saint John	Saint John	3575626
-DM.04	Saint George	Saint George	3575628
-DM.03	Saint David	Saint David	3575630
-DM.02	Saint Andrew	Saint Andrew	3575632
-DO.27	Valverde	Valverde	3492112
+DM.11	Saint Peter Parish	Saint Peter Parish	3575618
+DM.10	Saint Paul Parish	Saint Paul Parish	3575619
+DM.09	Saint Patrick Parish	Saint Patrick Parish	3575620
+DM.08	Saint Mark Parish	Saint Mark Parish	3575621
+DM.07	Saint Luke Parish	Saint Luke Parish	3575622
+DM.06	Saint Joseph Parish	Saint Joseph Parish	3575625
+DM.05	Saint John Parish	Saint John Parish	3575626
+DM.04	Saint George Parish	Saint George Parish	3575628
+DM.03	Saint David Parish	Saint David Parish	3575630
+DM.02	Saint Andrew Parish	Saint Andrew Parish	3575632
+DO.27	Valverde Province	Valverde Province	3492112
 DO.26	Santiago Rodríguez	Santiago Rodriguez	3492912
-DO.25	Santiago	Santiago	3492918
+DO.25	Santiago Province	Santiago Province	3492918
 DO.24	San Pedro de Macorís	San Pedro de Macoris	3493031
-DO.23	San Juan	San Juan	3493091
+DO.23	San Juan Province	San Juan Province	3493091
 DO.33	San Cristóbal	San Cristobal	3493186
 DO.21	Sánchez Ramírez	Sanchez Ramirez	3493192
 DO.20	Samaná	Samana	3493232
 DO.19	Hermanas Mirabal	Hermanas Mirabal	3493282
 DO.18	Puerto Plata	Puerto Plata	3494267
 DO.35	Peravia	Peravia	3495015
-DO.16	Pedernales	Pedernales	3495136
+DO.16	Pedernales Province	Pedernales Province	3495136
 DO.34	Nacional	Nacional	3496024
-DO.32	Monte Plata	Monte Plata	3496132
-DO.15	Monte Cristi	Monte Cristi	3496200
+DO.32	Monte Plata Province	Monte Plata Province	3496132
+DO.15	Monte Cristi Province	Monte Cristi Province	3496200
 DO.31	Monseñor Nouel	Monsenor Nouel	3496274
 DO.14	María Trinidad Sánchez	Maria Trinidad Sanchez	3496772
 DO.30	La Vega	La Vega	3499977
 DO.12	La Romana	La Romana	3500955
-DO.10	La Altagracia	La Altagracia	3503706
+DO.10	La Altagracia Province	La Altagracia Province	3503706
 DO.09	Independencia	Independencia	3504326
-DO.29	Hato Mayor	Hato Mayor	3504766
-DO.08	Espaillat	Espaillat	3505867
+DO.29	Hato Mayor Province	Hato Mayor Province	3504766
+DO.08	Espaillat Province	Espaillat Province	3505867
 DO.28	El Seíbo	El Seibo	3506189
 DO.11	Elías Piña	Elias Pina	3507269
-DO.06	Duarte	Duarte	3508718
+DO.06	Duarte Province	Duarte Province	3508718
 DO.04	Dajabón	Dajabon	3508951
-DO.03	Barahona	Barahona	3512042
-DO.02	Baoruco	Baoruco	3512050
-DO.01	Azua	Azua	3512209
+DO.03	Barahona Province	Barahona Province	3512042
+DO.02	Baoruco Province	Baoruco Province	3512050
+DO.01	Azua Province	Azua Province	3512209
 DO.36	San José de Ocoa	San Jose de Ocoa	6201372
-DO.37	Santo Domingo	Santo Domingo	6201373
+DO.37	Santo Domingo Province	Santo Domingo Province	6201373
 DZ.15	Tlemcen	Tlemcen	2475683
 DZ.14	Tizi Ouzou	Tizi Ouzou	2475741
 DZ.56	Tissemsilt	Tissemsilt	2475858
@@ -865,12 +865,12 @@ DZ.EM	El Menia	El Menia	12226389
 DZ.TG	Touggourt	Touggourt	12226390
 DZ.MG	El Mghair	El Mghair	12226391
 DZ.OD	Ouled Djellal	Ouled Djellal	12226392
-EC.20	Zamora-Chinchipe	Zamora-Chinchipe	3649953
-EC.19	Tungurahua	Tungurahua	3650445
+EC.20	Zamora Chinchipe	Zamora Chinchipe	3649953
+EC.19	Tungurahua Province	Tungurahua Province	3650445
 EC.18	Pichincha	Pichincha	3653224
-EC.17	Pastaza	Pastaza	3653392
+EC.17	Pastaza Province	Pastaza Province	3653392
 EC.23	Napo	Napo	3653890
-EC.15	Morona-Santiago	Morona-Santiago	3654005
+EC.15	Morona-Santiago Province	Morona-Santiago Province	3654005
 EC.14	Manabí	Manabi	3654451
 EC.13	Los Ríos	Los Rios	3654592
 EC.12	Loja	Loja	3654665
@@ -880,13 +880,13 @@ EC.01	Galápagos	Galapagos	3657879
 EC.09	Esmeraldas	Esmeraldas	3657986
 EC.08	El Oro	El Oro	3658195
 EC.07	Cotopaxi	Cotopaxi	3658766
-EC.06	Chimborazo	Chimborazo	3659237
+EC.06	Chimborazo Province	Chimborazo Province	3659237
 EC.05	Carchi	Carchi	3659718
 EC.04	Cañar	Canar	3659849
 EC.03	Bolívar	Bolivar	3660130
 EC.02	Azuay	Azuay	3660431
 EC.22	Sucumbíos	Sucumbios	3830305
-EC.24	Orellana	Orellana	3830306
+EC.24	Orellana Province	Orellana Province	3830306
 EC.26	Santo Domingo de los Tsáchilas	Santo Domingo de los Tsachilas	7062136
 EC.25	Santa Elena	Santa Elena	7062138
 EE.21	Võrumaa	Vorumaa	587448
@@ -990,8 +990,8 @@ FJ.03	Northern	Northern	2199295
 FJ.01	Central	Central	2205272
 FJ.02	Eastern	Eastern	4036647
 FJ.04	Rotuma	Rotuma	6324593
-FM.04	Yap	Yap	2081175
-FM.02	Pohnpei	Pohnpei	2081550
+FM.04	Yap State	Yap State	2081175
+FM.02	Pohnpei State	Pohnpei State	2081550
 FM.01	Kosrae	Kosrae	2082036
 FM.03	Chuuk	Chuuk	2082282
 FO.VG	Vágar	Vagar	2610816
@@ -1026,14 +1026,14 @@ GB.WLS	Wales	Wales	2634895
 GB.SCT	Scotland	Scotland	2638360
 GB.NIR	Northern Ireland	Northern Ireland	2641364
 GB.ENG	England	England	6269131
-GD.06	Saint Patrick	Saint Patrick	3579907
-GD.05	Saint Mark	Saint Mark	3579913
-GD.04	Saint John	Saint John	3579919
-GD.03	Saint George	Saint George	3579926
-GD.02	Saint David	Saint David	3579932
-GD.01	Saint Andrew	Saint Andrew	3579938
+GD.06	Saint Patrick Parish	Saint Patrick Parish	3579907
+GD.05	Saint Mark Parish	Saint Mark Parish	3579913
+GD.04	Saint John Parish	Saint John Parish	3579919
+GD.03	Saint George Parish	Saint George Parish	3579926
+GD.02	Saint David Parish	Saint David Parish	3579932
+GD.01	Saint Andrew Parish	Saint Andrew Parish	3579938
 GD.10	Carriacou and Petite Martinique	Carriacou and Petite Martinique	7303836
-GE.51	T'bilisi	T'bilisi	611716
+GE.51	Tbilisi	Tbilisi	611716
 GE.04	Adjara	Adjara	615929
 GE.68	Kvemo Kartli	Kvemo Kartli	865536
 GE.67	Kakheti	Kakheti	865537
@@ -1085,13 +1085,13 @@ GM.03	Central River	Central River	2412707
 GM.02	Lower River	Lower River	2412716
 GM.01	Banjul	Banjul	2413875
 GN.04	Conakry	Conakry	2422464
-GN.B	Boke	Boke	8335085
+GN.B	Boké Region	Boke Region	8335085
 GN.F	Faranah	Faranah	8335086
-GN.K	Kankan	Kankan	8335087
+GN.K	Kankan Region	Kankan Region	8335087
 GN.D	Kindia	Kindia	8335088
-GN.L	Labe	Labe	8335089
-GN.M	Mamou	Mamou	8335090
-GN.N	Nzerekore	Nzerekore	8335091
+GN.L	Labé Region	Labe Region	8335089
+GN.M	Mamou Region	Mamou Region	8335090
+GN.N	Nzérékoré Region	Nzerekore Region	8335091
 GP.GP	Guadeloupe	Guadeloupe	6690363
 GQ.03	Annobon	Annobon	2310307
 GQ.04	Bioko Norte	Bioko Norte	2566978
@@ -1238,23 +1238,23 @@ HT.11	Ouest	Ouest	3719432
 HT.03	Nord-Ouest	Nord-Ouest	3719536
 HT.10	Nord-Est	Nord-Est	3719540
 HT.09	Nord	Nord	3719543
-HT.14	GrandʼAnse	Grand'Anse	3724613
+HT.14	Grand'Anse	Grand'Anse	3724613
 HT.07	Centre	Centre	3728069
 HT.06	Artibonite	Artibonite	3731053
 HT.15	Nippes	Nippes	7115999
 HU.18	Szabolcs-Szatmár-Bereg	Szabolcs-Szatmar-Bereg	715593
 HU.20	Jász-Nagykun-Szolnok	Jasz-Nagykun-Szolnok	719637
-HU.11	Heves	Heves	720002
+HU.11	Heves County	Heves County	720002
 HU.10	Hajdú-Bihar	Hajdu-Bihar	720293
 HU.06	Csongrád	Csongrad	721589
 HU.04	Borsod-Abaúj-Zemplén	Borsod-Abauj-Zemplen	722064
 HU.03	Bekes County	Bekes County	722433
-HU.24	Zala	Zala	3042613
+HU.24	Zala County	Zala County	3042613
 HU.23	Veszprém	Veszprem	3042925
-HU.22	Vas	Vas	3043047
-HU.21	Tolna	Tolna	3043845
-HU.17	Somogy	Somogy	3045226
-HU.16	Pest	Pest	3046431
+HU.22	Vas County	Vas County	3043047
+HU.21	Tolna County	Tolna County	3043845
+HU.17	Somogy County	Somogy County	3045226
+HU.16	Pest County	Pest County	3046431
 HU.14	Nógrád	Nograd	3047348
 HU.12	Komárom-Esztergom	Komarom-Esztergom	3049518
 HU.09	Győr-Moson-Sopron	Gyor-Moson-Sopron	3051977
@@ -1387,35 +1387,35 @@ IQ.13	Kirkuk	Kirkuk	98410
 IQ.05	Sulaymaniyah	Sulaymaniyah	98465
 IQ.17	An Najaf	An Najaf	98862
 IQ.04	Al Qādisīyah	Al Qadisiyah	99022
-IQ.03	Al Muthanná	Al Muthanna	99032
+IQ.03	Al Muthanna Governorate	Al Muthanna Governorate	99032
 IQ.01	Al Anbar	Al Anbar	99592
 IQ.19	Halabja Governorate	Halabja Governorate	12218240
 IR.26	Tehran	Tehran	110791
 IR.36	Zanjan	Zanjan	111452
-IR.40	Yazd	Yazd	111821
+IR.40	Yazd Province	Yazd Province	111821
 IR.25	Semnan	Semnan	116401
 IR.35	Māzandarān	Mazandaran	124544
 IR.34	Markazi	Markazi	124763
 IR.23	Lorestan Province	Lorestan Province	125605
-IR.16	Kordestān	Kordestan	126584
+IR.16	Kurdistan Province	Kurdistan Province	126584
 IR.05	Kohgiluyeh and Boyer-Ahmad	Kohgiluyeh and Boyer-Ahmad	126878
 IR.15	Khuzestan	Khuzestan	127082
-IR.13	Kermānshāh	Kermanshah	128222
+IR.13	Kermanshah Province	Kermanshah Province	128222
 IR.29	Kerman	Kerman	128231
 IR.10	Ilam Province	Ilam Province	130801
 IR.11	Hormozgan	Hormozgan	131222
-IR.09	Hamadān	Hamadan	132142
-IR.08	Gīlān	Gilan	133349
+IR.09	Hamadan Province	Hamadan Province	132142
+IR.08	Gilan Province	Gilan Province	133349
 IR.07	Fars	Fars	134766
 IR.03	Chaharmahal and Bakhtiari	Chaharmahal and Bakhtiari	139677
 IR.22	Bushehr	Bushehr	139816
 IR.33	East Azerbaijan	East Azerbaijan	142549
 IR.01	West Azerbaijan	West Azerbaijan	142550
-IR.32	Ardabīl	Ardabil	413931
+IR.32	Ardabil Province	Ardabil Province	413931
 IR.28	Isfahan	Isfahan	418862
 IR.37	Golestan	Golestan	443792
-IR.38	Qazvīn	Qazvin	443793
-IR.39	Qom	Qom	443794
+IR.38	Qazvin Province	Qazvin Province	443793
+IR.39	Qom Province	Qom Province	443794
 IR.04	Sistan and Baluchestan	Sistan and Baluchestan	1159456
 IR.41	South Khorasan Province	South Khorasan Province	6201374
 IR.42	Razavi Khorasan	Razavi Khorasan	6201375
@@ -1462,15 +1462,15 @@ JE.3237530	Trinity	Trinity	3237530
 JE.3237716	St Martîn	St Martin	3237716
 JE.3237864	St Helier	St Helier	3237864
 JM.16	Westmoreland	Westmoreland	3488081
-JM.15	Trelawny	Trelawny	3488222
-JM.14	St. Thomas	St. Thomas	3488688
-JM.13	St. Mary	St. Mary	3488693
-JM.12	St. James	St. James	3488700
+JM.15	Trelawny Parish	Trelawny Parish	3488222
+JM.14	Saint Thomas Parish	Saint Thomas Parish	3488688
+JM.13	Saint Mary Parish	Saint Mary Parish	3488693
+JM.12	Saint James Parish	Saint James Parish	3488700
 JM.11	St. Elizabeth	St. Elizabeth	3488708
-JM.10	Saint Catherine	Saint Catherine	3488711
-JM.09	St Ann	St Ann	3488715
-JM.08	St. Andrew	St. Andrew	3488716
-JM.07	Portland	Portland	3488997
+JM.10	Saint Catherine Parish	Saint Catherine Parish	3488711
+JM.09	Saint Ann Parish	Saint Ann Parish	3488715
+JM.08	Saint Andrew Parish	Saint Andrew Parish	3488716
+JM.07	Portland Parish	Portland Parish	3488997
 JM.04	Manchester	Manchester	3489586
 JM.17	Kingston	Kingston	3489853
 JM.02	Hanover	Hanover	3490145
@@ -1534,61 +1534,61 @@ JP.04	Chiba	Chiba	2113014
 JP.02	Akita	Akita	2113124
 JP.12	Hokkaido	Hokkaido	2130037
 JP.03	Aomori	Aomori	2130656
-KE.55	West Pokot	West Pokot	178145
-KE.54	Wajir	Wajir	178440
-KE.52	Uasin Gishu	Uasin Gishu	178837
-KE.51	Turkana	Turkana	178914
+KE.55	West Pokot County	West Pokot County	178145
+KE.54	Wajir County	Wajir County	178440
+KE.52	Uasin Gishu County	Uasin Gishu County	178837
+KE.51	Turkana County	Turkana County	178914
 KE.50	Trans Nzoia	Trans Nzoia	179068
 KE.49	Tharaka - Nithi	Tharaka - Nithi	179380
-KE.48	Tana River	Tana River	179585
-KE.46	Siaya	Siaya	180320
-KE.45	Samburu	Samburu	180782
-KE.05	Nairobi Area	Nairobi Area	184742
+KE.48	Tana River County	Tana River County	179585
+KE.46	Siaya County	Siaya County	180320
+KE.45	Samburu County	Samburu County	180782
+KE.05	Nairobi County	Nairobi County	184742
 KE.38	Murang'A	Murang'A	185578
-KE.37	Mombasa	Mombasa	186298
-KE.35	Meru	Meru	186824
-KE.34	Marsabit	Marsabit	187583
-KE.33	Mandera	Mandera	187895
+KE.37	Mombasa County	Mombasa County	186298
+KE.35	Meru County	Meru County	186824
+KE.34	Marsabit County	Marsabit County	187583
+KE.33	Mandera County	Mandera County	187895
 KE.29	Laikipia	Laikipia	189794
-KE.28	Kwale	Kwale	190106
-KE.27	Kitui	Kitui	191037
-KE.26	Kisumu	Kisumu	191242
-KE.25	Kisii	Kisii	191298
-KE.24	Kirinyaga	Kirinyaga	191420
-KE.23	Kilifi	Kilifi	192064
-KE.22	Kiambu	Kiambu	192709
-KE.21	Kericho	Kericho	192898
-KE.20	Kakamega	Kakamega	195271
-KE.18	Isiolo	Isiolo	196228
-KE.16	Garissa	Garissa	197744
-KE.15	Embu	Embu	198474
-KE.13	Busia	Busia	199987
-KE.12	Bungoma	Bungoma	200066
+KE.28	Kwale County	Kwale County	190106
+KE.27	Kitui County	Kitui County	191037
+KE.26	Kisumu County	Kisumu County	191242
+KE.25	Kisii County	Kisii County	191298
+KE.24	Kirinyaga County	Kirinyaga County	191420
+KE.23	Kilifi County	Kilifi County	192064
+KE.22	Kiambu County	Kiambu County	192709
+KE.21	Kericho County	Kericho County	192898
+KE.20	Kakamega County	Kakamega County	195271
+KE.18	Isiolo County	Isiolo County	196228
+KE.16	Garissa County	Garissa County	197744
+KE.15	Embu County	Embu County	198474
+KE.13	Busia County	Busia County	199987
+KE.12	Bungoma County	Bungoma County	200066
 KE.10	Baringo	Baringo	200573
-KE.43	Nyandarua	Nyandarua	7603036
-KE.53	Vihiga	Vihiga	7667638
+KE.43	Nyandarua County	Nyandarua County	7603036
+KE.53	Vihiga County	Vihiga County	7667638
 KE.30	Lamu	Lamu	7667643
-KE.31	Machakos	Machakos	7667644
-KE.32	Makueni	Makueni	7667645
+KE.31	Machakos County	Machakos County	7667644
+KE.32	Makueni County	Makueni County	7667645
 KE.14	Elegeyo-Marakwet	Marakwet District	7667646
 KE.47	Taita Taveta	Taita Taveta	7667652
-KE.19	Kajiado	Kajiado	7667657
-KE.44	Nyeri	Nyeri	7667661
-KE.17	Homa Bay	Homa Bay	7667665
-KE.11	Bomet	Bomet	7667666
-KE.36	Migori	Migori	7667678
-KE.39	Nakuru	Nakuru	7668902
-KE.41	Narok	Narok	7668904
-KE.42	Nyamira	Nyamira	7806857
+KE.19	Kajiado County	Kajiado County	7667657
+KE.44	Nyeri County	Nyeri County	7667661
+KE.17	Homa Bay County	Homa Bay County	7667665
+KE.11	Bomet County	Bomet County	7667666
+KE.36	Migori County	Migori County	7667678
+KE.39	Nakuru County	Nakuru County	7668902
+KE.41	Narok County	Narok County	7668904
+KE.42	Nyamira county	Nyamira county	7806857
 KE.40	Nandi	Nandi	8051212
-KG.08	Osh	Osh	1346798
+KG.08	Osh Region	Osh Region	1346798
 KG.09	Batken	Batken	1463580
-KG.06	Talas	Talas	1527297
-KG.04	Naryn	Naryn	1527590
+KG.06	Talas Region	Talas Region	1527297
+KG.04	Naryn Region	Naryn Region	1527590
 KG.07	Issyk-Kul	Issyk-Kul	1528260
 KG.01	Bishkek	Bishkek	1528334
-KG.03	Jalal-Abad	Jalal-Abad	1529778
-KG.02	Chüy	Chuy	1538652
+KG.03	Jalal-Abad Region	Jalal-Abad Region	1529778
+KG.02	Chuy Region	Chuy Region	1538652
 KG.10	Osh City	Osh City	10300944
 KH.12	Pursat	Pursat	1821301
 KH.29	Battambang	Battambang	1821310
@@ -1609,7 +1609,7 @@ KH.08	Koh Kong	Koh Kong	1831037
 KH.07	Kandal	Kandal	1831095
 KH.21	Kampot	Kampot	1831111
 KH.05	Kampong Thom	Kampong Thom	1831124
-KH.04	Kampong Speu	Kampong Speu	1831132
+KH.04	Kampong Speu Province	Kampong Speu Province	1831132
 KH.03	Kampong Chhnang	Kampong Chhnang	1831166
 KH.02	Kampong Cham	Kampong Cham	1831172
 KH.28	Preah Sihanouk	Preah Sihanouk	1899262
@@ -1665,7 +1665,7 @@ KR.20	Gyeongsangnam-do	Gyeongsangnam-do	1902028
 KR.22	Sejong-si	Sejong-si	8394437
 KW.08	Hawalli	Hawalli	285628
 KW.02	Al Asimah	Al Asimah	285788
-KW.05	Al Jahrāʼ	Muhafazat al Jahra'	285798
+KW.05	Al Jahra Governorate	Al Jahra Governorate	285798
 KW.07	Al Farwaniyah	Al Farwaniyah	285816
 KW.04	Al Aḩmadī	Al Ahmadi	285841
 KW.09	Mubārak al Kabīr	Mubarak al Kabir	7733358
@@ -1699,15 +1699,15 @@ KZ.12510145	Ulytau Region	Ulytau Region	12510145
 LA.14	Xiangkhoang	Xiangkhoang	1652077
 LA.13	Xiagnabouli	Xiagnabouli	1652210
 LA.27	Vientiane	Vientiane	1652238
-LA.20	Savannahkhét	Savannahkhet	1653315
-LA.19	Salavan	Salavan	1653333
+LA.20	Savannakhet Province	Savannakhet Province	1653315
+LA.19	Salavan Province	Salavan Province	1653333
 LA.18	Phôngsali	Phongsali	1653893
 LA.07	Oudômxai	Oudomxai	1654491
-LA.17	Louangphabang	Louangphabang	1655558
+LA.17	Luang Prabang Province	Luang Prabang Province	1655558
 LA.16	Loungnamtha	Loungnamtha	1655561
-LA.15	Khammouan	Khammouan	1656538
+LA.15	Khammouane Province	Khammouane Province	1656538
 LA.03	Houaphan	Houaphan	1657114
-LA.02	Champasak	Champasak	1657818
+LA.02	Champasak Province	Champasak Province	1657818
 LA.01	Attapu	Attapu	1665045
 LA.26	Xékong	Xekong	1904615
 LA.22	Bokeo	Bokeo	1904616
@@ -1721,7 +1721,7 @@ LB.06	South Governorate	South Governorate	279894
 LB.08	Béqaa	Beqaa	280282
 LB.07	Nabatîyé	Nabatiye	444191
 LB.10	Aakkâr	Aakkar	6201370
-LB.11	Baalbek-Hermel	Baalbek-Hermel	6201371
+LB.11	Baalbek-Hermel Governorate	Baalbek-Hermel Governorate	6201371
 LC.10	Vieux-Fort	Vieux-Fort	3576413
 LC.09	Soufrière	Soufriere	3576441
 LC.08	Micoud	Micoud	3576567
@@ -1743,37 +1743,37 @@ LI.04	Mauren	Mauren	3042056
 LI.03	Gamprin	Gamprin	3042063
 LI.02	Eschen	Eschen	3042069
 LI.01	Balzers	Balzers	3042074
-LK.36	Western	Western	1223421
-LK.35	Uva	Uva	1225265
-LK.34	Southern	Southern	1227618
-LK.33	Sabaragamuwa	Sabaragamuwa	1228435
-LK.32	North Western	North Western	1232860
-LK.30	North Central	North Central	1232870
-LK.29	Central	Central	1249296
+LK.36	Western Province	Western Province	1223421
+LK.35	Uva Province	Uva Province	1225265
+LK.34	Southern Province	Southern Province	1227618
+LK.33	Sabaragamuwa Province	Sabaragamuwa Province	1228435
+LK.32	North Western Province	North Western Province	1232860
+LK.30	North Central Province	North Central Province	1232870
+LK.29	Central Province	Central Province	1249296
 LK.38	Northern Province	Northern Province	7671049
 LK.37	Eastern Province	Eastern Province	8133521
-LR.10	Sinoe	Sinoe	2273898
+LR.10	Sinoe County	Sinoe County	2273898
 LR.09	Nimba	Nimba	2274688
-LR.14	Montserrado	Montserrado	2274890
-LR.13	Maryland	Maryland	2275099
-LR.20	Lofa	Lofa	2275344
-LR.19	Grand Gedeh	Grand Gedeh	2276622
-LR.12	Grand Cape Mount	Grand Cape Mount	2276627
-LR.11	Grand Bassa	Grand Bassa	2276630
-LR.01	Bong	Bong	2278292
-LR.15	Bomi	Bomi	2278324
-LR.16	Grand Kru	Grand Kru	2588490
-LR.17	Margibi	Margibi	2588491
-LR.18	River Cess	River Cess	2588492
-LR.21	Gbarpolu	Gbarpolu	2593119
-LR.22	River Gee	River Gee	2593120
+LR.14	Montserrado County	Montserrado County	2274890
+LR.13	Maryland County	Maryland County	2275099
+LR.20	Lofa County	Lofa County	2275344
+LR.19	Grand Gedeh County	Grand Gedeh County	2276622
+LR.12	Grand Cape Mount County	Grand Cape Mount County	2276627
+LR.11	Grand Bassa County	Grand Bassa County	2276630
+LR.01	Bong County	Bong County	2278292
+LR.15	Bomi County	Bomi County	2278324
+LR.16	Grand Kru County	Grand Kru County	2588490
+LR.17	Margibi County	Margibi County	2588491
+LR.18	River Cess County	River Cess County	2588492
+LR.21	Gbarpolu County	Gbarpolu County	2593119
+LR.22	River Gee County	River Gee County	2593120
 LS.19	Thaba-Tseka	Thaba-Tseka	932011
 LS.18	Quthing	Quthing	932184
-LS.17	Qachaʼs Nek	Qacha's Nek	932219
-LS.16	Mokhotlong	Mokhotlong	932418
-LS.15	Mohaleʼs Hoek	Mohale's Hoek District	932439
-LS.14	Maseru	Maseru	932506
-LS.13	Mafeteng	Mafeteng	932615
+LS.17	Qacha's Nek District	Qacha's Nek District	932219
+LS.16	Mokhotlong District	Mokhotlong District	932418
+LS.15	Mohale's Hoek District	Mohale's Hoek District	932439
+LS.14	Maseru District	Maseru District	932506
+LS.13	Mafeteng District	Mafeteng District	932615
 LS.12	Leribe	Leribe	932700
 LS.11	Butha-Buthe	Butha-Buthe	932888
 LS.10	Berea	Berea	932932
@@ -1799,7 +1799,7 @@ LU.EC	Echternach	Echternach	2960629
 LU.DI	Diekirch	Diekirch	2960656
 LU.CL	Clervaux	Clervaux	2960683
 LU.CA	Capellen	Capellen	2960696
-LV.33	Ventspils Rajons	Ventspils Rajons	454307
+LV.33	Ventspils Municipality	Ventspils Municipality	454307
 LV.32	Ventspils	Ventspils	454311
 LV.31	Valmiera	Valmiera	454564
 LV.30	Valka	Valka	454571
@@ -1849,9 +1849,9 @@ LY.65	Al Kufrah	Al Kufrah	88932
 LY.63	Al Jabal al Akhḑar	Al Jabal al Akhdar	443289
 LY.77	Tripoli	Tripoli	2210245
 LY.76	Surt	Surt	2210553
-LY.75	Sabhā	Sabha	2212774
+LY.75	Sabha District	Sabha District	2212774
 LY.74	Nālūt	Nalut	2214432
-LY.73	Murzuq	Murzuq	2214602
+LY.73	Murzuq District	Murzuq District	2214602
 LY.72	Mişrātah	Misratah	2214845
 LY.71	Ghāt	Ghat	2217350
 LY.68	Az Zāwiyah	Az Zawiyah	2218972
@@ -1883,7 +1883,7 @@ MD.91	Teleneşti	Telenesti	617255
 MD.90	Taraclia	Taraclia	617264
 MD.88	Ştefan-Vodă	Stefan-Voda	617283
 MD.89	Strășeni	Straseni	617301
-MD.87	Raionul Soroca	Raionul Soroca	617366
+MD.87	Soroca District	Soroca District	617366
 MD.84	Rîşcani	Riscani	617483
 MD.83	Rezina	Rezina	617501
 MD.82	Orhei	Orhei	617639
@@ -1902,7 +1902,7 @@ MD.64	Cahul	Cahul	618164
 MD.76	Glodeni	Glodeni	618260
 MD.75	Floreşti	Floresti	618331
 MD.74	Fălești	Falesti	618345
-MD.72	Dubăsari	Dubasari	618363
+MD.72	Dubăsari District	Dubasari District	618363
 MD.71	Drochia	Drochia	618369
 MD.70	Donduşeni	Donduseni	618381
 MD.68	Cimişlia	Cimislia	618430
@@ -1935,9 +1935,9 @@ ME.05	Budva	Budva	3203104
 ME.04	Bijelo Polje	Bijelo Polje	3204173
 ME.02	Bar	Bar	3204508
 ME.01	Andrijevica	Andrijevica	3343959
-ME.22	Gusinje	Gusinje	11497642
-ME.23	Petnjica	Petnjica	11497643
-ME.24	Tuzi	Tuzi	12104729
+ME.22	Gusinje Municipality	Gusinje Municipality	11497642
+ME.23	Petnjica Municipality	Petnjica Municipality	11497643
+ME.24	Tuzi Municipality	Tuzi Municipality	12104729
 ME.25	Zeta	Zeta	12640530
 MG.71	Diana	Diana	7670842
 MG.72	Sava	Sava	7670846
@@ -2077,20 +2077,20 @@ ML.01	Bamako	Bamako	2460594
 ML.10	Kidal	Kidal	2597449
 ML.12070575	Taoudénit	Taoudenit	12070575
 ML.12070577	Ménaka	Menaka	12070577
-MM.12	Tanintharyi	Tanintharyi	1293118
-MM.11	Shan	Shan	1297099
-MM.10	Sagain	Sagain	1298480
+MM.12	Tanintharyi Region	Tanintharyi Region	1293118
+MM.11	Shan State	Shan State	1297099
+MM.10	Sagaing Region	Sagaing Region	1298480
 MM.17	Yangon	Yangon	1298822
 MM.01	Rakhine	Rakhine	1298852
-MM.16	Bago	Bago	1300463
+MM.16	Bago Region	Bago Region	1300463
 MM.13	Mon	Mon	1308528
-MM.08	Mandalay	Mandalay	1311871
+MM.08	Mandalay Region	Mandalay Region	1311871
 MM.15	Magway	Magway	1312604
-MM.06	Kayah	Kayah	1319539
-MM.05	Kayin	Kayin	1320233
-MM.04	Kachin	Kachin	1321702
+MM.06	Kayah State	Kayah State	1319539
+MM.05	Kayin State	Kayin State	1320233
+MM.04	Kachin State	Kachin State	1321702
 MM.03	Ayeyarwady	Ayeyarwady	1321850
-MM.02	Chin	Chin	1327132
+MM.02	Chin State	Chin State	1327132
 MM.18	Nay Pyi Taw	Nay Pyi Taw	8239588
 MN.19	Uvs Province	Uvs Province	1514967
 MN.12	Hovd	Hovd	1515696
@@ -2101,7 +2101,7 @@ MN.02	Bayanhongor	Bayanhongor	1516290
 MN.20	Ulaanbaatar	Ulaanbaatar	2028461
 MN.18	Central Aimak	Central Aimak	2028849
 MN.17	Sühbaatar	Suhbaatar	2029155
-MN.16	Selenge	Selenge	2029432
+MN.16	Selenge Province	Selenge Province	2029432
 MN.15	Övörhangay	OEvoerhangay	2029546
 MN.14	Ömnögovĭ	OEmnoegovi	2029669
 MN.13	Khövsgöl Province	Khoevsgoel Province	2030469
@@ -2297,80 +2297,80 @@ MY.02	Kedah	Kedah	1733048
 MY.01	Johor	Johor	1733049
 MY.15	Labuan	Labuan	1734240
 MY.17	Putrajaya	Putrajaya	1996552
-MZ.09	Zambézia	Zambezia	1024312
+MZ.09	Zambezia Province	Zambezia Province	1024312
 MZ.08	Tete	Tete	1026010
 MZ.05	Sofala	Sofala	1026804
-MZ.07	Niassa	Niassa	1030006
+MZ.07	Niassa Province	Niassa Province	1030006
 MZ.06	Nampula	Nampula	1033354
 MZ.04	Maputo Province	Maputo Province	1040649
 MZ.10	Manica	Manica	1040947
-MZ.03	Inhambane	Inhambane	1045110
-MZ.02	Gaza	Gaza	1046058
-MZ.01	Cabo Delgado	Cabo Delgado	1051823
+MZ.03	Inhambane Province	Inhambane Province	1045110
+MZ.02	Gaza Province	Gaza Province	1046058
+MZ.01	Cabo Delgado Province	Cabo Delgado Province	1051823
 MZ.11	Maputo City	Maputo City	1105845
-NA.28	Zambezi	Zambezi	1090052
-NA.21	Khomas	Khomas	3352137
-NA.29	Erongo	Erongo	3371199
-NA.30	Hardap	Hardap	3371200
-NA.31	Karas	Karas	3371201
-NA.32	Kunene	Kunene	3371202
-NA.33	Ohangwena	Ohangwena	3371203
-NA.35	Omaheke	Omaheke	3371205
-NA.36	Omusati	Omusati	3371206
-NA.37	Oshana	Oshana	3371207
-NA.38	Oshikoto	Oshikoto	3371208
-NA.39	Otjozondjupa	Otjozondjupa	3371209
+NA.28	Zambezi Region	Zambezi Region	1090052
+NA.21	Khomas Region	Khomas Region	3352137
+NA.29	Erongo Region	Erongo Region	3371199
+NA.30	Hardap Region	Hardap Region	3371200
+NA.31	Karas Region	Karas Region	3371201
+NA.32	Kunene Region	Kunene Region	3371202
+NA.33	Ohangwena Region	Ohangwena Region	3371203
+NA.35	Omaheke Region	Omaheke Region	3371205
+NA.36	Omusati Region	Omusati Region	3371206
+NA.37	Oshana Region	Oshana Region	3371207
+NA.38	Oshikoto Region	Oshikoto Region	3371208
+NA.39	Otjozondjupa Region	Otjozondjupa Region	3371209
 NA.40	Kavango East	Kavango East	8693188
 NA.41	Kavango West	Kavango West	8693189
 NC.02	South Province	South Province	2140464
 NC.01	North Province	North Province	2140685
 NC.03	Loyalty Islands	Loyalty Islands	7521415
-NE.07	Zinder	Zinder	2437797
-NE.06	Tahoua	Tahoua	2439374
-NE.04	Maradi	Maradi	2441289
-NE.03	Dosso	Dosso	2445486
+NE.07	Zinder Region	Zinder Region	2437797
+NE.06	Tahoua Region	Tahoua Region	2439374
+NE.04	Maradi Region	Maradi Region	2441289
+NE.03	Dosso Region	Dosso Region	2445486
 NE.02	Diffa	Diffa	2445702
 NE.01	Agadez	Agadez	2448083
-NE.09	Tillabéri	Tillaberi	2595293
+NE.09	Tillabéri Region	Tillaberi Region	2595293
 NE.08	Niamey	Niamey	2595294
 NG.51	Sokoto	Sokoto	2322907
-NG.50	Rivers	Rivers	2324433
-NG.49	Plateau	Plateau	2324828
-NG.32	Oyo	Oyo	2325190
-NG.48	Ondo	Ondo	2326168
-NG.16	Ogun	Ogun	2327546
-NG.31	Niger	Niger	2328925
+NG.50	Rivers State	Rivers State	2324433
+NG.49	Plateau State	Plateau State	2324828
+NG.32	Oyo State	Oyo State	2325190
+NG.48	Ondo State	Ondo State	2326168
+NG.16	Ogun State	Ogun State	2327546
+NG.31	Niger State	Niger State	2328925
 NG.05	Lagos	Lagos	2332453
-NG.30	Kwara	Kwara	2332785
-NG.24	Katsina	Katsina	2334797
-NG.29	Kano	Kano	2335196
-NG.23	Kaduna	Kaduna	2335722
-NG.28	Imo	Imo	2337542
-NG.22	Cross River	Cross River	2345891
-NG.27	Borno	Borno	2346794
-NG.26	Benue	Benue	2347266
+NG.30	Kwara State	Kwara State	2332785
+NG.24	Katsina State	Katsina State	2334797
+NG.29	Kano State	Kano State	2335196
+NG.23	Kaduna State	Kaduna State	2335722
+NG.28	Imo State	Imo State	2337542
+NG.22	Cross River State	Cross River State	2345891
+NG.27	Borno State	Borno State	2346794
+NG.26	Benue State	Benue State	2347266
 NG.46	Bauchi	Bauchi	2347468
 NG.25	Anambra	Anambra	2349961
-NG.21	Akwa Ibom	Akwa Ibom	2350813
+NG.21	Akwa Ibom State	Akwa Ibom State	2350813
 NG.11	FCT	FCT	2352776
-NG.45	Abia	Abia	2565340
+NG.45	Abia State	Abia State	2565340
 NG.36	Delta	Delta	2565341
 NG.35	Adamawa	Adamawa	2565342
-NG.37	Edo	Edo	2565343
-NG.47	Enugu	Enugu	2565344
-NG.39	Jigawa	Jigawa	2565345
-NG.52	Bayelsa	Bayelsa	2595344
-NG.53	Ebonyi	Ebonyi	2595345
-NG.54	Ekiti	Ekiti	2595346
-NG.55	Gombe	Gombe	2595347
-NG.56	Nassarawa	Nassarawa	2595348
-NG.57	Zamfara	Zamfara	2595349
+NG.37	Edo State	Edo State	2565343
+NG.47	Enugu State	Enugu State	2565344
+NG.39	Jigawa State	Jigawa State	2565345
+NG.52	Bayelsa State	Bayelsa State	2595344
+NG.53	Ebonyi State	Ebonyi State	2595345
+NG.54	Ekiti State	Ekiti State	2595346
+NG.55	Gombe State	Gombe State	2595347
+NG.56	Nasarawa State	Nasarawa State	2595348
+NG.57	Zamfara State	Zamfara State	2595349
 NG.40	Kebbi	Kebbi	2597363
-NG.41	Kogi	Kogi	2597364
-NG.42	Osun	Osun	2597365
-NG.43	Taraba	Taraba	2597366
-NG.44	Yobe	Yobe	2597367
-NI.15	Rivas	Rivas	3617051
+NG.41	Kogi State	Kogi State	2597364
+NG.42	Osun State	Osun State	2597365
+NG.43	Taraba State	Taraba State	2597366
+NG.44	Yobe State	Yobe State	2597367
+NI.15	Rivas Department	Rivas Department	3617051
 NI.14	Río San Juan Department	Rio San Juan Department	3617056
 NI.13	Nueva Segovia Department	Nueva Segovia Department	3617458
 NI.12	Matagalpa Department	Matagalpa Department	3617707
@@ -2382,7 +2382,7 @@ NI.07	Jinotega Department	Jinotega Department	3618928
 NI.06	Granada Department	Granada Department	3619135
 NI.05	Estelí Department	Esteli Department	3619193
 NI.04	Chontales Department	Chontales Department	3620368
-NI.03	Chinandega	Chinandega	3620380
+NI.03	Chinandega Department	Chinandega Department	3620380
 NI.02	Carazo Department	Carazo Department	3620481
 NI.01	Boaco Department	Boaco Department	3620673
 NI.17	North Caribbean Coast	North Caribbean Coast	3830307
@@ -2421,35 +2421,35 @@ NP.4	Province 4	Province 4	12095450
 NP.5	Lumbini Province	Lumbini Province	12095451
 NP.6	Karnali Pradesh	Karnali Pradesh	12095452
 NP.7	Sudurpashchim Pradesh	Sudurpashchim Pradesh	12095453
-NR.14	Yaren	Yaren	2110418
-NR.13	Uaboe	Uaboe	2110420
-NR.12	Nibok	Nibok	2110423
-NR.11	Meneng	Meneng	2110431
-NR.10	Ijuw	Ijuw	2110432
-NR.09	Ewa	Ewa	2110435
-NR.08	Denigomodu	Denigomodu	2110437
-NR.07	Buada	Buada	2110440
-NR.06	Boe	Boe	2110441
-NR.05	Baiti	Baiti	2110442
-NR.04	Anibare	Anibare	2110445
-NR.03	Anetan	Anetan	2110448
-NR.02	Anabar	Anabar	2110449
-NR.01	Aiwo	Aiwo	2110451
-NZ.G2	Wellington	Wellington	2179538
+NR.14	Yaren District	Yaren District	2110418
+NR.13	Uaboe District	Uaboe District	2110420
+NR.12	Nibok District	Nibok District	2110423
+NR.11	Meneng District	Meneng District	2110431
+NR.10	Ijuw District	Ijuw District	2110432
+NR.09	Ewa District	Ewa District	2110435
+NR.08	Denigomodu District	Denigomodu District	2110437
+NR.07	Buada District	Buada District	2110440
+NR.06	Boe District	Boe District	2110441
+NR.05	Baiti District	Baiti District	2110442
+NR.04	Anibare District	Anibare District	2110445
+NR.03	Anetan District	Anetan District	2110448
+NR.02	Anabar District	Anabar District	2110449
+NR.01	Aiwo District	Aiwo District	2110451
+NZ.G2	Wellington Region	Wellington Region	2179538
 NZ.F3	Manawatu-Wanganui	Manawatu-Wanganui	2179671
-NZ.G1	Waikato	Waikato	2180293
-NZ.TAS	Tasman	Tasman	2181818
-NZ.F9	Taranaki	Taranaki	2181872
+NZ.G1	Waikato Region	Waikato Region	2180293
+NZ.TAS	Tasman District	Tasman District	2181818
+NZ.F9	Taranaki Region	Taranaki Region	2181872
 NZ.F8	Southland	Southland	2182501
 NZ.E8	Bay of Plenty	Bay of Plenty	2182560
 NZ.F6	Northland	Northland	2185978
 NZ.F4	Marlborough	Marlborough	2187304
-NZ.F2	Hawke's Bay	Hawke's Bay	2190146
+NZ.F2	Hawke's Bay Region	Hawke's Bay Region	2190146
 NZ.F1	Gisborne	Gisborne	2190767
 NZ.E9	Canterbury	Canterbury	2192628
 NZ.E7	Auckland	Auckland	2193734
 NZ.10	Chatham Islands	Chatham Islands	4033013
-NZ.F5	Nelson	Nelson	6612108
+NZ.F5	Nelson Region	Nelson Region	6612108
 NZ.F7	Otago	Otago	6612109
 NZ.G3	West Coast	West Coast	6612113
 OM.01	Ad Dakhiliyah	Ad Dakhiliyah	411735
@@ -2463,18 +2463,18 @@ OM.08	Dhofar	Dhofar	411742
 OM.10	Al Buraimi	Al Buraimi	7110710
 OM.12	Northeastern Governorate	Northeastern Governorate	8394433
 OM.11	Al Batinah North	Al Batinah North	8394434
-PA.10	Veraguas	Veraguas	3700159
+PA.10	Veraguas Province	Veraguas Province	3700159
 PA.09	Guna Yala	Guna Yala	3701537
 PA.08	Panamá	Panama	3703433
-PA.07	Los Santos	Los Santos	3704961
-PA.06	Herrera	Herrera	3708710
+PA.07	Los Santos Province	Los Santos Province	3704961
+PA.06	Herrera Province	Herrera Province	3708710
 PA.05	Darién	Darien	3711671
 PA.04	Colón	Colon	3712073
 PA.03	Coclé	Cocle	3712162
 PA.02	Chiriquí Province	Chiriqui Province	3712410
 PA.01	Bocas del Toro Province	Bocas del Toro Province	3713954
 PA.11	Emberá	Embera	7303686
-PA.12	Ngöbe-Buglé	Ngoebe-Bugle	7303688
+PA.12	Ngöbe-Buglé Comarca	Ngoebe-Bugle Comarca	7303688
 PA.13	Panamá Oeste Province	Panama Oeste Province	11353126
 PA.NT	Naso Tjër Di	Naso Tjer Di	12508964
 PE.25	Ucayali	Ucayali	3691099
@@ -2508,28 +2508,28 @@ PF.03	Îles Tuamotu-Gambier	Iles Tuamotu-Gambier	4030621
 PF.02	Leeward Islands	Leeward Islands	4034364
 PF.01	Îles du Vent	Iles du Vent	4034365
 PF.05	Îles Australes	Iles Australes	4034366
-PG.17	West New Britain	West New Britain	2083546
+PG.17	West New Britain Province	West New Britain Province	2083546
 PG.06	Western Province	Western Province	2083549
-PG.16	Western Highlands	Western Highlands	2083551
-PG.05	Southern Highlands	Southern Highlands	2086331
-PG.18	Sandaun	Sandaun	2087246
+PG.16	Western Highlands Province	Western Highlands Province	2083551
+PG.05	Southern Highlands Province	Southern Highlands Province	2086331
+PG.18	Sandaun Province	Sandaun Province	2087246
 PG.07	Bougainville	Bougainville	2089470
-PG.04	Northern Province	Northern Province	2089478
+PG.04	Oro Province	Oro Province	2089478
 PG.15	New Ireland	New Ireland	2089693
 PG.20	National Capital	National Capital	2089856
-PG.14	Morobe	Morobe	2090468
-PG.13	Manus	Manus	2091495
-PG.12	Madang	Madang	2091993
-PG.02	Gulf	Gulf	2096633
-PG.19	Enga	Enga	2097655
-PG.11	East Sepik	East Sepik	2097846
-PG.10	East New Britain	East New Britain	2097853
-PG.09	Eastern Highlands	Eastern Highlands	2097855
-PG.08	Chimbu	Chimbu	2098593
-PG.03	Milne Bay	Milne Bay	2132895
+PG.14	Morobe Province	Morobe Province	2090468
+PG.13	Manus Province	Manus Province	2091495
+PG.12	Madang Province	Madang Province	2091993
+PG.02	Gulf Province	Gulf Province	2096633
+PG.19	Enga Province	Enga Province	2097655
+PG.11	East Sepik Province	East Sepik Province	2097846
+PG.10	East New Britain Province	East New Britain Province	2097853
+PG.09	Eastern Highlands Province	Eastern Highlands Province	2097855
+PG.08	Chimbu Province	Chimbu Province	2098593
+PG.03	Milne Bay Province	Milne Bay Province	2132895
 PG.01	Central Province	Central Province	2133763
-PG.21	Hela	Hela	8521658
-PG.22	Jiwaka	Jiwaka	8521660
+PG.21	Hela Province	Hela Province	8521658
+PG.22	Jiwaka Province	Jiwaka Province	8521660
 PH.14	Autonomous Region in Muslim Mindanao	Autonomous Region in Muslim Mindanao	7115989
 PH.10	Northern Mindanao	Northern Mindanao	7521295
 PH.41	Mimaropa	Mimaropa	7521296
@@ -2544,8 +2544,8 @@ PH.03	Central Luzon	Central Luzon	7521305
 PH.07	Central Visayas	Central Visayas	7521306
 PH.08	Eastern Visayas	Eastern Visayas	7521307
 PH.09	Zamboanga Peninsula	Zamboanga Peninsula	7521308
-PH.11	Davao	Davao	7521309
-PH.05	Bicol	Bicol	7521310
+PH.11	Davao Region	Davao Region	7521309
+PH.05	Bicol Region	Bicol Region	7521310
 PH.NCR	Metro Manila	Metro Manila	7521311
 PK.08	Islamabad	Islamabad	1162015
 PK.05	Sindh	Sindh	1164807
@@ -2685,34 +2685,34 @@ PW.08	Ngaraard	Ngaraard	4037962
 PW.12	Ngchesar	Ngchesar	4037976
 PW.09	Ngarchelong	Ngarchelong	4038037
 PW.10	Ngardmau	Ngardmau	4038043
-PW.13	Ngaremlengui	Ngaremlengui	4038068
+PW.13	Ngeremlengui	Ngeremlengui	4038068
 PW.14	Ngiwal	Ngiwal	4038179
 PW.15	Peleliu	Peleliu	4038261
-PY.17	San Pedro	San Pedro	3437027
+PY.17	San Pedro Department	San Pedro Department	3437027
 PY.16	Presidente Hayes	Presidente Hayes	3437443
 PY.15	Paraguarí	Paraguari	3437599
 PY.13	Ñeembucú	Neembucu	3437677
-PY.12	Misiones	Misiones	3437727
+PY.12	Misiones Department	Misiones Department	3437727
 PY.11	Itapúa	Itapua	3437923
 PY.10	Guairá	Guaira	3438049
-PY.08	Cordillera	Cordillera	3438827
+PY.08	Cordillera Department	Cordillera Department	3438827
 PY.07	Concepción	Concepcion	3438833
-PY.06	Central	Central	3439137
+PY.06	Central Department	Central Department	3439137
 PY.19	Canindeyú	Canindeyu	3439216
 PY.05	Caazapá	Caazapa	3439296
 PY.04	Caaguazú	Caaguazu	3439312
-PY.02	Amambay	Amambay	3439433
+PY.02	Amambay Department	Amambay Department	3439433
 PY.01	Alto Paraná	Alto Parana	3439440
 PY.23	Alto Paraguay	Alto Paraguay	3439441
 PY.22	Asunción	Asuncion	3474570
 PY.24	Boquerón	Boqueron	3867442
 QA.08	Madīnat ash Shamāl	Madinat ash Shamal	389462
 QA.04	Al Khor	Al Khor	389465
-QA.09	Baladīyat Umm Şalāl	Baladiyat Umm Salal	389467
+QA.09	Umm Salal Municipality	Umm Salal Municipality	389467
 QA.06	Baladīyat ar Rayyān	Baladiyat ar Rayyan	389469
 QA.01	Baladīyat ad Dawḩah	Baladiyat ad Dawhah	389470
 QA.10	Al Wakrah	Al Wakrah	389472
-QA.13	Baladīyat az̧ Z̧a‘āyin	Baladiyat az Za`ayin	8030540
+QA.13	Al Daayen	Al Daayen	8030540
 QA.14	Al-Shahaniya	Al-Shahaniya	11777514
 RE.RE	Réunion	Reunion	6690283
 RO.40	Vrancea	Vrancea	662447
@@ -2806,7 +2806,7 @@ RU.21	Ivanovo Oblast	Ivanovo Oblast	555235
 RU.19	Ingushetiya Republic	Ingushetiya Republic	556349
 RU.51	Nizhny Novgorod Oblast	Nizhny Novgorod Oblast	559838
 RU.17	Dagestan	Dagestan	567293
-RU.16	Chuvashia	Chuvashia	567395
+RU.16	Chuvash Republic	Chuvash Republic	567395
 RU.12	Chechnya	Chechnya	569665
 RU.10	Bryansk Oblast	Bryansk Oblast	571473
 RU.09	Belgorod Oblast	Belgorod Oblast	578071
@@ -2861,24 +2861,24 @@ SA.20	Al Jawf Region	Al Jawf Region	109470
 SA.15	Northern Borders Region	Northern Borders Region	109579
 SA.02	Al Bahah Region	Al Bahah Region	109954
 SB.11	Western Province	Western Province	2101556
-SB.03	Malaita	Malaita	2106552
-SB.07	Isabel	Isabel	2108262
-SB.06	Guadalcanal	Guadalcanal	2108831
+SB.03	Malaita Province	Malaita Province	2106552
+SB.07	Isabel Province	Isabel Province	2108262
+SB.06	Guadalcanal Province	Guadalcanal Province	2108831
 SB.10	Central Province	Central Province	2109495
-SB.09	Temotu	Temotu	2178472
-SB.08	Makira	Makira	2178730
-SB.12	Choiseul	Choiseul	7280292
-SB.13	Rennell and Bellona	Rennell and Bellona	7280293
+SB.09	Temotu Province	Temotu Province	2178472
+SB.08	Makira-Ulawa Province	Makira-Ulawa Province	2178730
+SB.12	Choiseul Province	Choiseul Province	7280292
+SB.13	Rennell and Bellona Province	Rennell and Bellona Province	7280293
 SB.14	Honiara	Honiara	9259067
 SC.23	Takamaka	Takamaka	241151
 SC.22	Saint Louis	Saint Louis	241181
 SC.27	Port Glaud	Port Glaud	241215
-SC.20	Pointe Larue	Pointe Larue	241221
+SC.20	Pointe La Rue	Pointe La Rue	241221
 SC.19	Plaisance	Plaisance	241224
 SC.18	Mont Fleuri	Mont Fleuri	241251
 SC.17	Mont Buxton	Mont Buxton	241252
-SC.26	English River	English River	241302
-SC.25	La Digue	La Digue	241311
+SC.26	La Rivière Anglaise	La Riviere Anglaise	241302
+SC.25	La Digue and Inner Islands	La Digue and Inner Islands	241311
 SC.24	Grand Anse Mahe	Grand Anse Mahe	241330
 SC.14	Grand Anse Praslin	Grand Anse Praslin	241331
 SC.12	Glacis	Glacis	241336
@@ -2941,7 +2941,7 @@ SH.01	Ascension	Ascension	2411430
 SH.03	Tristan da Cunha	Tristan da Cunha	3370684
 SH.02	Saint Helena	Saint Helena	6930057
 SI.N5	Žalec	Zalec	3186843
-SI.E7	Zagorje ob Savi	Zagorje ob Savi	3186905
+SI.E7	Zagorje ob Savi Municipality	Zagorje ob Savi Municipality	3186905
 SI.E5	Vrhnika	Vrhnika	3187213
 SI.D5	Tržič	Trzic	3188687
 SI.D4	Trebnje	Trebnje	3188885
@@ -2954,7 +2954,7 @@ SI.L8	Slovenska Bistrica	Slovenska Bistrica	3190533
 SI.C2	Slovenj Gradec	Slovenj Gradec	3190535
 SI.B9	Škofja Loka	Skofja Loka	3190716
 SI.B7	Sežana	Sezana	3190944
-SI.B6	Sevnica	Sevnica	3190949
+SI.B6	Sevnica Municipality	Sevnica Municipality	3190949
 SI.L7	Sentjur	Sentjur	3191028
 SI.L1	Ribnica	Ribnica	3191679
 SI.A3	Radovljica	Radovljica	3192062
@@ -2968,12 +2968,12 @@ SI.84	Nova Gorica	Nova Gorica	3194451
 SI.80	Murska Sobota	Murska Sobota	3194647
 SI.79	Mozirje	Mozirje	3194791
 SI.73	Metlika	Metlika	3195213
-SI.J2	Maribor	Maribor	3195505
+SI.J2	Maribor City Municipality	Maribor City Municipality	3195505
 SI.64	Logatec	Logatec	3196288
 SI.I6	Ljutomer	Ljutomer	3196306
 SI.I5	Litija	Litija	3196424
 SI.I3	Lenart	Lenart	3196684
-SI.57	Laško	Lasko	3196759
+SI.57	Laško Municipality	Lasko Municipality	3196759
 SI.54	Krško	Krsko	3197146
 SI.52	Kranj	Kranj	3197377
 SI.50	Koper-Capodistria	Koper-Capodistria	3197752
@@ -2983,40 +2983,40 @@ SI.H4	Jesenice	Jesenice	3198646
 SI.40	Izola-Isola	Izola-Isola	3199016
 SI.38	Ilirska Bistrica	Ilirska Bistrica	3199130
 SI.36	Idrija	Idrija	3199169
-SI.34	Hrastnik	Hrastnik	3199296
+SI.34	Hrastnik Municipality	Hrastnik Municipality	3199296
 SI.32	Grosuplje	Grosuplje	3199522
 SI.29	Gornja Radgona	Gornja Radgona	3200196
 SI.25	Dravograd	Dravograd	3201252
 SI.G7	Domžale	Domzale	3201729
-SI.17	Črnomelj	Crnomelj	3202332
+SI.17	Črnomelj Municipality	Crnomelj Municipality	3202332
 SI.13	Cerknica	Cerknica	3202707
 SI.11	Celje	Celje	3202780
 SI.08	Brežice	Brezice	3203411
-SI.01	Ajdovščina	Ajdovscina	3204853
+SI.01	Ajdovščina Municipality	Ajdovscina Municipality	3204853
 SI.35	Hrpelje-Kozina	Hrpelje-Kozina	3239050
 SI.19	Divača	Divaca	3239051
 SI.91	Pivka	Pivka	3239054
-SI.I7	Loška Dolina	Loska Dolina	3239056
+SI.I7	Loška Dolina Municipality	Loska Dolina Municipality	3239056
 SI.66	Loški Potok	Loski Potok	3239059
 SI.88	Osilnica	Osilnica	3239061
 SI.D8	Velike Lašče	Velike Lasce	3239062
 SI.C1	Škofljica	Skofljica	3239066
-SI.37	Ig	Ig	3239069
+SI.37	Ig Municipality	Ig Municipality	3239069
 SI.09	Brezovica	Brezovica	3239071
 SI.05	Borovnica	Borovnica	3239073
 SI.E1	Vipava	Vipava	3239075
 SI.49	Komen	Komen	3239078
 SI.J5	Miren-Kostanjevica	Miren-Kostanjevica	3239080
 SI.07	Brda	Brda	3239083
-SI.44	Kanal	Kanal	3239086
+SI.44	Kanal ob Soči Municipality	Kanal ob Soci Municipality	3239086
 SI.F2	Žiri	Ziri	3239087
 SI.14	Cerkno	Cerkno	3239091
-SI.F1	Železniki	Zelezniki	3239093
-SI.27	Gorenja Vas-Poljane	Gorenja Vas-Poljane	3239095
+SI.F1	Železniki Municipality	Zelezniki Municipality	3239093
+SI.27	Občina Gorenja vas-Poljane	Obcina Gorenja vas-Poljane	3239095
 SI.G4	Dobrova-Horjul-Polhov Gradec	Dobrova-Horjul-Polhov Gradec	3239096
-SI.46	Kobarid	Kobarid	3239098
+SI.46	Kobarid Municipality	Kobarid Municipality	3239098
 SI.06	Bovec	Bovec	3239100
-SI.04	Bohinj	Bohinj	3239101
+SI.04	Bohinj Municipality	Bohinj Municipality	3239101
 SI.03	Bled	Bled	3239103
 SI.82	Naklo	Naklo	3239104
 SI.53	Kranjska Gora	Kranjska Gora	3239105
@@ -3034,12 +3034,12 @@ SI.K8	Ravne na Koroškem	Ravne na Koroskem	3239175
 SI.74	Mežica	Mezica	3239177
 SI.81	Muta	Muta	3239179
 SI.E6	Vuzenica	Vuzenica	3239180
-SI.16	Črna na Koroškem	Crna na Koroskem	3239181
+SI.16	Črna na Koroškem Municipality	Crna na Koroskem Municipality	3239181
 SI.62	Ljubno	Ljubno	3239184
 SI.C7	Šoštanj	Sostanj	3239185
 SI.C6	Šmartno ob Paki	Smartno ob Paki	3239187
 SI.68	Lukovica	Lukovica	3239188
-SI.99	Radeče	Radece	3239189
+SI.99	Radeče Municipality	Radece Municipality	3239189
 SI.39	Ivančna Gorica	Ivancna Gorica	3239191
 SI.20	Dobrepolje	Dobrepolje	3239193
 SI.B1	Semič	Semic	3239195
@@ -3048,9 +3048,9 @@ SI.B8	Škocjan	Skocjan	3239199
 SI.C9	Štore	Store	3239200
 SI.N3	Vojnik	Vojnik	3239202
 SI.E2	Vitanje	Vitanje	3239204
-SI.F3	Zreče	Zrece	3239205
+SI.F3	Zreče Municipality	Zrece Municipality	3239205
 SI.76	Mislinja	Mislinja	3239207
-SI.L3	Ruše	Ruse	3239211
+SI.L3	Ruše Municipality	Ruse Municipality	3239211
 SI.55	Kungota	Kungota	3239213
 SI.B3	Šentilj	Sentilj	3239214
 SI.89	Pesnica	Pesnica	3239215
@@ -3084,7 +3084,7 @@ SI.83	Nazarje	Nazarje	3239294
 SI.61	Ljubljana	Ljubljana	3239318
 SI.N7	Žirovnica	Zirovnica	3344893
 SI.H5	Jezersko	Jezersko	3344894
-SI.M2	Solčava	Solcava	3344895
+SI.M2	Solčava Municipality	Solcava Municipality	3344895
 SI.H8	Komenda	Komenda	3344896
 SI.H3	Horjul	Horjul	3344897
 SI.L6	Šempeter-Vrtojba	Sempeter-Vrtojba	3344898
@@ -3100,11 +3100,11 @@ SI.K4	Prebold	Prebold	3344907
 SI.H9	Kostel	Kostel	3344908
 SI.N8	Žužemberk	Zuzemberk	3344909
 SI.G6	Dolenjske Toplice	Dolenjske Toplice	3344910
-SI.J6	Mirna Peč	Mirna Pec	3344911
+SI.J6	Mirna Peč Municipality	Mirna Pec Municipality	3344911
 SI.F5	Bistrica ob Sotli	Bistrica ob Sotli	3344912
 SI.G2	Dobje	Dobje	3344913
 SI.G3	Dobrna	Dobrna	3344914
-SI.J8	Oplotnica	Oplotnica	3344915
+SI.J8	Oplotnica Municipality	Oplotnica Municipality	3344915
 SI.K2	Podvelka	Podvelka	3344916
 SI.L2	Ribnica na Pohorju	Ribnica na Pohorju	3344917
 SI.I8	Lovrenc na Pohorju	Lovrenc na Pohorju	3344918
@@ -3120,7 +3120,7 @@ SI.M7	Trnovska Vas	Trnovska Vas	3344927
 SI.M4	Sveti Andraž v Slovenskih Goricah	Sveti Andraz v Slovenskih Goricah	3344928
 SI.F9	Cerkvenjak	Cerkvenjak	3344929
 SI.F4	Benedikt	Benedikt	3344930
-SI.M3	Sveta Ana	Sveta Ana	3344931
+SI.M3	Sveta Ana Municipality	Sveta Ana Municipality	3344931
 SI.I1	Križevci	Krizevci	3344932
 SI.N1	Veržej	Verzej	3344933
 SI.M9	Velika Polana	Velika Polana	3344934
@@ -3138,7 +3138,7 @@ SI.O1	Cirkulane	Cirkulane	8133580
 SI.O3	Kostanjevica na Krki	Kostanjevica na Krki	8133581
 SI.O4	Log–Dragomer	Log-Dragomer	8133582
 SI.O5	Makole	Makole	8133583
-SI.O7	Mokronog-Trebelno	Mokronog-Trebelno	8133584
+SI.O7	Mokronog-Trebelno Municipality	Mokronog-Trebelno Municipality	8133584
 SI.O8	Poljčane	Poljcane	8133585
 SI.O9	Rečica ob Savinji	Recica ob Savinji	8133586
 SI.P1	Renče-Vogrsko	Rence-Vogrsko	8133587
@@ -3150,7 +3150,7 @@ SI.P2	Šentrupert	Sentrupert	8133592
 SI.P3	Šmarješke Toplice	Smarjeske Toplice	8133593
 SI.P7	Sveti Jurij v Slovenskih Goricah	Sveti Jurij v Slovenskih Goricah	8469236
 SI.O2	Gorje	Gorje	8986279
-SI.P9	Ankaran	Ankaran	11288217
+SI.P9	Ankaran Municipality	Ankaran Municipality	11288217
 SI.O6	Mirna	Mirna	11288255
 SJ.22	Jan Mayen	Jan Mayen	3041964
 SJ.21	Svalbard	Svalbard	7521757
@@ -3185,7 +3185,7 @@ SN.13	Louga	Louga	2249221
 SN.11	Kolda	Kolda	2249781
 SN.10	Kaolack	Kaolack	2250804
 SN.09	Fatick	Fatick	2251910
-SN.03	Diourbel	Diourbel	2252308
+SN.03	Diourbel Region	Diourbel Region	2252308
 SN.01	Dakar	Dakar	2253350
 SN.16	Kaffrine	Kaffrine	7303935
 SN.17	Kédougou	Kedougou	7303936
@@ -3213,7 +3213,7 @@ SR.18	Sipaliwini District	Sipaliwini District	3383062
 SR.17	Saramacca District	Saramacca District	3383110
 SR.16	Paramaribo District	Paramaribo District	3383329
 SR.15	Para District	Para District	3383337
-SR.14	Nickerie	Nickerie	3383438
+SR.14	Nickerie District	Nickerie District	3383438
 SR.13	Marowijne District	Marowijne District	3383560
 SR.12	Coronie District	Coronie District	3384397
 SR.11	Commewijne District	Commewijne District	3384418
@@ -3231,17 +3231,17 @@ SS.08	Warrap	Warrap	408670
 ST.02	São Tomé Island	Sao Tome Island	2410764
 ST.01	Príncipe	Principe	2410878
 SV.14	Usulután	Usulutan	3582882
-SV.13	Sonsonate	Sonsonate	3583101
-SV.12	San Vicente	San Vicente	3583176
-SV.11	Santa Ana	Santa Ana	3583332
-SV.10	San Salvador	San Salvador	3583360
-SV.09	San Miguel	San Miguel	3583462
+SV.13	Sonsonate Department	Sonsonate Department	3583101
+SV.12	San Vicente Department	San Vicente Department	3583176
+SV.11	Santa Ana Department	Santa Ana Department	3583332
+SV.10	San Salvador Department	San Salvador Department	3583360
+SV.09	San Miguel Department	San Miguel Department	3583462
 SV.08	Morazán	Morazan	3584317
 SV.07	La Unión	La Union	3584767
-SV.06	La Paz	La Paz	3585087
-SV.05	La Libertad	La Libertad	3585155
+SV.06	La Paz Department	La Paz Department	3585087
+SV.05	La Libertad Department	La Libertad Department	3585155
 SV.04	Cuscatlán	Cuscatlan	3586831
-SV.03	Chalatenango	Chalatenango	3587090
+SV.03	Chalatenango Department	Chalatenango Department	3587090
 SV.02	Cabañas	Cabanas	3587217
 SV.01	Ahuachapán	Ahuachapan	3587425
 SY.14	Tartus	Tartus	163342
@@ -3259,9 +3259,9 @@ SY.03	Quneitra	Quneitra	173336
 SY.02	Latakia	Latakia	173578
 SY.01	Al-Hasakah	Al-Hasakah	173813
 SZ.04	Shiselweni	Shiselweni	934867
-SZ.03	Manzini	Manzini	934994
-SZ.02	Lubombo	Lubombo	935042
-SZ.01	Hhohho	Hhohho	935085
+SZ.03	Manzini Region	Manzini Region	934994
+SZ.02	Lubombo Region	Lubombo Region	935042
+SZ.01	Hhohho Region	Hhohho Region	935085
 TD.13	Salamat	Salamat	242048
 TD.12	Ouadaï	Ouadai	242246
 TD.02	Wadi Fira	Wadi Fira	244877
@@ -3301,7 +3301,7 @@ TH.08	Tak	Tak	1150489
 TH.60	Surat Thani	Surat Thani	1150514
 TH.09	Sukhothai	Sukhothai	1150532
 TH.52	Ratchaburi	Ratchaburi	1150953
-TH.59	Ranong	Ranong	1150964
+TH.59	Ranong province	Ranong province	1150964
 TH.57	Prachuap Khiri Khan	Prachuap Khiri Khan	1151073
 TH.62	Phuket	Phuket	1151253
 TH.56	Phetchaburi	Phetchaburi	1151416
@@ -3320,7 +3320,7 @@ TH.70	Yala	Yala	1604869
 TH.10	Uttaradit	Uttaradit	1605214
 TH.49	Trat	Trat	1605277
 TH.29	Surin	Surin	1606029
-TH.51	Suphanburi	Suphanburi	1606032
+TH.51	Suphan Buri	Suphan Buri	1606032
 TH.68	Songkhla	Songkhla	1606146
 TH.30	Si Sa Ket	Si Sa Ket	1606238
 TH.33	Sing Buri	Sing Buri	1606269
@@ -3369,12 +3369,12 @@ TH.76	Udon Thani	Udon Thani	1906686
 TH.74	Prachin Buri	Prachin Buri	1906687
 TH.75	Ubon Ratchathani	Ubon Ratchathani	1906688
 TH.77	Amnat Charoen	Amnat Charoen	1906689
-TH.79	Nong Bua Lam Phu	Nong Bua Lam Phu	1906690
+TH.79	Nong Bua Lamphu	Nong Bua Lamphu	1906690
 TH.80	Sa Kaeo	Sa Kaeo	1906691
 TH.81	Bueng Kan	Bueng Kan	8133594
 TJ.03	Sughd	Sughd	1221092
 TJ.01	Gorno-Badakhshan	Gorno-Badakhshan	1221692
-TJ.02	Khatlon	Khatlon	1347488
+TJ.02	Khatlon Province	Khatlon Province	1347488
 TJ.RR	Republican Subordination	Republican Subordination	6452615
 TJ.04	Dushanbe	Dushanbe	7280679
 TK.N	Nukunonu	Nukunonu	4031091
@@ -3479,9 +3479,9 @@ TR.78	Karaman	Karaman	443187
 TR.79	Kırıkkale	Kirikkale	443188
 TR.80	Şırnak	Sirnak	443189
 TR.90	Kilis	Kilis	443213
-TR.85	Zonguldak	Zonguldak	737021
+TR.85	Zonguldak Province	Zonguldak Province	737021
 TR.61	Trabzon	Trabzon	738647
-TR.60	Tokat	Tokat	738742
+TR.60	Tokat Province	Tokat Province	738742
 TR.59	Tekirdağ	Tekirdag	738926
 TR.57	Sinop	Sinop	739598
 TR.55	Samsun	Samsun	740263
@@ -3516,12 +3516,12 @@ TT.03	Mayaro	Mayaro	3574155
 TT.01	Borough of Arima	Borough of Arima	3575052
 TT.CHA	Chaguanas	Chaguanas	7521937
 TT.CTT	Couva-Tabaquite-Talparo	Couva-Tabaquite-Talparo	7521938
-TT.DMN	Diego Martin	Diego Martin	7521939
+TT.DMN	Diego Martin Regional Corporation	Diego Martin Regional Corporation	7521939
 TT.PED	Penal/Debe	Penal/Debe	7521941
 TT.PRT	Princes Town	Princes Town	7521942
 TT.PTF	Point Fortin	Point Fortin	7521943
-TT.SGE	Sangre Grande	Sangre Grande	7521944
-TT.SIP	Siparia	Siparia	7521945
+TT.SGE	Sangre Grande Regional Corporation	Sangre Grande Regional Corporation	7521944
+TT.SIP	Siparia Regional Corporation	Siparia Regional Corporation	7521945
 TT.SJL	San Juan/Laventille	San Juan/Laventille	7521946
 TT.TUP	Tunapuna/Piarco	Tunapuna/Piarco	7521947
 TV.NUI	Nui	Nui	2110341
@@ -3557,7 +3557,7 @@ TZ.06	Kilimanjaro	Kilimanjaro	157449
 TZ.05	Kigoma	Kigoma	157732
 TZ.04	Iringa	Iringa	159067
 TZ.03	Dodoma	Dodoma	160192
-TZ.23	Dar es Salaam	Dar es Salaam	160260
+TZ.23	Dar es Salaam Region	Dar es Salaam Region	160260
 TZ.26	Arusha	Arusha	161322
 TZ.27	Manyara	Manyara	435764
 TZ.14	Ruvuma	Ruvuma	877416
@@ -3678,25 +3678,25 @@ UY.03	Cerro Largo	Cerro Largo	3443173
 UY.02	Canelones	Canelones	3443411
 UY.01	Artigas	Artigas	3443756
 UZ.09	Karakalpakstan	Karakalpakstan	453752
-UZ.12	Surxondaryo	Surxondaryo	1114926
-UZ.10	Samarqand	Samarqand	1114927
+UZ.12	Surxondaryo Region	Surxondaryo Region	1114926
+UZ.10	Samarqand Region	Samarqand Region	1114927
 UZ.08	Qashqadaryo	Qashqadaryo	1114928
 UZ.02	Bukhara	Bukhara	1114929
-UZ.14	Toshkent	Toshkent	1484838
+UZ.14	Tashkent Region	Tashkent Region	1484838
 UZ.13	Tashkent	Tashkent	1484839
 UZ.16	Sirdaryo Region	Sirdaryo Region	1484840
-UZ.07	Navoiy	Navoiy	1484841
+UZ.07	Navoiy Region	Navoiy Region	1484841
 UZ.06	Namangan	Namangan	1484842
-UZ.05	Xorazm	Xorazm	1484843
-UZ.15	Jizzax	Jizzax	1484844
+UZ.05	Xorazm Region	Xorazm Region	1484843
+UZ.15	Jizzakh Region	Jizzakh Region	1484844
 UZ.03	Fergana	Fergana	1484845
-UZ.01	Andijon	Andijon	1484846
-VC.05	Saint Patrick	Saint Patrick	3577818
-VC.04	Saint George	Saint George	3577819
-VC.03	Saint David	Saint David	3577821
-VC.02	Saint Andrew	Saint Andrew	3577822
-VC.06	Grenadines	Grenadines	3577892
-VC.01	Charlotte	Charlotte	3577934
+UZ.01	Andijan Region	Andijan Region	1484846
+VC.05	Saint Patrick Parish	Saint Patrick Parish	3577818
+VC.04	Saint George Parish	Saint George Parish	3577819
+VC.03	Saint David Parish	Saint David Parish	3577821
+VC.02	Saint Andrew Parish	Saint Andrew Parish	3577822
+VC.06	Grenadines Parish	Grenadines Parish	3577892
+VC.01	Charlotte Parish	Charlotte Parish	3577934
 VE.23	Zulia	Zulia	3625035
 VE.22	Yaracuy	Yaracuy	3625210
 VE.21	Trujillo	Trujillo	3625974
@@ -3798,13 +3798,13 @@ WF.98613	Uvea	Uvea	4034759
 WF.98612	Sigave	Sigave	4034776
 WF.98611	Alo	Alo	4034884
 WS.11	Vaisigano	Vaisigano	4034910
-WS.06	Va‘a-o-Fonoti	Va`a-o-Fonoti	4034943
+WS.06	Va'a-o-Fonoti	Va'a-o-Fonoti	4034943
 WS.10	Tuamasaga	Tuamasaga	4034977
-WS.09	Satupa‘itea	Satupa`itea	4035046
+WS.09	Satupa'itea	Satupa'itea	4035046
 WS.08	Palauli	Palauli	4035154
-WS.07	Gagaifomauga	Gagaifomauga	4035313
-WS.05	Gaga‘emauga	Gaga`emauga	4035314
-WS.04	Fa‘asaleleaga	Fa`asaleleaga	4035383
+WS.07	Gaga'ifomauga	Gaga'ifomauga	4035313
+WS.05	Gaga'emauga	Gaga'emauga	4035314
+WS.04	Fa'asaleleaga	Fa'asaleleaga	4035383
 WS.03	Atua	Atua	4035402
 WS.02	Aiga-i-le-Tai	Aiga-i-le-Tai	4035425
 WS.01	A'ana	A'ana	4035434
@@ -3861,24 +3861,24 @@ ZA.06	Gauteng	Gauteng	1085594
 ZA.07	Mpumalanga	Mpumalanga	1085595
 ZA.08	Northern Cape	Northern Cape	1085596
 ZA.09	Limpopo	Limpopo	1085597
-ZA.10	North-West	North-West	1085598
+ZA.10	North West	North West	1085598
 ZA.11	Western Cape	Western Cape	1085599
-ZM.01	Western	Western	896140
-ZM.07	Southern	Southern	896972
+ZM.01	Western Province	Western Province	896140
+ZM.07	Southern Province	Southern Province	896972
 ZM.06	North-Western	North-Western	900594
-ZM.05	Northern	Northern	900601
-ZM.09	Lusaka	Lusaka	909129
-ZM.04	Luapula	Luapula	909845
-ZM.03	Eastern	Eastern	917388
+ZM.05	Northern Province	Northern Province	900601
+ZM.09	Lusaka Province	Lusaka Province	909129
+ZM.04	Luapula Province	Luapula Province	909845
+ZM.03	Eastern Province	Eastern Province	917388
 ZM.08	Copperbelt	Copperbelt	917524
-ZM.02	Central	Central	921064
+ZM.02	Central Province	Central Province	921064
 ZM.10	Muchinga	Muchinga	11154503
-ZW.02	Midlands	Midlands	886119
-ZW.07	Matabeleland South	Matabeleland South	886747
+ZW.02	Midlands Province	Midlands Province	886119
+ZW.07	Matabeleland South Province	Matabeleland South Province	886747
 ZW.06	Matabeleland North	Matabeleland North	886748
-ZW.08	Masvingo	Masvingo	886761
+ZW.08	Masvingo Province	Masvingo Province	886761
 ZW.05	Mashonaland West	Mashonaland West	886841
-ZW.04	Mashonaland East	Mashonaland East	886842
+ZW.04	Mashonaland East Province	Mashonaland East Province	886842
 ZW.03	Mashonaland Central	Mashonaland Central	886843
 ZW.01	Manicaland	Manicaland	887358
 ZW.09	Bulawayo	Bulawayo	1105843

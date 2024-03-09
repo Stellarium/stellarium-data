@@ -9144,6 +9144,8 @@ Moon	1820	_("Eratosthenes","crater")	AA	14.473700	348.683800	58.76779	_("Greek a
 Moon	1837	_("Erro","crater")	AA	5.682900	98.540000	63.75085	_("Luis Enrique; Mexican astronomer (1897-1955).","origin")
 # TRANSLATORS: (Moon); Ernest Benjamin; French astronomer (1876-1954).
 Moon	1842	_("Esclangon","crater")	AA	21.468500	42.061800	15.291982	_("Ernest Benjamin; French astronomer (1876-1954).","origin")
+# TRANSLATORS: (Moon); Tupi first name.
+Moon	16268	_("Jaci","crater")	AA	-85.420000	31.230000	1.8	_("Tupi first name.","origin")
 # TRANSLATORS: (Moon); Robert-Albert-Charles; French rocketry engineer (1881-1957).
 Moon	1848	_("Esnault-Pelterie","crater")	AA	47.414900	218.174300	76.78672	_("Robert-Albert-Charles; French rocketry engineer (1881-1957).","origin")
 # TRANSLATORS: (Moon); Thomas Henry Espinall Compton; British astronomer (1858-1934).
@@ -9152,10 +9154,14 @@ Moon	1849	_("Espin","crater")	AA	28.145500	109.338500	70.00873	_("Thomas Henry E
 Moon	1860	_("Euclides","crater")	AA	-7.400900	330.436100	11.798684	_("Euclid; Greek mathematician (unkn-c. 300 B.C.).","origin")
 # TRANSLATORS: (Moon); Greek astronomer (unkn-fl. 432 B.C.).
 Moon	1861	_("Euctemon","crater")	AA	76.259000	30.569100	62.696735	_("Greek astronomer (unkn-fl. 432 B.C.).","origin")
+# TRANSLATORS: (Moon); Samoan female first name.
+Moon	16269	_("Masina","crater")	AA	-85.420000	32.150000	1.4	_("Samoan female first name.","origin")
 # TRANSLATORS: (Moon); Leonhard; Swiss mathematician (1707-1783).
 Moon	1866	_("Euler","crater")	AA	23.262700	330.819000	26.025417	_("Leonhard; Swiss mathematician (1707-1783).","origin")
 # TRANSLATORS: (Moon); Sir Arthur; British archaeologist (1851-1941).
 Moon	1883	_("Evans","crater")	AA	-9.626600	226.221800	69.39517	_("Sir Arthur; British archaeologist (1851-1941).","origin")
+# TRANSLATORS: (Moon); Maryam; Iranian-American mathematician, first female winner of the Fields Medal (1977-2017).
+Moon	16271	_("Mirzakhani","crater")	AA	-17.470000	85.200000	5	_("Maryam; Iranian-American mathematician, first female winner of the Fields Medal (1977-2017).","origin")
 # TRANSLATORS: (Moon); Nikolaj N.; Soviet astronomer (1868-1940).
 Moon	1884	_("Evdokimov","crater")	AA	34.573800	206.957300	48.880585	_("Nikolaj N.; Soviet astronomer (1868-1940).","origin")
 # TRANSLATORS: (Moon); Gabriel Daniel; Dutch physicist (1686-1736).
@@ -9168,6 +9174,8 @@ Moon	3740	_("Maskelyne","crater")	AA	2.155800	30.043700	22.419903	_("Nevil; Brit
 Moon	1893	_("Eötvös","crater")	AA	-35.609700	134.427200	101.79821	_("Lóránt (English - Roland) von; Hungarian physicist (1848-1919).","origin")
 # TRANSLATORS: (Moon); Giovanni Valentino Mattia; Italian chemist (1752-1822).
 Moon	1894	_("Fabbroni","crater")	AA	18.657900	29.271500	10.549473	_("Giovanni Valentino Mattia; Italian chemist (1752-1822).","origin")
+# TRANSLATORS: (Moon); Tibetan male first name.
+Moon	16270	_("Dawa","crater")	AA	-85.450000	31.660000	0.65	_("Tibetan male first name.","origin")
 # TRANSLATORS: (Moon); Goldschmidt, David; Dutch astronomer (1564-1617).
 Moon	1895	_("Fabricius","crater")	AA	-42.750900	41.842100	78.89696	_("Goldschmidt, David; Dutch astronomer (1564-1617).","origin")
 # TRANSLATORS: (Moon); Charles; French physicist (1867-1945).

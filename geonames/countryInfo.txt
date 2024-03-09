@@ -142,7 +142,7 @@ GT	GTM	320	GT	Guatemala	Guatemala City	108890	17247807	NA	.gt	GTQ	Quetzal	502	##
 GU	GUM	316	GQ	Guam	Hagatna	549	165768	OC	.gu	USD	Dollar	+1-671	969##	^(969\d{2})$	en-GU,ch-GU	4043988		
 GW	GNB	624	PU	Guinea-Bissau	Bissau	36120	1874309	AF	.gw	XOF	Franc	245	####	^(\d{4})$	pt-GW,pov	2372248	SN,GN	
 GY	GUY	328	GY	Guyana	Georgetown	214970	779004	SA	.gy	GYD	Dollar	592			en-GY	3378535	SR,BR,VE	
-HK	HKG	344	HK	Hong Kong	Hong Kong	1092	7451000	AS	.hk	HKD	Dollar	852			zh-HK,yue,zh,en	1819730		
+HK	HKG	344	HK	Hong Kong	Hong Kong	1092	7491609	AS	.hk	HKD	Dollar	852			zh-HK,yue,zh,en	1819730		
 HM	HMD	334	HM	Heard Island and McDonald Islands		412	0	AN	.hm	AUD	Dollar	 				1547314		
 HN	HND	340	HO	Honduras	Tegucigalpa	112090	9587522	NA	.hn	HNL	Lempira	504	@@####	^([A-Z]{2}\d{4})$	es-HN,cab,miq	3608932	GT,NI,SV	
 HR	HRV	191	HR	Croatia	Zagreb	56542	3871833	EU	.hr	EUR	Euro	385	#####	^(?:HR)*(\d{5})$	hr-HR,sr	3202326	HU,SI,BA,ME,RS	
