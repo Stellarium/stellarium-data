@@ -4,7 +4,9 @@ Apollo 13 S-IVB	USA	300	A	0	2.75S	27.86W	0	0		Moon	moon
 Apollo 14	USA	335	L	0	3.65S	17.47W	0	0		Moon	moon
 Apollo 15	USA	330	L	0	26.132N	3.634E	669	0		Moon	moon
 Apollo 16	USA	336	L	0	8.97S	15.50E	1135	0		Moon	moon
+Apollo 16 LRV	USA	336	L	0	8.97S	15.51E	1135	0		Moon	moon
 Apollo 17	USA	309	L	0	20.19N	30.77E	241	0		Moon	moon
+Apollo 17 LRV	USA	309	L	0	20.17N	30.77E	241	0		Moon	moon
 Luna 2	USSR	309	I	0	29.10N	0.00E	192	0		Moon	moon
 Luna 5	USSR	315	A	0	31.00S	8.00E	0	0		Moon	moon
 Luna 7	USSR	300	A	0	9.00N	40.00W	0	0		Moon	moon
@@ -57,6 +59,8 @@ LCROSS Centaur	USA	340	A	0	84.675S	48.725W	0	0		Moon	moon
 GRAIL	USA	323	A	0	75.62N	26.63W	0	0		Moon	moon
 LADEE	USA	344	A	0	10.8N	91.6W	0	0		Moon	moon
 Longjiang-2	China	349	A	0	16.6956N	159.517E	0	0		Moon	moon
+Hakuto-R	Japan	323	A	0	47.581N	44.094E	0	0		Moon	moon
+SLIM	Japan	314	A	0	3.3S	25.2E	0	0		Moon	moon
 Mars 2	USSR	407	A	0	45.00S	58.00W	0	0		Mars	mars
 Mars 3	USSR	418	L	0	45.00S	158.00W	0	0		Mars	mars
 Mars 6	USSR	412	A	0	23.90S	19.42W	0	0		Mars	mars
@@ -88,3 +92,4 @@ Venera 14	USSR	217	L	0	13.25S	310E	253	0		Venus
 Vega 1	USSR	200	L	0	7.5N	177.7E	0	0		Venus
 Vega 2	USSR	251	L	0	8.5S	164.5E	0	0		Venus
 Huygens	Europe	604	L	0	15S	168E	0	0		Titan
+OSIRIS-REx	USA		L	0	56N	43E	0	0		Bennu
