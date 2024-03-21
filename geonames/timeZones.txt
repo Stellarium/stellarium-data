@@ -176,7 +176,7 @@ BR	America/Santarem	-3.0	-3.0	-3.0
 CL	America/Santiago	-3.0	-4.0	-4.0
 DO	America/Santo_Domingo	-4.0	-4.0	-4.0
 BR	America/Sao_Paulo	-3.0	-3.0	-3.0
-GL	America/Scoresbysund	-1.0	0.0	-1.0
+GL	America/Scoresbysund	-1.0	-1.0	-1.0
 US	America/Sitka	-9.0	-8.0	-9.0
 BL	America/St_Barthelemy	-4.0	-4.0	-4.0
 CA	America/St_Johns	-3.5	-2.5	-3.5
@@ -195,7 +195,7 @@ CA	America/Whitehorse	-7.0	-7.0	-7.0
 CA	America/Winnipeg	-6.0	-5.0	-6.0
 US	America/Yakutat	-9.0	-8.0	-9.0
 CA	America/Yellowknife	-7.0	-6.0	-7.0
-AQ	Antarctica/Casey	11.0	11.0	11.0
+AQ	Antarctica/Casey	8.0	8.0	8.0
 AQ	Antarctica/Davis	7.0	7.0	7.0
 AQ	Antarctica/DumontDUrville	10.0	10.0	10.0
 AU	Antarctica/Macquarie	11.0	10.0	10.0
@@ -205,10 +205,10 @@ AQ	Antarctica/Palmer	-3.0	-3.0	-3.0
 AQ	Antarctica/Rothera	-3.0	-3.0	-3.0
 AQ	Antarctica/Syowa	3.0	3.0	3.0
 AQ	Antarctica/Troll	0.0	2.0	0.0
-AQ	Antarctica/Vostok	6.0	6.0	6.0
+AQ	Antarctica/Vostok	5.0	5.0	5.0
 SJ	Arctic/Longyearbyen	1.0	2.0	1.0
 YE	Asia/Aden	3.0	3.0	3.0
-KZ	Asia/Almaty	6.0	6.0	6.0
+KZ	Asia/Almaty	6.0	5.0	5.0
 JO	Asia/Amman	3.0	3.0	3.0
 RU	Asia/Anadyr	12.0	12.0	12.0
 KZ	Asia/Aqtau	5.0	5.0	5.0
@@ -265,7 +265,7 @@ KH	Asia/Phnom_Penh	7.0	7.0	7.0
 ID	Asia/Pontianak	7.0	7.0	7.0
 KP	Asia/Pyongyang	9.0	9.0	9.0
 QA	Asia/Qatar	3.0	3.0	3.0
-KZ	Asia/Qostanay	6.0	6.0	6.0
+KZ	Asia/Qostanay	6.0	5.0	5.0
 KZ	Asia/Qyzylorda	5.0	5.0	5.0
 SA	Asia/Riyadh	3.0	3.0	3.0
 RU	Asia/Sakhalin	11.0	11.0	11.0
