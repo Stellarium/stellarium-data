@@ -2708,7 +2708,7 @@ PY.22	Asunción	Asuncion	3474570
 PY.24	Boquerón	Boqueron	3867442
 QA.08	Madīnat ash Shamāl	Madinat ash Shamal	389462
 QA.04	Al Khor	Al Khor	389465
-QA.09	Umm Salal Municipality	Umm Salal Municipality	389467
+QA.09	Umm Salal	Umm Salal	389467
 QA.06	Baladīyat ar Rayyān	Baladiyat ar Rayyan	389469
 QA.01	Baladīyat ad Dawḩah	Baladiyat ad Dawhah	389470
 QA.10	Al Wakrah	Al Wakrah	389472
