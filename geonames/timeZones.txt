@@ -176,7 +176,7 @@ BR	America/Santarem	-3.0	-3.0	-3.0
 CL	America/Santiago	-3.0	-4.0	-4.0
 DO	America/Santo_Domingo	-4.0	-4.0	-4.0
 BR	America/Sao_Paulo	-3.0	-3.0	-3.0
-GL	America/Scoresbysund	-1.0	-1.0	-1.0
+GL	America/Scoresbysund	-1.0	-1.0	-2.0
 US	America/Sitka	-9.0	-8.0	-9.0
 BL	America/St_Barthelemy	-4.0	-4.0	-4.0
 CA	America/St_Johns	-3.5	-2.5	-3.5
