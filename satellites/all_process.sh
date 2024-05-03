@@ -24,7 +24,7 @@ cp -f satellites.fab satellites.previous
 
 ./generate_satellites_data.pl
 
-#gzip -nc nomenclature.fab > nomenclature.dat
+gzip -nc satellites.fab > satellites.dat
 
 oldFileSize=$(stat -c%s "./satellites.previous")
 newFileSize=$(stat -c%s "./satellites.fab")
