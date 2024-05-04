@@ -79,7 +79,10 @@ for(my $j=0; $j<scalar(@rcsdata); $j++)
     if (exists $satellites{$NORAD})
     {
 	my @val = split("::", $satellites{$NORAD});
-	$satellites{$NORAD} = $val[0]."::".$rcsd;
+	if ($val[1] eq '')
+	{
+	    $satellites{$NORAD} = $val[0]."::".$rcsd;
+	}
     } else {
 	$satellites{$NORAD} = "::".$rcsd;
     }
