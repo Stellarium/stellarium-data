@@ -3587,7 +3587,7 @@ UA.11	Crimea	Crimea	703883
 UA.10	Kirovohrad	Kirovohrad	705811
 UA.09	Khmelnytskyi	Khmelnytskyi	706370
 UA.08	Kherson	Kherson	706442
-UA.07	Kharkiv	Kharkiv	706482
+UA.07	Kharkivs’ka Oblast’	Kharkivs'ka Oblast'	706482
 UA.06	Ivano-Frankivsk	Ivano-Frankivsk	707470
 UA.05	Donetsk	Donetsk	709716
 UA.04	Dnipropetrovsk	Dnipropetrovsk	709929
