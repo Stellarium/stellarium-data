@@ -520,6 +520,9 @@ CF.06	Kémo	Kemo	2385836
 CF.04	Mambéré-Kadéï	Mambere-Kadei	2386161
 CF.15	Nana-Grébizi	Nana-Grebizi	2386243
 CF.18	Bangui	Bangui	2596686
+CF.19	Mambéré	Mambere	12902745
+CF.20	Ouham-Fafa	Ouham-Fafa	12902746
+CF.21	Lim-Pendé	Lim-Pende	12902747
 CG.10	Sangha	Sangha	2255329
 CG.11	Pool	Pool	2255404
 CG.08	Plateaux	Plateaux	2255422
@@ -966,7 +969,10 @@ ET.50	Harari	Harari	444184
 ET.51	Oromiya	Oromiya	444185
 ET.52	Somali	Somali	444186
 ET.53	Tigray	Tigray	444187
-ET.54	SNNPR	SNNPR	444188
+ET.SI	ET.SI	Sidama Region	8299784
+ET.55	Central Ethiopia Regional State	Central Ethiopia Regional State	12902749
+ET.56	South Ethiopia Regional State	South Ethiopia Regional State	12902766
+ET.SW	ET.SW	South West Ethiopia Peoples' Region	12902784
 FI.19	Lapland	Lapland	830603
 FI.18	Kainuu	Kainuu	830664
 FI.17	North Ostrobothnia	North Ostrobothnia	830667
@@ -1639,13 +1645,15 @@ KP.12	Pyongyang	Pyongyang	1871856
 KP.15	South Pyongan	South Pyongan	1871952
 KP.11	P'yŏngan-bukto	P'yongan-bukto	1871954
 KP.09	Kangwŏn-do	Kangwon-do	1876101
-KP.06	Hwanghae-namdo	Hwanghae-namdo	1876884
-KP.07	Hwanghae-bukto	Hwanghae-bukto	1876888
-KP.03	Hamgyŏng-namdo	Hamgyong-namdo	1877450
+KP.06	South Hwanghae	South Hwanghae	1876884
+KP.07	North Hwanghae	North Hwanghae	1876888
+KP.03	South Hamgyong	South Hamgyong	1877450
 KP.13	Yanggang-do	Yanggang-do	2039332
-KP.17	Hambuk	Hambuk	2044245
-KP.01	Chagang-do	Chagang-do	2045265
+KP.17	North Hamgyong	North Hamgyong	2044245
+KP.01	Chagang	Chagang	2045265
 KP.18	Rason	Rason	2054927
+KP.14	Nampo	Nampo	12902702
+KP.19	Kaesong	Kaesong	12902703
 KR.21	Ulsan	Ulsan	1833742
 KR.19	Daejeon	Daejeon	1835224
 KR.15	Daegu	Daegu	1835327
@@ -2414,8 +2422,8 @@ NO.21	Trøndelag	Trondelag	11862827
 NO.42	Agder	Agder	12110596
 NO.34	Innlandet	Innlandet	12110598
 NO.46	Vestland	Vestland	12110600
-NP.1	Province 1	Province 1	12095447
-NP.2	Province 2	Province 2	12095448
+NP.1	Koshi	Koshi	12095447
+NP.2	Madhesh	Madhesh	12095448
 NP.3	Bagmati Province	Bagmati Province	12095449
 NP.4	Province 4	Province 4	12095450
 NP.5	Lumbini Province	Lumbini Province	12095451
