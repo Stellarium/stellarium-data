@@ -969,10 +969,10 @@ ET.50	Harari	Harari	444184
 ET.51	Oromiya	Oromiya	444185
 ET.52	Somali	Somali	444186
 ET.53	Tigray	Tigray	444187
-ET.SI	ET.SI	Sidama Region	8299784
+ET.SI	Sidama Region	Sidama Region	8299784
 ET.55	Central Ethiopia Regional State	Central Ethiopia Regional State	12902749
 ET.56	South Ethiopia Regional State	South Ethiopia Regional State	12902766
-ET.SW	ET.SW	South West Ethiopia Peoples' Region	12902784
+ET.SW	South West Ethiopia Peoples' Region	South West Ethiopia Peoples' Region	12902784
 FI.19	Lapland	Lapland	830603
 FI.18	Kainuu	Kainuu	830664
 FI.17	North Ostrobothnia	North Ostrobothnia	830667
@@ -3774,7 +3774,7 @@ VN.43	Đồng Nai Province	GJong Nai Province	1582720
 VN.88	Đắk Lắk	GJak Lak	1584169
 VN.45	Bà Rịa–Vũng Tàu Province	Ba Ria-Vung Tau Province	1584534
 VN.05	Cao Bằng Province	Cao Bang Province	1586182
-VN.46	ình Định Province	inh GJinh Province	1587871
+VN.46	Bình Định Province	Binh GJinh Province	1587871
 VN.03	Bến Tre Province	Ben Tre Province	1587974
 VN.01	An Giang Province	An Giang Province	1594446
 VN.91	Đăk Nông Province	GJak Nong Province	1904987
