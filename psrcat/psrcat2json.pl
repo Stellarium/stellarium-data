@@ -287,8 +287,8 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 		}
 		$out .= $tab3."\"RA\": \"".$outRA."\",\n";
 		$out .= $tab3."\"DE\": \"".$outDE."\"\n";
-	}
-	if (($elat ne '') && ($elong ne ''))
+	} 
+	elsif (($elat ne '') && ($elong ne ''))
 	{
 		$coseps = 0.91748213149438;
 		$sineps = 0.39777699580108;
