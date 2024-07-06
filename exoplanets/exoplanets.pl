@@ -37,6 +37,7 @@ $JSON	= "./exoplanets.json";
 $HCSV	= "./habitable.csv";
 $NCSV	= "./names.csv";
 $CNT	= "./count";
+$DMF	= "./detection_methods.txt";
 
 $CATALOG_FORMAT_VERSION = 1;
 
@@ -131,6 +132,7 @@ for ($i=0;$i<scalar(@fdata);$i++) {
 	if ($fdata[$i] eq "star_alternate_names") {	$column{'alternames'} = $i;	}
 }
 
+%detect = ();
 # parse other all lines for get data
 for ($i=1;$i<scalar(@catalog);$i++) {
 	$currdata = $catalog[$i];
@@ -174,6 +176,15 @@ for ($i=1;$i<scalar(@catalog);$i++) {
 	$sstype		= $psdata[$column{'sstype'}];		# star spectral type
 	$sefftemp	= $psdata[$column{'sefftemp'}];		# star effective temperature
 	$alternames	= $psdata[$column{'alternames'}];	# star alternate names
+	
+	# collecting detection methods
+	@dma = split(/,/, $detectiontype);
+	foreach $dm (@dma) {
+		$dm =~ s/^\s+|\s+$//g; # remove both leading and trailing whitespace
+		if (!exists($detect{$dm})) {
+			$detect{$dm} = 1;
+		}
+	}
 	
 	$part = $sRA/15;
 	$hour = int($part);
@@ -549,6 +560,13 @@ $lastCnt = @ipcnt[0];
 open (COUNTD, ">$CNT");
 print COUNTD $lastCnt-$initCnt;
 close COUNTD;
+
+# print list of detection methods
+open (DMFD, ">$DMF");
+foreach $key (sort keys %detect) {
+	print DMFD $key."\n";
+}
+close DMFD;
 
 # LOG
 print "Planets in DB (Old/New): ".$initCnt."/".$lastCnt."\n";
