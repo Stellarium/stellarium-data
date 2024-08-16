@@ -1383,7 +1383,7 @@ IQ.18	Salah ad Din	Salah ad Din	91695
 IQ.15	Nineveh	Nineveh	92877
 IQ.14	Maysan	Maysan	93540
 IQ.12	Karbalāʼ	Muhafazat Karbala'	94823
-IQ.11	Arbīl	Arbil	95445
+IQ.11	Erbil	Erbil	95445
 IQ.10	Diyālá	Diyala	96965
 IQ.09	Dhi Qar	Dhi Qar	97019
 IQ.08	Duhok	Duhok	97270
@@ -1506,7 +1506,7 @@ JP.36	Shimane	Shimane	1852442
 JP.35	Shiga	Shiga	1852553
 JP.34	Saitama	Saitama	1853226
 JP.33	Saga	Saga	1853299
-JP.32	Ōsaka	Osaka	1853904
+JP.32	Osaka	Osaka	1853904
 JP.47	Okinawa	Okinawa	1854345
 JP.31	Okayama	Okayama	1854381
 JP.30	Oita	Oita	1854484
@@ -2559,9 +2559,9 @@ PK.08	Islamabad	Islamabad	1162015
 PK.05	Sindh	Sindh	1164807
 PK.04	Punjab	Punjab	1167710
 PK.03	Khyber Pakhtunkhwa	Khyber Pakhtunkhwa	1168873
-PK.07	Gilgit-Baltistan	Gilgit-Baltistan	1168878
+PK.07	Gilgit-Baltistan(POK)	Gilgit-Baltistan(POK)	1168878
 PK.02	Balochistan	Balochistan	1183606
-PK.06	Azad Kashmir	Azad Kashmir	1184196
+PK.06	Azad Jammu and Kashmir(POK)	Azad Jammu and Kashmir(POK)	1184196
 PL.75	Lublin	Lublin	858785
 PL.77	Lesser Poland	Lesser Poland	858786
 PL.78	Mazovia	Mazovia	858787
@@ -3616,7 +3616,7 @@ UM.250	Kingman Reef	Kingman Reef	5854936
 UM.300	Midway Islands	Midway Islands	5854943
 UM.400	Palmyra Atoll	Palmyra Atoll	5854952
 US.AR	Arkansas	Arkansas	4099753
-US.DC	Washington, D.C.	Washington, D.C.	4138106
+US.DC	District of Columbia	District of Columbia	4138106
 US.DE	Delaware	Delaware	4142224
 US.FL	Florida	Florida	4155751
 US.GA	Georgia	Georgia	4197000
@@ -3862,7 +3862,7 @@ YT.97614	Ouangani	Ouangani	7521434
 YT.97615	Pamandzi	Pamandzi	7521435
 YT.97616	Sada	Sada	7521436
 YT.97617	Tsingoni	Tsingoni	7521437
-ZA.03	Orange Free State	Orange Free State	967573
+ZA.03	Free State	Free State	967573
 ZA.02	KwaZulu-Natal	KwaZulu-Natal	972062
 ZA.05	Eastern Cape	Eastern Cape	1085593
 ZA.06	Gauteng	Gauteng	1085594
