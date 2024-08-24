@@ -563,7 +563,7 @@ CH.AI	Appenzell Innerrhoden	Appenzell Innerrhoden	2661741
 CH.AG	Aargau	Aargau	2661876
 CI.98	Yamoussoukro	Yamoussoukro	10629377
 CI.76	Bas-Sassandra District	Bas-Sassandra District	11153052
-CI.94	Comoé	Comoe	11153053
+CI.94	Comoé District	Comoe District	11153053
 CI.77	Denguélé District	Denguele District	11153054
 CI.95	Gôh-Djiboua	Goh-Djiboua	11153055
 CI.81	Lacs District	Lacs District	11153056
@@ -574,7 +574,7 @@ CI.87	Savanes District	Savanes District	11153060
 CI.90	Vallée du Bandama District	Vallee du Bandama District	11153061
 CI.97	Woroba	Woroba	11153062
 CI.92	Zanzan District	Zanzan District	11153063
-CI.93	Abidjan	Abidjan	11153151
+CI.93	Abidjan Autonomous District	Abidjan Autonomous District	11153151
 CK.11695124	Aitutaki	Aitutaki	11695124
 CK.11695126	Atiu	Atiu	11695126
 CK.11695127	Mangaia	Mangaia	11695127
@@ -1685,7 +1685,7 @@ KY.10375971	East End	East End	10375971
 KY.10375972	Sister Island	Sister Island	10375972
 KZ.07	Batys Qazaqstan	Batys Qazaqstan	607847
 KZ.09	Mangghystaū	Mangghystau	608879
-KZ.06	Atyraū	Atyrau	609862
+KZ.06	Atyrau Oblisi	Atyrau Oblisi	609862
 KZ.04	Aqtöbe	Aqtoebe	610688
 KZ.15	East Kazakhstan	East Kazakhstan	1517381
 KZ.03	Aqmola	Aqmola	1518003
