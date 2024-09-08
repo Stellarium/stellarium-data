@@ -1695,7 +1695,7 @@ KZ.14	Qyzylorda	Qyzylorda	1521406
 KZ.13	Qostanay	Qostanay	1521671
 KZ.12	Karaganda	Karaganda	1523401
 KZ.17	Zhambyl	Zhambyl	1524444
-KZ.10	South Kazakhstan	South Kazakhstan	1524787
+KZ.10	Turkistan	Turkistan	1524787
 KZ.02	Almaty	Almaty	1526395
 KZ.01	Almaty Oblysy	Almaty Oblysy	1537162
 KZ.1537272	Shymkent	Shymkent	1537272
