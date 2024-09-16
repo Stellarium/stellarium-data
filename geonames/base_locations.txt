@@ -28981,14 +28981,12 @@ Juist	Lower Saxony	20	N	1	53.67616N	6.95299E	4	3	Europe/Berlin
 Gersfeld	Hesse	20	N	5.5	50.50199N	9.94681E	950	3	Europe/Berlin
 Hooge	Schleswig-Holstein	20	N	0.1	54.56426N	8.55978E	5	2	Europe/Berlin
 Angkor Wat	Siem Reap	14	H	0	13.4125N	103.866667E	65	1	Asia/Phnom_Penh
-Chichen Itza	Yucatán	07	H	0	20.683056N	88.568611W	24	1	America/Merida
-Teotihuacan	State of Mexico	07	H	0	19.6925N	98.843889W	2200	1	America/Mexico
 Uxmal	Yucatán	07	H	0	20.359444N	89.771389W	24	1	America/Merida
 Xochicalco	Morelos	07	H	0	18.803889N	99.295917W	2000	1	America/Mexico
 Machu Picchu	Cusco Region	08	H	0	13.163333S	72.545556W	2430	1	America/Lima
 Göbekli Tepe	Southeastern Anatolia	16	H	0	37.223611N	38.921667E	500	1	Europe/Istanbul
-Stonehenge	Wiltshire	UK	H	0	51.178889N	1.826111W	4	1	Europe/London
-Woodhenge	Wiltshire	UK	H	0	51.1894N	1.78576W	4	1	Europe/London
+Stonehenge	Wiltshire	18	H	0	51.178889N	1.826111W	4	1	Europe/London
+Woodhenge	Wiltshire	18	H	0	51.1894N	1.78576W	4	1	Europe/London
 #
 # extraterrestrial locations
 #
