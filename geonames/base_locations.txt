@@ -534,6 +534,7 @@ Neubau	Vienna	20	N	31.521	48.20172N	16.34715E	215	5	Europe/Vienna
 Josefstadt	Vienna	20	N	24.499	48.21243N	16.34549E	207	5	Europe/Vienna
 Alsergrund	Vienna	20	N	41.645	48.22321N	16.35506E	188	5	Europe/Vienna
 Brigittenau	Vienna	20	N	86.967	48.24275N	16.37551E	163	6	Europe/Vienna
+Fischamend-Dorf	Lower Austria	20	N	0	48.05879N	16.1201E	325		Europe/Vienna
 Scarborough	Western Australia	21	N	17.605	31.89578S	115.76431E	9	5	Australia/Perth
 Rockingham	Western Australia	21	N	15.312	32.27682S	115.72978E	8	5	Australia/Perth
 Perth	Western Australia	21	R	2192.229	31.95224S	115.8614E	34	9	Australia/Perth
@@ -1748,6 +1749,7 @@ Campo Alegre	Alagoas	08	N	16.785	9.78194S	36.35083W	181	5	America/Maceio
 Campina Grande	Paraiba	08	N	348.936	7.23056S	35.88111W	508	7	America/Fortaleza
 Camocim	Ceara	08	N	44.481	2.90222S	40.84111W	6	5	America/Fortaleza
 Cameta	Para	08	N	45.2	2.24444S	49.49583W	11	5	America/Belem
+Camaragibe	Pernambuco	08	N	156.736	8.02167S	34.98111W	43	7	America/Recife
 Cajueiro	Alagoas	08	N	15.062	9.70926S	36.44785W	306	5	America/Maceio
 Cajazeiras	Paraiba	08	N	43.913	6.89028S	38.55528W	305	5	America/Fortaleza
 Caico	Rio Grande do Norte	08	N	54.934	6.45833S	37.09778W	161	6	America/Fortaleza
@@ -1989,7 +1991,7 @@ Santa Rosa	Rio Grande do Sul	08	N	58.957	27.87083S	54.48139W	284	6	America/Sao_P
 Santa Rita do Sapucai	Minas Gerais	08	N	28.765	22.25222S	45.70333W	826	5	America/Sao_Paulo
 Santa Rita do Passa Quatro	Sao Paulo	08	N	24.578	21.71028S	47.47806W	759	5	America/Sao_Paulo
 Santana do Paraiso	Minas Gerais	08	N	25.515	19.36361S	42.56861W	566	5	America/Sao_Paulo
-Santana do Livramento	Rio Grande do Sul	08	N	89.694	30.89083S	55.53278W	213	6	America/Sao_Paulo
+Sant'Ana do Livramento	Rio Grande do Sul	08	N	89.694	30.89083S	55.53278W	213	6	America/Sao_Paulo
 Santana de Parnaiba	Sao Paulo	08	N	98.989	23.44417S	46.91778W	711	6	America/Sao_Paulo
 Santana	Sao Paulo	08	N	115.689	23.53333S	46.61667W	736	7	America/Sao_Paulo
 Santa Maria da Vitoria	Bahia	08	N	23.488	13.38814S	44.19868W	464	5	America/Bahia
@@ -12763,7 +12765,7 @@ Rajapalaiyam	Tamil Nadu	15	N	124.168	9.45296N	77.55335E	165	7	Asia/Kolkata
 Razampeta	Andhra Pradesh	15	N	31.079	14.19544N	79.15896E	139	5	Asia/Kolkata
 Rajaldesar	Rajasthan	15	N	24.104	28.02849N	74.47442E	308	5	Asia/Kolkata
 Rajakhera	Rajasthan	15	N	30.627	26.89802N	78.171E	169	5	Asia/Kolkata
-Rajahmundry	Andhra Pradesh	15	N	376.333	17.00517N	81.77784E	34	7	Asia/Kolkata
+Rajamahendravaram	Andhra Pradesh	15	N	376.333	17.00517N	81.77784E	34	7	Asia/Kolkata
 Raisinghnagar	Rajasthan	15	N	29.626	29.53583N	73.44917E	166	5	Asia/Kolkata
 Raisen	Madhya Pradesh	15	N	40.977	23.33033N	77.7811E	448	5	Asia/Kolkata
 Raipur	Uttarakhand	15	N	27.702	30.31097N	78.08979E	680	5	Asia/Kolkata
@@ -13645,7 +13647,7 @@ Jatani	Odisha	15	N	56.003	20.15975N	85.70742E	38	6	Asia/Kolkata
 Jaswantnagar	Uttar Pradesh	15	N	27.777	26.88271N	78.90256E	158	5	Asia/Kolkata
 Jaspur	Uttarakhand	15	N	42.524	29.27919N	78.82798E	245	5	Asia/Kolkata
 Jasidih	Jharkhand	15	N	16.338	24.51379N	86.64576E	272	5	Asia/Kolkata
-Jashpurnagar	Chhattisgarh	15	N	22.607	22.88783N	84.13864E	776	5	Asia/Kolkata
+Jashpur Nagar	Chhattisgarh	15	N	22.607	22.88783N	84.13864E	776	5	Asia/Kolkata
 Jasdan	Gujarat	15	N	43.861	22.03709N	71.20794E	204	5	Asia/Kolkata
 Jarwal	Uttar Pradesh	15	N	17.576	27.1629N	81.54179E	112	5	Asia/Kolkata
 Jaora	Madhya Pradesh	15	N	67.203	23.63783N	75.12711E	473	6	Asia/Kolkata
@@ -16578,7 +16580,7 @@ Meru	Meru County	02	R	80.191	0.04626N	37.65587E	1579	6	Africa/Nairobi
 Mbale	Vihiga County	02	R	60	0.08213N	34.72139E	1628	6	Africa/Nairobi
 Mazeras	Kwale County	02	N	16.254	3.96426S	39.5498E	158	5	Africa/Nairobi
 Maua	Meru County	02	N	22.121	0.2332N	37.94086E	1629	5	Africa/Nairobi
-Masalani	Tana River County	02	N	43.642	1.69746S	40.12186E	45	5	Africa/Nairobi
+Masalani	Tana River County	02	N	43.642	1.69405S	40.17015E	71	5	Africa/Nairobi
 Marsabit	Marsabit County	02	R	36.289	2.33468N	37.99086E	1364	5	Africa/Nairobi
 Mariakani	Kilifi County	02	N	31.715	3.86261S	39.47458E	206	5	Africa/Nairobi
 Maralal	Samburu County	02	R	31.35	1.09667N	36.69806E	1941	5	Africa/Nairobi
@@ -16959,17 +16961,17 @@ Sabah as Salim	Mubarak al Kabir	16	N	139.163	29.25722N	48.05722E	32	7	Asia/Kuwai
 West Bay	West Bay	06	R	15.335	19.38197N	81.39281W	5	5	America/Cayman
 George Town	George Town	06	C	29.37	19.2866N	81.37436W	3	5	America/Cayman
 Zhanaozen	Mangghystau	12	N	103.598	43.34116N	52.86192E	204	7	Asia/Aqtau
-Shalqar	Aqtoebe	12	N	27.399	47.83154N	59.61926E	169	5	Asia/Aqtobe
+Shalqar	Aqtobe	12	N	27.399	47.83154N	59.61926E	169	5	Asia/Aqtobe
 Shalkar	Atyrau Oblisi	12	N	27.072	48.03333N	48.9E	-14	5	Asia/Atyrau
 Oral	Batys Qazaqstan	12	R	330	51.23333N	51.36667E	35	7	Asia/Oral
-Kandyagash	Aqtoebe	12	N	28.196	49.46917N	57.41865E	294	5	Asia/Aqtobe
+Kandyagash	Aqtobe	12	N	28.196	49.46917N	57.41865E	294	5	Asia/Aqtobe
 Qulsary	Atyrau Oblisi	12	N	51.216	46.95307N	54.01978E	-14	6	Asia/Atyrau
-Khromtau	Aqtoebe	12	N	23.715	50.25161N	58.43574E	416	5	Asia/Aqtobe
+Khromtau	Aqtobe	12	N	23.715	50.25161N	58.43574E	416	5	Asia/Aqtobe
 Karagandy	Karaganda	12	R	497.777	49.80187N	73.10211E	545	7	Asia/Almaty
-Embi	Aqtoebe	12	N	18.76	48.82981N	58.15042E	233	5	Asia/Aqtobe
+Embi	Aqtobe	12	N	18.76	48.82981N	58.15042E	233	5	Asia/Aqtobe
 Balykshi	Atyrau Oblisi	12	N	19.26	47.06667N	51.86667E	-24	5	Asia/Atyrau
 Atyrau	Atyrau Oblisi	12	R	290.7	47.11667N	51.88333E	-25	7	Asia/Atyrau
-Aktobe	Aqtoebe	12	R	500.757	50.27969N	57.20718E	210	8	Asia/Aqtobe
+Aktobe	Aqtobe	12	R	500.757	50.27969N	57.20718E	210	8	Asia/Aqtobe
 Shevchenko	Mangghystau	12	R	147.443	43.64806N	51.17222E	-9	7	Asia/Aqtau
 Aqsay	Batys Qazaqstan	12	N	34.799	51.1681N	52.99782E	65	5	Asia/Oral
 Altay	East Kazakhstan	12	N	44.929	49.73626N	84.25416E	460	5	Asia/Almaty
@@ -17054,14 +17056,15 @@ Tyre	South Governorate	16	N	135.204	33.27333N	35.19389E	7	7	Asia/Beirut
 Sidon	South Governorate	16	R	163.554	33.55751N	35.37148E	9	7	Asia/Beirut
 Ra's Bayrut	Beyrouth	16	N	1251.739	33.9N	35.48333E	35	9	Asia/Beirut
 Jounieh	Mont-Liban	16	N	96.315	33.98083N	35.61778E	40	6	Asia/Beirut
-Jbail	Mont-Liban	16	N	20.784	34.12111N	35.64806E	33	5	Asia/Beirut
+Byblos	Mont-Liban	16	N	20.784	34.12111N	35.64806E	33	5	Asia/Beirut
 Habbouch	Nabatiye	16	N	98.433	33.40729N	35.48169E	457	6	Asia/Beirut
-Bcharre	Liban-Nord	16	N	20	34.25083N	36.01056E	1442	5	Asia/Beirut
+Bsharri	Liban-Nord	16	N	20	34.25083N	36.01056E	1442	5	Asia/Beirut
 Beirut	Beyrouth	16	C	1916.1	33.89332N	35.50157E	40	9	Asia/Beirut
 Baalbek	Baalbek-Hermel Governorate	16	R	30.916	34.00583N	36.21806E	1183	5	Asia/Beirut
 En Naqoura	South Governorate	16	N	24.91	33.11806N	35.13972E	71	5	Asia/Beirut
 Nabatiye et Tahta	Nabatiye	16	R	120	33.37889N	35.48389E	428	7	Asia/Beirut
 Ghazieh	South Governorate	16	N	50	33.5175N	35.36889E	59	6	Asia/Beirut
+Aley	Mont-Liban	16	N	130	33.80528N	35.6E	878	7	Asia/Beirut
 Gros Islet	Gros-Islet	06	R	25.21	14.06667N	60.95W	58	5	America/St_Lucia
 Castries	Castries	06	C	20	13.9957N	61.00614W	119	5	America/St_Lucia
 Vaduz	Vaduz	20	C	5.197	47.14151N	9.52154E	465	4	Europe/Vaduz
@@ -18681,6 +18684,7 @@ Batu Berendam	Melaka	14	N	25.028	2.2487N	102.246E	5	5	Asia/Kuala_Lumpur
 Ayer Itam	Penang	14	N	16.974	5.40158N	100.27815E	118	5	Asia/Kuala_Lumpur
 Kampung Teluk Kumbar	Penang	14	N	21.481	5.28769N	100.23379E	8	5	Asia/Kuala_Lumpur
 Putrajaya	Putrajaya	14	N	50	2.93527N	101.69112E	35	6	Asia/Kuala_Lumpur
+Kampung Baru Ulu Melaka	Kedah	14	N	18.898	6.35196N	99.78791E	30	5	Asia/Kuala_Lumpur
 Sik	Kedah	14	N	32.565	5.83333N	100.75E	76	5	Asia/Kuala_Lumpur
 Kampung Hutan Arau	Perlis	14	N	20	6.42942N	100.28174E	16	5	Asia/Kuala_Lumpur
 Glugor	Penang	14	N	18.662	5.37215N	100.30708E	29	5	Asia/Kuala_Lumpur
@@ -18689,6 +18693,7 @@ Kota Kuala Muda	Kedah	14	N	544.984	5.58822N	100.37085E	4	8	Asia/Kuala_Lumpur
 Cyberjaya	Selangor	14	N	79.2	2.92281N	101.65718E	24	6	Asia/Kuala_Lumpur
 Bandar Labuan	Sabah	14	N	54.752	5.28319N	115.25371E	1	6	Asia/Kuching
 Bercham	Perak	14	N	150	4.6411N	101.1393E	67	7	Asia/Kuala_Lumpur
+Kampung Perak	Pahang	14	N	44.964	3.8682N	102.5862E	65	5	Asia/Kuala_Lumpur
 Kawasan Penempatan Ulu Sungai Benut	Johor	14	N	32.226	1.7541N	103.2798E	13	5	Asia/Kuala_Lumpur
 Kawasan Penempatan Ulu Benut Tiga	Johor	14	N	32.226	1.7497N	103.277E	14	5	Asia/Kuala_Lumpur
 Kawasan Penempatan Ulu Benut Lima	Johor	14	N	32.226	1.7439N	103.3207E	9	5	Asia/Kuala_Lumpur
@@ -22736,7 +22741,7 @@ Keat Hong Village		14	N	38.18	1.37778N	103.74417E	19	5	Asia/Singapore
 Kampong Pasir Ris		14	N	147.11	1.37833N	103.93194E	5	7	Asia/Singapore
 Kampong Loyang		14	N	15.34	1.37778N	103.95944E	15	5	Asia/Singapore
 Kembangan		14	N	130.252	1.32228N	103.91135E	13	7	Asia/Singapore
-Kalang		14	N	101.29	1.33333N	103.86667E	18	7	Asia/Singapore
+Kallang		14	N	101.29	1.33333N	103.86667E	18	7	Asia/Singapore
 Hong Kah		14	N	26.15	1.35944N	103.72278E	3	5	Asia/Singapore
 Geylang		14	N	110.201	1.31953N	103.88689E	8	7	Asia/Singapore
 Bukit Timah Estate		14	N	77.86	1.34028N	103.77583E	20	6	Asia/Singapore
@@ -23364,6 +23369,7 @@ Amphoe Sikhiu	Nakhon Ratchasima	14	N	28.681	14.89944N	101.70833E	232	5	Asia/Bang
 Wichit	Phuket	14	N	38.701	7.8894N	98.38523E	14	5	Asia/Bangkok
 Ban Chalong	Phuket	14	N	18.072	7.84468N	98.33897E	13	5	Asia/Bangkok
 Ban Ratsada	Phuket	14	N	33.534	7.90963N	98.40248E	12	5	Asia/Bangkok
+Ban Aranyik	Phitsanulok	14	N	30.508	16.82553N	100.28486E	47	5	Asia/Bangkok
 Don Mueang City	Bangkok	14	N	168.973	13.91361N	100.58972E	2	7	Asia/Bangkok
 Yovon	Khatlon Province	12	N	17.471	38.31408N	69.03784E	654	5	Asia/Dushanbe
 Hulbuk	Khatlon Province	12	N	21.736	37.80542N	69.64516E	478	5	Asia/Dushanbe
@@ -23598,6 +23604,7 @@ Kozan	Adana	16	N	88.115	37.45517N	35.81573E	140	6	Europe/Istanbul
 Kovancilar	Elazig	16	N	22.976	38.71882N	39.86268E	971	5	Europe/Istanbul
 Korkuteli	Antalya	16	N	20.465	37.06498N	30.19565E	994	5	Europe/Istanbul
 Konya	Konya	16	R	1390.051	37.87135N	32.48464E	1030	9	Europe/Istanbul
+Konakli	Antalya	16	N	17.966	36.59251N	31.89539E	70	5	Europe/Istanbul
 Kiziltepe	Mardin	16	N	150.174	37.18836N	40.57723E	480	7	Europe/Istanbul
 Serinhisar	Denizli	16	N	17.169	37.58105N	29.26639E	958	5	Europe/Istanbul
 Kirsehir	Kirsehir	16	R	150.7	39.14583N	34.16389E	997	7	Europe/Istanbul
@@ -23681,6 +23688,7 @@ Ceyhan	Adana	16	N	96.303	37.02472N	35.8175E	30	6	Europe/Istanbul
 Cesme	Izmir Province	16	N	21.316	38.32614N	26.30574E	9	5	Europe/Istanbul
 Cermik	Diyarbakir Province	16	N	20.975	38.13538N	39.445E	690	5	Europe/Istanbul
 Cay	Afyonkarahisar Province	16	N	34.215	38.59167N	31.02861E	1039	5	Europe/Istanbul
+Kestel	Antalya	16	N	15.445	36.50861N	32.08278E	8	5	Europe/Istanbul
 Caglayancerit	Kahramanmaras	16	N	15.53	37.74523N	37.28618E	1086	5	Europe/Istanbul
 Burhaniye	Balikesir	16	N	38.083	39.50041N	26.97269E	21	5	Europe/Istanbul
 Burdur	Burdur	16	R	95.436	37.72028N	30.29083E	956	6	Europe/Istanbul
@@ -23894,6 +23902,8 @@ Sultangazi	Istanbul	16	N	436.935	41.10652N	28.86847E	144	7	Europe/Istanbul
 Sultanbeyli	Istanbul	16	N	286.622	40.96072N	29.27067E	151	7	Europe/Istanbul
 Sancaktepe	Istanbul	16	N	241	41.00244N	29.23187E	114	7	Europe/Istanbul
 Karabaglar	Izmir Province	16	N	458	38.37396N	27.1352E	66	7	Europe/Istanbul
+Oba	Antalya	16	N	28.864	36.55013N	32.0596E	20	5	Europe/Istanbul
+Cikcilli	Antalya	16	N	21.449	36.54967N	32.03672E	54	5	Europe/Istanbul
 Muratpasa	Antalya	16	N	450	36.89157N	30.76498E	53	7	Europe/Istanbul
 Merkezefendi	Denizli	16	N	280.341	37.80544N	29.04236E	439	7	Europe/Istanbul
 Tunapuna	Tunapuna/Piarco	06	R	17.758	10.65245N	61.38878W	55	5	America/Port_of_Spain
@@ -25603,7 +25613,7 @@ Sterling	Virginia	09	N	27.822	39.00622N	77.4286W	90	5	America/New_York
 Sudley	Virginia	09	N	16.203	38.79289N	77.49749W	65	5	America/New_York
 Suffolk	Virginia	09	N	88.161	36.72836N	76.58496W	22	6	America/New_York
 Tuckahoe	Virginia	09	N	44.99	37.59015N	77.55638W	80	5	America/New_York
-Tysons Corner	Virginia	09	N	19.627	38.91872N	77.23109W	144	5	America/New_York
+Tysons	Virginia	09	N	19.627	38.91872N	77.23109W	144	5	America/New_York
 Vienna	Virginia	09	N	16.522	38.90122N	77.26526W	111	5	America/New_York
 Virginia Beach	Virginia	09	N	452.745	36.85293N	75.97799W	4	7	America/New_York
 Waynesboro	Virginia	09	N	21.491	38.06847N	78.88947W	393	5	America/New_York
@@ -28982,7 +28992,7 @@ Gersfeld	Hesse	20	N	5.5	50.50199N	9.94681E	950	3	Europe/Berlin
 Hooge	Schleswig-Holstein	20	N	0.1	54.56426N	8.55978E	5	2	Europe/Berlin
 Angkor Wat	Siem Reap	14	H	0	13.4125N	103.866667E	65	1	Asia/Phnom_Penh
 Uxmal	Yucatán	07	H	0	20.359444N	89.771389W	24	1	America/Merida
-Xochicalco	Morelos	07	H	0	18.803889N	99.295917W	2000	1	America/Mexico
+Xochicalco	Morelos	07	H	0	18.803889N	99.295917W	2000	1	America/Mexico_City
 Machu Picchu	Cusco Region	08	H	0	13.163333S	72.545556W	2430	1	America/Lima
 Göbekli Tepe	Southeastern Anatolia	16	H	0	37.223611N	38.921667E	500	1	Europe/Istanbul
 Stonehenge	Wiltshire	18	H	0	51.178889N	1.826111W	4	1	Europe/London

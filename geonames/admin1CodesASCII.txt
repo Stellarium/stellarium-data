@@ -1686,7 +1686,7 @@ KY.10375972	Sister Island	Sister Island	10375972
 KZ.07	Batys Qazaqstan	Batys Qazaqstan	607847
 KZ.09	Mangghystaū	Mangghystau	608879
 KZ.06	Atyrau Oblisi	Atyrau Oblisi	609862
-KZ.04	Aqtöbe	Aqtoebe	610688
+KZ.04	Aqtöbe	Aqtobe	610688
 KZ.15	East Kazakhstan	East Kazakhstan	1517381
 KZ.03	Aqmola	Aqmola	1518003
 KZ.16	North Kazakhstan	North Kazakhstan	1519367
