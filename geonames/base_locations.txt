@@ -6574,7 +6574,7 @@ Versmold	North Rhine-Westphalia	20	N	20.996	52.04009N	8.15272E	70	5	Europe/Berli
 Verl	North Rhine-Westphalia	20	N	24.002	51.88333N	8.51667E	94	5	Europe/Berlin
 Verden	Lower Saxony	20	N	26.924	52.92343N	9.23491E	24	5	Europe/Berlin
 Velbert	North Rhine-Westphalia	20	N	87.669	51.33537N	7.04348E	245	6	Europe/Berlin
-Vegesack	Bremen	20	N	34.757	53.16667N	8.61667E	6	5	Europe/Berlin
+Vegesack	Bremen	20	N	34.757	53.17923N	8.62228E	22	5	Europe/Berlin
 Vechta	Lower Saxony	20	N	29.729	52.72632N	8.28598E	36	5	Europe/Berlin
 Vechelde	Lower Saxony	20	N	16.219	52.26038N	10.36491E	82	5	Europe/Berlin
 Vaterstetten	Bavaria	20	N	21.007	48.10537N	11.76825E	547	5	Europe/Berlin
@@ -11374,6 +11374,7 @@ Mong Kok	Yau Tsim Mong	13	R	62.967	22.31935N	114.17136E	35	6	Asia/Hong_Kong
 Mid Levels	Central and Western	13	N	15.464	22.28399N	114.14958E	50	5	Asia/Hong_Kong
 Ma Tau Wai	Kowloon City	13	N	20.185	22.32074N	114.18743E	26	5	Asia/Hong_Kong
 Ma On Shan	Sha Tin	13	N	215.2	22.40613N	114.24079E	217	7	Asia/Hong_Kong
+Leighton Hill	Wan Chai	13	N	29.16	22.2761N	114.18398E	44	5	Asia/Hong_Kong
 Lam Tin	Kwun Tong	13	N	18.666	22.30933N	114.23634E	87	5	Asia/Hong_Kong
 Kwun Tong	Kwun Tong	13	R	16.766	22.31184N	114.22176E	43	5	Asia/Hong_Kong
 Kwai Chung	Kwai Tsing	13	N	331.6	22.36828N	114.13877E	84	7	Asia/Hong_Kong
@@ -23927,6 +23928,7 @@ Yuanlin	Taiwan	13	N	124.725	23.95671N	120.57608E	42	7	Asia/Taipei
 Yingge	Taipei	13	N	87.92	24.95608N	121.3507E	61	6	Asia/Taipei
 Wufeng	Taiwan	13	N	65.567	24.0637N	120.698E	60	6	Asia/Taipei
 Donggang	Taiwan	13	N	47.746	22.46515N	120.44927E	8	5	Asia/Taipei
+Tianzhong	Taiwan	13	N	34.903	23.85808N	120.5857E	54	5	Asia/Taipei
 Taipei	Taiwan	13	C	7871.9	25.05306N	121.52639E	5	9	Asia/Taipei
 Tainan	Taiwan	13	N	771.235	22.99083N	120.21333E	26	8	Asia/Taipei
 Taichung	Taiwan	13	N	1040.725	24.1469N	120.6839E	91	9	Asia/Taipei
@@ -23935,7 +23937,9 @@ Shulin	Taipei	13	N	180.044	24.99085N	121.42199E	24	7	Asia/Taipei
 Banqiao	Taipei	13	N	543.342	25.01427N	121.46719E	12	8	Asia/Taipei
 Sanxia	Taipei	13	N	115.185	24.93448N	121.37139E	39	7	Asia/Taipei
 Sanzhi	Taipei	13	N	23.452	25.25782N	121.50182E	72	5	Asia/Taipei
+Budai	Taiwan	13	N	19.268	23.37795N	120.16154E	7	5	Asia/Taipei
 Puli	Taiwan	13	N	86.406	23.96639N	120.96952E	452	6	Asia/Taipei
+Beigang	Taiwan	13	N	33.3	23.5701N	120.30162E	15	5	Asia/Taipei
 Bade	Taiwan	13	N	209.148	24.92981N	121.28372E	148	7	Asia/Taipei
 Neihu	Taiwan	13	N	271.594	25.0815N	121.58809E	18	7	Asia/Taipei
 Nantou	Taiwan	13	N	105.682	23.91566N	120.66387E	196	7	Asia/Taipei
@@ -23945,10 +23949,14 @@ Kaohsiung	Takao	13	R	1519.711	22.61626N	120.31333E	9	9	Asia/Taipei
 Yilan	Taiwan	13	N	94.188	24.757N	121.753E	15	6	Asia/Taipei
 Hualien City	Taiwan	13	N	350.468	23.97694N	121.60444E	13	7	Asia/Taipei
 Hsinchu	Taiwan	13	N	404.109	24.80361N	120.96861E	22	7	Asia/Taipei
+Xiluo	Taiwan	13	N	37.181	23.79891N	120.46337E	34	5	Asia/Taipei
+Xihu	Taiwan	13	N	47.039	23.95683N	120.47918E	23	5	Asia/Taipei
 Xizhi	Taipei	13	N	204.619	25.06615N	121.65985E	16	7	Asia/Taipei
 Hengchun	Taiwan	13	N	31.288	22.00417N	120.74389E	25	5	Asia/Taipei
+Erlin	Taiwan	13	N	43.652	23.90054N	120.3689E	19	5	Asia/Taipei
 Jincheng	Fukien	13	R	37.507	24.43415N	118.31712E	21	5	Asia/Taipei
 Keelung	Taiwan	13	N	397.515	25.13089N	121.74094E	19	7	Asia/Taipei
+Chaozhou	Taiwan	13	N	55.109	22.54987N	120.54067E	16	6	Asia/Taipei
 Taoyuan City	Taiwan	13	N	402.014	24.99368N	121.29696E	103	7	Asia/Taipei
 Zhongxing New Village	Taiwan	13	R	25.549	23.95908N	120.68516E	106	5	Asia/Taipei
 New Taipei City	Taipei	13	N	4004.367	25.06199N	121.45703E	4	9	Asia/Taipei
