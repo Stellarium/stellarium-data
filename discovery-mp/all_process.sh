@@ -1,6 +1,7 @@
 #!/bin/sh
 
-url="https://minorplanetcenter.net/iau/lists/NumberedMPs.txt.gz"
+#url="https://minorplanetcenter.net/iau/lists/NumberedMPs.txt.gz"
+url="https://minorplanetcenter.net/iau/lists/NumberedMPs.txt"
 
 echo "[Step 1] Downloading Discovery Circumstances...\n"
 
@@ -8,8 +9,8 @@ echo "Processing $url"
 curl -# --retry 3 --connect-timeout 720 -R -O $url
 sleep 5
 
-echo "[Step 2] Extract text...\n"
-gzip -d ./*.gz
+#echo "[Step 2] Extract text...\n"
+#gzip -d ./*.gz
 
 echo "[Step 3] Create Discovery Circumstances for Stellarium...\n"
 
