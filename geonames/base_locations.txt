@@ -16742,6 +16742,7 @@ Wonsan	Kangwon-do	13	R	329.207	39.15278N	127.44361E	7	7	Asia/Pyongyang
 Unch'on-up	South Hwanghae	13	N	95.597	38.56556N	125.42722E	27	6	Asia/Pyongyang
 Ullyul	South Hwanghae	13	N	107.997	38.51389N	125.18972E	29	7	Asia/Pyongyang
 T'ongch'on-up	Kangwon-do	13	N	20.575	38.95389N	127.89167E	6	5	Asia/Pyongyang
+Tokch'on	South Pyongan	13	N	237.133	39.75261N	126.25798E	113	7	Asia/Pyongyang
 T'aet'an-up	South Hwanghae	13	N	64.258	38.08822N	125.2983E	22	6	Asia/Pyongyang
 Sungho 1-tong	Pyongyang	13	N	39.841	38.99139N	125.97778E	38	5	Asia/Pyongyang
 Sunch'on	South Pyongan	13	N	437	39.43167N	125.93278E	72	7	Asia/Pyongyang
@@ -18494,6 +18495,7 @@ Maran	Pahang	14	N	111.056	3.586N	102.773E	29	7	Asia/Kuala_Lumpur
 Raub	Pahang	14	N	40.024	3.7899N	101.857E	149	5	Asia/Kuala_Lumpur
 Bentung	Pahang	14	N	40.373	3.5316N	101.9038E	95	5	Asia/Kuala_Lumpur
 Tanjong Malim	Perak	14	N	66.103	3.681N	101.5198E	44	6	Asia/Kuala_Lumpur
+Parit Sulung	Johor	14	N	82.399	1.976N	102.8835E	8	6	Asia/Kuala_Lumpur
 Batu Pahat	Johor	14	N	156.236	1.8548N	102.9325E	7	7	Asia/Kuala_Lumpur
 Parit Raja	Johor	14	N	17.441	1.8681N	103.1124E	9	5	Asia/Kuala_Lumpur
 Simpang Renggam	Johor	14	N	59.033	1.825N	103.3107E	30	6	Asia/Kuala_Lumpur
@@ -18515,6 +18517,7 @@ Yong Peng	Johor	14	N	27.138	2.0136N	103.0659E	9	5	Asia/Kuala_Lumpur
 Mersing	Johor	14	N	22.007	2.4312N	103.8405E	8	5	Asia/Kuala_Lumpur
 Segamat	Johor	14	N	69.816	2.5148N	102.8158E	35	6	Asia/Kuala_Lumpur
 Tangkak	Johor	14	N	35.109	2.2673N	102.5453E	20	5	Asia/Kuala_Lumpur
+Gerisek	Johor	14	N	33.217	2.2097N	102.7095E	14	5	Asia/Kuala_Lumpur
 Pagoh	Johor	14	N	95.202	2.1495N	102.7704E	8	6	Asia/Kuala_Lumpur
 Muar	Johor	14	N	127.897	2.0442N	102.5689E	6	7	Asia/Kuala_Lumpur
 Bakri	Johor	14	N	30.28	2.0441N	102.6527E	9	5	Asia/Kuala_Lumpur
@@ -18522,6 +18525,7 @@ Labis	Johor	14	N	21.906	2.385N	103.021E	48	5	Asia/Kuala_Lumpur
 Kuala Selangor	Selangor	14	N	55.887	3.35N	101.25E	2	6	Asia/Kuala_Lumpur
 Batang Berjuntai	Selangor	14	N	20.001	3.38333N	101.41667E	35	5	Asia/Kuala_Lumpur
 Batu Arang	Selangor	14	N	22.579	3.31667N	101.46667E	61	5	Asia/Kuala_Lumpur
+Kapar	Selangor	14	N	269.627	3.13333N	101.38333E	1	7	Asia/Kuala_Lumpur
 Shah Alam	Selangor	14	N	740.75	3.08507N	101.53281E	53	8	Asia/Kuala_Lumpur
 Klang	Selangor	14	N	879.867	3.03667N	101.44333E	5	8	Asia/Kuala_Lumpur
 Cangkat Jong	Perak	14	N	25.618	3.9851N	101.1237E	16	5	Asia/Kuala_Lumpur
@@ -18530,21 +18534,27 @@ Cukai	Terengganu	14	N	82.425	4.25N	103.41667E	12	6	Asia/Kuala_Lumpur
 Kuala Lipis	Pahang	14	N	15.448	4.1842N	102.0468E	99	5	Asia/Kuala_Lumpur
 Val Dor	Penang	14	N	88.6	5.25198N	100.49046E	7	6	Asia/Kuala_Lumpur
 Papar	Sabah	14	N	19.278	5.73333N	115.93333E	6	5	Asia/Kuching
+Kuala Penyu	Sabah	14	N	24.2	5.5714N	115.5984E	12	5	Asia/Kuching
 Kota Kinabalu	Sabah	14	R	500.421	5.9749N	116.0724E	5	8	Asia/Kuching
 Donggongon	Sabah	14	N	78.086	5.90702N	116.10146E	13	6	Asia/Kuching
 Putatan	Sabah	14	N	78.34	5.9258N	116.06094E	6	6	Asia/Kuching
 Kinarut	Sabah	14	N	15.716	5.8231N	116.0466E	9	5	Asia/Kuching
+Tambunan	Sabah	14	N	29.294	5.71667N	116.4E	630	5	Asia/Kuching
 Ranau	Sabah	14	N	19.294	5.9538N	116.6641E	570	5	Asia/Kuching
 Semporna	Sabah	14	N	62.641	4.48178N	118.61119E	7	6	Asia/Kuching
 Labuan	Labuan	14	R	95.12	5.28028N	115.2475E	7	6	Asia/Kuala_Lumpur
+Sipitang	Sabah	14	N	39.3	5.07903N	115.54964E	9	5	Asia/Kuching
 Beaufort	Sabah	14	N	15.855	5.3473N	115.7455E	18	5	Asia/Kuching
 Lahad Datu	Sabah	14	N	105.622	5.02298N	118.32897E	7	7	Asia/Kuching
 Sandakan	Sabah	14	N	439.05	5.8402N	118.1179E	10	7	Asia/Kuching
 Keningau	Sabah	14	N	77.65	5.3378N	116.1602E	277	6	Asia/Kuching
+Bandar Nabawan	Sabah	14	N	31.807	5.0393N	116.4274E	459	5	Asia/Kuching
 Tawau	Sabah	14	N	372.615	4.24482N	117.89115E	12	7	Asia/Kuching
+Dungun	Terengganu	14	N	34.767	4.775N	103.4162E	7	5	Asia/Kuala_Lumpur
 Paka	Terengganu	14	N	21.044	4.6374N	103.4368E	9	5	Asia/Kuala_Lumpur
 Kertih	Terengganu	14	N	24.401	4.5141N	103.4483E	5	5	Asia/Kuala_Lumpur
 Gerik	Perak	14	N	30.868	5.41667N	101.13333E	116	5	Asia/Kuala_Lumpur
+Lunas	Kedah	14	N	18.236	5.43058N	100.53012E	21	5	Asia/Kuala_Lumpur
 Kulim	Kedah	14	N	170.889	5.36499N	100.56177E	54	7	Asia/Kuala_Lumpur
 Selama	Perak	14	N	34.8	5.2236N	100.69262E	24	5	Asia/Kuala_Lumpur
 Bandar Baharu	Kedah	14	N	44.412	5.13428N	100.49549E	4	5	Asia/Kuala_Lumpur
@@ -18553,18 +18563,23 @@ Padang Serai	Kedah	14	N	50.757	5.51307N	100.55356E	15	6	Asia/Kuala_Lumpur
 Bedong	Kedah	14	N	47.585	5.72743N	100.50876E	6	5	Asia/Kuala_Lumpur
 Kampung Kupang	Kedah	14	N	18.844	5.63638N	100.84517E	44	5	Asia/Kuala_Lumpur
 Pulai	Kedah	14	N	19.093	5.65489N	100.89541E	69	5	Asia/Kuala_Lumpur
+Kampung Jeli	Kelantan	14	N	17.734	5.7N	101.83333E	76	5	Asia/Kuala_Lumpur
 Siburan	Sarawak	14	N	27.286	1.36667N	110.4E	14	5	Asia/Kuching
 Tebedu	Sarawak	14	N	25.232	1.02656N	110.36331E	56	5	Asia/Kuching
 Bau	Sarawak	14	N	52.643	1.41667N	110.15E	21	6	Asia/Kuching
 Simpang Empat	Perak	14	N	58.004	4.95N	100.63333E	4	6	Asia/Kuala_Lumpur
 Kamunting	Perak	14	N	36.243	4.88333N	100.73333E	26	5	Asia/Kuala_Lumpur
+Batu Kurau	Perak	14	N	22.307	4.96667N	100.8E	45	5	Asia/Kuala_Lumpur
 Taiping	Perak	14	N	217.647	4.85N	100.73333E	19	7	Asia/Kuala_Lumpur
+Padang Rengas	Perak	14	N	38.294	4.76667N	100.85E	68	5	Asia/Kuala_Lumpur
 Kuala Kangsar	Perak	14	N	39.331	4.76667N	100.93333E	42	5	Asia/Kuala_Lumpur
+Chemor	Perak	14	N	30.461	4.7211N	101.1189E	76	5	Asia/Kuala_Lumpur
 Ipoh	Perak	14	R	840	4.5841N	101.0829E	45	8	Asia/Kuala_Lumpur
 Lahat	Perak	14	N	30.694	4.5388N	101.0365E	43	5	Asia/Kuala_Lumpur
 Gua Musang	Kelantan	14	N	19.731	4.88441N	101.96857E	90	5	Asia/Kuala_Lumpur
 Kuala Terengganu	Terengganu	14	R	426.5	5.3302N	103.1408E	15	7	Asia/Kuala_Lumpur
 Marang	Terengganu	14	N	21.41	5.2056N	103.2059E	14	5	Asia/Kuala_Lumpur
+Kampung Teluk Kemang	Negeri Sembilan	14	N	16.672	2.46146N	101.85951E	21	5	Asia/Kuala_Lumpur
 Tampin	Negeri Sembilan	14	N	28.238	2.4701N	102.2302E	61	5	Asia/Kuala_Lumpur
 Alor Gajah	Melaka	14	N	20.163	2.3804N	102.2089E	19	5	Asia/Kuala_Lumpur
 Durian Tunggal	Melaka	14	N	42.185	2.3125N	102.2805E	12	5	Asia/Kuala_Lumpur
@@ -18572,9 +18587,11 @@ Kampung Ayer Keroh	Melaka	14	N	37.716	2.2654N	102.2801E	22	5	Asia/Kuala_Lumpur
 Sungai Udang	Melaka	14	N	26.044	2.269N	102.1427E	31	5	Asia/Kuala_Lumpur
 Malacca	Melaka	14	R	579	2.196N	102.2405E	6	8	Asia/Kuala_Lumpur
 Merlimau	Melaka	14	N	18.632	2.1449N	102.4251E	6	5	Asia/Kuala_Lumpur
+Teluk Panglima Garang	Selangor	14	N	49.155	2.90796N	101.46877E	5	5	Asia/Kuala_Lumpur
 Pelabuhan Klang	Selangor	14	N	20	2.99959N	101.39287E	6	5	Asia/Kuala_Lumpur
 Banting	Selangor	14	N	48.24	2.8136N	101.50185E	9	5	Asia/Kuala_Lumpur
 Jenjarum	Selangor	14	N	24.857	2.8724N	101.49484E	8	5	Asia/Kuala_Lumpur
+Bangi	Selangor	14	N	45.042	2.9N	101.78333E	25	5	Asia/Kuala_Lumpur
 Semenyih	Selangor	14	N	92.491	2.9516N	101.843E	39	6	Asia/Kuala_Lumpur
 Seremban	Negeri Sembilan	14	R	372.917	2.7297N	101.9381E	59	7	Asia/Kuala_Lumpur
 Port Dickson	Negeri Sembilan	14	N	89.198	2.52462N	101.79651E	-9999	6	Asia/Kuala_Lumpur
@@ -18583,6 +18600,7 @@ Taman Senawang Indah	Negeri Sembilan	14	N	64.497	2.691N	101.989E	72	6	Asia/Kuala
 Bahau	Negeri Sembilan	14	N	31.273	2.8079N	102.4049E	63	5	Asia/Kuala_Lumpur
 Kuala Pilah	Negeri Sembilan	14	N	19.51	2.7389N	102.2487E	93	5	Asia/Kuala_Lumpur
 Rembau	Negeri Sembilan	14	N	29.595	2.5897N	102.0913E	46	5	Asia/Kuala_Lumpur
+Batu Anam	Johor	14	N	21.923	2.5825N	102.711E	22	5	Asia/Kuala_Lumpur
 Rompin	Negeri Sembilan	14	N	41.931	2.7083N	102.5047E	52	5	Asia/Kuala_Lumpur
 Gemas	Negeri Sembilan	14	N	29.777	2.5832N	102.6117E	34	5	Asia/Kuala_Lumpur
 Pekan	Pahang	14	N	31.826	3.4836N	103.3996E	11	5	Asia/Kuala_Lumpur
@@ -18600,11 +18618,13 @@ Tasek Glugor	Penang	14	N	135.786	5.48032N	100.49849E	10	7	Asia/Kuala_Lumpur
 Balik Pulau	Penang	14	N	23.559	5.34916N	100.23938E	24	5	Asia/Kuala_Lumpur
 Bayan Lepas	Penang	14	N	130.455	5.29992N	100.26052E	26	7	Asia/Kuala_Lumpur
 George Town	Penang	14	R	158.336	5.41123N	100.33543E	14	7	Asia/Kuala_Lumpur
+Hulu Yam Lama	Selangor	14	N	20.334	3.4537N	101.6413E	41	5	Asia/Kuala_Lumpur
 Serendah	Selangor	14	N	71.202	3.3646N	101.6041E	42	6	Asia/Kuala_Lumpur
 Rawang	Selangor	14	N	120.447	3.3213N	101.5767E	38	7	Asia/Kuala_Lumpur
 Sungai Buloh	Selangor	14	N	222.858	3.21N	101.561E	50	7	Asia/Kuala_Lumpur
 Petaling Jaya	Selangor	14	N	902.086	3.10726N	101.60671E	45	8	Asia/Kuala_Lumpur
 Kuala Lumpur	Kuala Lumpur	14	C	1453.975	3.1412N	101.68653E	56	9	Asia/Kuala_Lumpur
+Setapak	Selangor	14	N	353.268	3.207N	101.727E	52	7	Asia/Kuala_Lumpur
 Batu Caves	Selangor	14	N	254.083	3.238N	101.682E	44	7	Asia/Kuala_Lumpur
 Ampang	Kuala Lumpur	14	N	126.285	3.15N	101.76667E	56	7	Asia/Kuala_Lumpur
 Hulu Langat	Selangor	14	N	55.251	3.1137N	101.8142E	53	6	Asia/Kuala_Lumpur
@@ -18671,6 +18691,7 @@ Sungai Dua	Penang	14	N	28.1	5.44266N	100.42972E	7	5	Asia/Kuala_Lumpur
 Seri Kembangan	Selangor	14	N	130.252	3.03333N	101.71667E	57	7	Asia/Kuala_Lumpur
 Serian	Sarawak	14	N	58.059	1.16667N	110.56667E	20	6	Asia/Kuching
 Seputeh	Kuala Lumpur	14	N	18.605	3.11667N	101.68333E	57	5	Asia/Kuala_Lumpur
+Sentul	Kuala Lumpur	14	N	100	3.18333N	101.68333E	41	7	Asia/Kuala_Lumpur
 Relau	Penang	14	N	18.755	5.33096N	100.28296E	7	5	Asia/Kuala_Lumpur
 Permatang Kuching	Penang	14	N	27.191	5.46339N	100.38144E	10	5	Asia/Kuala_Lumpur
 Peringat	Kelantan	14	N	23.288	6.03333N	102.28333E	11	5	Asia/Kuala_Lumpur
@@ -18684,6 +18705,7 @@ Kuala Ketil	Kedah	14	N	19.209	5.6N	100.65E	23	5	Asia/Kuala_Lumpur
 Kepong	Kuala Lumpur	14	N	85.96	3.21398N	101.64018E	79	6	Asia/Kuala_Lumpur
 Klebang Besar	Melaka	14	N	38.643	2.2186N	102.1995E	5	5	Asia/Kuala_Lumpur
 Kampung Kangkar Teberau	Johor	14	N	412.373	1.532N	103.7549E	10	7	Asia/Kuala_Lumpur
+Kampung Tanjung Minyak	Melaka	14	N	23.074	2.2666N	102.2004E	22	5	Asia/Kuala_Lumpur
 Kampung Tanjung Karang	Selangor	14	N	16.393	3.4242N	101.1849E	7	5	Asia/Kuala_Lumpur
 Kampung Sungai Kajang	Selangor	14	N	84.031	3.4161N	101.173E	5	6	Asia/Kuala_Lumpur
 Kampung Sungai Glugur	Penang	14	N	145.6	5.36966N	100.31353E	9	7	Asia/Kuala_Lumpur
@@ -18693,9 +18715,12 @@ Kampong Sidam	Kedah	14	N	60.983	5.53333N	100.56667E	11	6	Asia/Kuala_Lumpur
 Kampong Pangkal Kalong	Kelantan	14	N	39.904	5.91667N	102.21667E	31	5	Asia/Kuala_Lumpur
 Kampung Minyak Beku	Johor	14	N	19.374	1.7954N	102.8971E	12	5	Asia/Kuala_Lumpur
 Kampong Masjid Tanah	Melaka	14	N	29.185	2.35N	102.11667E	17	5	Asia/Kuala_Lumpur
+Kampung Machap Baru	Melaka	14	N	16	2.3829N	102.3311E	55	5	Asia/Kuala_Lumpur
+Kampung Kerubong	Melaka	14	N	31.936	2.2958N	102.2537E	7	5	Asia/Kuala_Lumpur
 Kampong Kadok	Kelantan	14	N	19.233	6N	102.25E	12	5	Asia/Kuala_Lumpur
 Ijok	Selangor	14	N	100.899	3.31667N	101.4E	10	7	Asia/Kuala_Lumpur
 Kampong Dungun	Perak	14	N	58.674	3.21667N	101.31667E	9	6	Asia/Kuala_Lumpur
+Kampung Cheng	Melaka	14	N	19.158	2.2635N	102.2179E	20	5	Asia/Kuala_Lumpur
 Kampung Bukit Baharu	Melaka	14	N	55.656	2.2152N	102.2851E	9	6	Asia/Kuala_Lumpur
 Kampung Baru Subang	Selangor	14	N	833.571	3.15N	101.53333E	27	8	Asia/Kuala_Lumpur
 Kampung Baharu Nilai	Negeri Sembilan	14	N	38.612	2.8033N	101.7972E	32	5	Asia/Kuala_Lumpur
@@ -18708,6 +18733,7 @@ Jawi	Penang	14	N	36.601	5.21525N	100.49211E	8	5	Asia/Kuala_Lumpur
 Cheras	Selangor	14	N	135.823	3.108N	101.726E	60	7	Asia/Kuala_Lumpur
 Bukit Tambun	Penang	14	N	22.9	5.27179N	100.4601E	9	5	Asia/Kuala_Lumpur
 Bukit Rambai	Melaka	14	N	17.391	2.2594N	102.1838E	12	5	Asia/Kuala_Lumpur
+Bukit Gambir	Johor	14	N	40	2.211N	102.6546E	12	5	Asia/Kuala_Lumpur
 Kampung Bertam Ulu	Melaka	14	N	17.119	2.2898N	102.1928E	15	5	Asia/Kuala_Lumpur
 Bentong Town	Pahang	14	N	49.213	3.52229N	101.90866E	95	5	Asia/Kuala_Lumpur
 Kampung Batu Empat	Johor	14	N	21.898	1.776N	103.8736E	15	5	Asia/Kuala_Lumpur
@@ -18727,7 +18753,9 @@ Bandar Labuan	Sabah	14	N	54.752	5.28319N	115.25371E	1	6	Asia/Kuching
 Bercham	Perak	14	N	150	4.6411N	101.1393E	67	7	Asia/Kuala_Lumpur
 Kampung Manjoi	Perak	14	N	86.266	4.6192N	101.0685E	47	6	Asia/Kuala_Lumpur
 Kampung Perak	Pahang	14	N	44.964	3.8682N	102.5862E	65	5	Asia/Kuala_Lumpur
+Bandar Tenggara	Johor	14	N	15.278	1.87N	103.6158E	49	5	Asia/Kuala_Lumpur
 Johor Jaya	Johor	14	N	66	1.5392N	103.8092E	24	6	Asia/Kuala_Lumpur
+Taman Permas Jaya	Johor	14	N	45	1.511N	103.8198E	18	5	Asia/Kuala_Lumpur
 Kawasan Penempatan Ulu Sungai Benut	Johor	14	N	32.226	1.7541N	103.2798E	13	5	Asia/Kuala_Lumpur
 Kawasan Penempatan Ulu Benut Tiga	Johor	14	N	32.226	1.7497N	103.277E	14	5	Asia/Kuala_Lumpur
 Kawasan Penempatan Ulu Benut Lima	Johor	14	N	32.226	1.7439N	103.3207E	9	5	Asia/Kuala_Lumpur
@@ -18744,12 +18772,16 @@ Subang Jaya	Kuala Lumpur	14	N	708.296	3.04384N	101.58062E	41	8	Asia/Kuala_Lumpur
 Iskandar Puteri	Johor	14	N	575.977	1.39324N	103.62322E	16	8	Asia/Kuala_Lumpur
 Putra Heights	Selangor	14	N	60	2.99361N	101.57255E	27	6	Asia/Kuala_Lumpur
 Kajang	Selangor	14	N	111.2	2.99424N	101.78875E	34	7	Asia/Kuala_Lumpur
+Bukit Bintang	Kuala Lumpur	14	N	120.529	3.14657N	101.71023E	56	7	Asia/Kuala_Lumpur
+Bandar Puncak Alam	Selangor	14	N	25	3.2389N	101.42793E	15	5	Asia/Kuala_Lumpur
 Kota Damansara	Selangor	14	N	500	3.15454N	101.58022E	70	8	Asia/Kuala_Lumpur
+Damansara Damai	Selangor	14	N	85	3.19893N	101.59184E	74	6	Asia/Kuala_Lumpur
 Kuala Nerus	Terengganu	14	N	93.485	5.37293N	103.02053E	146	6	Asia/Kuala_Lumpur
 Bandar Sri Damansara	Selangor	14	N	48.556	3.1903N	101.61061E	82	5	Asia/Kuala_Lumpur
 Selangau	Sarawak	14	N	19.844	2.52477N	112.32543E	96	5	Asia/Kuching
 Taman Petaling	Kuala Lumpur	14	N	423.062	3.19916N	101.64983E	76	7	Asia/Kuala_Lumpur
 Elmina	Selangor	14	N	45	3.18523N	101.52461E	59	5	Asia/Kuala_Lumpur
+Denai Alam	Selangor	14	N	35	3.16027N	101.51501E	72	5	Asia/Kuala_Lumpur
 Taman Melati	Kuala Lumpur	14	N	50	3.22124N	101.72324E	83	6	Asia/Kuala_Lumpur
 Ara Damansara	Selangor	14	N	60	3.11898N	101.58656E	66	6	Asia/Kuala_Lumpur
 Kampung Setia	Selangor	14	N	38.87	3.24177N	101.53296E	64	5	Asia/Kuala_Lumpur
@@ -18766,10 +18798,29 @@ Bukit Gemuroh	Penang	14	N	17.379	5.29775N	100.21147E	109	5	Asia/Kuala_Lumpur
 Taman Melawati	Selangor	14	N	99.304	3.21083N	101.74825E	129	6	Asia/Kuala_Lumpur
 Perling	Johor	14	N	101.263	1.48061N	103.68381E	7	7	Asia/Kuala_Lumpur
 Mukim Pulai	Johor	14	N	505.661	1.53333N	103.66667E	9	8	Asia/Kuala_Lumpur
-Bandar Mahkota Cheras	Selangor	14	N	52.847	3.0542N	101.79844E	80	6	Asia/Kuala_Lumpur
+Bandar Mahkota Cheras	Selangor	14	N	100	3.0542N	101.79844E	80	7	Asia/Kuala_Lumpur
 Paya Terubong	Penang	14	N	226.712	5.37278N	100.27972E	156	7	Asia/Kuala_Lumpur
 Bandar Tun Hussein Onn	Selangor	14	N	40	3.05469N	101.75939E	84	5	Asia/Kuala_Lumpur
 Bukit Beruntung	Selangor	14	N	20.023	3.41558N	101.55709E	76	5	Asia/Kuala_Lumpur
+Sibu Jaya	Sarawak	14	N	35	2.24026N	111.97135E	68	5	Asia/Kuching
+Petagas	Sabah	14	N	35.844	5.91161N	116.04991E	29	5	Asia/Kuching
+Setia Alam	Selangor	14	N	150	3.10155N	101.45565E	142	7	Asia/Kuala_Lumpur
+Taman Sri Sinar	Kuala Lumpur	14	N	40	3.1868N	101.65085E	77	5	Asia/Kuala_Lumpur
+Bandar Kinrara	Selangor	14	N	93.822	3.04926N	101.64153E	79	6	Asia/Kuala_Lumpur
+Bandar Bukit Raja	Selangor	14	N	146.534	3.08737N	101.43339E	108	7	Asia/Kuala_Lumpur
+Pandamaran	Selangor	14	N	53.916	3.01083N	101.42081E	4	6	Asia/Kuala_Lumpur
+Bandar Sri Sendayan	Negeri Sembilan	14	N	26.127	2.67375N	101.8721E	61	5	Asia/Kuala_Lumpur
+Bandar Country Homes	Selangor	14	N	39	3.32752N	101.53106E	74	5	Asia/Kuala_Lumpur
+Alam Damai	Kuala Lumpur	14	N	35	3.06028N	101.7408E	92	5	Asia/Kuala_Lumpur
+SS2	Kuala Lumpur	14	N	25.5	3.12036N	101.62246E	51	5	Asia/Kuala_Lumpur
+Sungai Jawi	Penang	14	N	19.586	5.19779N	100.49244E	20	5	Asia/Kuala_Lumpur
+Bandar Saujana Utama	Selangor	14	N	72	3.20663N	101.47729E	66	6	Asia/Kuala_Lumpur
+Bukit Rahman Putra	Selangor	14	N	607	3.21727N	101.5608E	76	8	Asia/Kuala_Lumpur
+Setia Tropika	Johor	14	N	60.279	1.54631N	103.71829E	21	6	Asia/Kuala_Lumpur
+Bandar Tasik Puteri	Selangor	14	N	150	3.28531N	101.4741E	60	7	Asia/Kuala_Lumpur
+Desa Petaling	Kuala Lumpur	14	N	20	3.08385N	101.70895E	76	5	Asia/Kuala_Lumpur
+Bukit Kerinchi	Kuala Lumpur	14	N	35	3.10628N	101.66761E	57	5	Asia/Kuala_Lumpur
+Titiwangsa	Kuala Lumpur	14	N	122.096	3.17822N	101.70312E	60	7	Asia/Kuala_Lumpur
 Xai-Xai	Gaza Province	02	R	154.356	25.05194S	33.64417E	4	7	Africa/Maputo
 Gorongosa	Sofala	02	N	21.792	18.67556S	34.07278E	329	5	Africa/Maputo
 Vilankulo	Inhambane Province	02	N	43.183	22S	35.31667E	18	5	Africa/Maputo
@@ -20245,6 +20296,7 @@ Apas	Central Visayas	14	N	22.566	10.34076N	123.90261E	74	5	Asia/Manila
 General Salipada K. Pendatun	Autonomous Region in Muslim Mindanao	14	N	31.263	6.82626N	124.72171E	13	5	Asia/Manila
 Bagong Silang	Metro Manila	14	N	261.729	14.7783N	121.04487E	50	7	Asia/Manila
 Al-Barka	Autonomous Region in Muslim Mindanao	14	N	23.736	6.48623N	122.17552E	107	5	Asia/Manila
+Mandaluyong	Metro Manila	14	N	425	14.57837N	121.03522E	30	7	Asia/Manila
 Chuhar Jamali	Sindh	15	N	15.781	24.3944N	67.99298E	9	5	Asia/Karachi
 Rawalakot	Azad Jammu and Kashmir(POK)	15	N	50	33.85782N	73.76043E	1640	6	Asia/Karachi
 Pir Jo Goth	Sindh	15	N	35.537	27.59178N	68.61848E	63	5	Asia/Karachi
@@ -22765,7 +22817,7 @@ Akersberga	Stockholm	18	N	32.659	59.47944N	18.29967E	9	5	Europe/Stockholm
 Majorna	Vaestra Goetaland	18	N	29.254	57.69195N	11.91605E	8	5	Europe/Stockholm
 Tensta	Stockholm	18	N	17.083	59.3939N	17.90111E	32	5	Europe/Stockholm
 Yio Chu Kang		14	N	28.35	1.39111N	103.85139E	14	5	Asia/Singapore
-Yew Tee		14	N	40.39	1.39444N	103.75389E	13	5	Asia/Singapore
+Yew Tee		14	N	40.39	1.39665N	103.74738E	1	5	Asia/Singapore
 Ulu Bedok		14	N	276.99	1.33333N	103.93333E	20	7	Asia/Singapore
 Toa Payoh New Town		14	N	120.65	1.33611N	103.85E	22	7	Asia/Singapore
 Tiong Bahru Estate		14	N	15.12	1.28333N	103.83278E	15	5	Asia/Singapore
@@ -22774,15 +22826,15 @@ Tanglin		14	N	21.81	1.31667N	103.81667E	27	5	Asia/Singapore
 Tampines Estate		14	N	265.34	1.35806N	103.94028E	10	7	Asia/Singapore
 Sungai Simpang		14	N	20	1.43806N	103.82667E	23	5	Asia/Singapore
 Singapore		14	C	5638.7	1.28967N	103.85007E	23	9	Asia/Singapore
-Serangoon Garden Estate		14	N	36.08	1.36389N	103.8575E	32	5	Asia/Singapore
+Serangoon Garden		14	N	36.08	1.36389N	103.8575E	32	5	Asia/Singapore
 Serangoon		14	N	116.9	1.36278N	103.8975E	8	7	Asia/Singapore
 Sembawang Estate		14	N	102.64	1.45083N	103.82861E	18	7	Asia/Singapore
 Punggol		14	N	174.45	1.41444N	103.90694E	30	7	Asia/Singapore
 Paya Lebar		14	N	16.92	1.35389N	103.89056E	17	5	Asia/Singapore
 Matilda Estate		14	N	52.2	1.39944N	103.90278E	14	6	Asia/Singapore
-Marsiling		14	N	22	1.44111N	103.77083E	29	5	Asia/Singapore
+Marsiling		14	N	22	1.43254N	103.77407E	1	5	Asia/Singapore
 Loyang		14	N	15.34	1.37861N	103.97167E	1	5	Asia/Singapore
-Keat Hong Village		14	N	38.18	1.37778N	103.74417E	19	5	Asia/Singapore
+Keat Hong Village		14	N	39.37	1.37778N	103.74417E	19	5	Asia/Singapore
 Kampong Pasir Ris		14	N	147.11	1.37833N	103.93194E	5	7	Asia/Singapore
 Kampong Loyang		14	N	15.34	1.37778N	103.95944E	15	5	Asia/Singapore
 Kembangan		14	N	130.252	1.32228N	103.91135E	13	7	Asia/Singapore
@@ -22806,23 +22858,29 @@ Serangoon New Town		14	N	116.9	1.35083N	103.87083E	21	7	Asia/Singapore
 Simei New Town		14	N	39.45	1.34111N	103.95611E	15	5	Asia/Singapore
 Tampines New Town		14	N	259.9	1.34917N	103.94972E	22	7	Asia/Singapore
 Yishun New Town		14	N	221.61	1.43333N	103.83111E	22	7	Asia/Singapore
-Woodlands		14	N	254.73	1.43801N	103.78877E	27	7	Asia/Singapore
+Woodlands		14	N	255.18	1.43801N	103.78877E	27	7	Asia/Singapore
 Kangkar		14	N	32.29	1.37611N	103.90167E	9	5	Asia/Singapore
 Marine Parade		14	N	46.39	1.30306N	103.90778E	16	5	Asia/Singapore
 Ang Mo Kio New Town		14	N	162.28	1.38028N	103.83972E	27	7	Asia/Singapore
-Bukit Panjang New Town		14	N	138.27	1.37972N	103.76472E	36	7	Asia/Singapore
+Bukit Panjang New Town		14	N	138.05	1.37972N	103.76472E	36	7	Asia/Singapore
 Bedok New Town		14	N	276.99	1.32639N	103.94167E	9	7	Asia/Singapore
 Clementi Housing Estate		14	N	92.42	1.31583N	103.76472E	20	6	Asia/Singapore
 Pasir Ris New Town		14	N	54.42	1.37222N	103.94778E	26	6	Asia/Singapore
 Queenstown Estate		14	N	95.93	1.29417N	103.8025E	22	6	Asia/Singapore
-Telok Blangah New Town		14	N	19.32	1.27472N	103.81167E	35	5	Asia/Singapore
+Telok Blangah		14	N	19.32	1.27472N	103.81167E	35	5	Asia/Singapore
 Choa Chu Kang New Town		14	N	190.89	1.3825N	103.74972E	28	7	Asia/Singapore
 Novena		14	N	49.33	1.31697N	103.8438E	20	5	Asia/Singapore
 Eunos		14	N	29.92	1.32252N	103.89822E	6	5	Asia/Singapore
 Sengkang New Town		14	N	244.6	1.39167N	103.89444E	21	7	Asia/Singapore
-Fajar		14	N	27.82	1.38436N	103.77059E	2	5	Asia/Singapore
-Saujana		14	N	25.92	1.38254N	103.7679E	2	5	Asia/Singapore
-Bangkit		14	N	22.27	1.37982N	103.77251E	2	5	Asia/Singapore
+Fajar		14	N	26.42	1.38436N	103.77059E	2	5	Asia/Singapore
+Saujana		14	N	25	1.38254N	103.7679E	2	5	Asia/Singapore
+Bangkit		14	N	21.01	1.37982N	103.77251E	2	5	Asia/Singapore
+Margaret Drive		14	N	24.16	1.29682N	103.80839E	1	5	Asia/Singapore
+Jelebu		14	N	29.96	1.37953N	103.76286E	2	5	Asia/Singapore
+Senja		14	N	23.83	1.38516N	103.76073E	2	5	Asia/Singapore
+Anak Bukit		14	N	22.96	1.34067N	103.77301E	1	5	Asia/Singapore
+Peng Siang		14	N	33.86	1.37995N	103.74066E	1	5	Asia/Singapore
+Teck Whye		14	N	24.56	1.3803N	103.75197E	1	5	Asia/Singapore
 Jamestown	Saint Helena	05	C	0.637	15.92488S	5.71816W	256		Atlantic/St_Helena
 Trbovlje	Trbovlje	19	R	15.163	46.155N	15.05333E	285	5	Europe/Ljubljana
 Velenje	Velenje	19	R	24.327	46.35917N	15.11028E	391	5	Europe/Ljubljana
@@ -23993,6 +24051,7 @@ Shulin	Taipei	13	N	180.044	24.99085N	121.42199E	24	7	Asia/Taipei
 Banqiao	Taipei	13	N	543.342	25.01427N	121.46719E	12	8	Asia/Taipei
 Sanxia	Taipei	13	N	115.185	24.93448N	121.37139E	39	7	Asia/Taipei
 Sanzhi	Taipei	13	N	23.452	25.25782N	121.50182E	72	5	Asia/Taipei
+Buzi	Taiwan	13	N	40.467	24.21013N	120.5725E	63	5	Asia/Taipei
 Budai	Taiwan	13	N	19.268	23.37795N	120.16154E	7	5	Asia/Taipei
 Puli	Taiwan	13	N	86.406	23.96639N	120.96952E	452	6	Asia/Taipei
 Beigang	Taiwan	13	N	33.3	23.5701N	120.30162E	15	5	Asia/Taipei
@@ -24005,6 +24064,7 @@ Kaohsiung	Takao	13	R	1519.711	22.61626N	120.31333E	9	9	Asia/Taipei
 Yilan	Taiwan	13	N	94.188	24.757N	121.753E	15	6	Asia/Taipei
 Hualien City	Taiwan	13	N	350.468	23.97694N	121.60444E	13	7	Asia/Taipei
 Hsinchu	Taiwan	13	N	404.109	24.80361N	120.96861E	22	7	Asia/Taipei
+Jinhu	Fukien	13	N	30.826	24.43944N	118.42111E	22	5	Asia/Taipei
 Xiluo	Taiwan	13	N	37.181	23.79891N	120.46337E	34	5	Asia/Taipei
 Xihu	Taiwan	13	N	47.039	23.95683N	120.47918E	23	5	Asia/Taipei
 Xizhi	Taipei	13	N	204.619	25.06615N	121.65985E	16	7	Asia/Taipei
