@@ -1686,7 +1686,7 @@ KY.10375972	Sister Island	Sister Island	10375972
 KZ.07	Batys Qazaqstan	Batys Qazaqstan	607847
 KZ.09	Mangghystaū	Mangghystau	608879
 KZ.06	Atyrau Oblisi	Atyrau Oblisi	609862
-KZ.04	Aqtöbe	Aqtobe	610688
+KZ.04	Aktyubinskaya Oblast’	Aktyubinskaya Oblast'	610688
 KZ.15	East Kazakhstan	East Kazakhstan	1517381
 KZ.03	Aqmola	Aqmola	1518003
 KZ.16	North Kazakhstan	North Kazakhstan	1519367
@@ -2104,7 +2104,7 @@ MN.19	Uvs Province	Uvs Province	1514967
 MN.12	Hovd	Hovd	1515696
 MN.10	Govi-Altai Province	Govi-Altai Province	1515917
 MN.09	Dzabkhan	Dzabkhan	1516012
-MN.03	Bayan-Ölgiy	Bayan-Olgiy	1516278
+MN.03	Bayan-Ölgii Province	Bayan-OElgii Province	1516278
 MN.02	Bayanhongor	Bayanhongor	1516290
 MN.20	Ulaanbaatar	Ulaanbaatar	2028461
 MN.18	Central Aimak	Central Aimak	2028849
@@ -2945,6 +2945,11 @@ SE.03	Gävleborg	Gaevleborg	2712411
 SE.02	Blekinge	Blekinge	2721357
 SE.27	Skåne	Skane	3337385
 SE.28	Västra Götaland	Vaestra Goetaland	3337386
+SG.13118799	SG.13118799	South West	13118799
+SG.13118800	SG.13118800	North West	13118800
+SG.13118801	SG.13118801	South East	13118801
+SG.13118802	SG.13118802	North East	13118802
+SG.13118803	SG.13118803	Central Singapore	13118803
 SH.01	Ascension	Ascension	2411430
 SH.03	Tristan da Cunha	Tristan da Cunha	3370684
 SH.02	Saint Helena	Saint Helena	6930057
