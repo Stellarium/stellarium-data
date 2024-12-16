@@ -2945,11 +2945,6 @@ SE.03	Gävleborg	Gaevleborg	2712411
 SE.02	Blekinge	Blekinge	2721357
 SE.27	Skåne	Skane	3337385
 SE.28	Västra Götaland	Vaestra Goetaland	3337386
-SG.13118799	SG.13118799	South West	13118799
-SG.13118800	SG.13118800	North West	13118800
-SG.13118801	SG.13118801	South East	13118801
-SG.13118802	SG.13118802	North East	13118802
-SG.13118803	SG.13118803	Central Singapore	13118803
 SH.01	Ascension	Ascension	2411430
 SH.03	Tristan da Cunha	Tristan da Cunha	3370684
 SH.02	Saint Helena	Saint Helena	6930057
