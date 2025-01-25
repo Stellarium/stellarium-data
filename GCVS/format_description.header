@@ -1,0 +1,28 @@
+# This is the part of General Catalogue of Variable Stars for Stellarium
+#
+# Version: $version$
+#
+# This catalog is based on General Catalogue of Variable Stars (GCVS) 5.1:
+# - Excluded synonyms and stars without coordinates
+# - Not all data from original cataloue was transferred
+#
+# Format:
+# + One record per line
+# + Fields in a record are delimited with the tab character
+# + Line beginning with a # character are comments
+# + Columns:
+#   - HIP/Gaia3
+#   - GCVS designation
+#   - Type of variability
+#   - Magnitude at maximum brightness
+#   - Magnitude flag code (0=No flag, 
+#                          1="(" if magMax is an amplitude,
+#                          2="<" if magMax is a bright limit, 
+#                          3=">" if magMax is a faint limit)
+#   - Minimum magnitude or amplitude
+#   - The photometric system for magnitudes
+#   - Epoch for maximum light (Julian days)
+#   - Period of the variable star (days)
+#   - Rising time or duration of eclipse (%)
+#   - Spectral type
+#
