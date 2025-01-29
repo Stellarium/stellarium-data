@@ -99,7 +99,7 @@ for(my $i=0; $i<scalar(@dbfiless); $i++)
 	}
 	if ($origin =~ /\w\s\/\w/ || $origin =~ /\s{2,}/ || $origin =~ /\s\,/ || $origin =~ /\s\./ || $origin =~ /\s\;/ || $origin =~ /fertilty/ || $origin =~ /Odinn/ 
 	    || $origin =~ /chieftan/ || $origin =~ /lightening/ || $origin =~ /Scandanavian/ || $origin =~ /Launcelot/ || $origin =~ /Amour/ || $origin =~ /Price\sIgor/ 
-	    || $origin =~ /western\sSiberia/ || $origin =~ /Jpanese/ || $origin =~ /Francios/) {
+	    || $origin =~ /western\sSiberia/ || $origin =~ /Jpanese/ || $origin =~ /Francios/ || $origin =~ /Valkryie/) {
 	    print TYPO $message;
 	}
 	# if ($featureName !~ m/\'/ && $featureName !~ m/\./) { $featureName = $arr->[1]; }

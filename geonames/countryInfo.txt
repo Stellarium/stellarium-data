@@ -54,7 +54,7 @@ AF	AFG	004	AF	Afghanistan	Kabul	647500	37172386	AS	.af	AFN	Afghani	93			fa-AF,ps
 AG	ATG	028	AC	Antigua and Barbuda	St. John's	443	96286	NA	.ag	XCD	Dollar	+1-268			en-AG	3576396		
 AI	AIA	660	AV	Anguilla	The Valley	102	13254	NA	.ai	XCD	Dollar	+1-264	AI-####	^(?:AZ)*(\d{4})$	en-AI	3573511		
 AL	ALB	008	AL	Albania	Tirana	28748	2866376	EU	.al	ALL	Lek	355	####	^(\d{4})$	sq,el	783754	MK,GR,ME,RS,XK	
-AM	ARM	051	AM	Armenia	Yerevan	29800	2951776	AS	.am	AMD	Dram	374	######	^(\d{6})$	hy	174982	GE,IR,AZ,TR	
+AM	ARM	051	AM	Armenia	Yerevan	29800	2991200	AS	.am	AMD	Dram	374	######	^(\d{6})$	hy	174982	GE,IR,AZ,TR	
 AO	AGO	024	AO	Angola	Luanda	1246700	30809762	AF	.ao	AOA	Kwanza	244			pt-AO	3351879	CD,NA,ZM,CG	
 AQ	ATA	010	AY	Antarctica		14000000	0	AN	.aq							6697173		
 AR	ARG	032	AR	Argentina	Buenos Aires	2766890	44494502	SA	.ar	ARS	Peso	54	@####@@@	^[A-Z]?\d{4}[A-Z]{0,3}$	es-AR,en,it,de,fr,gn	3865483	CL,BO,UY,PY,BR	
