@@ -2699,7 +2699,7 @@ PW.15	Peleliu	Peleliu	4038261
 PY.17	San Pedro Department	San Pedro Department	3437027
 PY.16	Presidente Hayes	Presidente Hayes	3437443
 PY.15	Paraguarí	Paraguari	3437599
-PY.13	Ñeembucú	Neembucu	3437677
+PY.13	Ñeembucú Department	Neembucu Department	3437677
 PY.12	Misiones Department	Misiones Department	3437727
 PY.11	Itapúa	Itapua	3437923
 PY.10	Guairá	Guaira	3438049
@@ -2708,12 +2708,12 @@ PY.07	Concepción	Concepcion	3438833
 PY.06	Central Department	Central Department	3439137
 PY.19	Canindeyú	Canindeyu	3439216
 PY.05	Caazapá	Caazapa	3439296
-PY.04	Caaguazú	Caaguazu	3439312
+PY.04	Caaguazú Department	Caaguazu Department	3439312
 PY.02	Amambay Department	Amambay Department	3439433
-PY.01	Alto Paraná	Alto Parana	3439440
+PY.01	Alto Paraná Department	Alto Parana Department	3439440
 PY.23	Alto Paraguay	Alto Paraguay	3439441
 PY.22	Asunción	Asuncion	3474570
-PY.24	Boquerón	Boqueron	3867442
+PY.24	Boquerón Department	Boqueron Department	3867442
 QA.08	Madīnat ash Shamāl	Madinat ash Shamal	389462
 QA.04	Al Khor	Al Khor	389465
 QA.09	Umm Salal	Umm Salal	389467

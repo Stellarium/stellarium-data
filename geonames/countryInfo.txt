@@ -252,7 +252,7 @@ SH	SHN	654	SH	Saint Helena	Jamestown	410	7460	AF	.sh	SHP	Pound	290	STHL 1ZZ	^(ST
 SI	SVN	705	SI	Slovenia	Ljubljana	20273	2067372	EU	.si	EUR	Euro	386	####	^(?:SI)*(\d{4})$	sl,sh	3190538	HU,IT,HR,AT	
 SJ	SJM	744	SV	Svalbard and Jan Mayen	Longyearbyen	62049	2550	EU	.sj	NOK	Krone	47	####	^(\d{4})$	no,ru	607072		
 SK	SVK	703	LO	Slovakia	Bratislava	48845	5447011	EU	.sk	EUR	Euro	421	### ##	^\d{3}\s?\d{2}$	sk,hu	3057568	PL,HU,CZ,UA,AT	
-SL	SLE	694	SL	Sierra Leone	Freetown	71740	7650154	AF	.sl	SLL	Leone	232			en-SL,men,tem	2403846	LR,GN	
+SL	SLE	694	SL	Sierra Leone	Freetown	71740	7650154	AF	.sl	SLE	Leone	232			en-SL,men,tem	2403846	LR,GN	
 SM	SMR	674	SM	San Marino	San Marino	61.2	33785	EU	.sm	EUR	Euro	378	4789#	^(4789\d)$	it-SM	3168068	IT	
 SN	SEN	686	SG	Senegal	Dakar	196190	15854360	AF	.sn	XOF	Franc	221	#####	^(\d{5})$	fr-SN,wo,fuc,mnk	2245662	GN,MR,GW,GM,ML	
 SO	SOM	706	SO	Somalia	Mogadishu	637657	15008154	AF	.so	SOS	Shilling	252	@@  #####	^([A-Z]{2}\d{5})$	so-SO,ar-SO,it,en-SO	51537	ET,KE,DJ	
@@ -297,6 +297,6 @@ YE	YEM	887	YM	Yemen	Sanaa	527970	28498687	AS	.ye	YER	Rial	967			ar-YE	69543	SA,O
 YT	MYT	175	MF	Mayotte	Mamoudzou	374	279471	AF	.yt	EUR	Euro	262	#####	^(\d{5})$	fr-YT	1024031		
 ZA	ZAF	710	SF	South Africa	Pretoria	1219912	57779622	AF	.za	ZAR	Rand	27	####	^(\d{4})$	zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr	953987	ZW,SZ,MZ,BW,NA,LS	
 ZM	ZMB	894	ZA	Zambia	Lusaka	752614	17351822	AF	.zm	ZMW	Kwacha	260	#####	^(\d{5})$	en-ZM,bem,loz,lun,lue,ny,toi	895949	ZW,TZ,MZ,CD,NA,MW,AO	
-ZW	ZWE	716	ZI	Zimbabwe	Harare	390580	14439018	AF	.zw	ZWL	Dollar	263			en-ZW,sn,nr,nd	878675	ZA,MZ,BW,ZM	
+ZW	ZWE	716	ZI	Zimbabwe	Harare	390580	14439018	AF	.zw	ZWG	Zimbabwe Gold	263			en-ZW,sn,nr,nd	878675	ZA,MZ,BW,ZM	
 CS	SCG	891	YI	Serbia and Montenegro	Belgrade	102350	10829175	EU	.cs	RSD	Dinar	381	#####	^(\d{5})$	cu,hu,sq,sr	8505033	AL,HU,MK,RO,HR,BA,BG	
 AN	ANT	530	NT	Netherlands Antilles	Willemstad	960	300000	NA	.an	ANG	Guilder	599			nl-AN,en,es	8505032	GP	
