@@ -752,9 +752,9 @@ DE.06	Lower Saxony	Lower Saxony	2862926
 DE.12	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	2872567
 DE.05	Hesse	Hesse	2905330
 DE.04	Hamburg	Hamburg	2911297
-DE.03	Bremen	Bremen	2944387
+DE.03	City state Bremen	City state Bremen	2944387
 DE.11	Brandenburg	Brandenburg	2945356
-DE.16	Berlin	Berlin	2950157
+DE.16	State of Berlin	State of Berlin	2950157
 DE.02	Bavaria	Bavaria	2951839
 DE.01	Baden-Wurttemberg	Baden-Wurttemberg	2953481
 DJ.05	Tadjourah	Tadjourah	220781
