@@ -90,6 +90,7 @@ US	America/Chicago	-6.0	-5.0	-6.0
 MX	America/Chihuahua	-6.0	-6.0	-6.0
 MX	America/Ciudad_Juarez	-7.0	-6.0	-7.0
 CR	America/Costa_Rica	-6.0	-6.0	-6.0
+CL	America/Coyhaique	-3.0	-3.0	-3.0
 CA	America/Creston	-7.0	-7.0	-7.0
 BR	America/Cuiaba	-4.0	-4.0	-4.0
 CW	America/Curacao	-4.0	-4.0	-4.0
@@ -194,7 +195,6 @@ CA	America/Vancouver	-8.0	-7.0	-8.0
 CA	America/Whitehorse	-7.0	-7.0	-7.0
 CA	America/Winnipeg	-6.0	-5.0	-6.0
 US	America/Yakutat	-9.0	-8.0	-9.0
-CA	America/Yellowknife	-7.0	-6.0	-7.0
 AQ	Antarctica/Casey	8.0	8.0	8.0
 AQ	Antarctica/Davis	7.0	7.0	7.0
 AQ	Antarctica/DumontDUrville	10.0	10.0	10.0
@@ -224,7 +224,6 @@ LB	Asia/Beirut	2.0	3.0	2.0
 KG	Asia/Bishkek	6.0	6.0	6.0
 BN	Asia/Brunei	8.0	8.0	8.0
 RU	Asia/Chita	9.0	9.0	9.0
-MN	Asia/Choibalsan	8.0	8.0	8.0
 LK	Asia/Colombo	5.5	5.5	5.5
 SY	Asia/Damascus	3.0	3.0	3.0
 BD	Asia/Dhaka	6.0	6.0	6.0
