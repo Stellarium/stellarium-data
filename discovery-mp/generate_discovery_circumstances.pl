@@ -44,9 +44,9 @@ for($i=0; $i<scalar(@original); $i++)
     $text       = $original[$i];
 
     if ($text =~ m/\((\d+)\)/gi) { $number = $1; }
-    $date       = substr($text, 44, 10);
+    $date       = substr($text, 41, 10);
     $date       =~ s/\s/-/gi;
-    $discoverer = substr($text, 81);
+    $discoverer = substr($text, 78);
     if ($discoverer =~ m/,/gi) 
     {
         @fio = split(", ", $discoverer);
