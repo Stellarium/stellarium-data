@@ -11,12 +11,12 @@ while URL= read -r url; do
     fi
 done < "$urllist"
 
-echo "[Step 2] Extract standard magnitudes...\n"
-for f in ./*.zip; do
-    echo "Processing $f"
-    rm qs.mag
-    unzip -o $f
-done
+#echo "[Step 2] Extract standard magnitudes...\n"
+#for f in ./*.zip; do
+#    echo "Processing $f"
+#    rm qs.mag
+#    unzip -o $f
+#done
 
 echo "\n[Step 3] Create satellites.fab file for Stellarium...\n"
 

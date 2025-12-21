@@ -6,7 +6,7 @@ AD.02	Canillo	Canillo	3041203
 AD.07	Andorra la Vella	Andorra la Vella	3041566
 AD.08	Escaldes-Engordany	Escaldes-Engordany	3338529
 AE.07	Umm al Qaywayn	UmmalQaywayn	290595
-AE.05	Raʼs al Khaymah	Ra's al Khaymah	291075
+AE.05	Ras Al Khaimah	Ras Al Khaimah	291075
 AE.03	Dubai	Dubai	292224
 AE.06	Sharjah	Sharjah	292673
 AE.04	Fujairah	Fujairah	292879
@@ -167,18 +167,18 @@ AZ.46	Sabirabad District	Sabirabad District	147284
 AZ.45	Saatlı	Saatli	147287
 AZ.13	Bilasuvar District	Bilasuvar District	147310
 AZ.36	Neftçala	Neftcala	147422
-AZ.35	Nakhichevan ASSR	Nakhichevan ASSR	147435
+AZ.35	Nakhchivan	Nakhchivan	147435
 AZ.32	Masally	Masally	147551
 AZ.31	Lerik District	Lerik District	147610
 AZ.29	Lənkəran	Lankaran	147613
-AZ.28	Laçın	Lacin	147626
+AZ.28	Lachin Rayon	Lachin Rayon	147626
 AZ.43	Qubadlı	Qubadli	147694
 AZ.24	İmişli	Imisli	147983
 AZ.18	Fuzuli District	Fuzuli District	148107
 AZ.14	Jabrayil	Jabrayil	148140
 AZ.15	Jalilabad	Jalilabad	148155
 AZ.08	Astara	Astara	148442
-AZ.64	Xocalı	Xocali	148449
+AZ.64	Khojaly	Khojaly	148449
 AZ.02	Ağcabǝdi	Aghjabadi Rayon	148615
 AZ.03	Ağdam	Agdam	148617
 AZ.07	Shirvan	Shirvan	409417
@@ -456,7 +456,7 @@ BY.06	Mogilev	Mogilev	625073
 BY.05	Minsk	Minsk	625142
 BY.04	Minsk City	Minsk City	625143
 BY.03	Grodnenskaya	Grodnenskaya	628035
-BY.02	Gomel Oblast	Gomel Oblast	628281
+BY.02	Homyel’ Voblasc’	Homyel' Voblasc'	628281
 BY.01	Brest	Brest	629631
 BZ.06	Toledo District	Toledo District	3580913
 BZ.05	Southern District	Southern District	3580975
@@ -1010,15 +1010,15 @@ FR.93	Provence-Alpes-Côte d'Azur	Provence-Alpes-Cote d'Azur	2985244
 FR.52	Pays de la Loire	Pays de la Loire	2988289
 FR.11	Île-de-France	Ile-de-France	3012874
 FR.94	Corsica	Corsica	3023519
-FR.24	Centre	Centre	3027939
+FR.24	Centre-Val de Loire	Centre-Val de Loire	3027939
 FR.53	Brittany	Brittany	3030293
-FR.27	Bourgogne-Franche-Comté	Bourgogne-Franche-Comte	11071619
+FR.27	Bourgogne	Bourgogne	11071619
 FR.75	Nouvelle-Aquitaine	Nouvelle-Aquitaine	11071620
 FR.28	Normandy	Normandy	11071621
 FR.44	Grand Est	Grand Est	11071622
 FR.76	Occitanie	Occitanie	11071623
 FR.32	Hauts-de-France	Hauts-de-France	11071624
-FR.84	Auvergne-Rhône-Alpes	Auvergne-Rhone-Alpes	11071625
+FR.84	Rhône-Alpes	Rhone-Alpes	11071625
 GA.09	Woleu-Ntem	Woleu-Ntem	2396076
 GA.08	Ogooué-Maritime	Ogooue-Maritime	2396924
 GA.07	Ogooué-Lolo	Ogooue-Lolo	2396925
@@ -1357,7 +1357,7 @@ IN.18	Meghalaya	Meghalaya	1263207
 IN.17	Manipur	Manipur	1263706
 IN.16	Maharashtra	Maharashtra	1264418
 IN.35	Madhya Pradesh	Madhya Pradesh	1264542
-IN.14	Laccadives	Laccadives	1265206
+IN.14	Lakshadweep	Lakshadweep	1265206
 IN.13	Kerala	Kerala	1267254
 IN.19	Karnataka	Karnataka	1267701
 IN.12	Jammu and Kashmir	Jammu and Kashmir	1269320
@@ -1393,7 +1393,7 @@ IQ.13	Kirkuk	Kirkuk	98410
 IQ.05	Sulaymaniyah	Sulaymaniyah	98465
 IQ.17	An Najaf	An Najaf	98862
 IQ.04	Al Qādisīyah	Al Qadisiyah	99022
-IQ.03	Al Muthanna Governorate	Al Muthanna Governorate	99032
+IQ.03	Muthanna	Muthanna	99032
 IQ.01	Al Anbar	Al Anbar	99592
 IQ.19	Halabja Governorate	Halabja Governorate	12218240
 IR.26	Tehran	Tehran	110791
@@ -1489,7 +1489,7 @@ JO.16	Amman	Amman	250439
 JO.15	Mafraq	Mafraq	250583
 JO.09	Karak	Karak	250625
 JO.02	Balqa	Balqa	250751
-JO.20	Ajlun	Ajlun	443120
+JO.20	Ajloun	Ajloun	443120
 JO.22	Jerash	Jerash	443121
 JO.21	Aqaba	Aqaba	443122
 JO.23	Madaba	Madaba	443123
@@ -1812,14 +1812,14 @@ LV.32	Ventspils	Ventspils	454311
 LV.31	Valmiera	Valmiera	454564
 LV.30	Valka	Valka	454571
 LV.29	Tukums Municipality	Tukums Municipality	454771
-LV.28	Talsi Municipality	Talsi Municipality	454968
+LV.28	Talsu novads	Talsu novads	454968
 LV.27	Saldus Rajons	Saldus Rajons	455888
 LV.25	Riga	Riga	456173
 LV.24	Rēzekne Municipality	Rezekne Municipality	456197
 LV.23	Rēzekne	Rezekne	456203
 LV.22	Preiļu novads	Preilu novads	456528
 LV.21	Ogre	Ogre	457061
-LV.20	Madona Municipality	Madona Municipality	457712
+LV.20	Madonas novads	Madonas novads	457712
 LV.19	Ludza Municipality	Ludza Municipality	457773
 LV.18	Limbaži Municipality	Limbazi Municipality	457889
 LV.16	Liepāja	Liepaja	457955
@@ -2425,7 +2425,7 @@ NO.46	Vestland	Vestland	12110600
 NP.1	Koshi	Koshi	12095447
 NP.2	Madhesh	Madhesh	12095448
 NP.3	Bagmati Province	Bagmati Province	12095449
-NP.4	Province 4	Province 4	12095450
+NP.4	Gandaki Pradesh	Gandaki Pradesh	12095450
 NP.5	Lumbini Province	Lumbini Province	12095451
 NP.6	Karnali Pradesh	Karnali Pradesh	12095452
 NP.7	Sudurpashchim Pradesh	Sudurpashchim Pradesh	12095453
@@ -2554,7 +2554,7 @@ PH.08	Eastern Visayas	Eastern Visayas	7521307
 PH.09	Zamboanga Peninsula	Zamboanga Peninsula	7521308
 PH.11	Davao Region	Davao Region	7521309
 PH.05	Bicol Region	Bicol Region	7521310
-PH.NCR	Metro Manila	Metro Manila	7521311
+PH.NCR	National Capital Region	National Capital Region	7521311
 PK.08	Islamabad	Islamabad	1162015
 PK.05	Sindh	Sindh	1164807
 PK.04	Punjab	Punjab	1167710
@@ -2909,19 +2909,19 @@ SC.12200080	Ile Perseverance II	Ile Perseverance II	12200080
 SD.43	Northern State	Northern State	378389
 SD.29	Khartoum	Khartoum	379253
 SD.36	Red Sea	Red Sea	408646
-SD.38	Al Jazīrah	Al Jazirah	408648
+SD.38	Al Jazirah	Al Jazirah	408648
 SD.39	Al Qaḑārif	Al Qadarif	408649
 SD.41	White Nile	White Nile	408653
 SD.42	Blue Nile	Blue Nile	408654
 SD.47	Western Darfur	Western Darfur	408658
-SD.62	West Kordofan State	West Kordofan State	408659
+SD.62	West Kordofan	West Kordofan	408659
 SD.49	Southern Darfur	Southern Darfur	408660
 SD.50	Southern Kordofan	Southern Kordofan	408661
 SD.52	Kassala	Kassala	408663
 SD.53	River Nile	River Nile	408664
 SD.55	Northern Darfur	Northern Darfur	408666
 SD.56	North Kordofan	North Kordofan	408667
-SD.58	Sinnār	Sinnar	408669
+SD.58	Sennar	Sennar	408669
 SD.60	Eastern Darfur	Eastern Darfur	8394435
 SD.61	Central Darfur	Central Darfur	8394436
 SE.14	Norrbotten	Norrbotten	604010
@@ -3253,7 +3253,7 @@ SV.03	Chalatenango Department	Chalatenango Department	3587090
 SV.02	Cabañas	Cabanas	3587217
 SV.01	Ahuachapán	Ahuachapan	3587425
 SY.14	Tartus	Tartus	163342
-SY.13	Dimashq	Dimashq	167541
+SY.13	Damascus Governorate	Damascus Governorate	167541
 SY.12	Idlib	Idlib	169387
 SY.11	Homs	Homs	169575
 SY.10	Hama	Hama	170015
@@ -3261,8 +3261,8 @@ SY.09	Aleppo	Aleppo	170062
 SY.08	Rif-dimashq	Rif-dimashq	170652
 SY.07	Deir ez-Zor	Deir ez-Zor	170792
 SY.06	Daraa	Daraa	170903
-SY.05	As-Suwayda	As-Suwayda	172410
-SY.04	Ar-Raqqah	Ar-Raqqah	172957
+SY.05	Suwayda	Suwayda	172410
+SY.04	Raqqa	Raqqa	172957
 SY.03	Quneitra	Quneitra	173336
 SY.02	Latakia	Latakia	173578
 SY.01	Al-Hasakah	Al-Hasakah	173813
@@ -3589,7 +3589,7 @@ UA.17	Odessa	Odessa	698738
 UA.16	Mykolaiv	Mykolaiv	700567
 UA.15	Lviv	Lviv	702549
 UA.14	Luhansk	Luhansk	702657
-UA.13	Kiev	Kiev	703446
+UA.13	Kyiv	Kyiv	703446
 UA.12	Kyiv City	Kyiv City	703447
 UA.11	Crimea	Crimea	703883
 UA.10	Kirovohrad	Kirovohrad	705811
