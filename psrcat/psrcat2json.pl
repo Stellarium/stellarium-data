@@ -94,6 +94,7 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	$s600 = 0;
 	$s1400 = 0;
 	$distance = 0;
+	$distance_a = 0;
 	$outRA = "";
 	$outDE = "";
 	$pmRA = "";
@@ -201,6 +202,11 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 			$distance =~ s/\+//gi;
 		}
 
+		if ($lines[$j] =~ /^DIST_A(\s+)([\d\.\+\-]+)/) {
+			$distance_a = $2;
+			$distance_a =~ s/\+//gi;
+		}
+
 		if ($lines[$j] =~ /^ECC(\s+)([\d\.\-E]+)/) {
 			$eccentricity = $2;
 		}
@@ -236,6 +242,9 @@ for ($i=0;$i<scalar(@cat)-1;$i++) {
 	}
 	if ($distance > 0) {
 		$out .= $tab3."\"distance\": ".$distance.",\n";
+	}
+	if ($distance_a > 0) {
+		$out .= $tab3."\"adistance\": ".$distance_a.",\n";
 	}
 	if ($period > 0) {
 		$out .= $tab3."\"period\": ".$period.",\n";
