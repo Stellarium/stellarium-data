@@ -5,7 +5,7 @@ AD.03	Encamp	Encamp	3040684
 AD.02	Canillo	Canillo	3041203
 AD.07	Andorra la Vella	Andorra la Vella	3041566
 AD.08	Escaldes-Engordany	Escaldes-Engordany	3338529
-AE.07	Umm al Qaywayn	UmmalQaywayn	290595
+AE.07	Umm Al Quwain	Umm Al Quwain	290595
 AE.05	Ras Al Khaimah	Ras Al Khaimah	291075
 AE.03	Dubai	Dubai	292224
 AE.06	Sharjah	Sharjah	292673
@@ -94,7 +94,6 @@ AM.09	Tavush	Tavush	828265
 AO.18	Lunda Sul	Lunda Sul	145701
 AO.17	Luanda Norte	Luanda Norte	145702
 AO.14	Moxico	Moxico	875996
-AO.04	Cuando Cobango	Cuando Cobango	876337
 AO.16	Zaire	Zaire	2236355
 AO.15	Uíge	Uige	2236566
 AO.12	Malanje	Malanje	2239858
@@ -138,11 +137,11 @@ AS.040	Swains Island	Swains Island	5881199
 AS.010	Eastern District	Eastern District	5881219
 AS.020	Manu'a	Manu'a	5881436
 AS.030	Rose Island	Rose Island	7309441
-AT.09	Vienna	Vienna	2761367
+AT.09	State of Vienna	State of Vienna	2761367
 AT.08	Vorarlberg	Vorarlberg	2762300
 AT.07	Tyrol	Tyrol	2763586
 AT.06	Styria	Styria	2764581
-AT.05	Salzburg	Salzburg	2766823
+AT.05	State of Salzburg	State of Salzburg	2766823
 AT.04	Upper Austria	Upper Austria	2769848
 AT.03	Lower Austria	Lower Austria	2770542
 AT.02	Carinthia	Carinthia	2774686
@@ -155,7 +154,7 @@ AU.06	Tasmania	Tasmania	2147291
 AU.04	Queensland	Queensland	2152274
 AU.02	New South Wales	New South Wales	2155400
 AU.01	Australian Capital Territory	Australian Capital Territory	2177478
-AX.211	Mariehamns stad	Mariehamns stad	9611689
+AX.211	Mariehamn	Mariehamn	9611689
 AX.212	Ålands landsbygd	Alands landsbygd	9611692
 AX.213	Ålands skärgård	Alands skaergard	9611694
 AZ.12	Beyləqan	Beylaqan	146879
@@ -187,7 +186,7 @@ AZ.56	Shusha City	Shusha City	409419
 AZ.57	Tartar District	Tartar District	409420
 AZ.61	Xankǝndi	Xankandi Sahari	409421
 AZ.65	Khojavend	Khojavend	409423
-AZ.71	Zərdab	Zardab	584583
+AZ.71	Zardab	Zardab	584583
 AZ.70	Zaqatala District	Zaqatala District	584604
 AZ.67	Yevlax	Yevlax	584650
 AZ.37	Oğuz	Oguz	584742
@@ -219,7 +218,7 @@ AZ.04	Ağdaş	Agdas	587376
 AZ.19	Gadabay District	Gadabay District	627535
 AZ.05	Ağstafa	Agstafa	828297
 AZ.20	Gǝncǝ	Ganja City	828298
-AZ.33	Mingǝcevir	Mingacevir City	828299
+AZ.33	Mingacevir City	Mingacevir City	828299
 AZ.34	Naftalan	Naftalan	828300
 AZ.41	Qobustan	Qobustan	828301
 AZ.52	Samux	Samux	828302
@@ -305,7 +304,6 @@ BI.22	Muramvya	Muramvya	425550
 BI.13	Gitega	Gitega	426271
 BI.21	Ruyigi	Ruyigi	426699
 BI.11	Cankuzo	Cankuzo	427700
-BI.14	Karuzi	Karuzi	428218
 BI.09	Bubanza	Bubanza	428514
 BI.12	Cibitoke	Cibitoke	430020
 BI.19	Ngozi	Ngozi	430567
@@ -313,7 +311,6 @@ BI.15	Kayanza	Kayanza	430951
 BI.18	Muyinga	Muyinga	431747
 BI.16	Kirundo	Kirundo	432455
 BI.20	Rutana	Rutana	434147
-BI.23	Mwaro	Mwaro	434386
 BI.24	Bujumbura Mairie	Bujumbura Mairie	7303939
 BI.25	Bujumbura Rural	Bujumbura Rural	7303940
 BI.26	Rumonge	Rumonge	11184798
@@ -565,11 +562,11 @@ CI.98	Yamoussoukro	Yamoussoukro	10629377
 CI.76	Bas-Sassandra District	Bas-Sassandra District	11153052
 CI.94	Comoé District	Comoe District	11153053
 CI.77	Denguélé District	Denguele District	11153054
-CI.95	Gôh-Djiboua	Goh-Djiboua	11153055
+CI.95	Goh-Djiboua	Goh-Djiboua	11153055
 CI.81	Lacs District	Lacs District	11153056
 CI.82	Lagunes District	Lagunes District	11153057
 CI.78	Montagnes	Montagnes	11153058
-CI.96	Sassandra-Marahoué	Sassandra-Marahoue	11153059
+CI.96	Sassandra-Marahoue	Sassandra-Marahoue	11153059
 CI.87	Savanes District	Savanes District	11153060
 CI.90	Vallée du Bandama District	Vallee du Bandama District	11153061
 CI.97	Woroba	Woroba	11153062
@@ -586,16 +583,16 @@ CK.11695388	Penrhyn	Penrhyn	11695388
 CK.11695389	Pukapuka	Pukapuka	11695389
 CK.11695390	Rakahanga	Rakahanga	11695390
 CK.11695425	Rarotonga	Rarotonga	11695425
-CL.01	Valparaíso	Valparaiso	3868621
+CL.01	Valparaiso	Valparaiso	3868621
 CL.15	Tarapacá	Tarapaca	3870116
 CL.12	Santiago Metropolitan	Santiago Metropolitan	3873544
 CL.11	Maule Region	Maule Region	3880306
 CL.14	Los Lagos Region	Los Lagos Region	3881974
 CL.08	O'Higgins Region	O'Higgins Region	3883281
 CL.07	Coquimbo Region	Coquimbo Region	3893623
-CL.06	Biobío	Biobio	3898380
+CL.06	Biobio	Biobio	3898380
 CL.05	Atacama	Atacama	3899191
-CL.04	Araucanía	Araucania	3899463
+CL.04	Araucania	Araucania	3899463
 CL.03	Antofagasta	Antofagasta	3899537
 CL.02	Aysén	Aysen	3900333
 CL.10	Region of Magallanes	Region of Magallanes	4036650
@@ -729,17 +726,17 @@ CY.02	Keryneia	Keryneia	146411
 CY.01	Ammochostos	Ammochostos	146615
 CZ.52	Prague	Prague	3067695
 CZ.78	South Moravian	South Moravian	3339536
-CZ.79	Jihočeský kraj	Jihocesky kraj	3339537
-CZ.80	Vysočina	Vysocina	3339538
-CZ.81	Karlovarský kraj	Karlovarsky kraj	3339539
-CZ.82	Královéhradecký kraj	Kralovehradecky kraj	3339540
-CZ.83	Liberecký kraj	Liberecky kraj	3339541
-CZ.84	Olomoucký	Olomoucky	3339542
-CZ.85	Moravskoslezský	Moravskoslezsky	3339573
-CZ.86	Pardubický	Pardubicky	3339574
+CZ.79	South Bohemian Region	South Bohemian Region	3339537
+CZ.80	Vysocina	Vysocina	3339538
+CZ.81	Carlsbad Region	Carlsbad Region	3339539
+CZ.82	Hradec Králové Region	Hradec Kralove Region	3339540
+CZ.83	Liberec Region	Liberec Region	3339541
+CZ.84	Olomouc Region	Olomouc Region	3339542
+CZ.85	Moravian-Silesian Region	Moravian-Silesian Region	3339573
+CZ.86	Pardubice Region	Pardubice Region	3339574
 CZ.87	Plzeň Region	Plzen Region	3339575
 CZ.88	Central Bohemia	Central Bohemia	3339576
-CZ.89	Ústecký kraj	Ustecky kraj	3339577
+CZ.89	Ústí nad Labem Region	Usti nad Labem Region	3339577
 CZ.90	Zlín	Zlin	3339578
 DE.15	Thuringia	Thuringia	2822542
 DE.10	Schleswig-Holstein	Schleswig-Holstein	2838632
@@ -752,7 +749,7 @@ DE.06	Lower Saxony	Lower Saxony	2862926
 DE.12	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	2872567
 DE.05	Hesse	Hesse	2905330
 DE.04	Hamburg	Hamburg	2911297
-DE.03	City state Bremen	City state Bremen	2944387
+DE.03	Bremen	Bremen	2944387
 DE.11	Brandenburg	Brandenburg	2945356
 DE.16	State of Berlin	State of Berlin	2950157
 DE.02	Bavaria	Bavaria	2951839
@@ -885,7 +882,7 @@ EC.08	El Oro	El Oro	3658195
 EC.07	Cotopaxi	Cotopaxi	3658766
 EC.06	Chimborazo Province	Chimborazo Province	3659237
 EC.05	Carchi	Carchi	3659718
-EC.04	Cañar	Canar	3659849
+EC.04	Canar	Canar	3659849
 EC.03	Bolívar	Bolivar	3660130
 EC.02	Azuay	Azuay	3660431
 EC.22	Sucumbíos	Sucumbios	3830305
@@ -1013,7 +1010,7 @@ FR.94	Corsica	Corsica	3023519
 FR.24	Centre-Val de Loire	Centre-Val de Loire	3027939
 FR.53	Brittany	Brittany	3030293
 FR.27	Bourgogne	Bourgogne	11071619
-FR.75	Nouvelle-Aquitaine	Nouvelle-Aquitaine	11071620
+FR.75	New Aquitaine	New Aquitaine	11071620
 FR.28	Normandy	Normandy	11071621
 FR.44	Grand Est	Grand Est	11071622
 FR.76	Occitanie	Occitanie	11071623
@@ -1378,24 +1375,24 @@ IN.39	Uttarakhand	Uttarakhand	1444366
 IN.41	Ladakh	Ladakh	12096464
 IN.52	Dadra and Nagar Haveli and Daman and Diu	Dadra and Nagar Haveli and Daman and Diu	12165662
 IQ.02	Basra	Basra	89341
-IQ.16	Wāsiţ	Wasit	89693
+IQ.16	Wasit	Wasit	89693
 IQ.18	Salah ad Din	Salah ad Din	91695
 IQ.15	Nineveh	Nineveh	92877
 IQ.14	Maysan	Maysan	93540
-IQ.12	Karbalāʼ	Muhafazat Karbala'	94823
+IQ.12	Karbala	Karbala	94823
 IQ.11	Erbil	Erbil	95445
-IQ.10	Diyālá	Diyala	96965
+IQ.10	Diyala	Diyala	96965
 IQ.09	Dhi Qar	Dhi Qar	97019
 IQ.08	Duhok	Duhok	97270
 IQ.07	Baghdad	Baghdad	98180
-IQ.06	Bābil	Babil	98227
+IQ.06	Babil	Babil	98227
 IQ.13	Kirkuk	Kirkuk	98410
 IQ.05	Sulaymaniyah	Sulaymaniyah	98465
-IQ.17	An Najaf	An Najaf	98862
-IQ.04	Al Qādisīyah	Al Qadisiyah	99022
+IQ.17	Najaf	Najaf	98862
+IQ.04	Al-Qadisiyah	Al-Qadisiyah	99022
 IQ.03	Muthanna	Muthanna	99032
-IQ.01	Al Anbar	Al Anbar	99592
-IQ.19	Halabja Governorate	Halabja Governorate	12218240
+IQ.01	Anbar	Anbar	99592
+IQ.19	Halabja	Halabja	12218240
 IR.26	Tehran	Tehran	110791
 IR.36	Zanjan	Zanjan	111452
 IR.40	Yazd Province	Yazd Province	111821
@@ -1683,16 +1680,16 @@ KY.10375969	Bodden Town	Bodden Town	10375969
 KY.10375970	North Side	North Side	10375970
 KY.10375971	East End	East End	10375971
 KY.10375972	Sister Island	Sister Island	10375972
-KZ.07	Batys Qazaqstan	Batys Qazaqstan	607847
-KZ.09	Mangghystaū	Mangghystau	608879
+KZ.07	West Kazakhstan	West Kazakhstan	607847
+KZ.09	Mangystau	Mangystau	608879
 KZ.06	Atyrau Oblisi	Atyrau Oblisi	609862
-KZ.04	Aktyubinskaya Oblast’	Aktyubinskaya Oblast'	610688
+KZ.04	Aktobe	Aktobe	610688
 KZ.15	East Kazakhstan	East Kazakhstan	1517381
 KZ.03	Aqmola	Aqmola	1518003
 KZ.16	North Kazakhstan	North Kazakhstan	1519367
 KZ.11	Pavlodar Region	Pavlodar Region	1520239
-KZ.14	Qyzylorda	Qyzylorda	1521406
-KZ.13	Qostanay	Qostanay	1521671
+KZ.14	Kyzylorda	Kyzylorda	1521406
+KZ.13	Kostanay	Kostanay	1521671
 KZ.12	Karaganda	Karaganda	1523401
 KZ.17	Zhambyl	Zhambyl	1524444
 KZ.10	Turkistan	Turkistan	1524787
@@ -1702,7 +1699,7 @@ KZ.1537272	Shymkent	Shymkent	1537272
 KZ.08	Baikonur	Baikonur	1538316
 KZ.05	Astana	Astana	1538317
 KZ.12510143	Abai Region	Abai Region	12510143
-KZ.12510144	Jetisu Region	Jetisu Region	12510144
+KZ.12510144	Zhetysu Region	Zhetysu Region	12510144
 KZ.12510145	Ulytau Region	Ulytau Region	12510145
 LA.14	Xiangkhoang	Xiangkhoang	1652077
 LA.13	Xiagnabouli	Xiagnabouli	1652210
@@ -1722,13 +1719,13 @@ LA.22	Bokeo	Bokeo	1904616
 LA.23	Bolikhamsai	Bolikhamsai	1904617
 LA.24	Vientiane Prefecture	Vientiane Prefecture	1904618
 LA.28	Xaisomboun	Xaisomboun	11395958
-LB.05	Mont-Liban	Mont-Liban	273607
-LB.04	Beyrouth	Beyrouth	276780
-LB.09	Liban-Nord	Liban-Nord	278297
+LB.05	Mount Lebanon	Mount Lebanon	273607
+LB.04	Beirut	Beirut	276780
+LB.09	North Lebanon	North Lebanon	278297
 LB.06	South Governorate	South Governorate	279894
-LB.08	Béqaa	Beqaa	280282
-LB.07	Nabatîyé	Nabatiye	444191
-LB.10	Aakkâr	Aakkar	6201370
+LB.08	Bekaa	Bekaa	280282
+LB.07	Nabatieh	Nabatieh	444191
+LB.10	Akkar	Akkar	6201370
 LB.11	Baalbek-Hermel Governorate	Baalbek-Hermel Governorate	6201371
 LC.10	Vieux-Fort	Vieux-Fort	3576413
 LC.09	Soufrière	Soufriere	3576441
@@ -1822,7 +1819,7 @@ LV.21	Ogre	Ogre	457061
 LV.20	Madonas novads	Madonas novads	457712
 LV.19	Ludza Municipality	Ludza Municipality	457773
 LV.18	Limbaži Municipality	Limbazi Municipality	457889
-LV.16	Liepāja	Liepaja	457955
+LV.16	Liepaja	Liepaja	457955
 LV.15	Kuldīga Municipality	Kuldiga Municipality	458459
 LV.14	Krāslava Municipality	Kraslava Municipality	458621
 LV.13	Jūrmala	Jurmala	459202
@@ -1851,45 +1848,45 @@ LV.D1	Smiltene Municipality	Smiltene Municipality	7628380
 LV.DN	South Kurzeme Municipality	South Kurzeme Municipality	12276857
 LV.AN	Augšdaugava Municipality	Augsdaugava Municipality	12276858
 LY.70	Darnah	Darnah	87204
-LY.69	Banghāzī	Banghazi	88318
+LY.69	Banghazi	Banghazi	88318
 LY.66	Al Marj	Al Marj	88904
 LY.65	Al Kufrah	Al Kufrah	88932
-LY.63	Al Jabal al Akhḑar	Al Jabal al Akhdar	443289
+LY.63	Al Jabal al Akhdar	Al Jabal al Akhdar	443289
 LY.77	Tripoli	Tripoli	2210245
 LY.76	Surt	Surt	2210553
 LY.75	Sabha District	Sabha District	2212774
-LY.74	Nālūt	Nalut	2214432
+LY.74	Nalut	Nalut	2214432
 LY.73	Murzuq District	Murzuq District	2214602
-LY.72	Mişrātah	Misratah	2214845
-LY.71	Ghāt	Ghat	2217350
-LY.68	Az Zāwiyah	Az Zawiyah	2218972
-LY.78	Ash Shāţiʼ	Wadi ash Shati'	2219413
+LY.72	Misratah	Misratah	2214845
+LY.71	Ghat	Ghat	2217350
+LY.68	Az Zawiyah	Az Zawiyah	2218972
+LY.78	Wadi ash Shati'	Wadi ash Shati'	2219413
 LY.64	Al Jufrah	Al Jufrah	2219944
-LY.67	An Nuqāţ al Khams	An Nuqat al Khams	2593778
-LY.79	Al Buţnān	Al Butnan	7602688
+LY.67	An Nuqat al Khams	An Nuqat al Khams	2593778
+LY.79	Al Butnan	Al Butnan	7602688
 LY.80	Jabal al Gharbi	Jabal al Gharbi	7602689
-LY.81	Al Jafārah	Al Jafarah	7602690
+LY.81	Al Jafarah	Al Jafarah	7602690
 LY.82	Al Marqab	Al Marqab	7602691
-LY.83	Al Wāḩāt	Al Wahat	7602692
-LY.84	Wādī al Ḩayāt	Wadi al Hayat	7602693
+LY.83	Al Wahat	Al Wahat	7602692
+LY.84	Wadi al Hayat	Wadi al Hayat	7602693
 MA.01	Tanger-Tetouan-Al Hoceima	Tanger-Tetouan-Al Hoceima	11281874
 MA.02	Oriental	Oriental	11281875
-MA.03	Fès-Meknès	Fes-Meknes	11281876
+MA.03	Fes-Meknes	Fes-Meknes	11281876
 MA.04	Rabat-Salé-Kénitra	Rabat-Sale-Kenitra	11281877
-MA.05	Béni Mellal-Khénifra	Beni Mellal-Khenifra	11281878
+MA.05	Beni Mellal-Khenifra	Beni Mellal-Khenifra	11281878
 MA.06	Casablanca-Settat	Casablanca-Settat	11281879
 MA.07	Marrakesh-Safi	Marrakesh-Safi	11281880
 MA.08	Drâa-Tafilalet	Draa-Tafilalet	11281881
 MA.09	Souss-Massa	Souss-Massa	11281882
 MA.10	Guelmim-Oued Noun	Guelmim-Oued Noun	11281884
-MA.11	Laâyoune-Sakia El Hamra	Laayoune-Sakia El Hamra	11281885
+MA.11	Laayoune-Sakia El Hamra	Laayoune-Sakia El Hamra	11281885
 MA.12	Dakhla-Oued Ed-Dahab	Dakhla-Oued Ed-Dahab	11281886
 MC.00	Municipality of Monaco	Municipality of Monaco	3319178
 MD.73	Raionul Edineţ	Raionul Edinet	617077
 MD.92	Ungheni	Ungheni	617181
 MD.91	Teleneşti	Telenesti	617255
 MD.90	Taraclia	Taraclia	617264
-MD.88	Ştefan-Vodă	Stefan-Voda	617283
+MD.88	Stefan-Voda	Stefan-Voda	617283
 MD.89	Strășeni	Straseni	617301
 MD.87	Soroca District	Soroca District	617366
 MD.84	Rîşcani	Riscani	617483
@@ -2105,7 +2102,7 @@ MN.12	Hovd	Hovd	1515696
 MN.10	Govi-Altai Province	Govi-Altai Province	1515917
 MN.09	Dzabkhan	Dzabkhan	1516012
 MN.03	Bayan-Ölgii Province	Bayan-OElgii Province	1516278
-MN.02	Bayanhongor	Bayanhongor	1516290
+MN.02	Bayankhongor	Bayankhongor	1516290
 MN.20	Ulaanbaatar	Ulaanbaatar	2028461
 MN.18	Central Aimak	Central Aimak	2028849
 MN.17	Sühbaatar	Suhbaatar	2029155
@@ -2127,9 +2124,9 @@ MO.11875155	Santo António	Santo Antonio	11875155
 MO.11875156	São Lázaro	Sao Lazaro	11875156
 MO.11875157	Sé	Se	11875157
 MO.11875158	São Lourenço	Sao Lourenco	11875158
-MO.11875159	Nossa Senhora do Carmo	Nossa Senhora do Carmo	11875159
+MO.11875159	Our Lady of Carmo	Our Lady of Carmo	11875159
 MO.11875160	Cotai	Cotai	11875160
-MO.11875161	São Francisco Xavier	Sao Francisco Xavier	11875161
+MO.11875161	Saint Francis Xavier	Saint Francis Xavier	11875161
 MP.100	Rota	Rota	4041530
 MP.110	Saipan	Saipan	4041552
 MP.120	Tinian	Tinian	4041650
@@ -2147,9 +2144,9 @@ MR.08	Dakhlet Nouadhibou	Dakhlet Nouadhibou	2380426
 MR.05	Brakna	Brakna	2380635
 MR.03	Assaba	Assaba	2381344
 MR.07	Adrar	Adrar	2381972
-MR.13	Nouakchott Ouest	Nouakchott Ouest	11496391
-MR.14	Nouakchott Nord	Nouakchott Nord	11496392
-MR.15	Nouakchott Sud	Nouakchott Sud	11496393
+MR.13	Nouakchott West	Nouakchott West	11496391
+MR.14	Nouakchott North	Nouakchott North	11496392
+MR.15	Nouakchott South	Nouakchott South	11496393
 MS.03	Saint Peter	Saint Peter	3578039
 MS.02	Saint Georges	Saint Georges	3578044
 MS.01	Saint Anthony	Saint Anthony	3578045
@@ -2163,7 +2160,7 @@ MT.07	Dingli	Dingli	8299706
 MT.08	Il-Fgura	Il-Fgura	8299707
 MT.09	Floriana	Floriana	8299708
 MT.10	Il-Fontana	Il-Fontana	8299709
-MT.11	Għajnsielem	Ghajnsielem	8299710
+MT.11	Ghajnsielem	Ghajnsielem	8299710
 MT.12	L-Għarb	L-Gharb	8299711
 MT.13	Ħal Għargħur	Hal Gharghur	8299712
 MT.14	L-Għasri	L-Ghasri	8299713
@@ -2481,7 +2478,7 @@ PA.04	Colón	Colon	3712073
 PA.03	Coclé	Cocle	3712162
 PA.02	Chiriquí Province	Chiriqui Province	3712410
 PA.01	Bocas del Toro Province	Bocas del Toro Province	3713954
-PA.11	Emberá	Embera	7303686
+PA.11	Embera	Embera	7303686
 PA.12	Ngöbe-Buglé Comarca	Ngoebe-Bugle Comarca	7303688
 PA.13	Panamá Oeste Province	Panama Oeste Province	11353126
 PA.NT	Naso Tjër Di	Naso Tjer Di	12508964
@@ -2511,11 +2508,11 @@ PE.07	Callao	Callao	3946080
 PE.05	Ayacucho	Ayacucho	3947018
 PE.04	Arequipa	Arequipa	3947319
 PE.03	Apurímac Department	Apurimac Department	3947421
-PF.04	Îles Marquises	Iles Marquises	4019991
-PF.03	Îles Tuamotu-Gambier	Iles Tuamotu-Gambier	4030621
+PF.04	Marquesas Islands	Marquesas Islands	4019991
+PF.03	Tuamotu-Gambier Islands	Tuamotu-Gambier Islands	4030621
 PF.02	Leeward Islands	Leeward Islands	4034364
 PF.01	Îles du Vent	Iles du Vent	4034365
-PF.05	Îles Australes	Iles Australes	4034366
+PF.05	Austral Islands	Austral Islands	4034366
 PG.17	West New Britain Province	West New Britain Province	2083546
 PG.06	Western Province	Western Province	2083549
 PG.16	Western Highlands Province	Western Highlands Province	2083551
@@ -2712,17 +2709,17 @@ PY.04	Caaguazú Department	Caaguazu Department	3439312
 PY.02	Amambay Department	Amambay Department	3439433
 PY.01	Alto Paraná Department	Alto Parana Department	3439440
 PY.23	Alto Paraguay	Alto Paraguay	3439441
-PY.22	Asunción	Asuncion	3474570
+PY.22	Asuncion	Asuncion	3474570
 PY.24	Boquerón Department	Boqueron Department	3867442
-QA.08	Madīnat ash Shamāl	Madinat ash Shamal	389462
+QA.08	Madinat ash Shamal	Madinat ash Shamal	389462
 QA.04	Al Khor	Al Khor	389465
 QA.09	Umm Salal	Umm Salal	389467
-QA.06	Baladīyat ar Rayyān	Baladiyat ar Rayyan	389469
-QA.01	Baladīyat ad Dawḩah	Baladiyat ad Dawhah	389470
+QA.06	Baladiyat ar Rayyan	Baladiyat ar Rayyan	389469
+QA.01	Baladiyat ad Dawhah	Baladiyat ad Dawhah	389470
 QA.10	Al Wakrah	Al Wakrah	389472
 QA.13	Al Daayen	Al Daayen	8030540
 QA.14	Al-Shahaniya	Al-Shahaniya	11777514
-RE.RE	Réunion	Reunion	6690283
+RE.RE	Reunion	Reunion	6690283
 RO.40	Vrancea	Vrancea	662447
 RO.39	Vâlcea County	Valcea County	662892
 RO.38	Vaslui County	Vaslui County	663116
@@ -2754,7 +2751,7 @@ RO.13	Cluj County	Cluj County	681291
 RO.12	Caraș-Severin County	Caras-Severin County	682714
 RO.41	Călărași County	Calarasi County	683016
 RO.11	Buzău County	Buzau County	683121
-RO.10	București	Bucuresti	683504
+RO.10	Bucharest	Bucharest	683504
 RO.09	Brașov County	Brasov County	683843
 RO.08	Brăila County	Braila County	683901
 RO.07	Botoșani County	Botosani County	684038
@@ -2948,218 +2945,218 @@ SE.28	Västra Götaland	Vaestra Goetaland	3337386
 SH.01	Ascension	Ascension	2411430
 SH.03	Tristan da Cunha	Tristan da Cunha	3370684
 SH.02	Saint Helena	Saint Helena	6930057
-SI.N5	Žalec	Zalec	3186843
-SI.E7	Zagorje ob Savi Municipality	Zagorje ob Savi Municipality	3186905
-SI.E5	Vrhnika	Vrhnika	3187213
-SI.D5	Tržič	Trzic	3188687
+SI.N5	Municipality of Žalec	Municipality of Zalec	3186843
+SI.E7	Municipality of Zagorje ob Savi	Municipality of Zagorje ob Savi	3186905
+SI.E5	Municipality of Vrhnika	Municipality of Vrhnika	3187213
+SI.D5	Municipality of Tržič	Municipality of Trzic	3188687
 SI.D4	Trebnje	Trebnje	3188885
-SI.D3	Trbovlje	Trbovlje	3188914
-SI.D2	Tolmin	Tolmin	3189037
-SI.D7	Velenje	Velenje	3189074
-SI.C5	Šmarje pri Jelšah	Smarje pri Jelsah	3190509
-SI.C4	Slovenska Konjice	Slovenska Konjice	3190529
-SI.L8	Slovenska Bistrica	Slovenska Bistrica	3190533
-SI.C2	Slovenj Gradec	Slovenj Gradec	3190535
+SI.D3	Municipality of Trbovlje	Municipality of Trbovlje	3188914
+SI.D2	Municipality of Tolmin	Municipality of Tolmin	3189037
+SI.D7	Urban Municipality of Velenje	Urban Municipality of Velenje	3189074
+SI.C5	Municipality of Šmarje pri Jelšah	Municipality of Smarje pri Jelsah	3190509
+SI.C4	Municipality of Slovenske Konjice	Municipality of Slovenske Konjice	3190529
+SI.L8	Municipality of Slovenska Bistrica	Municipality of Slovenska Bistrica	3190533
+SI.C2	Urban Municipality of Slovenj Gradec	Urban Municipality of Slovenj Gradec	3190535
 SI.B9	Škofja Loka	Skofja Loka	3190716
-SI.B7	Sežana	Sezana	3190944
-SI.B6	Sevnica Municipality	Sevnica Municipality	3190949
+SI.B7	Municipality of Sežana	Municipality of Sezana	3190944
+SI.B6	Municipality of Sevnica	Municipality of Sevnica	3190949
 SI.L7	Sentjur	Sentjur	3191028
-SI.L1	Ribnica	Ribnica	3191679
+SI.L1	Municipality of Ribnica	Municipality of Ribnica	3191679
 SI.A3	Radovljica	Radovljica	3192062
-SI.A2	Radlje ob Dravi	Radlje ob Dravi	3192120
-SI.K7	Ptuj	Ptuj	3192240
-SI.94	Postojna	Postojna	3192672
-SI.J9	Piran-Pirano	Piran-Pirano	3193340
-SI.87	Ormož	Ormoz	3193964
-SI.J7	Novo Mesto	Novo Mesto	3194350
-SI.84	Nova Gorica	Nova Gorica	3194451
-SI.80	Murska Sobota	Murska Sobota	3194647
-SI.79	Mozirje	Mozirje	3194791
-SI.73	Metlika	Metlika	3195213
-SI.J2	Maribor City Municipality	Maribor City Municipality	3195505
+SI.A2	Municipality of Radlje ob Dravi	Municipality of Radlje ob Dravi	3192120
+SI.K7	Urban Municipality of Ptuj	Urban Municipality of Ptuj	3192240
+SI.94	Municipality of Postojna	Municipality of Postojna	3192672
+SI.J9	Municipality of Piran	Municipality of Piran	3193340
+SI.87	Municipality of Ormož	Municipality of Ormoz	3193964
+SI.J7	Urban Municipality of Novo Mesto	Urban Municipality of Novo Mesto	3194350
+SI.84	Urban Municipality of Nova Gorica	Urban Municipality of Nova Gorica	3194451
+SI.80	Urban Municipality of Murska Sobota	Urban Municipality of Murska Sobota	3194647
+SI.79	Municipality of Mozirje	Municipality of Mozirje	3194791
+SI.73	Municipality of Metlika	Municipality of Metlika	3195213
+SI.J2	Urban Municipality of Maribor	Urban Municipality of Maribor	3195505
 SI.64	Logatec	Logatec	3196288
 SI.I6	Ljutomer	Ljutomer	3196306
-SI.I5	Litija	Litija	3196424
-SI.I3	Lenart	Lenart	3196684
-SI.57	Laško Municipality	Lasko Municipality	3196759
-SI.54	Krško	Krsko	3197146
-SI.52	Kranj	Kranj	3197377
-SI.50	Koper-Capodistria	Koper-Capodistria	3197752
-SI.H7	Kočevje	Kocevje	3197942
-SI.H6	Kamnik	Kamnik	3198364
-SI.H4	Jesenice	Jesenice	3198646
-SI.40	Izola-Isola	Izola-Isola	3199016
-SI.38	Ilirska Bistrica	Ilirska Bistrica	3199130
-SI.36	Idrija	Idrija	3199169
-SI.34	Hrastnik Municipality	Hrastnik Municipality	3199296
-SI.32	Grosuplje	Grosuplje	3199522
-SI.29	Gornja Radgona	Gornja Radgona	3200196
-SI.25	Dravograd	Dravograd	3201252
-SI.G7	Domžale	Domzale	3201729
-SI.17	Črnomelj Municipality	Crnomelj Municipality	3202332
-SI.13	Cerknica	Cerknica	3202707
-SI.11	Celje	Celje	3202780
-SI.08	Brežice	Brezice	3203411
-SI.01	Ajdovščina Municipality	Ajdovscina Municipality	3204853
-SI.35	Hrpelje-Kozina	Hrpelje-Kozina	3239050
-SI.19	Divača	Divaca	3239051
+SI.I5	Municipality of Litija	Municipality of Litija	3196424
+SI.I3	Municipality of Lenart	Municipality of Lenart	3196684
+SI.57	Municipality of Laško	Municipality of Lasko	3196759
+SI.54	Urban Municipality of Krško	Urban Municipality of Krsko	3197146
+SI.52	Urban Municipality of Kranj	Urban Municipality of Kranj	3197377
+SI.50	Urban Municipality of Koper	Urban Municipality of Koper	3197752
+SI.H7	Municipality of Kočevje	Municipality of Kocevje	3197942
+SI.H6	Municipality of Kamnik	Municipality of Kamnik	3198364
+SI.H4	Municipality of Jesenice	Municipality of Jesenice	3198646
+SI.40	Municipality of Izola	Municipality of Izola	3199016
+SI.38	Municipality of Ilirska Bistrica	Municipality of Ilirska Bistrica	3199130
+SI.36	Municipality of Idrija	Municipality of Idrija	3199169
+SI.34	Municipality of Hrastnik	Municipality of Hrastnik	3199296
+SI.32	Municipality of Grosuplje	Municipality of Grosuplje	3199522
+SI.29	Municipality of Gornja Radgona	Municipality of Gornja Radgona	3200196
+SI.25	Municipality of Dravograd	Municipality of Dravograd	3201252
+SI.G7	Municipality of Domžale	Municipality of Domzale	3201729
+SI.17	Municipality of Črnomelj	Municipality of Crnomelj	3202332
+SI.13	Municipality of Cerknica	Municipality of Cerknica	3202707
+SI.11	Urban Municipality of Celje	Urban Municipality of Celje	3202780
+SI.08	Municipality of Brežice	Municipality of Brezice	3203411
+SI.01	Municipality of Ajdovščina	Municipality of Ajdovscina	3204853
+SI.35	Municipality of Hrpelje–Kozina	Municipality of Hrpelje-Kozina	3239050
+SI.19	Municipality of Divača	Municipality of Divaca	3239051
 SI.91	Pivka	Pivka	3239054
-SI.I7	Loška Dolina Municipality	Loska Dolina Municipality	3239056
-SI.66	Loški Potok	Loski Potok	3239059
-SI.88	Osilnica	Osilnica	3239061
-SI.D8	Velike Lašče	Velike Lasce	3239062
-SI.C1	Škofljica	Skofljica	3239066
-SI.37	Ig Municipality	Ig Municipality	3239069
-SI.09	Brezovica	Brezovica	3239071
-SI.05	Borovnica	Borovnica	3239073
-SI.E1	Vipava	Vipava	3239075
-SI.49	Komen	Komen	3239078
-SI.J5	Miren-Kostanjevica	Miren-Kostanjevica	3239080
-SI.07	Brda	Brda	3239083
-SI.44	Kanal ob Soči Municipality	Kanal ob Soci Municipality	3239086
-SI.F2	Žiri	Ziri	3239087
-SI.14	Cerkno	Cerkno	3239091
-SI.F1	Železniki Municipality	Zelezniki Municipality	3239093
-SI.27	Občina Gorenja vas-Poljane	Obcina Gorenja vas-Poljane	3239095
-SI.G4	Dobrova-Horjul-Polhov Gradec	Dobrova-Horjul-Polhov Gradec	3239096
-SI.46	Kobarid Municipality	Kobarid Municipality	3239098
-SI.06	Bovec	Bovec	3239100
-SI.04	Bohinj Municipality	Bohinj Municipality	3239101
-SI.03	Bled	Bled	3239103
-SI.82	Naklo	Naklo	3239104
-SI.53	Kranjska Gora	Kranjska Gora	3239105
-SI.K5	Preddvor	Preddvor	3239107
-SI.12	Cerklje na Gorenjskem	Cerklje na Gorenjskem	3239110
-SI.B2	Šenčur	Sencur	3239111
-SI.E3	Vodice	Vodice	3239112
-SI.71	Medvode	Medvode	3239113
-SI.72	Mengeš	Menges	3239114
+SI.I7	Municipality of Loška Dolina	Municipality of Loska Dolina	3239056
+SI.66	Municipality of Loški Potok	Municipality of Loski Potok	3239059
+SI.88	Municipality of Osilnica	Municipality of Osilnica	3239061
+SI.D8	Municipality of Velike Lašče	Municipality of Velike Lasce	3239062
+SI.C1	Municipality of Škofljica	Municipality of Skofljica	3239066
+SI.37	Municipality of Ig	Municipality of Ig	3239069
+SI.09	Municipality of Brezovica	Municipality of Brezovica	3239071
+SI.05	Municipality of Borovnica	Municipality of Borovnica	3239073
+SI.E1	Municipality of Vipava	Municipality of Vipava	3239075
+SI.49	Municipality of Komen	Municipality of Komen	3239078
+SI.J5	Municipality of Miren–Kostanjevica	Municipality of Miren-Kostanjevica	3239080
+SI.07	Municipality of Brda	Municipality of Brda	3239083
+SI.44	Municipality of Kanal ob Soči	Municipality of Kanal ob Soci	3239086
+SI.F2	Municipality of Žiri	Municipality of Ziri	3239087
+SI.14	Municipality of Cerkno	Municipality of Cerkno	3239091
+SI.F1	Municipality of Železniki	Municipality of Zelezniki	3239093
+SI.27	Municipality of Gorenja Vas–Poljane	Municipality of Gorenja Vas-Poljane	3239095
+SI.G4	Municipality of Dobrova–Polhov Gradec	Municipality of Dobrova-Polhov Gradec	3239096
+SI.46	Municipality of Kobarid	Municipality of Kobarid	3239098
+SI.06	Municipality of Bovec	Municipality of Bovec	3239100
+SI.04	Municipality of Bohinj	Municipality of Bohinj	3239101
+SI.03	Municipality of Bled	Municipality of Bled	3239103
+SI.82	Municipality of Naklo	Municipality of Naklo	3239104
+SI.53	Municipality of Kranjska Gora	Municipality of Kranjska Gora	3239105
+SI.K5	Municipality of Preddvor	Municipality of Preddvor	3239107
+SI.12	Municipality of Cerklje na Gorenjskem	Municipality of Cerklje na Gorenjskem	3239110
+SI.B2	Municipality of Šenčur	Municipality of Sencur	3239111
+SI.E3	Municipality of Vodice	Municipality of Vodice	3239112
+SI.71	Municipality of Medvode	Municipality of Medvode	3239113
+SI.72	Municipality of Mengeš	Municipality of Menges	3239114
 SI.22	Dol pri Ljubljani	Dol pri Ljubljani	3239115
-SI.77	Moravče	Moravce	3239132
-SI.30	Gornji Grad	Gornji Grad	3239133
-SI.I9	Luče	Luce	3239134
-SI.K8	Ravne na Koroškem	Ravne na Koroskem	3239175
-SI.74	Mežica	Mezica	3239177
-SI.81	Muta	Muta	3239179
-SI.E6	Vuzenica	Vuzenica	3239180
-SI.16	Črna na Koroškem Municipality	Crna na Koroskem Municipality	3239181
-SI.62	Ljubno	Ljubno	3239184
-SI.C7	Šoštanj	Sostanj	3239185
-SI.C6	Šmartno ob Paki	Smartno ob Paki	3239187
+SI.77	Municipality of Moravče	Municipality of Moravce	3239132
+SI.30	Municipality of Gornji Grad	Municipality of Gornji Grad	3239133
+SI.I9	Municipality of Luče	Municipality of Luce	3239134
+SI.K8	Municipality of Ravne na Koroškem	Municipality of Ravne na Koroskem	3239175
+SI.74	Municipality of Mežica	Municipality of Mezica	3239177
+SI.81	Municipality of Muta	Municipality of Muta	3239179
+SI.E6	Municipality of Vuzenica	Municipality of Vuzenica	3239180
+SI.16	Municipality of Črna na Koroškem	Municipality of Crna na Koroskem	3239181
+SI.62	Municipality of Ljubno	Municipality of Ljubno	3239184
+SI.C7	Municipality of Šoštanj	Municipality of Sostanj	3239185
+SI.C6	Municipality of Šmartno ob Paki	Municipality of Smartno ob Paki	3239187
 SI.68	Lukovica	Lukovica	3239188
-SI.99	Radeče Municipality	Radece Municipality	3239189
-SI.39	Ivančna Gorica	Ivancna Gorica	3239191
-SI.20	Dobrepolje	Dobrepolje	3239193
-SI.B1	Semič	Semic	3239195
-SI.B4	Šentjernej	Sentjernej	3239197
-SI.B8	Škocjan	Skocjan	3239199
-SI.C9	Štore	Store	3239200
-SI.N3	Vojnik	Vojnik	3239202
-SI.E2	Vitanje	Vitanje	3239204
-SI.F3	Zreče Municipality	Zrece Municipality	3239205
-SI.76	Mislinja	Mislinja	3239207
-SI.L3	Ruše Municipality	Ruse Municipality	3239211
-SI.55	Kungota	Kungota	3239213
-SI.B3	Šentilj	Sentilj	3239214
+SI.99	Municipality of Radeče	Municipality of Radece	3239189
+SI.39	Municipality of Ivančna Gorica	Municipality of Ivancna Gorica	3239191
+SI.20	Municipality of Dobrepolje	Municipality of Dobrepolje	3239193
+SI.B1	Municipality of Semič	Municipality of Semic	3239195
+SI.B4	Municipality of Šentjernej	Municipality of Sentjernej	3239197
+SI.B8	Municipality of Škocjan	Municipality of Skocjan	3239199
+SI.C9	Municipality of Štore	Municipality of Store	3239200
+SI.N3	Municipality of Vojnik	Municipality of Vojnik	3239202
+SI.E2	Municipality of Vitanje	Municipality of Vitanje	3239204
+SI.F3	Municipality of Zreče	Municipality of Zrece	3239205
+SI.76	Municipality of Mislinja	Municipality of Mislinja	3239207
+SI.L3	Municipality of Ruše	Municipality of Ruse	3239211
+SI.55	Municipality of Kungota	Municipality of Kungota	3239213
+SI.B3	Municipality of Šentilj	Municipality of Sentilj	3239214
 SI.89	Pesnica	Pesnica	3239215
-SI.26	Duplek	Duplek	3239216
-SI.98	Rače-Fram	Race-Fram	3239224
-SI.C8	Starše	Starse	3239226
-SI.45	Kidričevo	Kidricevo	3239227
-SI.J1	Majšperk	Majsperk	3239229
-SI.N2	Videm	Videm	3239231
-SI.A7	Rogaška Slatina	Rogaska Slatina	3239234
-SI.A8	Rogatec	Rogatec	3239237
-SI.92	Podčetrtek	Podcetrtek	3239241
-SI.51	Kozje	Kozje	3239243
-SI.28	Gorišnica	Gorisnica	3239245
-SI.E9	Zavrč	Zavrc	3239247
-SI.24	Dornava	Dornava	3239248
-SI.42	Juršinci	Jursinci	3239251
-SI.D1	Sveti Jurij	Sveti Jurij	3239259
-SI.A1	Radenci	Radenci	3239262
-SI.97	Puconci	Puconci	3239268
-SI.A6	Rogašovci	Rogasovci	3239270
-SI.I2	Kuzma	Kuzma	3239272
-SI.31	Gornji Petrovci	Gornji Petrovci	3239275
-SI.78	Moravske Toplice	Moravske Toplice	3239279
-SI.47	Kobilje	Kobilje	3239280
-SI.02	Beltinci	Beltinci	3239282
-SI.D6	Turnišče	Turnisce	3239283
-SI.86	Odranci	Odranci	3239285
-SI.15	Črenšovci	Crensovci	3239286
-SI.83	Nazarje	Nazarje	3239294
+SI.26	Municipality of Duplek	Municipality of Duplek	3239216
+SI.98	Municipality of Rače–Fram	Municipality of Race-Fram	3239224
+SI.C8	Municipality of Starše	Municipality of Starse	3239226
+SI.45	Municipality of Kidričevo	Municipality of Kidricevo	3239227
+SI.J1	Municipality of Majšperk	Municipality of Majsperk	3239229
+SI.N2	Municipality of Videm	Municipality of Videm	3239231
+SI.A7	Municipality of Rogaška Slatina	Municipality of Rogaska Slatina	3239234
+SI.A8	Municipality of Rogatec	Municipality of Rogatec	3239237
+SI.92	Municipality of Podčetrtek	Municipality of Podcetrtek	3239241
+SI.51	Municipality of Kozje	Municipality of Kozje	3239243
+SI.28	Municipality of Gorišnica	Municipality of Gorisnica	3239245
+SI.E9	Municipality of Zavrč	Municipality of Zavrc	3239247
+SI.24	Municipality of Dornava	Municipality of Dornava	3239248
+SI.42	Municipality of Juršinci	Municipality of Jursinci	3239251
+SI.D1	Municipality of Sveti Jurij ob Ščavnici	Municipality of Sveti Jurij ob Scavnici	3239259
+SI.A1	Municipality of Radenci	Municipality of Radenci	3239262
+SI.97	Municipality of Puconci	Municipality of Puconci	3239268
+SI.A6	Municipality of Rogašovci	Municipality of Rogasovci	3239270
+SI.I2	Municipality of Kuzma	Municipality of Kuzma	3239272
+SI.31	Municipality of Gornji Petrovci	Municipality of Gornji Petrovci	3239275
+SI.78	Municipality of Moravske Toplice	Municipality of Moravske Toplice	3239279
+SI.47	Municipality of Kobilje	Municipality of Kobilje	3239280
+SI.02	Municipality of Beltinci	Municipality of Beltinci	3239282
+SI.D6	Municipality of Turnišče	Municipality of Turnisce	3239283
+SI.86	Municipality of Odranci	Municipality of Odranci	3239285
+SI.15	Municipality of Črenšovci	Municipality of Crensovci	3239286
+SI.83	Municipality of Nazarje	Municipality of Nazarje	3239294
 SI.61	Ljubljana	Ljubljana	3239318
-SI.N7	Žirovnica	Zirovnica	3344893
-SI.H5	Jezersko	Jezersko	3344894
-SI.M2	Solčava Municipality	Solcava Municipality	3344895
+SI.N7	Municipality of Žirovnica	Municipality of Zirovnica	3344893
+SI.H5	Municipality of Jezersko	Municipality of Jezersko	3344894
+SI.M2	Municipality of Solčava	Municipality of Solcava	3344895
 SI.H8	Komenda	Komenda	3344896
-SI.H3	Horjul	Horjul	3344897
-SI.L6	Šempeter-Vrtojba	Sempeter-Vrtojba	3344898
-SI.F6	Bloke	Bloke	3344899
-SI.M1	Sodražica	Sodrazica	3344900
-SI.M8	Trzin	Trzin	3344901
-SI.K6	Prevalje	Prevalje	3344902
-SI.N4	Vransko	Vransko	3344903
-SI.M5	Tabor	Tabor	3344904
-SI.F7	Braslovče	Braslovce	3344905
-SI.K3	Polzela	Polzela	3344906
+SI.H3	Municipality of Horjul	Municipality of Horjul	3344897
+SI.L6	Municipality of Šempeter–Vrtojba	Municipality of Sempeter-Vrtojba	3344898
+SI.F6	Municipality of Bloke	Municipality of Bloke	3344899
+SI.M1	Municipality of Sodražica	Municipality of Sodrazica	3344900
+SI.M8	Municipality of Trzin	Municipality of Trzin	3344901
+SI.K6	Municipality of Prevalje	Municipality of Prevalje	3344902
+SI.N4	Municipality of Vransko	Municipality of Vransko	3344903
+SI.M5	Municipality of Tabor	Municipality of Tabor	3344904
+SI.F7	Municipality of Braslovče	Municipality of Braslovce	3344905
+SI.K3	Municipality of Polzela	Municipality of Polzela	3344906
 SI.K4	Prebold	Prebold	3344907
-SI.H9	Kostel	Kostel	3344908
-SI.N8	Žužemberk	Zuzemberk	3344909
+SI.H9	Municipality of Kostel	Municipality of Kostel	3344908
+SI.N8	Municipality of Žužemberk	Municipality of Zuzemberk	3344909
 SI.G6	Dolenjske Toplice	Dolenjske Toplice	3344910
-SI.J6	Mirna Peč Municipality	Mirna Pec Municipality	3344911
-SI.F5	Bistrica ob Sotli	Bistrica ob Sotli	3344912
-SI.G2	Dobje	Dobje	3344913
+SI.J6	Municipality of Mirna Peč	Municipality of Mirna Pec	3344911
+SI.F5	Municipality of Bistrica ob Sotli	Municipality of Bistrica ob Sotli	3344912
+SI.G2	Municipality of Dobje	Municipality of Dobje	3344913
 SI.G3	Dobrna	Dobrna	3344914
-SI.J8	Oplotnica Municipality	Oplotnica Municipality	3344915
-SI.K2	Podvelka	Podvelka	3344916
-SI.L2	Ribnica na Pohorju	Ribnica na Pohorju	3344917
-SI.I8	Lovrenc na Pohorju	Lovrenc na Pohorju	3344918
-SI.L5	Selnica ob Dravi	Selnica ob Dravi	3344919
-SI.H1	Hoče-Slivnica	Hoce-Slivnica	3344920
-SI.J4	Miklavž na Dravskem Polju	Miklavz na Dravskem Polju	3344921
+SI.J8	Municipality of Oplotnica	Municipality of Oplotnica	3344915
+SI.K2	Municipality of Podvelka	Municipality of Podvelka	3344916
+SI.L2	Municipality of Ribnica na Pohorju	Municipality of Ribnica na Pohorju	3344917
+SI.I8	Municipality of Lovrenc na Pohorju	Municipality of Lovrenc na Pohorju	3344918
+SI.L5	Municipality of Selnica ob Dravi	Municipality of Selnica ob Dravi	3344919
+SI.H1	Municipality of Hoče–Slivnica	Municipality of Hoce-Slivnica	3344920
+SI.J4	Municipality of Miklavž na Dravskem Polju	Municipality of Miklavz na Dravskem Polju	3344921
 SI.G9	Hajdina	Hajdina	3344922
-SI.N6	Žetale	Zetale	3344923
-SI.K1	Podlehnik	Podlehnik	3344924
-SI.J3	Markovci	Markovci	3344925
+SI.N6	Municipality of Žetale	Municipality of Zetale	3344923
+SI.K1	Municipality of Podlehnik	Municipality of Podlehnik	3344924
+SI.J3	Municipality of Markovci	Municipality of Markovci	3344925
 SI.G1	Destrnik	Destrnik	3344926
-SI.M7	Trnovska Vas	Trnovska Vas	3344927
-SI.M4	Sveti Andraž v Slovenskih Goricah	Sveti Andraz v Slovenskih Goricah	3344928
-SI.F9	Cerkvenjak	Cerkvenjak	3344929
-SI.F4	Benedikt	Benedikt	3344930
-SI.M3	Sveta Ana Municipality	Sveta Ana Municipality	3344931
-SI.I1	Križevci	Krizevci	3344932
-SI.N1	Veržej	Verzej	3344933
-SI.M9	Velika Polana	Velika Polana	3344934
-SI.I4	Lendava-Lendva	Lendava-Lendva	3344935
-SI.G5	Dobrovnik-Dobronak	Dobrovnik-Dobronak	3344936
-SI.M6	Tišina	Tisina	3344937
-SI.F8	Cankova	Cankova	3344938
+SI.M7	Municipality of Trnovska Vas	Municipality of Trnovska Vas	3344927
+SI.M4	Municipality of Sveti Andraž v Slovenskih Goricah	Municipality of Sveti Andraz v Slovenskih Goricah	3344928
+SI.F9	Municipality of Cerkvenjak	Municipality of Cerkvenjak	3344929
+SI.F4	Municipality of Benedikt	Municipality of Benedikt	3344930
+SI.M3	Municipality of Sveta Ana	Municipality of Sveta Ana	3344931
+SI.I1	Municipality of Križevci	Municipality of Krizevci	3344932
+SI.N1	Municipality of Veržej	Municipality of Verzej	3344933
+SI.M9	Municipality of Velika Polana	Municipality of Velika Polana	3344934
+SI.I4	Municipality of Lendava	Municipality of Lendava	3344935
+SI.G5	Municipality of Dobrovnik	Municipality of Dobrovnik	3344936
+SI.M6	Municipality of Tišina	Municipality of Tisina	3344937
+SI.F8	Municipality of Cankova	Municipality of Cankova	3344938
 SI.G8	Grad	Grad	3344939
-SI.H2	Hodoš-Hodos	Hodos-Hodos	3344940
-SI.K9	Razkrižje	Razkrizje	3344941
-SI.L9	Šmartno pri Litiji	Smartno pri Litiji	3344942
-SI.L4	Šalovci	Salovci	3344943
-SI.N9	Apače	Apace	8133579
-SI.O1	Cirkulane	Cirkulane	8133580
-SI.O3	Kostanjevica na Krki	Kostanjevica na Krki	8133581
+SI.H2	Municipality of Hodoš	Municipality of Hodos	3344940
+SI.K9	Municipality of Razkrižje	Municipality of Razkrizje	3344941
+SI.L9	Municipality of Šmartno pri Litiji	Municipality of Smartno pri Litiji	3344942
+SI.L4	Municipality of Šalovci	Municipality of Salovci	3344943
+SI.N9	Municipality of Apače	Municipality of Apace	8133579
+SI.O1	Municipality of Cirkulane	Municipality of Cirkulane	8133580
+SI.O3	Municipality of Kostanjevica na Krki	Municipality of Kostanjevica na Krki	8133581
 SI.O4	Log–Dragomer	Log-Dragomer	8133582
-SI.O5	Makole	Makole	8133583
-SI.O7	Mokronog-Trebelno Municipality	Mokronog-Trebelno Municipality	8133584
-SI.O8	Poljčane	Poljcane	8133585
-SI.O9	Rečica ob Savinji	Recica ob Savinji	8133586
-SI.P1	Renče-Vogrsko	Rence-Vogrsko	8133587
-SI.P4	Središče ob Dravi	Sredisce ob Dravi	8133588
-SI.P5	Straža	Straza	8133589
-SI.P6	Sv. Trojica v Slov. Goricah	Sv. Trojica v Slov. Goricah	8133590
-SI.P8	Sveti Tomaž	Sveti Tomaz	8133591
-SI.P2	Šentrupert	Sentrupert	8133592
-SI.P3	Šmarješke Toplice	Smarjeske Toplice	8133593
-SI.P7	Sveti Jurij v Slovenskih Goricah	Sveti Jurij v Slovenskih Goricah	8469236
+SI.O5	Municipality of Makole	Municipality of Makole	8133583
+SI.O7	Municipality of Mokronog–Trebelno	Municipality of Mokronog-Trebelno	8133584
+SI.O8	Municipality of Poljčane	Municipality of Poljcane	8133585
+SI.O9	Municipality of Rečica ob Savinji	Municipality of Recica ob Savinji	8133586
+SI.P1	Municipality of Renče–Vogrsko	Municipality of Rence-Vogrsko	8133587
+SI.P4	Municipality of Središče ob Dravi	Municipality of Sredisce ob Dravi	8133588
+SI.P5	Municipality of Straža	Municipality of Straza	8133589
+SI.P6	Municipality of Sveta Trojica v Slovenskih Goricah	Municipality of Sveta Trojica v Slovenskih Goricah	8133590
+SI.P8	Municipality of Sveti Tomaž	Municipality of Sveti Tomaz	8133591
+SI.P2	Municipality of Šentrupert	Municipality of Sentrupert	8133592
+SI.P3	Municipality of Šmarješke Toplice	Municipality of Smarjeske Toplice	8133593
+SI.P7	Municipality of Sveti Jurij v Slovenskih Goricah	Municipality of Sveti Jurij v Slovenskih Goricah	8469236
 SI.O2	Gorje	Gorje	8986279
-SI.P9	Ankaran Municipality	Ankaran Municipality	11288217
-SI.O6	Mirna	Mirna	11288255
+SI.P9	Municipality of Ankaran	Municipality of Ankaran	11288217
+SI.O6	Municipality of Mirna	Municipality of Mirna	11288255
 SJ.22	Jan Mayen	Jan Mayen	3041964
 SJ.21	Svalbard	Svalbard	7521757
 SK.03	Košice Region	Kosice Region	865084
@@ -3185,7 +3182,7 @@ SM.04	Faetano	Faetano	3345306
 SM.05	Fiorentino	Fiorentino	3345307
 SM.08	Montegiardino	Montegiardino	3345308
 SN.12	Ziguinchor	Ziguinchor	2243939
-SN.07	Thiès	Thies	2244800
+SN.07	Thies	Thies	2244800
 SN.05	Tambacounda	Tambacounda	2244990
 SN.14	Saint-Louis	Saint-Louis	2246451
 SN.15	Matam	Matam	2248753
@@ -3196,7 +3193,7 @@ SN.09	Fatick	Fatick	2251910
 SN.03	Diourbel Region	Diourbel Region	2252308
 SN.01	Dakar	Dakar	2253350
 SN.16	Kaffrine	Kaffrine	7303935
-SN.17	Kédougou	Kedougou	7303936
+SN.17	Kedougou	Kedougou	7303936
 SN.18	Sédhiou	Sedhiou	7303937
 SO.20	Woqooyi Galbeed	Woqooyi Galbeed	50360
 SO.19	Togdheer	Togdheer	51230
@@ -3238,20 +3235,20 @@ SS.02	Eastern Equatoria	Eastern Equatoria	408668
 SS.08	Warrap	Warrap	408670
 ST.02	São Tomé Island	Sao Tome Island	2410764
 ST.01	Príncipe	Principe	2410878
-SV.14	Usulután	Usulutan	3582882
+SV.14	Usulutan	Usulutan	3582882
 SV.13	Sonsonate Department	Sonsonate Department	3583101
 SV.12	San Vicente Department	San Vicente Department	3583176
 SV.11	Santa Ana Department	Santa Ana Department	3583332
 SV.10	San Salvador Department	San Salvador Department	3583360
 SV.09	San Miguel Department	San Miguel Department	3583462
-SV.08	Morazán	Morazan	3584317
-SV.07	La Unión	La Union	3584767
+SV.08	Morazan	Morazan	3584317
+SV.07	La Union	La Union	3584767
 SV.06	La Paz Department	La Paz Department	3585087
 SV.05	La Libertad Department	La Libertad Department	3585155
-SV.04	Cuscatlán	Cuscatlan	3586831
+SV.04	Cuscatlan	Cuscatlan	3586831
 SV.03	Chalatenango Department	Chalatenango Department	3587090
-SV.02	Cabañas	Cabanas	3587217
-SV.01	Ahuachapán	Ahuachapan	3587425
+SV.02	Cabanas	Cabanas	3587217
+SV.01	Ahuachapan	Ahuachapan	3587425
 SY.14	Tartus	Tartus	163342
 SY.13	Damascus Governorate	Damascus Governorate	167541
 SY.12	Idlib	Idlib	169387
@@ -3404,7 +3401,7 @@ TL.AL	Aileu	Aileu	1651815
 TM.02	Balkan	Balkan	162152
 TM.01	Ahal	Ahal	162181
 TM.S	Ashgabat	Ashgabat	162182
-TM.03	Daşoguz	Dasoguz	601465
+TM.03	Dasoguz	Dasoguz	601465
 TM.05	Mary	Mary	1218666
 TM.04	Lebap	Lebap	1219651
 TN.37	Zaghouan Governorate	Zaghouan Governorate	2464038
@@ -3431,9 +3428,9 @@ TN.16	Monastir Governorate	Monastir Governorate	2473495
 TN.15	Mahdia Governorate	Mahdia Governorate	2473574
 TN.14	Kef Governorate	Kef Governorate	2473637
 TN.39	Manouba	Manouba	6201192
-TO.03	Vava‘u	Vava`u	4032231
+TO.03	Vavau	Vavau	4032231
 TO.02	Tongatapu	Tongatapu	4032279
-TO.01	Ha‘apai	Ha`apai	4032637
+TO.01	Haapai	Haapai	4032637
 TO.EU	ʻEua	'Eua	7668021
 TO.NI	Niuas	Niuas	7668055
 TR.66	Yozgat	Yozgat	296560
@@ -3585,7 +3582,7 @@ UA.21	Sumy	Sumy	692196
 UA.20	Sevastopol City	Sevastopol City	694422
 UA.19	Rivne	Rivne	695592
 UA.18	Poltava	Poltava	696634
-UA.17	Odessa	Odessa	698738
+UA.17	Odesa	Odesa	698738
 UA.16	Mykolaiv	Mykolaiv	700567
 UA.15	Lviv	Lviv	702549
 UA.14	Luhansk	Luhansk	702657
