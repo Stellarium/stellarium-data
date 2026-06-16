@@ -151,6 +151,7 @@ Bulqize	Diber County	19	N	26.826	41.49167N	20.22194E	775	5	Europe/Tirane
 Vlore	Vlore County	19	R	115.261	40.4696N	19.48379E	58	7	Europe/Tirane
 Tirana	Tirana	19	C	418.495	41.32744N	19.81866E	113	7	Europe/Tirane
 Shkoder	Shkoder County	19	R	95.553	42.06828N	19.51258E	12	6	Europe/Tirane
+Rrashbull	Durres County	19	N	20.099	41.32278N	19.51028E	31	5	Europe/Tirane
 Peqin	Elbasan County	19	N	16.58	41.04611N	19.75111E	52	5	Europe/Tirane
 Patos Fshat	Fier County	19	N	22.679	40.64278N	19.65083E	157	5	Europe/Tirane
 Patos	Fier County	19	N	16	40.68333N	19.61944E	61	5	Europe/Tirane
@@ -159,6 +160,7 @@ Lezhe	Lezhe County	19	R	18.695	41.78361N	19.64361E	7	5	Europe/Tirane
 Kucove	Berat County	19	N	31.077	40.80028N	19.91667E	58	5	Europe/Tirane
 Kruje	Durres County	19	N	51.191	41.50917N	19.79278E	509	6	Europe/Tirane
 Kavaje	Tirana	19	N	30.012	41.18556N	19.55694E	19	5	Europe/Tirane
+Fushe-Kruje	Durres County	19	N	17.877	41.47833N	19.71778E	24	5	Europe/Tirane
 Fier-Cifci	Fier County	19	N	60.995	40.71667N	19.56667E	17	6	Europe/Tirane
 Fier	Fier County	19	R	56.297	40.7251N	19.55823E	28	6	Europe/Tirane
 Durres	Durres County	19	R	195.92	41.32355N	19.45469E	0	7	Europe/Tirane
@@ -205,7 +207,7 @@ Viana	Luanda	03	N	865.863	8.90553S	13.37499E	128	8	Africa/Luanda
 Uige	Uige	03	R	322.531	7.60874S	15.06131E	825	7	Africa/Luanda
 Ucua	Bengo	03	N	41.654	8.65157S	14.15653E	245	5	Africa/Luanda
 Tomboco	Zaire	03	N	20.358	6.80517S	13.33017E	396	5	Africa/Luanda
-Soyo	Zaire	03	N	200.92	6.1349S	12.36894E	10	7	Africa/Luanda
+Soyo	Zaire	03	N	221.555	6.1349S	12.36894E	10	7	Africa/Luanda
 Songo	Uige	03	N	31.382	7.35207S	14.84629E	721	5	Africa/Luanda
 Sanza Pombo	Uige	03	N	23	7.31473S	16.0024E	912	5	Africa/Luanda
 Piri	Bengo	03	N	26.265	8.53412S	14.43555E	695	5	Africa/Luanda
@@ -266,14 +268,14 @@ Ondjiva	Cunene	03	R	121.537	17.06667S	15.73333E	1113	7	Africa/Luanda
 Nharea	Bie	03	N	18	11.47512S	16.96496E	1645	5	Africa/Luanda
 Mossamedes	Namibe	03	R	255	15.19611S	12.15222E	13	7	Africa/Luanda
 Mungo	Huambo	03	N	21.662	11.83268S	16.23613E	1533	5	Africa/Luanda
-Menongue		03	R	251.178	14.6585S	17.69099E	1355	7	Africa/Luanda
+Menongue	Cubango	03	R	251.178	14.6585S	17.69099E	1355	7	Africa/Luanda
 Matala	Huila	03	N	78	14.73272S	15.03479E	1238	6	Africa/Luanda
 Luquembo	Malanje	03	N	69.42	10.73912S	17.71766E	1125	6	Africa/Luanda
 Luena	Moxico	03	R	273.675	11.78333S	19.91667E	1337	7	Africa/Luanda
 Lubango	Huila	03	R	600.751	14.91717S	13.4925E	1760	8	Africa/Luanda
 Longonjo	Huambo	03	N	23	12.90795S	15.24845E	1451	5	Africa/Luanda
 Londuimbali	Huambo	03	N	17	12.23712S	15.31697E	1567	5	Africa/Luanda
-Lobito	Benguela	03	N	357.95	12.3644S	13.53601E	4	7	Africa/Luanda
+Lobito	Benguela	03	N	393.079	12.3644S	13.53601E	4	7	Africa/Luanda
 Cuito	Bie	03	R	355.423	12.38333S	16.93333E	1715	7	Africa/Luanda
 Catchiungo	Huambo	03	N	26.974	12.56598S	16.22589E	1818	5	Africa/Luanda
 Humbe	Cunene	03	N	35.985	16.6864S	14.90317E	1105	5	Africa/Luanda
@@ -331,6 +333,7 @@ Villa Lugano	Buenos Aires F.D.	08	N	114	34.67907S	58.47263W	19	7	America/Argenti
 Villaguay	Entre Rios	08	N	32.027	31.86767S	59.02701W	42	5	America/Argentina/Cordoba
 Villa Gesell	Buenos Aires	08	N	23.257	37.26394S	56.97304W	9	5	America/Argentina/Buenos_Aires
 Villa de Mayo	Buenos Aires	08	N	43.405	34.5108S	58.68059W	22	5	America/Argentina/Buenos_Aires
+Tristan Suarez	Buenos Aires	08	N	27.746	34.88982S	58.56761W	12	5	America/Argentina/Buenos_Aires
 Tortuguitas	Buenos Aires	08	N	41.39	34.47513S	58.75367W	31	5	America/Argentina/Buenos_Aires
 Tigre	Buenos Aires	08	N	31.106	34.42603S	58.57962W	8	5	America/Argentina/Buenos_Aires
 Tandil	Buenos Aires	08	N	115.877	37.3287S	59.1369W	207	7	America/Argentina/Buenos_Aires
@@ -577,6 +580,7 @@ Villa Mercedes	San Luis	08	N	96.781	33.67571S	65.45783W	516	6	America/Argentina/
 San Miguel	Buenos Aires	08	N	168.762	34.54335S	58.71229W	37	7	America/Argentina/Buenos_Aires
 San Carlos de Bariloche	Rio Negro	08	N	95.394	41.14557S	71.30822W	839	6	America/Argentina/Salta
 Adrogue	Buenos Aires	08	N	28.265	34.80041S	58.38384W	28	5	America/Argentina/Buenos_Aires
+La Union	Buenos Aires	08	N	24.293	34.87558S	58.54192W	18	5	America/Argentina/Buenos_Aires
 Ingeniero Pablo Nogues	Buenos Aires	08	N	38.47	34.47775S	58.70652W	25	5	America/Argentina/Buenos_Aires
 Villa Sarmiento	Buenos Aires	08	N	17.481	34.63364S	58.57047W	27	5	America/Argentina/Buenos_Aires
 Jose C. Paz	Buenos Aires	08	N	230.208	34.51541S	58.76813W	32	7	America/Argentina/Buenos_Aires
@@ -986,6 +990,7 @@ Ujar	Ucar	16	R	15.741	40.51902N	47.65423E	18	5	Asia/Baku
 Tovuz	Tovuz District	16	R	177.2	40.99249N	45.62838E	421	7	Asia/Baku
 Terter	Tartar District	16	R	18.185	40.34201N	46.93161E	256	5	Asia/Baku
 Sumqayit	Sumqayit	16	R	358.675	40.58972N	49.66861E	-11	7	Asia/Baku
+Siyazan	Siazan Rayon	16	R	25.9	41.07811N	49.11564E	34	5	Asia/Baku
 Qaracuxur	Baki	16	N	87.349	40.39667N	49.97361E	51	6	Asia/Baku
 Shamkhor	Shamkir Rayon	16	R	35.421	40.82975N	46.0178E	462	5	Asia/Baku
 Shamakhi	Samaxi	16	R	29.403	40.63141N	48.64137E	687	5	Asia/Baku
@@ -1396,7 +1401,7 @@ Ath	Wallonia	20	N	26.681	50.62937N	3.77801E	32	5	Europe/Brussels
 Assebroek	Flanders	20	N	19.772	51.19367N	3.2623E	5	5	Europe/Brussels
 Asse	Flanders	20	N	28.985	50.91011N	4.19836E	81	5	Europe/Brussels
 Arlon	Wallonia	20	N	26.179	49.68333N	5.81667E	421	5	Europe/Brussels
-Antwerpen	Flanders	20	N	529.247	51.22047N	4.40026E	13	8	Europe/Brussels
+Antwerp	Flanders	20	N	529.247	51.22047N	4.40026E	13	8	Europe/Brussels
 Ans	Wallonia	20	N	27.297	50.6623N	5.52029E	181	5	Europe/Brussels
 Anderlecht	Brussels Capital	20	N	160.553	50.83619N	4.31454E	27	7	Europe/Brussels
 Andenne	Wallonia	20	N	24.055	50.48941N	5.09513E	78	5	Europe/Brussels
@@ -3191,6 +3196,7 @@ Engenheiro Coelho	Sao Paulo	08	N	19.566	22.49123S	47.21182W	632	5	America/Sao_Pa
 Guaianases	Sao Paulo	08	N	109.316	23.54333S	46.41083W	759	7	America/Sao_Paulo
 Guacui	Espirito Santo	08	N	29.358	20.77556S	41.67944W	597	5	America/Sao_Paulo
 Gravatai	Rio Grande do Sul	08	N	265.074	29.94218S	50.99278W	41	7	America/Sao_Paulo
+Gramado	Rio Grande do Sul	08	N	40.134	29.37861S	50.87389W	818	5	America/Sao_Paulo
 Governador Valadares	Minas Gerais	08	N	250.878	18.85111S	41.94944W	169	7	America/Sao_Paulo
 Goioere	Parana	08	N	28.437	24.18472S	53.0275W	483	5	America/Sao_Paulo
 Goiatuba	Goias	08	N	35.664	18.0125S	49.35472W	768	5	America/Sao_Paulo
@@ -3876,6 +3882,7 @@ Sorriso	Mato Grosso	08	N	120.985	12.54528S	55.71139W	363	7	America/Cuiaba
 Souto Soares	Bahia	08	N	17.054	12.08861S	41.63778W	831	5	America/Bahia
 Tailandia	Para	08	N	72.493	2.94722S	48.95306W	47	6	America/Belem
 Tangara da Serra	Mato Grosso	08	N	112.547	14.61944S	57.48583W	392	7	America/Cuiaba
+Teixeira de Freitas	Bahia	08	N	145.216	17.535S	39.74194W	118	7	America/Bahia
 Trairao	Para	08	N	15.242	4.57444S	55.94361W	79	5	America/Santarem
 Tres Marias	Minas Gerais	08	N	28.895	18.20639S	45.24167W	547	5	America/Sao_Paulo
 Trizidela do Vale	Maranhao	08	N	22.484	4.57194S	44.62083W	36	5	America/Fortaleza
@@ -4055,7 +4062,7 @@ Zytkavicy	Homyel' Voblasc'	17	N	15.95	52.2168N	27.8561E	137	5	Europe/Minsk
 Zaslawye	Minsk	17	N	17.404	54.0114N	27.2695E	226	5	Europe/Minsk
 Vitebsk	Vitebsk	17	R	358.395	55.1904N	30.2049E	150	7	Europe/Minsk
 Vileyka	Minsk	17	N	26.625	54.4914N	26.9111E	157	5	Europe/Minsk
-Volkovysk	Grodnenskaya	17	N	47.3	53.1561N	24.4513E	146	5	Europe/Minsk
+Vaukavysk	Grodnenskaya	17	N	47.3	53.1561N	24.4513E	146	5	Europe/Minsk
 Svetlogorsk	Homyel' Voblasc'	17	N	62.602	52.6329N	29.7389E	142	6	Europe/Minsk
 Stowbtsy	Minsk	17	N	17.737	53.47994N	26.7351E	146	5	Europe/Minsk
 Smarhon	Grodnenskaya	17	N	35.422	54.4798N	26.3957E	153	5	Europe/Minsk
@@ -4251,7 +4258,7 @@ LaSalle	Ontario	09	N	32.721	42.24481N	83.06095W	178	5	America/Toronto
 L'Assomption	Quebec	09	N	15.906	45.82318N	73.4294W	13	5	America/Toronto
 Laval	Quebec	09	N	438.366	45.56995N	73.692W	34	7	America/Toronto
 Laval-des-Rapides	Quebec	09	N	36.933	45.55642N	73.70007W	24	5	America/Toronto
-Leamington	Ontario	09	N	32.991	42.05009N	82.59981W	188	5	America/Toronto
+Leamington	Ontario	09	N	35.73	42.05009N	82.59981W	188	5	America/Toronto
 Leduc	Alberta	09	N	15.561	53.26682N	113.55201W	728	5	America/Edmonton
 Les Coteaux	Quebec	09	N	17.396	45.28338N	74.23254W	44	5	America/Toronto
 Lethbridge	Alberta	09	N	103.197	49.69999N	112.81856W	907	7	America/Edmonton
@@ -4834,7 +4841,7 @@ Zuerich (Kreis 10) / Hoengg	Zurich	20	N	17.117	47.40313N	8.4971E	468	5	Europe/Zu
 Herisau	Appenzell Ausserrhoden	20	R	15.744	47.38615N	9.27916E	780	5	Europe/Zurich
 Grenchen	Solothurn	20	N	15.927	47.1921N	7.39586E	454	5	Europe/Zurich
 Gossau	Saint Gallen	20	N	17.043	47.41551N	9.25482E	637	5	Europe/Zurich
-Geneve	Geneva	20	R	201.741	46.20222N	6.14569E	400	7	Europe/Zurich
+Geneva	Geneva	20	R	201.741	46.20222N	6.14569E	400	7	Europe/Zurich
 Fribourg	Fribourg	20	R	38.365	46.80237N	7.15128E	627	5	Europe/Zurich
 Frauenfeld	Thurgau	20	R	25.607	47.55776N	8.89893E	418	5	Europe/Zurich
 Emmen	Lucerne	20	N	30.926	47.07819N	8.27331E	464	5	Europe/Zurich
@@ -5075,19 +5082,16 @@ Valdivia	Los Rios Region	08	R	133.419	39.81422S	73.24589W	17	7	America/Santiago
 Traiguen	Araucania	08	N	17.164	38.2496S	72.67027W	180	5	America/Santiago
 Tome	Biobio	08	N	53.219	36.61756S	72.95593W	16	6	America/Santiago
 Tocopilla	Antofagasta	08	N	25.4	22.09198S	70.19792W	37	5	America/Santiago
-Tiltil	Santiago Metropolitan	08	N	19.312	33.0831S	70.92924W	588	5	America/Santiago
 Teodoro Schmidt	Araucania	08	N	15.504	38.99442S	73.08927W	33	5	America/Santiago
 Temuco	Araucania	08	R	238.129	38.73628S	72.59738W	104	7	America/Santiago
 Talcahuano	Biobio	08	N	150.499	36.72494S	73.11684W	15	7	America/Santiago
 Talca	Maule Region	08	R	197.479	35.4232S	71.64974W	112	7	America/Santiago
-Talagante	Santiago Metropolitan	08	N	51.764	33.66386S	70.92734W	344	6	America/Santiago
+Talagante	Santiago Metropolitan	08	N	57.323	33.66386S	70.92734W	344	6	America/Santiago
 San Vicente de Tagua Tagua	O'Higgins Region	08	N	44.046	34.43859S	71.07751W	214	5	America/Santiago
 San Vicente	O'Higgins Region	08	N	22.572	34.43333S	71.08333W	210	5	America/Santiago
 Santiago	Santiago Metropolitan	08	C	4837.295	33.45694S	70.64827W	556	9	America/Santiago
 Santa Cruz	O'Higgins Region	08	N	34.914	34.63881S	71.36576W	174	5	America/Santiago
-San Jose de Maipo	Santiago Metropolitan	08	N	18.189	33.63912S	70.35318W	966	5	America/Santiago
 San Javier	Maule Region	08	N	40.189	35.5952S	71.72924W	101	5	America/Santiago
-San Francisco de Mostazal	O'Higgins Region	08	N	25.343	33.98219S	70.7104W	478	5	America/Santiago
 San Felipe	Valparaiso	08	N	59.294	32.74976S	70.72584W	654	6	America/Santiago
 San Esteban	Valparaiso	08	N	17.09	32.79871S	70.5807W	841	5	America/Santiago
 San Clemente	Maule Region	08	N	39.538	35.53777S	71.487W	214	5	America/Santiago
@@ -5099,7 +5103,7 @@ Rio Bueno	Los Rios Region	08	N	31.366	40.33494S	72.95564W	61	5	America/Santiago
 Rengo	O'Higgins Region	08	N	38.1	34.40639S	70.85834W	326	5	America/Santiago
 Renca	Santiago Metropolitan	08	N	147.151	33.4019S	70.70619W	508	7	America/Santiago
 Rancagua	O'Higgins Region	08	R	212.695	34.1691S	70.74053W	520	7	America/Santiago
-Quintero	Valparaiso	08	N	31.923	32.78588S	71.53222W	33	5	America/Santiago
+Quintero	Valparaiso	08	N	22.174	32.78588S	71.53222W	33	5	America/Santiago
 Quilpue	Valparaiso	08	N	130.263	33.04752S	71.44249W	113	7	America/Santiago
 Quillota	Valparaiso	08	N	67.779	32.88341S	71.24882W	128	6	America/Santiago
 Quillon	Nuble	08	N	17.485	36.74553S	72.47481W	72	5	America/Santiago
@@ -5115,11 +5119,11 @@ Puerto Aysen	Aysen	08	N	16.936	45.40303S	72.69184W	9	5	America/Coyhaique
 Puente Alto	Santiago Metropolitan	08	N	568.106	33.61169S	70.57577W	700	8	America/Santiago
 Pucon	Araucania	08	N	26.953	39.28223S	71.95427W	236	5	America/Santiago
 Pozo Almonte	Tarapaca	08	N	16.878	20.25585S	69.7863W	1035	5	America/Santiago
+Placilla	Valparaiso	08	N	39.344	33.1144S	71.56806W	335	5	America/Santiago
 Pitrufquen	Araucania	08	N	21.981	38.98635S	72.63721W	99	5	America/Santiago
-Pirque	Santiago Metropolitan	08	N	26.521	33.63638S	70.57361W	691	5	America/Santiago
 Penco	Biobio	08	N	46.091	36.74075S	72.99528W	24	5	America/Santiago
 Penalolen	Santiago Metropolitan	08	N	241.599	33.46836S	70.53411W	710	7	America/Santiago
-Penaflor	Santiago Metropolitan	08	N	65.495	33.60627S	70.87649W	395	6	America/Santiago
+Penaflor	Santiago Metropolitan	08	N	85.671	33.60627S	70.87649W	395	6	America/Santiago
 Parral	Maule Region	08	N	26.904	36.14311S	71.82605W	178	5	America/Santiago
 Panguipulli	Los Rios Region	08	N	32.525	39.64355S	72.33269W	140	5	America/Santiago
 Paine	Santiago Metropolitan	08	N	72.759	33.80796S	70.74109W	407	6	America/Santiago
@@ -5130,7 +5134,6 @@ Ovalle	Coquimbo Region	08	N	77.138	30.60106S	71.19901W	218	6	America/Santiago
 Osorno	Los Lagos Region	08	N	135.773	40.57395S	73.13348W	37	7	America/Santiago
 Nunoa	Santiago Metropolitan	08	N	255.823	33.44735S	70.58279W	615	7	America/Santiago
 Nueva Imperial	Araucania	08	N	29.366	38.74451S	72.95025W	29	5	America/Santiago
-Nancagua	O'Higgins Region	08	N	17.833	34.65187S	71.19724W	220	5	America/Santiago
 Nacimiento	Biobio	08	N	26.523	37.50253S	72.67307W	95	5	America/Santiago
 Mulchen	Biobio	08	N	27.557	37.71893S	72.24099W	139	5	America/Santiago
 Molina	Maule Region	08	N	40.329	35.11428S	71.28232W	253	5	America/Santiago
@@ -5163,9 +5166,11 @@ Hacienda La Calera	Valparaiso	08	N	49.106	32.78333S	71.21667W	203	5	America/Sant
 Hualqui	Biobio	08	N	24.333	36.97266S	72.93559W	42	5	America/Santiago
 Graneros	O'Higgins Region	08	N	23.301	34.06863S	70.72747W	483	5	America/Santiago
 Freire	Araucania	08	N	22.39	38.95252S	72.62653W	108	5	America/Santiago
+El Quisco	Valparaiso	08	N	16.967	33.39772S	71.69388W	44	5	America/Santiago
 El Monte	Santiago Metropolitan	08	N	26.459	33.67969S	70.98482W	300	5	America/Santiago
 Curico	Maule Region	08	N	102.438	34.98279S	71.23943W	217	7	America/Santiago
 Curanilahue	Biobio	08	N	32	37.47793S	73.34495W	141	5	America/Santiago
+Curacavi	Santiago Metropolitan	08	N	18.378	33.39762S	71.12708W	213	5	America/Santiago
 Cunco	Araucania	08	N	15.628	38.93181S	72.03151W	369	5	America/Santiago
 Coronel	Biobio	08	N	107.759	37.03386S	73.14019W	11	7	America/Santiago
 Coquimbo	Coquimbo Region	08	N	161.317	29.95332S	71.33947W	22	7	America/Santiago
@@ -5183,7 +5188,7 @@ Chimbarongo	O'Higgins Region	08	N	33.446	34.71247S	71.0434W	309	5	America/Santia
 Chillan Viejo	Nuble	08	N	28.735	36.62297S	72.13194W	117	5	America/Santiago
 Chillan	Nuble	08	R	150.396	36.60664S	72.10344W	132	7	America/Santiago
 Chiguayante	Biobio	08	N	84.718	36.9256S	73.02841W	36	6	America/Santiago
-Chicureo	Santiago Metropolitan	08	N	18	33.28379S	70.65333W	563	5	America/Santiago
+Chicureo	Santiago Metropolitan	08	N	16.52	33.28379S	70.65333W	563	5	America/Santiago
 Cauquenes	Maule Region	08	N	38.522	35.9671S	72.32248W	172	5	America/Santiago
 Castro	Los Lagos Region	08	N	41.667	42.4721S	73.77319W	81	5	America/Santiago
 Casablanca	Valparaiso	08	N	24.537	33.31712S	71.40311W	268	5	America/Santiago
@@ -11446,7 +11451,7 @@ Elancourt	Ile-de-France	20	N	30.831	48.78421N	1.9552E	133	5	Europe/Paris
 Ecully	Rhone-Alpes	20	N	19.437	45.77437N	4.77758E	245	5	Europe/Paris
 Echirolles	Rhone-Alpes	20	N	33.088	45.14603N	5.71441E	231	5	Europe/Paris
 Eaubonne	Ile-de-France	20	N	24.096	48.99712N	2.28249E	55	5	Europe/Paris
-Dunkerque	Hauts-de-France	20	N	71.287	51.0344N	2.37681E	8	6	Europe/Paris
+Dunkirk	Hauts-de-France	20	N	86.263	51.0344N	2.37681E	8	6	Europe/Paris
 Dreux	Centre-Val de Loire	20	N	31.058	48.73649N	1.36566E	96	5	Europe/Paris
 Draveil	Ile-de-France	20	N	29.316	48.68466N	2.41418E	56	5	Europe/Paris
 Drancy	Ile-de-France	20	N	62.488	48.92578N	2.44533E	47	6	Europe/Paris
@@ -12035,6 +12040,7 @@ Macclesfield	England	18	N	54.345	53.26023N	2.12564W	156	6	Europe/London
 Luton	England	18	N	225.262	51.87967N	0.41748W	117	7	Europe/London
 Lowestoft	England	18	N	71.327	52.47523N	1.75167E	7	6	Europe/London
 Louth	England	18	N	17.382	53.36664N	0.00438W	32	5	Europe/London
+Loughton	England	18	N	33.346	52.43333N	2.56667W	231	5	Europe/London
 Loughborough	England	18	N	64.884	52.76667N	1.2W	49	6	Europe/London
 Longton	England	18	N	27.214	52.98333N	2.13333W	150	5	Europe/London
 Longfield	England	18	N	16.808	51.3969N	0.30212E	58	5	Europe/London
@@ -12880,9 +12886,12 @@ Panorama	Central Macedonia	19	N	17.444	40.58779N	23.0315E	368	5	Europe/Athens
 Orestiada	East Macedonia and Thrace	19	N	16.221	41.50306N	26.52972E	45	5	Europe/Athens
 Oraiokastro	Central Macedonia	19	N	20.852	40.73083N	22.91722E	269	5	Europe/Athens
 Naousa	Central Macedonia	19	N	19.887	40.62944N	22.06806E	350	5	Europe/Athens
+Lagkadas	Central Macedonia	19	N	37.022	40.75N	23.06667E	103	5	Europe/Athens
 Kozani	West Macedonia	19	R	36.481	40.29931N	21.78984E	675	5	Europe/Athens
 Komotini	East Macedonia and Thrace	19	R	45.631	41.11758N	25.40587E	20	5	Europe/Athens
 Kilkis	Central Macedonia	19	N	22.914	40.99302N	22.87433E	277	5	Europe/Athens
+Chortiatis	Central Macedonia	19	N	17.862	40.60954N	23.10014E	551	5	Europe/Athens
+Chalkidona	Central Macedonia	19	N	30.03	40.73184N	22.59992E	22	5	Europe/Athens
 Kavala	East Macedonia and Thrace	19	N	54.027	40.93959N	24.40687E	34	6	Europe/Athens
 Katerini	Central Macedonia	19	N	53.293	40.26956N	22.50608E	40	6	Europe/Athens
 Kalamaria	Central Macedonia	19	N	91.518	40.5825N	22.95028E	39	6	Europe/Athens
@@ -13014,9 +13023,20 @@ Hagatna	Hagatna	23	C	1.051	13.47567N	144.74886E	5		Pacific/Guam
 Mangilao Village	Mangilao	23	R	15.191	13.44761N	144.80109E	58	5	Pacific/Guam
 Tamuning	Tamuning	23	N	19.685	13.48754N	144.78143E	20	5	Pacific/Guam
 Xitole	Bafata	05	N	19.424	11.73333N	14.81667W	32	5	Africa/Bissau
+Reino de Bandim		05	N	44.718	11.85N	15.6W	23	5	Africa/Bissau
+Reino de Antula		05	N	30.778	11.9N	15.58333W	31	5	Africa/Bissau
+Quelele		05	N	28.898	11.86667N	15.63333W	39	5	Africa/Bissau
+Plaque		05	N	27.633	11.88333N	15.61667W	33	5	Africa/Bissau
 Gabu	Gabu	05	R	49.371	12.28N	14.22222W	64	5	Africa/Bissau
+Contumo		05	N	45.482	11.85N	15.61667W	17	5	Africa/Bissau
 Bissau	Bissau	05	C	439.704	11.86357N	15.59767W	13	7	Africa/Bissau
 Bafata	Bafata	05	R	33.502	12.16583N	14.66167W	20	5	Africa/Bissau
+Bairro Militar	Bissau	05	N	65.274	11.8746N	15.6158W	15	6	Africa/Bissau
+Belem	Bissau	05	N	17.263	11.85336N	15.60297W	47	5	Africa/Bissau
+Luanda	Bissau	05	N	25.236	11.8787N	15.60047W	1	5	Africa/Bissau
+Missira	Bissau	05	N	38.838	11.86145N	15.60679W	46	5	Africa/Bissau
+Sintra-Nema	Bissau	05	N	21.451	11.86236N	15.59736W	11	5	Africa/Bissau
+Santa-Luzia	Bissau	05	N	17.204	11.88798N	15.59003W	38	5	Africa/Bissau
 New Amsterdam	East Berbice-Corentyne	08	R	35.039	6.24924N	57.51578W	1	5	America/Guyana
 Linden	Upper Demerara-Berbice	08	R	44.69	6.00815N	58.30724W	4	5	America/Guyana
 Georgetown	Demerara-Mahaica	08	C	235.017	6.80448N	58.15527W	3	7	America/Guyana
@@ -13041,7 +13061,7 @@ Tseung Kwan O	Sai Kung District	13	N	412.9	22.32789N	114.24992E	19	7	Asia/Hong_K
 To Kwa Wan	Kowloon City	13	N	15.646	22.31693N	114.19052E	24	5	Asia/Hong_Kong
 Tiu Keng Leng	Kwun Tong District	13	N	51.751	22.29853N	114.25115E	137	6	Asia/Hong_Kong
 Tin Wan	Southern District	13	N	16.811	22.25113N	114.14726E	46	5	Asia/Hong_Kong
-Tin Shui Wai	Yuen Long	13	N	282.4	22.45679N	114.00234E	10	7	Asia/Hong_Kong
+Tin Shui Wai	Yuen Long	13	N	286.232	22.45679N	114.00234E	10	7	Asia/Hong_Kong
 Ting Kau	Tsuen Wan	13	N	17.009	22.36956N	114.07907E	10	5	Asia/Hong_Kong
 Tai Wo Hau	Kwai Tsing District	13	N	20.848	22.36718N	114.12347E	38	5	Asia/Hong_Kong
 Tai Wai	Sha Tin	13	N	19.924	22.37286N	114.17897E	8	5	Asia/Hong_Kong
@@ -13161,30 +13181,71 @@ New Territories		13	N	3984.077	22.42441N	114.11095E	231	9	Asia/Hong_Kong
 Hong Kong Island		13	N	1195.529	22.26302N	114.18419E	170	9	Asia/Hong_Kong
 Kowloon City Centre	Kowloon City	13	N	194.29	22.32979N	114.18889E	16	7	Asia/Hong_Kong
 Kowloon West End	Kowloon City	13	N	74.71	22.32848N	114.18514E	16	6	Asia/Hong_Kong
-Puerto Cortez	Cortes Department	07	N	48.013	15.82562N	87.92968W	10	5	America/Tegucigalpa
+Puerto Cortez	Cortes Department	07	N	142.311	15.82562N	87.92968W	10	7	America/Tegucigalpa
 Yoro	Yoro Department	07	R	15.774	15.13824N	87.12838W	649	5	America/Tegucigalpa
+Yorito	Yoro Department	07	N	19.824	15.06667N	87.28333W	787	5	America/Tegucigalpa
+Yamaranguila	Intibuca Department	07	N	21.633	14.28333N	88.24199W	1759	5	America/Tegucigalpa
 Villanueva	Cortes Department	07	N	31.571	15.31476N	87.99383W	85	5	America/Tegucigalpa
-Tocoa	Colon Department	07	N	30.785	15.68333N	86W	37	5	America/Tegucigalpa
+Villa de San Antonio	Comayagua Department	07	N	32.419	14.32594N	87.61351W	606	5	America/Tegucigalpa
+Victoria	Yoro Department	07	N	34.215	14.93761N	87.39354W	370	5	America/Tegucigalpa
+Tocoa	Colon Department	07	N	111.972	15.68333N	86W	37	7	America/Tegucigalpa
+Teupasenti	El Paraiso Department	07	N	43.477	14.21667N	86.7W	773	5	America/Tegucigalpa
 Tela	Atlantida Department	07	N	29.325	15.77425N	87.46731W	9	5	America/Tegucigalpa
 Tegucigalpa	Francisco Morazan Department	07	C	850.848	14.0818N	87.20681W	944	8	America/Tegucigalpa
-Siguatepeque	Comayagua Department	07	N	43.141	14.59691N	87.83102W	1082	5	America/Tegucigalpa
+Sulaco	Yoro Department	07	N	18.161	14.91667N	87.26667W	419	5	America/Tegucigalpa
+Sonaguera	Colon Department	07	N	48.087	15.63333N	86.33333W	145	5	America/Tegucigalpa
+Siguatepeque	Comayagua Department	07	N	127.468	14.59691N	87.83102W	1082	7	America/Tegucigalpa
+Saba	Colon Department	07	N	33.879	15.46667N	86.25W	390	5	America/Tegucigalpa
 Santa Rosa de Copan	Copan Department	07	R	27.753	14.77388N	88.7756W	1123	5	America/Tegucigalpa
+Santa Rita	Yoro Department	07	N	21.536	15.2N	87.88333W	52	5	America/Tegucigalpa
+Santa Cruz de Yojoa	Cortes Department	07	N	97.848	14.98086N	87.89091W	477	6	America/Tegucigalpa
 Santa Barbara	Santa Barbara Department	07	R	15.119	14.92217N	88.23756W	239	5	America/Tegucigalpa
 San Pedro Sula	Cortes Department	07	R	801.259	15.50585N	88.02588W	90	8	America/Tegucigalpa
+San Pedro de Copan	Copan Department	07	N	63.829	14.61667N	88.86667W	830	6	America/Tegucigalpa
+San Luis	Santa Barbara Department	07	N	24.606	15.12692N	88.43931W	734	5	America/Tegucigalpa
 San Lorenzo	Valle Department	07	N	22.289	13.42417N	87.44722W	16	5	America/Tegucigalpa
-Potrerillos	Cortes Department	07	N	15.707	15.23008N	87.96386W	48	5	America/Tegucigalpa
-Olanchito	Yoro Department	07	N	25.969	15.48131N	86.57415W	158	5	America/Tegucigalpa
+San Juan de Flores	Francisco Morazan Department	07	N	16.07	14.26667N	87.03333W	742	5	America/Tegucigalpa
+San Jose de Colinas	Santa Barbara Department	07	N	18.791	15.04101N	88.30186W	381	5	America/Tegucigalpa
+San Francisco de Yojoa	Cortes Department	07	N	24.74	15.01442N	87.9716W	308	5	America/Tegucigalpa
+San Antonio de Cortes	Cortes Department	07	N	22.884	15.11611N	88.04074W	587	5	America/Tegucigalpa
+Sabanagrande	Francisco Morazan Department	07	N	23.943	13.80778N	87.25917W	965	5	America/Tegucigalpa
+Quimistan	Santa Barbara Department	07	N	47.993	15.34752N	88.4052W	194	5	America/Tegucigalpa
+Potrerillos	Cortes Department	07	N	26.954	15.23008N	87.96386W	48	5	America/Tegucigalpa
+Omoa	Cortes Department	07	N	58.172	15.77603N	88.03833W	9	6	America/Tegucigalpa
+Olanchito	Yoro Department	07	N	124.286	15.48131N	86.57415W	158	7	America/Tegucigalpa
+Moroceli	El Paraiso Department	07	N	17.153	14.11667N	86.86667W	625	5	America/Tegucigalpa
+Marcovia	Choluteca Department	07	N	24.646	13.28806N	87.30972W	23	5	America/Tegucigalpa
+Macuelizo	Santa Barbara Department	07	N	34.401	15.31276N	88.54113W	266	5	America/Tegucigalpa
+Lepaera	Lempira Department	07	N	37.876	14.77876N	88.5902W	959	5	America/Tegucigalpa
 La Paz	La Paz Department	07	R	17.555	14.32124N	87.67589W	680	5	America/Tegucigalpa
+Langue	Valle Department	07	N	20.944	13.62083N	87.6525W	151	5	America/Tegucigalpa
 La Lima	Cortes Department	07	N	45.955	15.43333N	87.91667W	33	5	America/Tegucigalpa
+La Iguala	Lempira Department	07	N	26.805	14.61667N	88.46667W	926	5	America/Tegucigalpa
 La Ceiba	Atlantida Department	07	R	222.055	15.75971N	86.78221W	14	7	America/Tegucigalpa
 Juticalpa	Olancho Department	07	R	33.686	14.66438N	86.22246W	456	5	America/Tegucigalpa
+Iriona	Colon Department	07	N	21.207	15.96777N	85.09323W	6	5	America/Tegucigalpa
+Gualaco	Olancho Department	07	N	22.327	15.02521N	86.07076W	653	5	America/Tegucigalpa
+Esquias	Comayagua Department	07	N	21.009	14.74392N	87.3712W	669	5	America/Tegucigalpa
+Erandique	Lempira Department	07	N	15.633	14.23787N	88.46447W	1252	5	America/Tegucigalpa
+El Rosario	Comayagua Department	07	N	30.042	14.57909N	87.72677W	728	5	America/Tegucigalpa
 El Progreso	Yoro Department	07	N	100.81	15.4N	87.8W	48	7	America/Tegucigalpa
 El Paraiso	El Paraiso Department	07	N	18.779	13.86667N	86.55W	804	5	America/Tegucigalpa
-Danli	El Paraiso Department	07	N	44.799	14.03333N	86.58333W	763	5	America/Tegucigalpa
+El Negrito	Yoro Department	07	N	50.55	15.31667N	87.7W	231	6	America/Tegucigalpa
+Dulce Nombre de Culmi	Olancho Department	07	N	30.543	15.1N	85.53333W	526	5	America/Tegucigalpa
+Danli	El Paraiso Department	07	N	233.789	14.03333N	86.58333W	763	7	America/Tegucigalpa
+Cucuyagua	Copan Department	07	N	16.707	14.64777N	88.87385W	746	5	America/Tegucigalpa
+Corquin	Copan Department	07	N	19.145	14.56667N	88.86667W	909	5	America/Tegucigalpa
 Comayagua	Comayagua Department	07	R	58.784	14.45577N	87.63968W	551	6	America/Tegucigalpa
+Colomoncagua	Intibuca Department	07	N	18.484	13.95N	88.28333W	945	5	America/Tegucigalpa
 Cofradia	Cortes Department	07	N	20.353	15.4N	88.15W	111	5	America/Tegucigalpa
 Ciudad Choluteca	Choluteca Department	07	R	75.872	13.30569N	87.17882W	45	6	America/Tegucigalpa
 Choloma	Cortes Department	07	N	139.1	15.61444N	87.95302W	41	7	America/Tegucigalpa
+Catacamas	Olancho Department	07	N	140.548	14.85114N	85.89412W	449	7	America/Tegucigalpa
+Belen Gualcho	Ocotepeque Department	07	N	15.983	14.48333N	88.8W	1783	5	America/Tegucigalpa
+Azacualpa	Santa Barbara Department	07	N	20.21	14.71218N	88.0901W	370	5	America/Tegucigalpa
+Atima	Santa Barbara Department	07	N	17.648	14.93253N	88.48965W	723	5	America/Tegucigalpa
+Arizona	Atlantida Department	07	N	25.32	15.63333N	87.31667W	72	5	America/Tegucigalpa
+La Ceiba	Atlantida Department	07	N	215.973	15.76667N	86.83333W	4	7	America/Tegucigalpa
 Zapresic	Zagreb County	19	N	18.768	45.85639N	15.80778E	129	5	Europe/Zagreb
 Zagreb	Zagreb	19	C	663.592	45.81444N	15.97798E	135	8	Europe/Zagreb
 Zadar	Zadar	19	R	67.309	44.11578N	15.22514E	2	6	Europe/Zagreb
@@ -13216,11 +13277,11 @@ Thomazeau	Ouest	06	N	52.017	18.65297N	72.09391W	46	6	America/Port-au-Prince
 Terrier Rouge	Nord-Est	06	N	21.328	19.63634N	71.95483W	34	5	America/Port-au-Prince
 Saint-Raphael	Nord	06	N	37.739	19.43877N	72.1991W	377	5	America/Port-au-Prince
 Saint-Michel de l'Atalaye	Artibonite	06	N	95.216	19.37084N	72.33472W	430	6	America/Port-au-Prince
-Saint-Marc	Artibonite	06	N	66.226	19.11136N	72.70078W	-9999	6	America/Port-au-Prince
+Saint-Marc	Artibonite	06	N	266.642	19.11136N	72.70078W	-9999	7	America/Port-au-Prince
 Port-de-Paix	Nord-Ouest	06	R	306.217	19.93984N	72.83037W	11	7	America/Port-au-Prince
 Port-au-Prince	Ouest	06	C	1234.742	18.54349N	72.33881W	27	9	America/Port-au-Prince
 Tigwav	Ouest	06	N	117.504	18.43117N	72.86521W	16	7	America/Port-au-Prince
-Petionville	Ouest	06	N	283.052	18.5125N	72.28528W	389	7	America/Port-au-Prince
+Petionville	Ouest	06	N	376.834	18.5125N	72.28528W	389	7	America/Port-au-Prince
 Miragoane	Nippes	06	R	89.202	18.44599N	73.08957W	6	6	America/Port-au-Prince
 Lenbe	Nord	06	N	32.645	19.70603N	72.40336W	34	5	America/Port-au-Prince
 Leogane	Ouest	06	N	134.19	18.5111N	72.63343W	18	7	America/Port-au-Prince
@@ -13233,8 +13294,9 @@ Grand Gosier	Sud-Est	06	N	17.059	18.18543N	71.9182W	35	5	America/Port-au-Prince
 Grangwav	Ouest	06	N	49.288	18.4259N	72.76995W	23	5	America/Port-au-Prince
 Gonaives	Artibonite	06	R	84.961	19.44755N	72.68928W	5	6	America/Port-au-Prince
 Fond Parisien	Ouest	06	N	18.256	18.50547N	71.98122W	51	5	America/Port-au-Prince
+Dessalines	Artibonite	06	N	181.903	19.26177N	72.51611W	26	7	America/Port-au-Prince
 Desarmes	Artibonite	06	N	15.594	18.99345N	72.39058W	81	5	America/Port-au-Prince
-Delmas	Ouest	06	N	382.92	18.54478N	72.30036W	127	7	America/Port-au-Prince
+Delmas	Ouest	06	N	395.26	18.54478N	72.30036W	127	7	America/Port-au-Prince
 Croix-des-Bouquets	Ouest	06	N	229.127	18.57677N	72.22625W	69	7	America/Port-au-Prince
 Les Cayes	Sud	06	R	125.799	18.19199N	73.74948W	1	7	America/Port-au-Prince
 Cap-Haitien	Nord	06	R	134.815	19.75938N	72.19815W	7	7	America/Port-au-Prince
@@ -13250,7 +13312,7 @@ Szeged	Csongrad	17	R	160.766	46.253N	20.14824E	84	7	Europe/Budapest
 Szarvas	Bekes County	17	N	18.17	46.86667N	20.55E	82	5	Europe/Budapest
 Satoraljaujhely	Borsod-Abauj-Zemplen	17	N	18.052	48.39492N	21.65871E	108	5	Europe/Budapest
 Puspokladany	Hajdu-Bihar	17	N	15.99	47.31667N	21.11667E	86	5	Europe/Budapest
-Ozd	Borsod-Abauj-Zemplen	17	N	38.476	48.21667N	20.3E	175	5	Europe/Budapest
+Ozd	Borsod-Abauj-Zemplen	17	N	30.056	48.21667N	20.3E	175	5	Europe/Budapest
 Oroshaza	Bekes County	17	N	31.373	46.56667N	20.66667E	88	5	Europe/Budapest
 Nyiregyhaza	Szabolcs-Szatmar-Bereg	17	R	117.689	47.95539N	21.71671E	111	7	Europe/Budapest
 Miskolc	Borsod-Abauj-Zemplen	17	R	154.521	48.10327N	20.77806E	127	7	Europe/Budapest
@@ -13379,32 +13441,34 @@ Csepel-Csillagtelep	Budapest	17	N	18.527	47.40918N	19.05944E	91	5	Europe/Budapes
 Koezepso-Ferencvaros	Budapest	17	N	34.036	47.47305N	19.07971E	98	5	Europe/Budapest
 Ohegy	Budapest	17	N	25.842	47.47803N	19.1479E	129	5	Europe/Budapest
 Ujlipotvaros	Budapest	17	N	36.888	47.51606N	19.05279E	97	5	Europe/Budapest
+Alsorakos	Budapest	17	N	29.023	47.52791N	19.12287E	99	5	Europe/Budapest
 Tongging	North Sumatra	14	N	16	2.8985N	98.5231E	926	5	Asia/Jakarta
 Teluk Nibung	North Sumatra	14	N	25.146	3.001N	99.8164E	3	5	Asia/Jakarta
 Teluk Dalam	North Sumatra	14	N	25.78	0.5729N	97.8034E	41	5	Asia/Jakarta
 Tebingtinggi	North Sumatra	14	N	117.53	3.3285N	99.1625E	24	7	Asia/Jakarta
 Tarutung	North Sumatra	14	N	39.5	2.01467N	98.96548E	948	5	Asia/Jakarta
 Tanjungtiram	North Sumatra	14	N	25.118	4.0613N	98.3699E	2	5	Asia/Jakarta
-Tanjungbalai	North Sumatra	14	N	183.17	2.96667N	99.8E	4	7	Asia/Jakarta
+Tanjungbalai	North Sumatra	14	N	190.935	2.96667N	99.8E	4	7	Asia/Jakarta
 Sunggal	North Sumatra	14	N	157.914	3.5765N	98.6151E	32	7	Asia/Jakarta
 Stabat	North Sumatra	14	N	26.862	3.73335N	98.45025E	12	5	Asia/Jakarta
 Singkil	Aceh	14	N	46.8	2.2874N	97.7884E	5	5	Asia/Jakarta
 Sigli	Aceh	14	N	17.504	5.3848N	95.9609E	9	5	Asia/Jakarta
 Sidikalang	North Sumatra	14	N	50.671	2.74899N	98.3127E	1066	6	Asia/Jakarta
-Sibolga	North Sumatra	14	N	91.265	1.74016N	98.78117E	6	6	Asia/Jakarta
-Sabang	Aceh	14	N	42.066	5.88969N	95.31644E	16	5	Asia/Jakarta
+Sibolga	North Sumatra	14	N	92.244	1.74016N	98.78117E	6	6	Asia/Jakarta
+Sabang	Aceh	14	N	43.527	5.88969N	95.31644E	16	5	Asia/Jakarta
 Reuleuet	Aceh	14	N	40.393	5.21667N	96.28333E	9	5	Asia/Jakarta
 Rantauprapat	North Sumatra	14	N	103.009	2.1N	99.83333E	29	7	Asia/Jakarta
 Percut	North Sumatra	14	N	311.063	3.6253N	98.864E	11	7	Asia/Jakarta
 Perbaungan	North Sumatra	14	N	157.174	3.5679N	98.956E	19	7	Asia/Jakarta
-Pematangsiantar	North Sumatra	14	N	274.838	2.9595N	99.0687E	388	7	Asia/Jakarta
+Pematangsiantar	North Sumatra	14	N	279.198	2.9595N	99.0687E	388	7	Asia/Jakarta
 Paropo	North Sumatra	14	N	16.065	2.8663N	98.5211E	918	5	Asia/Jakarta
+Pangururan	North Sumatra	14	N	34.209	2.6081N	98.6961E	913	5	Asia/Jakarta
 Pangkalan Brandan	North Sumatra	14	N	25.542	4.0238N	98.2782E	5	5	Asia/Jakarta
-Padangsidempuan	North Sumatra	14	N	236.217	1.37952N	99.27146E	310	7	Asia/Jakarta
+Padangsidempuan	North Sumatra	14	N	243.843	1.37952N	99.27146E	310	7	Asia/Jakarta
 Meulaboh	Aceh	14	N	64.646	4.14402N	96.12664E	7	6	Asia/Jakarta
-Medan	North Sumatra	14	R	2435.252	3.58333N	98.66667E	26	9	Asia/Jakarta
-Lhokseumawe	Aceh	14	N	196.067	5.1801N	97.1507E	6	7	Asia/Jakarta
-Langsa	Aceh	14	N	194.73	4.4683N	97.9683E	10	7	Asia/Jakarta
+Medan	North Sumatra	14	R	2486.283	3.58333N	98.66667E	26	9	Asia/Jakarta
+Lhokseumawe	Aceh	14	N	200.876	5.1801N	97.1507E	6	7	Asia/Jakarta
+Langsa	Aceh	14	N	184.016	4.4683N	97.9683E	10	7	Asia/Jakarta
 Lahewa	North Sumatra	14	N	24.485	1.3943N	97.1675E	5	5	Asia/Jakarta
 Labuhan Deli	North Sumatra	14	N	49.668	3.879N	98.633E	2	5	Asia/Jakarta
 Kisaran	North Sumatra	14	N	141.915	2.9845N	99.6158E	20	7	Asia/Jakarta
@@ -13418,8 +13482,8 @@ Berastagi	North Sumatra	14	N	48.244	3.19468N	98.50889E	1402	5	Asia/Jakarta
 Belawan	North Sumatra	14	N	102.707	3.7755N	98.6832E	5	7	Asia/Jakarta
 Barus	North Sumatra	14	N	18.346	2.0106N	98.3982E	5	5	Asia/Jakarta
 Bandar	North Sumatra	14	N	31.442	2.05N	99.75E	73	5	Asia/Jakarta
-Banda Aceh	Aceh	14	R	255.029	5.54167N	95.33333E	9	7	Asia/Jakarta
-Yogyakarta	Yogyakarta	14	R	373.589	7.80139S	110.36472E	110	7	Asia/Jakarta
+Banda Aceh	Aceh	14	R	267.962	5.54167N	95.33333E	9	7	Asia/Jakarta
+Yogyakarta	Yogyakarta	14	R	375.699	7.80139S	110.36472E	110	7	Asia/Jakarta
 Wonosobo	Central Java	14	N	92.99	7.35889S	109.90306E	794	6	Asia/Jakarta
 Wonosari	Yogyakarta	14	N	87.454	7.96556S	110.60361E	181	6	Asia/Jakarta
 Wonopringgo	Central Java	14	N	38.429	6.98333S	109.61667E	45	5	Asia/Jakarta
@@ -13432,17 +13496,17 @@ Wedi	Central Java	14	N	55.3	7.74306S	110.57944E	148	6	Asia/Jakarta
 Watampone	South Sulawesi	14	N	149.336	4.5386S	120.3279E	34	7	Asia/Makassar
 Wangon	Central Java	14	N	35.53	7.51611S	109.05389E	32	5	Asia/Jakarta
 Wanaraja	West Java	14	N	26.24	7.1749S	107.9808E	724	5	Asia/Jakarta
-Wamena	Highland Papua	14	R	41.844	4.09583S	138.94806E	1488	5	Asia/Jayapura
+Wamena	Highland Papua	14	R	66.08	4.09583S	138.94806E	1488	6	Asia/Jayapura
 Waisai	Southwest Papua	14	N	22.541	0.2379S	130.5072E	185	5	Asia/Jayapura
 Waingapu	East Nusa Tenggara	14	N	35.932	9.6567S	120.2641E	26	5	Asia/Makassar
 Utan	Jakarta	14	N	28.745	6.17694S	106.94667E	10	5	Asia/Jakarta
 Ungaran	Central Java	14	N	171.378	7.13972S	110.405E	351	7	Asia/Jakarta
-Makassar	South Sulawesi	14	R	1423.877	5.14861S	119.43194E	6	9	Asia/Makassar
+Makassar	South Sulawesi	14	R	1474.393	5.14861S	119.43194E	6	9	Asia/Makassar
 Ubud	Bali	14	N	74.8	8.5098S	115.2654E	210	6	Asia/Makassar
 Tulungagung	East Java	14	N	65.262	8.0657S	111.9025E	89	6	Asia/Jakarta
 Tulangan Utara	East Java	14	N	63.889	7.4737S	112.6505E	8	6	Asia/Jakarta
 Tuban	East Java	14	N	76.242	6.8976S	112.0649E	13	6	Asia/Jakarta
-Tual	Maluku	14	N	90.007	5.62878S	132.75229E	41	6	Asia/Jayapura
+Tual	Maluku	14	N	90.47	5.62878S	132.75229E	41	6	Asia/Jayapura
 Trucuk	Central Java	14	N	23.584	7.71833S	110.65889E	123	5	Asia/Jakarta
 Trenggalek	East Java	14	N	29.083	8.0764S	111.70641E	113	5	Asia/Jakarta
 Tondano	North Sulawesi	14	N	33.317	1.3054N	124.91261E	693	5	Asia/Makassar
@@ -13450,15 +13514,15 @@ Tomohon	North Sulawesi	14	N	27.624	1.31678N	124.80379E	734	5	Asia/Makassar
 Tobelo	North Maluku	14	N	34.15	1.72837N	128.00948E	11	5	Asia/Jayapura
 Tiom	Highland Papua	14	N	21.324	3.92361S	138.45472E	2116	5	Asia/Jayapura
 Timika	Central Papua	14	N	142.909	4.61407S	136.67679E	21	7	Asia/Jayapura
-Ternate	North Maluku	14	N	204.92	0.79065N	127.38424E	23	7	Asia/Jayapura
+Ternate	North Maluku	14	N	210.836	0.79065N	127.38424E	23	7	Asia/Jayapura
 Terbanggi Besar	Lampung	14	N	52.566	4.87898S	105.21818E	29	6	Asia/Jakarta
 Teminabuan	Southwest Papua	14	N	19.491	1.4416S	132.01428E	35	5	Asia/Jayapura
-Tegal	Central Java	14	N	282.781	6.8694S	109.1402E	7	7	Asia/Jakarta
+Tegal	Central Java	14	N	297.173	6.8694S	109.1402E	7	7	Asia/Jakarta
 Tayu	Central Java	14	N	26.413	6.5397S	111.0518E	9	5	Asia/Jakarta
-Tasikmalaya	West Java	14	N	741.76	7.3274S	108.2207E	354	8	Asia/Jakarta
+Tasikmalaya	West Java	14	N	770.839	7.3274S	108.2207E	354	8	Asia/Jakarta
 Tarub	Central Java	14	N	75.739	6.93333S	109.16667E	22	6	Asia/Jakarta
-Tarakan	North Kalimantan	14	N	249.96	3.31332N	117.59152E	29	7	Asia/Makassar
-Tanjung Selor	North Kalimantan	14	R	56.569	2.8375N	117.36528E	9	6	Asia/Makassar
+Tarakan	North Kalimantan	14	N	255.31	3.31332N	117.59152E	29	7	Asia/Makassar
+Tanjung Selor	North Kalimantan	14	R	67.837	2.8375N	117.36528E	9	6	Asia/Makassar
 Tanjung Pinang	Riau Islands	14	N	227.663	0.91667N	104.45833E	39	7	Asia/Jakarta
 Tanjung Pandan	Bangka-Belitung Islands	14	N	103.062	2.73353S	107.63477E	8	7	Asia/Jakarta
 Bandar Lampung	Lampung	14	R	1166.066	5.42917S	105.26111E	95	9	Asia/Jakarta
@@ -13466,14 +13530,14 @@ Tanjung Balai	Riau Islands	14	N	48.953	1.00005N	103.42186E	9	5	Asia/Jakarta
 Tanjungagung	South Sumatra	14	N	53.117	3.93728S	103.80465E	129	6	Asia/Jakarta
 Tanjung	South Kalimantan	14	N	37.291	2.1709S	115.4077E	23	5	Asia/Makassar
 Tanggulangin	East Java	14	N	32.866	7.49958S	112.69992E	6	5	Asia/Jakarta
-Tangerang	Banten	14	N	1912.679	6.17806S	106.63E	18	9	Asia/Jakarta
+Tangerang	Banten	14	N	1927.815	6.17806S	106.63E	18	9	Asia/Jakarta
 Taliwang	West Nusa Tenggara	14	N	55.34	8.7449S	116.8532E	14	6	Asia/Makassar
 Tahuna	North Sulawesi	14	N	35.307	3.61099N	125.4858E	77	5	Asia/Makassar
 Tabanan	Bali	14	N	33.667	8.5413S	115.12522E	126	5	Asia/Makassar
 Surakarta	Central Java	14	N	526.87	7.55611S	110.83167E	100	8	Asia/Jakarta
-Surabaya	East Java	14	R	2874.314	7.24917S	112.75083E	8	9	Asia/Jakarta
+Surabaya	East Java	14	R	3018.022	7.24917S	112.75083E	8	9	Asia/Jakarta
 Sungai Raya	West Kalimantan	14	N	47.735	0.7N	108.9E	9	5	Asia/Pontianak
-Sungai Penuh	Jambi	14	N	99.233	2.0561S	101.3913E	811	6	Asia/Jakarta
+Sungai Penuh	Jambi	14	N	102.224	2.0561S	101.3913E	811	7	Asia/Jakarta
 Sungailiat	Bangka-Belitung Islands	14	N	100.75	1.85442S	106.12215E	4	7	Asia/Jakarta
 Sumenep	East Java	14	N	84.656	7.01152S	113.86042E	8	6	Asia/Jakarta
 Sumedang Utara	West Java	14	N	100	6.85S	107.91667E	467	7	Asia/Jakarta
@@ -13482,25 +13546,25 @@ Sumberpucung	East Java	14	N	35.285	8.15856S	112.48292E	302	5	Asia/Jakarta
 Sumber	West Java	14	N	96.725	6.76028S	108.48306E	72	6	Asia/Jakarta
 Sumbawa Besar	West Nusa Tenggara	14	N	62.753	8.49317S	117.42024E	14	6	Asia/Makassar
 Sokaraja	Central Java	14	N	66.482	7.45806S	109.28806E	48	6	Asia/Jakarta
-Sukabumi	West Java	14	N	360.644	6.91806S	106.92667E	613	7	Asia/Jakarta
+Sukabumi	West Java	14	N	365.735	6.91806S	106.92667E	613	7	Asia/Jakarta
 Subang	West Java	14	N	137.234	6.57S	107.75667E	96	7	Asia/Jakarta
 Srono	East Java	14	N	36.26	8.40003S	114.26661E	60	5	Asia/Jakarta
 Srandakan	Yogyakarta	14	N	29.529	7.93861S	110.25056E	23	5	Asia/Jakarta
 Sragen	Central Java	14	N	71.522	7.42639S	111.02222E	90	6	Asia/Jakarta
-Sorong	Southwest Papua	14	R	254.294	0.87956S	131.26104E	7	7	Asia/Jayapura
+Sorong	Southwest Papua	14	R	219.958	0.87956S	131.26104E	7	7	Asia/Jayapura
 Soreang	West Java	14	N	116.78	7.03306S	107.51833E	744	7	Asia/Jakarta
 Solok	West Sumatra	14	N	73.438	0.8006S	100.6571E	392	6	Asia/Jakarta
 Soko	East Java	14	N	25.494	7.48315S	112.42704E	28	5	Asia/Jakarta
-Sofifi	North Maluku	14	R	36.197	0.73729N	127.5588E	9	5	Asia/Jayapura
+Sofifi	North Maluku	14	R	27.591	0.73729N	127.5588E	9	5	Asia/Jayapura
 Soe	East Nusa Tenggara	14	N	40.19	9.86071S	124.28395E	852	5	Asia/Makassar
 Sleman	Yogyakarta	14	N	56.215	7.71556S	110.35556E	210	6	Asia/Jakarta
 Slawi	Central Java	14	N	61.206	6.9816S	109.1407E	43	6	Asia/Jakarta
 Situbondo	East Java	14	N	685.967	7.70623S	114.00976E	36	8	Asia/Jakarta
 Sintang	West Kalimantan	14	N	85	0.06667N	111.5E	24	6	Asia/Pontianak
 Sinjai	South Sulawesi	14	N	40.797	5.1241S	120.253E	6	5	Asia/Makassar
-Singosari	East Java	14	N	180.74	7.8924S	112.6658E	501	7	Asia/Jakarta
+Singosari	East Java	14	N	182.656	7.8924S	112.6658E	501	7	Asia/Jakarta
 Singojuruh	East Java	14	N	29.418	8.31667S	114.23333E	157	5	Asia/Jakarta
-Singkawang	West Kalimantan	14	N	246.112	0.90925N	108.98463E	2	7	Asia/Pontianak
+Singkawang	West Kalimantan	14	N	253.812	0.90925N	108.98463E	2	7	Asia/Pontianak
 Sengkang	South Sulawesi	14	N	59.523	4.1279S	120.0297E	23	6	Asia/Makassar
 Singaraja	Bali	14	N	133.784	8.112S	115.08818E	11	7	Asia/Makassar
 Singaparna	West Java	14	N	48.882	7.3515S	108.111E	430	5	Asia/Jakarta
@@ -13510,18 +13574,18 @@ Sidoarjo	East Java	14	N	139.189	7.4478S	112.7183E	5	7	Asia/Jakarta
 Sidareja	Central Java	14	N	30.313	7.4846S	108.7923E	8	5	Asia/Jakarta
 Sewon	Yogyakarta	14	N	73.585	7.87639S	110.35889E	57	6	Asia/Jakarta
 Serpong	West Java	14	N	80.193	6.31694S	106.66417E	49	6	Asia/Jakarta
-Serang	Banten	14	R	692.101	6.11528S	106.15417E	29	8	Asia/Jakarta
+Serang	Banten	14	R	735.651	6.11528S	106.15417E	29	8	Asia/Jakarta
 Sepatan	West Java	14	N	118.439	6.11889S	106.575E	11	7	Asia/Jakarta
-Semarang	Central Java	14	R	1653.524	6.99306S	110.42083E	18	9	Asia/Jakarta
+Semarang	Central Java	14	R	1694.74	6.99306S	110.42083E	18	9	Asia/Jakarta
 Selong	West Nusa Tenggara	14	N	92.464	8.6503S	116.5318E	156	6	Asia/Makassar
 Selogiri	Central Java	14	N	30.18	7.78333S	110.86667E	117	5	Asia/Jakarta
-Sawangan	West Java	14	N	165.631	6.40278S	106.77444E	88	7	Asia/Jakarta
+Sawangan	West Java	14	N	197.17	6.40278S	106.77444E	88	7	Asia/Jakarta
 Sangkapura	East Java	14	N	50.612	5.84525S	112.65173E	28	6	Asia/Jakarta
 Sanana	North Maluku	14	N	29.716	2.05853S	125.97786E	10	5	Asia/Jayapura
 Sampit	Central Kalimantan	14	N	166.773	2.5315S	112.9496E	5	7	Asia/Pontianak
 Sampang	East Java	14	N	53.269	7.1872S	113.2394E	5	6	Asia/Jakarta
-Samarinda	East Kalimantan	14	R	831.46	0.49167S	117.14583E	24	8	Asia/Makassar
-Salatiga	Central Java	14	N	201.369	7.33194S	110.49278E	571	7	Asia/Jakarta
+Samarinda	East Kalimantan	14	R	865.306	0.49167S	117.14583E	24	8	Asia/Makassar
+Salatiga	Central Java	14	N	198.971	7.33194S	110.49278E	571	7	Asia/Jakarta
 Ruteng	East Nusa Tenggara	14	N	41.533	8.61139S	120.46444E	1173	5	Asia/Makassar
 Rengasdengklok	West Java	14	N	201.463	6.15917S	107.29806E	10	7	Asia/Jakarta
 Rembangan	Central Java	14	N	44.03	6.7036S	111.3416E	11	5	Asia/Jakarta
@@ -13536,34 +13600,34 @@ Purwodadi	Central Java	14	N	139.387	7.0868S	110.9158E	29	7	Asia/Jakarta
 Purwakarta	West Java	14	N	179.233	6.55694S	107.44333E	86	7	Asia/Jakarta
 Purbalingga	Central Java	14	N	56.903	7.38806S	109.36389E	61	6	Asia/Jakarta
 Pundong	Yogyakarta	14	N	24.081	7.95222S	110.34861E	26	5	Asia/Jakarta
-Probolinggo	East Java	14	N	246.98	7.7543S	113.2159E	15	7	Asia/Jakarta
+Probolinggo	East Java	14	N	243.746	7.7543S	113.2159E	15	7	Asia/Jakarta
 Prigen	East Java	14	N	24.164	7.68333S	112.61667E	823	5	Asia/Jakarta
 Praya	West Nusa Tenggara	14	N	35.183	8.70536S	116.27036E	108	5	Asia/Makassar
 Candi Prambanan	Central Java	14	N	44.925	7.75S	110.49417E	157	5	Asia/Jakarta
 Poso	Central Sulawesi	14	N	47.477	1.3959S	120.7524E	10	5	Asia/Makassar
-Pontianak	West Kalimantan	14	R	658.685	0.03194S	109.325E	2	8	Asia/Pontianak
+Pontianak	West Kalimantan	14	R	686.019	0.03194S	109.325E	2	8	Asia/Pontianak
 Ponorogo	East Java	14	N	79.026	7.8685S	111.462E	103	6	Asia/Jakarta
 Polewali	West Sulawesi	14	N	65.8	3.4324S	119.3435E	6	6	Asia/Makassar
 Plumbon	West Java	14	N	167.105	6.705S	108.47278E	22	7	Asia/Jakarta
 Prabumulih	South Sumatra	14	N	103.47	3.43447S	104.23056E	51	7	Asia/Jakarta
-Pemangkat	West Kalimantan	14	N	34.029	1.16667N	108.96667E	1	5	Asia/Pontianak
+Pemangkat	West Kalimantan	14	N	54.259	1.16667N	108.96667E	1	6	Asia/Pontianak
 Pemalang	Central Java	14	N	184.149	6.89193S	109.38263E	12	7	Asia/Jakarta
 Pelabuhanratu	West Java	14	N	109.523	6.9875S	106.55139E	21	7	Asia/Jakarta
-Pekanbaru	Riau	14	R	1085	0.51667N	101.44167E	19	9	Asia/Jakarta
-Pekalongan	Central Java	14	N	317.524	6.8886S	109.6753E	10	7	Asia/Jakarta
+Pekanbaru	Riau	14	R	1167.599	0.51667N	101.44167E	19	9	Asia/Jakarta
+Pekalongan	Central Java	14	N	324.564	6.8886S	109.6753E	10	7	Asia/Jakarta
 Pecangaan	Central Java	14	N	61.046	6.6978S	110.7107E	18	6	Asia/Jakarta
 Payakumbuh	West Sumatra	14	N	139.576	0.2159S	100.6334E	517	7	Asia/Jakarta
 Pati	Central Java	14	N	107.028	6.7559S	111.038E	13	7	Asia/Jakarta
-Pasuruan	East Java	14	N	212.466	7.6453S	112.9075E	9	7	Asia/Jakarta
+Pasuruan	East Java	14	N	213.469	7.6453S	112.9075E	9	7	Asia/Jakarta
 Paseh	West Java	14	N	126.181	7.068S	107.794E	924	7	Asia/Jakarta
-Pasarkemis	West Java	14	N	273.659	6.17028S	106.53028E	20	7	Asia/Jakarta
-Parung	West Java	14	N	123.078	6.42139S	106.73306E	101	7	Asia/Jakarta
+Pasarkemis	West Java	14	N	263.289	6.17028S	106.53028E	20	7	Asia/Jakarta
+Parung	West Java	14	N	128.905	6.42139S	106.73306E	101	7	Asia/Jakarta
 Pariaman	West Sumatra	14	N	92.183	0.61898S	100.11997E	4	6	Asia/Jakarta
 Parepare	South Sulawesi	14	N	160.309	4.0135S	119.6255E	22	7	Asia/Makassar
-Pare	East Java	14	N	56.699	7.7679S	112.198E	141	6	Asia/Jakarta
+Pare	East Java	14	N	106.007	7.7679S	112.198E	141	7	Asia/Jakarta
 Panji	East Java	14	N	42.789	7.72528S	114.09954E	32	5	Asia/Jakarta
-Pangkalpinang	Bangka-Belitung Islands	14	R	216.893	2.12914S	106.11377E	10	7	Asia/Jakarta
-Pangkalanbuun	Central Kalimantan	14	N	38.057	2.6832S	111.6259E	16	5	Asia/Pontianak
+Pangkalpinang	Bangka-Belitung Islands	14	R	226.297	2.12914S	106.11377E	10	7	Asia/Jakarta
+Pangkalanbuun	Central Kalimantan	14	N	108.814	2.6832S	111.6259E	16	7	Asia/Pontianak
 Pandeglang	Banten	14	N	92.316	6.3084S	106.1067E	253	6	Asia/Jakarta
 Pandaan	East Java	14	N	34.184	7.65268S	112.6875E	196	5	Asia/Jakarta
 Pandak	Yogyakarta	14	N	56.043	7.91306S	110.29361E	34	6	Asia/Jakarta
@@ -13572,27 +13636,27 @@ Pamulang	West Java	14	N	174.557	6.34278S	106.73833E	65	7	Asia/Jakarta
 Pameungpeuk	West Java	14	N	48.294	7.01833S	107.60389E	665	5	Asia/Jakarta
 Pamekasan	East Java	14	N	92.447	7.1568S	113.4746E	18	6	Asia/Jakarta
 Pamanukan	West Java	14	N	114.29	6.28417S	107.81056E	10	7	Asia/Jakarta
-Palu	Central Sulawesi	14	R	373.218	0.90833S	119.87083E	9	7	Asia/Makassar
-Palopo	South Sulawesi	14	N	190.867	2.9925S	120.19694E	8	7	Asia/Makassar
+Palu	Central Sulawesi	14	R	389.959	0.90833S	119.87083E	9	7	Asia/Makassar
+Palopo	South Sulawesi	14	N	184.961	2.9925S	120.19694E	8	7	Asia/Makassar
 Palimanan	West Java	14	N	92.6	6.70694S	108.42417E	26	6	Asia/Jakarta
-Palembang	South Sumatra	14	R	1668.848	2.91673S	104.7458E	5	9	Asia/Jakarta
-Palangkaraya	Central Kalimantan	14	R	293.5	2.20833S	113.91667E	16	7	Asia/Pontianak
+Palembang	South Sumatra	14	R	1801.367	2.91673S	104.7458E	5	9	Asia/Jakarta
+Palangkaraya	Central Kalimantan	14	R	318.247	2.20833S	113.91667E	16	7	Asia/Pontianak
 Pakisaji	East Java	14	N	30.213	8.0665S	112.5981E	393	5	Asia/Jakarta
 Pagar Alam	South Sumatra	14	N	70.386	4.02506S	103.24694E	720	6	Asia/Jakarta
 Padangpanjang	West Sumatra	14	N	58.627	0.45602S	100.40521E	824	6	Asia/Jakarta
-Padang	West Sumatra	14	R	909.04	0.94924S	100.35427E	6	8	Asia/Jakarta
+Padang	West Sumatra	14	R	942.938	0.94924S	100.35427E	6	8	Asia/Jakarta
 Paciran	East Java	14	N	27.072	6.87666S	112.37606E	5	5	Asia/Jakarta
 Nunukan	North Kalimantan	14	N	67.006	4.13841N	117.6507E	19	6	Asia/Makassar
 Ngunut	East Java	14	N	26.297	8.1058S	112.01591E	110	5	Asia/Jakarta
 Ngoro	East Java	14	N	22.871	7.68386S	112.25804E	93	5	Asia/Jakarta
 Ngawi	East Java	14	N	22.412	7.4038S	111.4461E	57	5	Asia/Jakarta
 Nganjuk	East Java	14	N	69.011	7.6051S	111.9035E	59	6	Asia/Jakarta
-Negara	Bali	14	N	33.191	8.35694S	114.61694E	12	5	Asia/Makassar
+Negara	Bali	14	N	100.074	8.35694S	114.61694E	12	7	Asia/Makassar
 Namrole	Maluku	14	N	21.513	3.84548S	126.72619E	13	5	Asia/Jayapura
 Namlea	Maluku	14	N	37.869	3.26194S	127.09292E	34	5	Asia/Jayapura
-Nabire	Central Papua	14	R	43.898	3.35989S	135.50074E	8	5	Asia/Jayapura
+Nabire	Central Papua	14	R	99.848	3.35989S	135.50074E	8	6	Asia/Jayapura
 Muntok	Bangka-Belitung Islands	14	N	26.709	2.06719S	105.16228E	8	5	Asia/Jakarta
-Muntilan	Central Java	14	N	44.859	7.58111S	110.29278E	377	5	Asia/Jakarta
+Muntilan	Central Java	14	N	81.555	7.58111S	110.29278E	377	6	Asia/Jakarta
 Muncar	East Java	14	N	64.537	8.43333S	114.33333E	6	6	Asia/Jakarta
 Mulia	Central Papua	14	N	35.884	3.71472S	137.98528E	2106	5	Asia/Jayapura
 Muara Teweh	Central Kalimantan	14	N	46.652	0.94734S	114.8962E	31	5	Asia/Pontianak
@@ -13601,27 +13665,27 @@ Mranggen	Central Java	14	N	28.026	7.0268S	110.5158E	20	5	Asia/Jakarta
 Mojokerto	East Java	14	N	141.785	7.4664S	112.4338E	25	7	Asia/Jakarta
 Mojoagung	East Java	14	N	23.534	7.56667S	112.35E	37	5	Asia/Jakarta
 Mlonggo	Central Java	14	N	33.542	6.53333S	110.7E	18	5	Asia/Jakarta
-Metro	Lampung	14	N	178.381	5.11306S	105.30667E	62	7	Asia/Jakarta
+Metro	Lampung	14	N	182.293	5.11306S	105.30667E	62	7	Asia/Jakarta
 Mertoyudan	Central Java	14	N	69.871	7.52S	110.22639E	351	6	Asia/Jakarta
 Melati	Yogyakarta	14	N	67.09	7.73333S	110.36667E	187	6	Asia/Jakarta
 Maumere	East Nusa Tenggara	14	N	87.72	8.6199S	122.2111E	18	6	Asia/Makassar
-Mataram	West Nusa Tenggara	14	R	429.651	8.58333S	116.11667E	24	7	Asia/Makassar
+Mataram	West Nusa Tenggara	14	R	441.147	8.58333S	116.11667E	24	7	Asia/Makassar
 Masamba	South Sulawesi	14	N	38.024	2.5537S	120.3279E	42	5	Asia/Makassar
 Martapura	South Kalimantan	14	N	131.449	3.4109S	114.8642E	6	7	Asia/Makassar
 Maros	South Sulawesi	14	N	30	5.006S	119.5727E	9	5	Asia/Makassar
 Margasari	Central Java	14	N	27.814	7.09484S	109.025E	51	5	Asia/Jakarta
 Margahayukencana	West Java	14	N	83.119	6.97083S	107.5675E	668	6	Asia/Jakarta
-Manokwari	West Papua	14	R	107.325	0.86291S	134.06402E	15	7	Asia/Jayapura
+Manokwari	West Papua	14	R	132.3	0.86291S	134.06402E	15	7	Asia/Jayapura
 Manismata	West Kalimantan	14	N	18.888	2.46667S	111.03333E	29	5	Asia/Pontianak
 Manggar	Bangka-Belitung Islands	14	N	39.135	2.88333S	108.26667E	2	5	Asia/Jakarta
 Mendaha	Jambi	14	N	56.268	1.0163S	103.59331E	5	6	Asia/Jakarta
-Manado	North Sulawesi	14	R	451.916	1.48218N	124.84892E	10	7	Asia/Makassar
+Manado	North Sulawesi	14	R	458.582	1.48218N	124.84892E	10	7	Asia/Makassar
 Malinau	North Kalimantan	14	N	25.596	3.58855N	116.62391E	5	5	Asia/Makassar
-Malang	East Java	14	N	847.182	7.9797S	112.6304E	452	8	Asia/Jakarta
+Malang	East Java	14	N	889.359	7.9797S	112.6304E	452	8	Asia/Jakarta
 Majene	West Sulawesi	14	N	73.883	3.5403S	118.9707E	8	6	Asia/Makassar
 Majenang	Central Java	14	N	38.897	7.2975S	108.7642E	40	5	Asia/Jakarta
 Majalengka	West Java	14	N	73.052	6.83611S	108.22778E	126	6	Asia/Jakarta
-Magelang	Central Java	14	N	121.526	7.47056S	110.21778E	379	7	Asia/Jakarta
+Magelang	Central Java	14	N	128.709	7.47056S	110.21778E	379	7	Asia/Jakarta
 Madiun	East Java	14	N	202.544	7.6298S	111.5239E	69	7	Asia/Jakarta
 Luwuk	Central Sulawesi	14	N	47.778	0.9516S	122.7875E	17	5	Asia/Makassar
 Lumajang	East Java	14	N	123.626	8.1335S	113.2248E	56	7	Asia/Jakarta
@@ -13647,18 +13711,18 @@ Krian	East Java	14	N	38.603	7.4104S	112.5792E	17	5	Asia/Jakarta
 Kresek	West Java	14	N	110.182	6.13139S	106.37972E	16	7	Asia/Jakarta
 Kraksaan	East Java	14	N	28.248	7.75845S	113.39624E	1	5	Asia/Jakarta
 Kotabumi	Lampung	14	N	42.366	4.82505S	104.8817E	37	5	Asia/Jakarta
-Klungkung	Bali	14	N	27.836	8.53333S	115.4E	95	5	Asia/Makassar
+Klungkung	Bali	14	N	223.72	8.53333S	115.4E	95	7	Asia/Makassar
 Klaten	Central Java	14	N	126.831	7.70583S	110.60639E	159	7	Asia/Jakarta
 Klangenan	West Java	14	N	88.378	6.70944S	108.44E	25	6	Asia/Jakarta
 Ketanggungan	Central Java	14	N	44.288	6.9383S	108.891E	16	5	Asia/Jakarta
 Kertosono	East Java	14	N	60.782	7.58333S	112.1E	43	6	Asia/Jakarta
 Kepanjen	East Java	14	N	51.919	8.1303S	112.5727E	341	6	Asia/Jakarta
-Kendari	Southeast Sulawesi	14	R	345.107	3.9778S	122.51507E	2	7	Asia/Makassar
+Kendari	Southeast Sulawesi	14	R	351.085	3.9778S	122.51507E	2	7	Asia/Makassar
 Kencong	East Java	14	N	43.046	8.28333S	113.36667E	11	5	Asia/Jakarta
 Kefamenanu	East Nusa Tenggara	14	N	48.202	9.44667S	124.47806E	409	5	Asia/Makassar
 Kedungwuni	Central Java	14	N	117.249	6.97038S	109.64794E	17	7	Asia/Jakarta
 Kedungwaru	East Java	14	N	80.257	8.06667S	111.91667E	90	6	Asia/Jakarta
-Kediri	East Java	14	N	235.143	7.81667S	112.01667E	74	7	Asia/Jakarta
+Kediri	East Java	14	N	301.424	7.81667S	112.01667E	74	7	Asia/Jakarta
 Kebonarun	Central Java	14	N	21.745	7.70028S	110.56306E	193	5	Asia/Jakarta
 Kebomas	East Java	14	N	75.982	7.16667S	112.6333E	36	6	Asia/Jakarta
 Kawasi	North Maluku	14	N	29.642	1.59122S	127.40707E	3	5	Asia/Jayapura
@@ -13667,7 +13731,7 @@ Katobu	Southeast Sulawesi	14	N	31.929	4.8299S	122.726E	1	5	Asia/Makassar
 Karawang	West Java	14	N	307.88	6.30525S	107.3197E	12	7	Asia/Jakarta
 Karangsembung	West Java	14	N	75.856	6.8487S	108.6422E	14	6	Asia/Jakarta
 Amlapura	Bali	14	N	31.869	8.45S	115.61667E	86	5	Asia/Makassar
-Karanganom	Central Java	14	N	50.67	7.64889S	110.625E	217	6	Asia/Jakarta
+Karanganom	Central Java	14	N	47.179	7.64889S	110.625E	217	5	Asia/Jakarta
 Karangampel	West Java	14	N	31.234	6.46222S	108.45194E	7	5	Asia/Jakarta
 Kamal	East Java	14	N	22.515	7.16778S	112.71917E	7	5	Asia/Jakarta
 Kalianget	East Java	14	N	23.897	7.0537S	113.94244E	14	5	Asia/Jakarta
@@ -13682,15 +13746,15 @@ Jatiwangi	West Java	14	N	57.973	6.73361S	108.26278E	47	6	Asia/Jakarta
 Jatiroto	Central Java	14	N	50.059	7.88333S	111.11667E	265	6	Asia/Jakarta
 Jatibarang	West Java	14	N	73.01	6.47472S	108.31528E	12	6	Asia/Jakarta
 Jaten	Central Java	14	N	32.378	7.57722S	110.8975E	113	5	Asia/Jakarta
-Jambi City	Jambi	14	R	606.2	1.6S	103.61667E	21	8	Asia/Jakarta
+Jambi City	Jambi	14	R	635.101	1.6S	103.61667E	21	8	Asia/Jakarta
 Jakarta	Jakarta	14	C	8540.121	6.21462S	106.84513E	16	9	Asia/Jakarta
 Indramayu	West Java	14	N	123.263	6.32639S	108.32E	5	7	Asia/Jakarta
 Indralaya	South Sumatra	14	N	42.498	3.25249S	104.67555E	8	5	Asia/Jakarta
 Grogol	Central Java	14	N	100.613	7.60111S	110.81861E	93	7	Asia/Jakarta
 Gresik	East Java	14	N	73.629	7.15389S	112.65611E	10	6	Asia/Jakarta
-Gorontalo	Gorontalo	14	R	198.539	0.5375N	123.0625E	11	7	Asia/Makassar
+Gorontalo	Gorontalo	14	R	205.39	0.5375N	123.0625E	11	7	Asia/Makassar
 Gongdanglegi Kulon	East Java	14	N	22.468	8.17529S	112.63594E	360	5	Asia/Jakarta
-Gombong	Central Java	14	N	50.2	7.60722S	109.51417E	26	6	Asia/Jakarta
+Gombong	Central Java	14	N	50.95	7.60722S	109.51417E	26	6	Asia/Jakarta
 Godean	Yogyakarta	14	N	63.164	7.76972S	110.29389E	121	6	Asia/Jakarta
 Genteng	East Java	14	N	79.652	8.36667S	114.15E	172	6	Asia/Jakarta
 Gedangan	East Java	14	N	79.23	7.39083S	112.72667E	5	6	Asia/Jakarta
@@ -13701,15 +13765,15 @@ Gambiran Satu	East Java	14	N	22.525	8.3939S	114.1464E	143	5	Asia/Jakarta
 Galesong	South Sulawesi	14	N	83.05	5.3166S	119.3661E	12	6	Asia/Makassar
 Fakfak	Papua	14	N	18.9	2.92481S	132.29813E	71	5	Asia/Jayapura
 Ende	East Nusa Tenggara	14	N	87.269	8.8432S	121.6623E	31	6	Asia/Makassar
-Dumai	Riau	14	N	331.832	1.66711N	101.44316E	7	7	Asia/Jakarta
+Dumai	Riau	14	N	349.389	1.66711N	101.44316E	7	7	Asia/Jakarta
 Dukuhturi	Central Java	14	N	98.074	6.9S	109.08333E	4	6	Asia/Jakarta
 Driyorejo	East Java	14	N	26.827	7.3659S	112.6219E	13	5	Asia/Jakarta
 Dompu	West Nusa Tenggara	14	N	54.987	8.5365S	118.4634E	32	6	Asia/Makassar
 Dobo	Maluku	14	N	52.104	5.76092S	134.23405E	5	6	Asia/Jayapura
 Diwek	East Java	14	N	41.719	7.57897S	112.23109E	53	5	Asia/Jakarta
 Depok	Yogyakarta	14	N	104.527	7.7625S	110.43167E	154	7	Asia/Jakarta
-Depok	West Java	14	N	2145.4	6.4S	106.81861E	92	9	Asia/Jakarta
-Denpasar	Bali	14	R	725.314	8.65S	115.21667E	33	8	Asia/Makassar
+Depok	West Java	14	N	2163.635	6.4S	106.81861E	92	9	Asia/Jakarta
+Denpasar	Bali	14	R	670.21	8.65S	115.21667E	33	8	Asia/Makassar
 Demak	Central Java	14	N	27.251	6.8909S	110.6396E	9	5	Asia/Jakarta
 Delanggu	Central Java	14	N	24.44	7.61667S	110.68333E	153	5	Asia/Jakarta
 Daruba	North Maluku	14	N	23.566	2.05049N	128.29398E	8	5	Asia/Jayapura
@@ -13719,15 +13783,15 @@ Curug	Banten	14	N	191.406	6.26583S	106.55639E	39	7	Asia/Jakarta
 Comal	Central Java	14	N	51.092	6.9053S	109.5347E	13	6	Asia/Jakarta
 Colomadu	Central Java	14	N	26.274	7.53333S	110.75E	128	5	Asia/Jakarta
 Citeureup	West Java	14	N	214.668	6.48556S	106.88194E	136	7	Asia/Jakarta
-Cirebon	West Java	14	N	341.98	6.7063S	108.557E	8	7	Asia/Jakarta
+Cirebon	West Java	14	N	344.851	6.7063S	108.557E	8	7	Asia/Jakarta
 Ciputat	West Java	14	N	207.858	6.2375S	106.69556E	23	7	Asia/Jakarta
-Cimahi	West Java	14	N	590.782	6.87222S	107.5425E	764	8	Asia/Jakarta
+Cimahi	West Java	14	N	581.994	6.87222S	107.5425E	764	8	Asia/Jakarta
 Cileunyi	West Java	14	N	111.476	6.93889S	107.75278E	703	7	Asia/Jakarta
-Cileungsir	West Java	14	N	288.347	6.39472S	106.95917E	78	7	Asia/Jakarta
-Cilegon	Banten	14	N	450.271	6.0144S	106.0542E	18	7	Asia/Jakarta
+Cileungsir	West Java	14	N	289.833	6.39472S	106.95917E	78	7	Asia/Jakarta
+Cilegon	Banten	14	N	470.378	6.0144S	106.0542E	18	7	Asia/Jakarta
 Cilacap	Central Java	14	N	256.996	7.72639S	109.00944E	10	7	Asia/Jakarta
 Cikarang	West Java	14	N	106.479	6.26111S	107.15278E	17	7	Asia/Jakarta
-Cikampek	West Java	14	N	145.62	6.41972S	107.45583E	61	7	Asia/Jakarta
+Cikampek	West Java	14	N	127.173	6.41972S	107.45583E	61	7	Asia/Jakarta
 Cicurug	West Java	14	N	88.965	6.78139S	106.7825E	502	6	Asia/Jakarta
 Cibinong	West Java	14	N	363.424	6.48167S	106.85417E	137	7	Asia/Jakarta
 Cianjur	West Java	14	N	174.587	6.82222S	107.13944E	456	7	Asia/Jakarta
@@ -13743,37 +13807,38 @@ Buduran	East Java	14	N	48.152	7.4281S	112.7234E	6	5	Asia/Jakarta
 Buaran	Central Java	14	N	38.77	7.05S	109.55E	21	5	Asia/Jakarta
 Boyolangu	East Java	14	N	32.287	8.1181S	111.8935E	94	5	Asia/Jakarta
 Boyolali	Central Java	14	N	59.851	7.53306S	110.59583E	438	6	Asia/Jakarta
-Bontang	East Kalimantan	14	N	189.968	0.1324N	117.4854E	10	7	Asia/Makassar
+Bontang	East Kalimantan	14	N	194.606	0.1324N	117.4854E	10	7	Asia/Makassar
 Bondowoso	East Java	14	N	69.783	7.91346S	113.82145E	258	6	Asia/Jakarta
 Bojonegoro	East Java	14	N	86.568	7.1502S	111.8817E	24	6	Asia/Jakarta
-Bogor	West Java	14	N	1127.408	6.59444S	106.78917E	245	9	Asia/Jakarta
+Bogor	West Java	14	N	1078.351	6.59444S	106.78917E	245	9	Asia/Jakarta
 Blora	Central Java	14	N	51.811	6.9698S	111.4186E	89	6	Asia/Jakarta
-Blitar	East Java	14	N	150.371	8.0983S	112.1681E	180	7	Asia/Jakarta
+Blitar	East Java	14	N	161.204	8.0983S	112.1681E	180	7	Asia/Jakarta
 Bitung	North Sulawesi	14	N	225.134	1.44059N	125.12824E	21	7	Asia/Makassar
 Bintuni	West Papua	14	N	24.742	2.10967S	133.52461E	12	5	Asia/Jayapura
-Bima	West Nusa Tenggara	14	N	161.362	8.46006S	118.72667E	15	7	Asia/Makassar
+Bima	West Nusa Tenggara	14	N	165.113	8.46006S	118.72667E	15	7	Asia/Makassar
 Biak	Papua	14	N	41.731	1.1767S	136.082E	10	5	Asia/Jayapura
 Besuki	East Java	14	N	55.465	7.73379S	113.69785E	6	6	Asia/Jakarta
 Benoa	Bali	14	N	39.57	8.7548S	115.2184E	7	5	Asia/Makassar
-Bengkulu	Bengkulu	14	R	373.591	3.80044S	102.26554E	19	7	Asia/Jakarta
+Bengkulu	Bengkulu	14	R	397.321	3.80044S	102.26554E	19	7	Asia/Jakarta
 Bengkayang	West Kalimantan	14	N	33.385	0.83194N	109.43589E	106	5	Asia/Pontianak
-Bekasi	West Java	14	N	2564.94	6.2349S	106.9896E	18	9	Asia/Jakarta
+Bekasi	West Java	14	N	2648.272	6.2349S	106.9896E	18	9	Asia/Jakarta
 Baubau	Southeast Sulawesi	14	N	161.28	5.4633S	122.6024E	15	7	Asia/Makassar
 Baturaja	South Sumatra	14	N	134.759	4.12891S	104.16695E	69	7	Asia/Jakarta
 Baturaden	Central Java	14	N	42.394	7.3S	109.21667E	980	5	Asia/Jakarta
-Batu	East Java	14	N	221.714	7.87S	112.52833E	881	7	Asia/Jakarta
-Batang	Central Java	14	N	136.145	6.4846S	110.7083E	14	7	Asia/Jakarta
-Barabai	South Kalimantan	14	N	55.687	2.58333S	115.38333E	16	6	Asia/Makassar
+Batu	East Java	14	N	225.408	7.87S	112.52833E	881	7	Asia/Jakarta
+Batang	Central Java	14	N	139.492	6.4846S	110.7083E	14	7	Asia/Jakarta
+Barabai	South Kalimantan	14	N	55.956	2.58333S	115.38333E	16	6	Asia/Makassar
 Banyuwangi	East Java	14	N	117.558	8.2325S	114.35755E	24	7	Asia/Jakarta
 Banyumas	Central Java	14	N	48.378	7.51417S	109.29417E	28	5	Asia/Jakarta
 Bantul	Yogyakarta	14	N	64.36	7.88806S	110.32889E	49	6	Asia/Jakarta
 Banjarmasin	South Kalimantan	14	N	657.663	3.31987S	114.59075E	8	8	Asia/Makassar
+Banjarbaru	South Kalimantan	14	R	293.332	3.4406S	114.8365E	28	7	Asia/Makassar
 Banjaran	West Java	14	N	164.952	7.04528S	107.58778E	674	7	Asia/Jakarta
 Banjar	Bali	14	N	89.04	8.19S	114.9675E	15	6	Asia/Makassar
-Banjar	West Java	14	N	200.97	7.1955S	107.4313E	1874	7	Asia/Jakarta
+Banjar	West Java	14	N	209.791	7.1955S	107.4313E	1874	7	Asia/Jakarta
 Bangkalan	East Java	14	N	86.25	7.0455S	112.7351E	4	6	Asia/Jakarta
-Bangil	East Java	14	N	120.551	7.59939S	112.8186E	2	7	Asia/Jakarta
-Bandung	West Java	14	R	2444.16	6.92222S	107.60694E	714	9	Asia/Jakarta
+Bangil	East Java	14	N	85.504	7.59939S	112.8186E	2	6	Asia/Jakarta
+Bandung	West Java	14	R	2528.163	6.92222S	107.60694E	714	9	Asia/Jakarta
 Bambanglipuro	Yogyakarta	14	N	44.713	7.95S	110.28333E	37	5	Asia/Jakarta
 Balung	East Java	14	N	47.631	7.73333S	113.91667E	27	5	Asia/Jakarta
 Balikpapan	East Kalimantan	14	N	695.287	1.26753S	116.82887E	67	8	Asia/Makassar
@@ -13787,28 +13852,28 @@ Astanajapura	West Java	14	N	148.047	6.8017S	108.6311E	6	7	Asia/Jakarta
 Arjawinangun	West Java	14	N	105.845	6.64528S	108.41028E	14	7	Asia/Jakarta
 Amuntai	South Kalimantan	14	N	55.56	2.41773S	115.24941E	10	6	Asia/Makassar
 Ambon	Maluku	14	R	347.288	3.69583S	128.18333E	12	7	Asia/Jayapura
-Ambarawa	Central Java	14	N	63.193	7.26333S	110.3975E	481	6	Asia/Jakarta
-Amahai	Maluku	14	N	47.653	3.33984S	128.91975E	6	5	Asia/Jayapura
+Ambarawa	Central Java	14	N	65.096	7.26333S	110.3975E	481	6	Asia/Jakarta
+Amahai	Maluku	14	N	50.478	3.33984S	128.91975E	6	6	Asia/Jayapura
 Agats	South Papua	14	N	23.869	5.54505S	138.13522E	4	5	Asia/Jayapura
 Adiwerna	Central Java	14	N	134.188	6.9375S	109.1325E	23	7	Asia/Jakarta
-Padalarang	West Java	14	N	184.182	6.83778S	107.47278E	703	7	Asia/Jakarta
+Padalarang	West Java	14	N	193.114	6.83778S	107.47278E	703	7	Asia/Jakarta
 Ciranjang-hilir	West Java	14	N	77.758	6.82S	107.25722E	266	6	Asia/Jakarta
 Leuwiliang	West Java	14	N	15.275	7.11694S	107.50194E	1143	5	Asia/Jakarta
 Cikupa	West Java	14	N	174.041	6.23639S	106.50833E	30	7	Asia/Jakarta
-Teluknaga	West Java	14	N	128.275	6.09889S	106.63806E	8	7	Asia/Jakarta
+Teluknaga	West Java	14	N	175.155	6.09889S	106.63806E	8	7	Asia/Jakarta
 Karangnongko	Central Java	14	N	37.42	7.79556S	110.58667E	130	5	Asia/Jakarta
 Gamping Lor	Yogyakarta	14	N	66.11	7.79556S	110.32639E	105	6	Asia/Jakarta
 Kasihan	Yogyakarta	14	N	86.234	7.82694S	110.32917E	86	6	Asia/Jakarta
 Ngemplak	Central Java	14	N	23.75	7.54972S	110.71639E	143	5	Asia/Jakarta
 Kartasura	Central Java	14	N	88.927	7.55194S	110.73778E	134	6	Asia/Jakarta
 Gatak	Central Java	14	N	48.959	7.59083S	110.70444E	144	5	Asia/Jakarta
-Kupang	East Nusa Tenggara	14	R	442.758	10.17083S	123.60694E	94	7	Asia/Makassar
+Kupang	East Nusa Tenggara	14	R	474.801	10.17083S	123.60694E	94	7	Asia/Makassar
 Sentani	Papua	14	N	44.779	2.5691S	140.5127E	100	5	Asia/Jayapura
-Merauke	South Papua	14	R	102.351	8.49958S	140.40613E	8	7	Asia/Jayapura
-Jayapura	Papua	14	R	404.004	2.53371S	140.71813E	11	7	Asia/Jayapura
+Merauke	South Papua	14	R	116.864	8.49958S	140.40613E	8	7	Asia/Jayapura
+Jayapura	Papua	14	R	410.852	2.53371S	140.71813E	11	7	Asia/Jayapura
 Abepura	Papua	14	N	62.248	2.5964S	140.6324E	85	6	Asia/Jayapura
-Batam	Riau	14	N	1164.352	1.14937N	104.02491E	38	9	Asia/Jakarta
-Subulussalam	Aceh	14	N	90.751	2.662N	97.8827E	29	6	Asia/Jakarta
+Batam	Riau	14	N	1296.96	1.14937N	104.02491E	38	9	Asia/Jakarta
+Subulussalam	Aceh	14	N	105.553	2.662N	97.8827E	29	7	Asia/Jakarta
 Seririt	Bali	14	N	25	8.1928S	114.9388E	17	5	Asia/Makassar
 Bedugul	Bali	14	N	20	8.4504S	115.5925E	155	5	Asia/Makassar
 Sukawati	Bali	14	N	125.47	8.4913S	115.0459E	159	7	Asia/Makassar
@@ -13816,47 +13881,48 @@ Tambolaka	East Nusa Tenggara	14	N	35.79	9.4283S	119.238E	79	5	Asia/Makassar
 Tuban	Bali	14	N	22.947	8.7427S	115.1724E	7	5	Asia/Makassar
 Batubulan	Bali	14	N	28.131	8.62379S	115.26203E	36	5	Asia/Makassar
 Pekan Bahapal	North Sumatra	14	N	40	3.11313N	99.17352E	128	5	Asia/Jakarta
-South Tangerang	Banten	14	N	1404.785	6.28862S	106.71789E	39	9	Asia/Jakarta
+South Tangerang	Banten	14	N	1429.529	6.28862S	106.71789E	39	9	Asia/Jakarta
 Masohi	Maluku	14	N	36.433	3.29833S	128.96882E	21	5	Asia/Jayapura
 Amlapura city	Bali	14	N	31.869	8.44869S	115.60621E	114	5	Asia/Makassar
 Kota Sambas	West Kalimantan	14	N	57.295	1.36259N	109.30093E	23	6	Asia/Ho_Chi_Minh
 Dalung	Bali	14	N	30.228	8.62553S	115.17042E	52	5	Asia/Makassar
 Wexford	Leinster	18	N	19.913	52.33417N	6.4575W	5	5	Europe/Dublin
-Waterford	Munster	18	N	53.504	52.25833N	7.11194W	10	6	Europe/Dublin
+Waterford	Munster	18	N	60.079	52.25833N	7.11194W	10	6	Europe/Dublin
 Tralee	Munster	18	N	22.941	52.27042N	9.70264W	8	5	Europe/Dublin
-Tallaght	Leinster	18	N	80.339	53.2859N	6.37344W	103	6	Europe/Dublin
-Swords	Leinster	18	R	42.738	53.45972N	6.21806W	17	5	Europe/Dublin
+Tallaght	Leinster	18	N	81.022	53.2859N	6.37344W	103	6	Europe/Dublin
+Swords	Leinster	18	R	40.776	53.45972N	6.21806W	17	5	Europe/Dublin
 Sligo	Connacht	18	N	19.199	54.26969N	8.46943W	10	5	Europe/Dublin
 Rathfarnham	Leinster	18	N	17.333	53.30056N	6.28278W	49	5	Europe/Dublin
 Droichead Nua	Leinster	18	N	22.742	53.18194N	6.79667W	92	5	Europe/Dublin
 Navan	Leinster	18	N	24.545	53.65278N	6.68139W	35	5	Europe/Dublin
 Naas	Leinster	18	N	20.713	53.21583N	6.66694W	93	5	Europe/Dublin
 An Muileann gCearr	Leinster	18	N	17.262	53.52466N	7.3385W	93	5	Europe/Dublin
+Maynooth	Leinster	18	N	17.259	53.385N	6.59361W	56	5	Europe/Dublin
 Malahide	Leinster	18	N	16.55	53.45083N	6.15444W	11	5	Europe/Dublin
 Lucan	Leinster	18	N	15.269	53.35736N	6.44859W	25	5	Europe/Dublin
-Limerick	Munster	18	N	94.192	52.66472N	8.62306W	7	6	Europe/Dublin
-Letterkenny	Ulster	18	N	19.274	54.95N	7.73333W	8	5	Europe/Dublin
+Limerick	Munster	18	N	102.287	52.66472N	8.62306W	7	7	Europe/Dublin
+Letterkenny	Ulster	18	N	22.549	54.95N	7.73333W	8	5	Europe/Dublin
 Leixlip	Leinster	18	N	15.504	53.36583N	6.49556W	48	5	Europe/Dublin
 Kilkenny	Leinster	18	N	21.589	52.65417N	7.25222W	48	5	Europe/Dublin
-Greystones	Leinster	18	N	18.14	53.14083N	6.06306W	19	5	Europe/Dublin
-Galway	Connacht	18	R	83.456	53.27245N	9.05095W	10	6	Europe/Dublin
+Greystones	Leinster	18	N	22.009	53.14083N	6.06306W	19	5	Europe/Dublin
+Galway	Connacht	18	R	85.91	53.27245N	9.05095W	10	6	Europe/Dublin
 Finglas	Leinster	18	N	19.768	53.38917N	6.29694W	59	5	Europe/Dublin
 Ennis	Munster	18	N	25.276	52.84361N	8.98639W	5	5	Europe/Dublin
-Dun Laoghaire	Leinster	18	N	26.525	53.29395N	6.13586W	16	5	Europe/Dublin
-Dundalk	Leinster	18	N	39.004	54N	6.41667W	18	5	Europe/Dublin
+Dun Laoghaire	Leinster	18	N	31.239	53.29395N	6.13586W	16	5	Europe/Dublin
+Dundalk	Leinster	18	N	43.112	54N	6.41667W	18	5	Europe/Dublin
 Dublin	Leinster	18	C	1024.027	53.33306N	6.24889W	17	9	Europe/Dublin
-Drogheda	Leinster	18	N	40.956	53.71889N	6.34778W	28	5	Europe/Dublin
+Drogheda	Leinster	18	N	44.135	53.71889N	6.34778W	28	5	Europe/Dublin
 Douglas	Munster	18	N	26.883	51.87444N	8.435W	11	5	Europe/Dublin
-Cork	Munster	18	N	190.384	51.89797N	8.47061W	10	7	Europe/Dublin
+Cork	Munster	18	N	224.004	51.89797N	8.47061W	10	7	Europe/Dublin
 Cluain Meala	Munster	18	N	17.14	52.355N	7.70389W	24	5	Europe/Dublin
 Celbridge	Leinster	18	N	20.288	53.34165N	6.54419W	59	5	Europe/Dublin
-Carrigaline	Munster	18	N	15.77	51.81167N	8.39861W	14	5	Europe/Dublin
+Carrigaline	Munster	18	N	18.239	51.81167N	8.39861W	14	5	Europe/Dublin
 Carlow	Leinster	18	N	24.272	52.84083N	6.92611W	55	5	Europe/Dublin
-Bray	Leinster	18	N	32.6	53.20278N	6.09833W	7	5	Europe/Dublin
+Bray	Leinster	18	N	33.512	53.20278N	6.09833W	7	5	Europe/Dublin
 Blanchardstown	Leinster	18	N	16.511	53.38806N	6.37556W	49	5	Europe/Dublin
 Ballincollig	Munster	18	N	18.621	51.88333N	8.58333W	27	5	Europe/Dublin
 Balbriggan	Leinster	18	N	21.722	53.60846N	6.1831W	12	5	Europe/Dublin
-Athlone	Leinster	18	N	21.351	53.42278N	7.93722W	39	5	Europe/Dublin
+Athlone	Leinster	18	N	22.869	53.42278N	7.93722W	39	5	Europe/Dublin
 Sandyford	Leinster	18	N	22.288	53.2747N	6.2253W	100	5	Europe/Dublin
 Donaghmede	Leinster	18	N	15.299	53.39845N	6.16179W	18	5	Europe/Dublin
 South Dublin	Leinster	18	N	278.749	53.29026N	6.34151W	80	7	Europe/Dublin
@@ -17040,6 +17106,7 @@ Ugrakheri	Haryana	15	N	24.44	29.378N	77.00934E	236	5	Asia/Kolkata
 Tikri Kalan	Delhi	15	N	16.313	28.68355N	76.97007E	219	5	Asia/Kolkata
 Nangli Sakrawat	Delhi	15	N	37.706	28.62169N	76.9923E	213	5	Asia/Kolkata
 Tirora	Maharashtra	15	N	25.181	21.40409N	79.92617E	284	5	Asia/Kolkata
+Jajmau	Uttar Pradesh	15	N	652.831	26.4304N	80.4095E	128	8	Asia/Kolkata
 Kumbalam	Kerala	15	N	29.193	9.9063N	76.31127E	6	5	Asia/Kolkata
 Aroor	Kerala	15	N	39.214	9.8694N	76.30498E	9	5	Asia/Kolkata
 Kadakkavoor	Kerala	15	N	25.362	8.67921N	76.76714E	15	5	Asia/Kolkata
@@ -17743,6 +17810,7 @@ Taranagar	Tripura	15	N	15.481	23.96877N	91.37081E	30	5	Asia/Kolkata
 Madhuban	Tripura	15	N	16.579	23.78152N	91.28579E	43	5	Asia/Kolkata
 Dukli	Tripura	15	N	16.941	23.7984N	91.29642E	23	5	Asia/Kolkata
 Charipara	Tripura	15	N	19.598	23.80914N	91.24805E	23	5	Asia/Kolkata
+Kanpur Cantonment	Uttar Pradesh	15	N	108.534	26.45942N	80.37514E	110	7	Asia/Kolkata
 Zaxo	Duhok	16	N	95.052	37.14871N	42.68591E	439	6	Asia/Baghdad
 Umm Qasr	Basra	16	N	107.62	30.0362N	47.91951E	13	7	Asia/Baghdad
 Tuz Khurmatu	Salah ad Din	16	N	120.712	34.88808N	44.63256E	227	7	Asia/Baghdad
@@ -17763,6 +17831,7 @@ Al Qa'im	Anbar	16	N	74.1	34.39251N	40.98945E	180	6	Asia/Baghdad
 Al-Hamdaniya	Nineveh	16	N	50	36.27093N	43.37758E	274	6	Asia/Baghdad
 Qal'at Sukkar	Dhi Qar	16	N	110	31.8632N	46.07321E	15	7	Asia/Baghdad
 Qal'at Salih	Maysan	16	N	39.698	31.52802N	47.29362E	8	5	Asia/Baghdad
+Qeladize	Sulaymaniyah	16	N	140.688	36.18254N	45.13017E	630	7	Asia/Baghdad
 Mandali	Diyala	16	N	29.785	33.7481N	45.55503E	129	5	Asia/Baghdad
 Koysinceq	Erbil	16	N	44.987	36.08289N	44.62873E	600	5	Asia/Baghdad
 Kifri	Diyala	16	N	30.143	34.68963N	44.96057E	229	5	Asia/Baghdad
@@ -17842,11 +17911,13 @@ Sadr City	Baghdad	16	N	1211.849	33.3889N	44.4583E	39	9	Asia/Baghdad
 Simele	Duhok	16	N	152.512	36.85833N	42.8501E	463	7	Asia/Baghdad
 Shurash	Sulaymaniyah	16	N	29.96	35.51562N	44.84266E	686	5	Asia/Baghdad
 Abu al-Kahsib	Basra	16	N	357.771	30.4431N	47.87802E	10	7	Asia/Baghdad
+Shahrak-e Qods	Tehran	15	N	29.774	35.75936N	51.37601E	1465	5	Asia/Tehran
 Lavasan	Tehran	15	N	18.146	35.82159N	51.64444E	1681	5	Asia/Tehran
 Alvand	Qazvin Province	15	N	90	36.1893N	50.0643E	1243	6	Asia/Tehran
 Zir Ab	Mazandaran	15	N	16.191	36.1797N	52.97348E	398	5	Asia/Tehran
 Azadshahr	Hamadan Province	15	N	514.102	34.79049N	48.57011E	1853	8	Asia/Tehran
-Nurabad	Lorestan Province	15	N	73.528	34.0734N	47.9725E	1790	6	Asia/Tehran
+Bostanabad	East Azerbaijan	15	N	21.734	37.84633N	46.83542E	1725	5	Asia/Tehran
+Nurabad	Lorestan Province	15	N	65.547	34.0734N	47.9725E	1790	6	Asia/Tehran
 Javanrud	Kermanshah Province	15	N	54.354	34.8067N	46.4913E	1317	6	Asia/Tehran
 Istgah-e Rah Ahan-e Garmsar	Semnan	15	N	49.491	35.23455N	52.30942E	848	5	Asia/Tehran
 Qarchak	Tehran	15	N	251.834	35.42873N	51.57757E	962	7	Asia/Tehran
@@ -17855,7 +17926,8 @@ Golestan	Tehran	15	N	240	35.5183N	51.1819E	1042	7	Asia/Tehran
 Shahre Jadide Andisheh	Tehran	15	N	116.062	35.6803N	51.0193E	1180	7	Asia/Tehran
 Morteza Gerd	Tehran	15	N	15.506	35.6025N	51.3496E	1082	5	Asia/Tehran
 Ferdowsiyeh	Tehran	15	N	34.221	35.6011N	51.0645E	1111	5	Asia/Tehran
-Dezful	Khuzestan	15	N	264.709	32.41667N	48.21667E	126	7	Asia/Tehran
+Hadishahr	East Azerbaijan	15	N	34.346	38.8479N	45.6623E	977	5	Asia/Tehran
+Gomishan	Golestan	15	N	19.191	37.0718N	54.07654E	-23	5	Asia/Tehran
 Khorramdarreh	Zanjan	15	N	50.528	36.20777N	49.19527E	1582	6	Asia/Tehran
 Padegan-e Manjil	Gilan Province	15	N	17.396	36.7415N	49.4161E	362	5	Asia/Tehran
 Kamalshahr	Alborz Province	15	N	141.669	35.86187N	50.87424E	1269	7	Asia/Tehran
@@ -17866,6 +17938,7 @@ Kavar	Fars	15	N	31.711	29.20505N	52.69043E	1555	5	Asia/Tehran
 Shahrak-e Taleqani	Khuzestan	15	N	25.808	30.835N	50.19873E	471	5	Asia/Tehran
 Abadeh	Fars	15	N	59.116	28.8349N	53.1726E	1111	6	Asia/Tehran
 Yasuj	Kohgiluyeh and Boyer-Ahmad	15	R	96.786	30.66824N	51.58796E	1841	6	Asia/Tehran
+Ashkezar	Yazd Province	15	N	19.123	31.99679N	54.20852E	1175	5	Asia/Tehran
 Azadshahr	Golestan	15	N	47.59	37.08641N	55.17222E	127	5	Asia/Tehran
 Zarqan	Fars	15	N	32.261	29.77237N	52.71891E	1582	5	Asia/Tehran
 Zarand	Kerman	15	N	58.983	30.81271N	56.56399E	1656	6	Asia/Tehran
@@ -17881,16 +17954,16 @@ Hashtpar	Gilan Province	15	N	45.305	37.79658N	48.90521E	57	5	Asia/Tehran
 Takestan	Qazvin Province	15	N	71.499	36.07057N	49.69571E	1265	6	Asia/Tehran
 Takab	West Azerbaijan	15	N	51.541	36.4009N	47.1133E	1798	6	Asia/Tehran
 Tajrish	Tehran	15	N	86	35.8044N	51.4256E	1608	6	Asia/Tehran
-Taft	Yazd Province	15	N	19.394	31.74384N	54.20278E	1549	5	Asia/Tehran
+Taft	Yazd Province	15	N	18.464	31.74384N	54.20278E	1549	5	Asia/Tehran
 Tafresh	Markazi	15	N	16.493	34.69307N	50.01601E	1910	5	Asia/Tehran
 Tabriz	East Azerbaijan	15	R	1424.641	38.08N	46.2919E	1396	9	Asia/Tehran
 Tabas	Yazd Province	15	N	49.993	33.59586N	56.92437E	669	5	Asia/Tehran
 Surian	Fars	15	N	20	30.4551N	53.651E	2182	5	Asia/Tehran
 Nur	Mazandaran	15	N	26.947	36.57168N	52.0153E	-18	5	Asia/Tehran
 Sowme'eh Sara	Gilan Province	15	N	47.083	37.30134N	49.31504E	7	5	Asia/Tehran
-Sonqor	Kermanshah Province	15	N	43.174	34.78187N	47.59945E	1697	5	Asia/Tehran
+Sonqor	Kermanshah Province	15	N	44.256	34.78187N	47.59945E	1697	5	Asia/Tehran
 Eqbaliyeh	Qazvin Province	15	N	55.066	36.23081N	49.92499E	1267	6	Asia/Tehran
-Sirjan	Kerman	15	N	207.645	29.45137N	55.6809E	1744	7	Asia/Tehran
+Sirjan	Kerman	15	N	199.704	29.45137N	55.6809E	1744	7	Asia/Tehran
 Siahkal	Gilan Province	15	N	19.924	37.15328N	49.87136E	47	5	Asia/Tehran
 Shushtar	Khuzestan	15	N	101.878	32.04972N	48.84843E	50	7	Asia/Tehran
 Shush	Khuzestan	15	N	77.148	32.1942N	48.2436E	71	6	Asia/Tehran
@@ -17902,15 +17975,16 @@ Shahr-e Kord	Chaharmahal and Bakhtiari	15	R	129.153	32.32612N	50.8572E	2066	7	As
 Shahr-e Babak	Kerman	15	N	51.62	30.1165N	55.1186E	1846	6	Asia/Tehran
 Shadegan	Khuzestan	15	N	41.733	30.64924N	48.66497E	10	5	Asia/Tehran
 Shabestar	East Azerbaijan	15	N	22.181	38.1804N	45.7028E	1433	5	Asia/Tehran
+Seyah Cheshmeh	West Azerbaijan	15	N	17.804	39.06508N	44.38416E	1832	5	Asia/Tehran
 Semnan	Semnan	15	R	124.826	35.57691N	53.39205E	1148	7	Asia/Tehran
-Semirom	Isfahan	15	N	27.22	31.41667N	51.56667E	2425	5	Asia/Tehran
+Semirom	Isfahan	15	N	26.942	31.41667N	51.56667E	2425	5	Asia/Tehran
 Saveh	Markazi	15	N	220.762	35.0213N	50.3566E	1008	7	Asia/Tehran
 Sarvestan	Fars	15	N	18.187	29.2735N	53.2203E	1542	5	Asia/Tehran
 Sari	Mazandaran	15	R	255.396	36.56332N	53.06009E	43	7	Asia/Tehran
 Sardrud	East Azerbaijan	15	N	29.739	38.02613N	46.14763E	1364	5	Asia/Tehran
 Sardasht	West Azerbaijan	15	N	46.412	36.1552N	45.4788E	1516	5	Asia/Tehran
 Sarab	East Azerbaijan	15	N	45.031	37.9408N	47.5367E	1682	5	Asia/Tehran
-Saqqez	Kurdistan Province	15	N	151.237	36.24992N	46.2735E	1520	7	Asia/Tehran
+Saqqez	Kurdistan Province	15	N	165.258	36.24992N	46.2735E	1520	7	Asia/Tehran
 Sanandaj	Kurdistan Province	15	R	349.176	35.31495N	46.99883E	1494	7	Asia/Tehran
 Salmas	West Azerbaijan	15	N	81.606	38.1973N	44.7653E	1382	6	Asia/Tehran
 Ramsar	Mazandaran	15	N	35.997	36.91796N	50.64802E	21	5	Asia/Tehran
@@ -17918,11 +17992,11 @@ Shahin Dezh	West Azerbaijan	15	N	41.442	36.6793N	46.5669E	1370	5	Asia/Tehran
 Sa'idabad	Tehran	15	N	16.212	35.6677N	51.1858E	1137	5	Asia/Tehran
 Sahneh	Kermanshah Province	15	N	35.508	34.4813N	47.6908E	1364	5	Asia/Tehran
 Katalem va Sadat Shahr	Mazandaran	15	N	20.716	36.88879N	50.6964E	-9	5	Asia/Tehran
-Sabzevar	Razavi Khorasan	15	N	226.183	36.2126N	57.68191E	974	7	Asia/Tehran
+Sabzevar	Razavi Khorasan	15	N	243.7	36.2126N	57.68191E	974	7	Asia/Tehran
 Sa'adat Shahr	Fars	15	N	17.131	30.07921N	53.13464E	1784	5	Asia/Tehran
 Rudsar	Gilan Province	15	N	47.502	37.13696N	50.29174E	-23	5	Asia/Tehran
 Rudehen	Tehran	15	N	28.533	35.73338N	51.90587E	1796	5	Asia/Tehran
-Robat Karim	Tehran	15	N	62.753	35.4846N	51.0829E	1038	6	Asia/Tehran
+Robat Karim	Tehran	15	N	105.393	35.4846N	51.0829E	1038	7	Asia/Tehran
 Rezvanshahr	Gilan Province	15	N	19.519	37.54947N	49.13736E	15	5	Asia/Tehran
 Ravar	Kerman	15	N	40.167	31.26562N	56.80545E	1181	5	Asia/Tehran
 Ravansar	Kermanshah Province	15	N	24.527	34.7153N	46.6533E	1345	5	Asia/Tehran
@@ -17937,7 +18011,7 @@ Qir	Fars	15	N	20.01	28.4825N	53.0346E	774	5	Asia/Tehran
 Qidar	Zanjan	15	N	34.921	36.11472N	48.59111E	1994	5	Asia/Tehran
 Qeshm	Hormozgan	15	N	25	26.9492N	56.2691E	34	5	Asia/Tehran
 Qazvin	Qazvin Province	15	R	333.635	36.26877N	50.0041E	1300	7	Asia/Tehran
-Qarah Zia' od Din	West Azerbaijan	15	N	31.947	38.8915N	45.0255E	1090	5	Asia/Tehran
+Qarah Zia' od Din	West Azerbaijan	15	N	26.767	38.8915N	45.0255E	1090	5	Asia/Tehran
 Qods	Tehran	15	N	309.605	35.7214N	51.109E	1181	7	Asia/Tehran
 Rudan	Hormozgan	15	N	36.121	27.44194N	57.19198E	193	5	Asia/Tehran
 Farrokh Shahr	Chaharmahal and Bakhtiari	15	N	32.391	32.27174N	50.98008E	2106	5	Asia/Tehran
@@ -17947,9 +18021,9 @@ Sarpol-e Zahab	Kermanshah Province	15	N	45.481	34.46109N	45.86264E	547	5	Asia/Te
 Poldokhtar	Lorestan Province	15	N	26.352	33.15249N	47.71014E	663	5	Asia/Tehran
 Poldasht	West Azerbaijan	15	N	42.17	39.348N	45.071E	783	5	Asia/Tehran
 Pishva	Tehran	15	N	53.856	35.308N	51.7267E	953	6	Asia/Tehran
-Piranshahr	West Azerbaijan	15	N	61.973	36.701N	45.1413E	1444	6	Asia/Tehran
+Piranshahr	West Azerbaijan	15	N	168.393	36.701N	45.1413E	1444	7	Asia/Tehran
 Paveh	Kermanshah Province	15	N	25.771	35.0434N	46.3565E	1525	5	Asia/Tehran
-Parsabad	Ardabil Province	15	N	101.661	39.6482N	47.9174E	46	7	Asia/Tehran
+Parsabad	Ardabil Province	15	N	93.387	39.6482N	47.9174E	46	6	Asia/Tehran
 Osku	East Azerbaijan	15	N	18.459	37.91504N	46.12258E	1512	5	Asia/Tehran
 Oshnaviyeh	West Azerbaijan	15	N	50.661	37.0397N	45.0983E	1443	6	Asia/Tehran
 Orumiyeh	West Azerbaijan	15	R	577.307	37.55274N	45.07605E	1350	8	Asia/Tehran
@@ -17961,23 +18035,25 @@ Neyriz	Fars	15	N	45.506	29.1988N	54.3278E	1606	5	Asia/Tehran
 Neka	Mazandaran	15	N	60.991	36.65079N	53.29905E	50	6	Asia/Tehran
 Nazarabad	Alborz Province	15	N	213.388	35.95411N	50.60607E	1199	7	Asia/Tehran
 Natanz	Isfahan	15	N	43.977	33.51118N	51.91808E	1637	5	Asia/Tehran
+Nasirshahr	Tehran	15	N	28.644	35.49209N	51.13836E	1041	5	Asia/Tehran
 Naqadeh	West Azerbaijan	15	N	81.598	36.9553N	45.388E	1325	6	Asia/Tehran
+Nakhl-e Taqi	Bushehr	15	N	18.837	27.49752N	52.58653E	5	5	Asia/Tehran
 Najafshahr	Kerman	15	N	20.164	29.38575N	55.71758E	1722	5	Asia/Tehran
 Na'in	Isfahan	15	N	27.379	32.86006N	53.08749E	1564	5	Asia/Tehran
 Nahavand	Hamadan Province	15	N	76.25	34.19088N	48.37446E	1673	6	Asia/Tehran
 Meshkin Dasht	Tehran	15	N	62.005	35.74988N	50.94376E	1241	6	Asia/Tehran
 Minudasht	Golestan	15	N	30.085	37.23015N	55.37211E	156	5	Asia/Tehran
-Minab	Hormozgan	15	N	70.79	27.13104N	57.08716E	43	6	Asia/Tehran
+Minab	Hormozgan	15	N	73.17	27.13104N	57.08716E	43	6	Asia/Tehran
 Mianeh	East Azerbaijan	15	N	182.848	37.421N	47.715E	1097	7	Asia/Tehran
 Miandoab	West Azerbaijan	15	N	134.425	36.96667N	46.10961E	1294	7	Asia/Tehran
 Meybod	Yazd Province	15	N	51.874	32.25014N	54.01658E	1071	6	Asia/Tehran
 Meshgin Shahr	Ardabil Province	15	N	74.109	38.399N	47.682E	1421	6	Asia/Tehran
-Mahriz	Yazd Province	15	N	36.72	31.58428N	54.4428E	1475	5	Asia/Tehran
+Mahriz	Yazd Province	15	N	34.237	31.58428N	54.4428E	1475	5	Asia/Tehran
 Masjed Soleyman	Khuzestan	15	N	100.497	31.9364N	49.3039E	240	7	Asia/Tehran
 Bardsir	Kerman	15	N	37.192	29.92266N	56.57433E	2049	5	Asia/Tehran
 Mashhad	Razavi Khorasan	15	R	2307.177	36.29807N	59.60567E	980	9	Asia/Tehran
 Marvdasht	Fars	15	N	148.858	29.87407N	52.80258E	1603	7	Asia/Tehran
-Marivan	Kurdistan Province	15	N	91.664	35.51829N	46.18298E	1306	6	Asia/Tehran
+Marivan	Kurdistan Province	15	N	136.654	35.51829N	46.18298E	1306	7	Asia/Tehran
 Mahdasht	Tehran	15	N	62.91	35.7282N	50.8134E	1163	6	Asia/Tehran
 Marand	East Azerbaijan	15	N	124.191	38.4329N	45.7749E	1322	7	Asia/Tehran
 Maragheh	East Azerbaijan	15	N	262.604	37.39206N	46.23909E	1455	7	Asia/Tehran
@@ -17987,11 +18063,13 @@ Manjil	Gilan Province	15	N	15.63	36.74445N	49.40082E	311	5	Asia/Tehran
 Malekan	East Azerbaijan	15	N	27.431	37.14258N	46.10345E	1299	5	Asia/Tehran
 Malayer	Hamadan Province	15	N	170.237	34.30158N	48.82166E	1760	7	Asia/Tehran
 Malard	Tehran	15	N	56.745	35.6659N	50.9767E	1163	6	Asia/Tehran
+Maku	West Azerbaijan	15	N	46.581	39.28992N	44.46035E	1304	5	Asia/Tehran
 Maku	Bushehr	15	N	46.581	27.8486N	52.423E	428	5	Asia/Tehran
 Mahmudabad	Mazandaran	15	N	31.844	36.63191N	52.26286E	-23	5	Asia/Tehran
+Mahmudabad Nemuneh	Qazvin Province	15	N	21.982	36.28967N	49.9014E	1317	5	Asia/Tehran
 Mahan	Kerman	15	N	19.423	30.05943N	57.29198E	1909	5	Asia/Tehran
 Mahallat	Markazi	15	N	43.245	33.91108N	50.45317E	1751	5	Asia/Tehran
-Mahabad	West Azerbaijan	15	N	162.434	36.7631N	45.7222E	1324	7	Asia/Tehran
+Mahabad	West Azerbaijan	15	N	168.393	36.7631N	45.7222E	1324	7	Asia/Tehran
 Lordegan	Chaharmahal and Bakhtiari	15	N	40.528	31.51338N	50.82672E	1588	5	Asia/Tehran
 Likak	Kohgiluyeh and Boyer-Ahmad	15	N	19.857	30.8949N	50.0931E	652	5	Asia/Tehran
 Lar	Fars	15	N	62.045	27.68336N	54.34172E	818	6	Asia/Tehran
@@ -18003,24 +18081,28 @@ Kut-e 'Abdollah	Khuzestan	15	N	56.252	31.23917N	48.65639E	36	6	Asia/Tehran
 Kuhdasht	Lorestan Province	15	N	89.091	33.53335N	47.60999E	1190	6	Asia/Tehran
 Kord Kuy	Golestan	15	N	39.881	36.79307N	54.11214E	-2	5	Asia/Tehran
 Kish	Hormozgan	15	N	39.853	26.55778N	54.01944E	6	5	Asia/Tehran
-Khowy	West Azerbaijan	15	N	175.37	38.5503N	44.9521E	1143	7	Asia/Tehran
+Khuy	West Azerbaijan	15	N	198.845	38.5503N	44.9521E	1143	7	Asia/Tehran
 Khurmuj	Bushehr	15	N	40.722	28.6543N	51.38E	56	5	Asia/Tehran
-Khvansar	Isfahan	15	N	21.146	33.22052N	50.31497E	2230	5	Asia/Tehran
+Khansar	Isfahan	15	N	21.883	33.22052N	50.31497E	2230	5	Asia/Tehran
 Khosrowshahr	East Azerbaijan	15	N	21.972	37.9497N	46.0528E	1354	5	Asia/Tehran
 Khorramshahr	Khuzestan	15	N	330.606	30.44079N	48.18428E	4	7	Asia/Tehran
 Khorramabad	Lorestan Province	15	R	329.825	33.48778N	48.35583E	1182	7	Asia/Tehran
+Khonj	Fars	15	N	19.217	27.8913N	53.4344E	671	5	Asia/Tehran
 Khomeyn	Markazi	15	N	77.425	33.63889N	50.08003E	1809	6	Asia/Tehran
 Khomam	Gilan Province	15	N	20.897	37.39016N	49.65846E	-15	5	Asia/Tehran
+Bandar-e Khamir	Hormozgan	15	N	15.32	26.9521N	55.5851E	16	5	Asia/Tehran
 Khalkhal	Ardabil Province	15	N	51.024	37.61837N	48.52928E	1795	6	Asia/Tehran
 Kermanshah	Kermanshah Province	15	R	621.1	34.31417N	47.065E	1392	8	Asia/Tehran
 Kerman	Kerman	15	R	577.514	30.28321N	57.07879E	1760	8	Asia/Tehran
-Kazerun	Fars	15	N	94.511	29.61919N	51.6535E	846	6	Asia/Tehran
-Kashmar	Razavi Khorasan	15	N	96.151	35.23831N	58.46558E	1054	6	Asia/Tehran
+Kazerun	Fars	15	N	96.683	29.61919N	51.6535E	846	6	Asia/Tehran
+Simin Shahr	Golestan	15	N	17.205	37.01422N	54.23004E	-18	5	Asia/Tehran
+Kashmar	Razavi Khorasan	15	N	102.282	35.23831N	58.46558E	1054	7	Asia/Tehran
+Kashan	Isfahan	15	N	304.487	33.98237N	51.42769E	942	7	Asia/Tehran
 Karaj	Alborz Province	15	R	1448.075	35.83266N	50.99155E	1341	9	Asia/Tehran
 Karahrud	Markazi	15	N	29.721	34.06095N	49.64462E	1810	5	Asia/Tehran
 Kangavar	Kermanshah Province	15	N	51.352	34.5043N	47.9653E	1476	6	Asia/Tehran
 Bandar-e Kangan	Bushehr	15	N	60.187	27.83434N	52.06306E	11	6	Asia/Tehran
-Kamyaran	Kurdistan Province	15	N	61.642	34.79535N	46.93682E	1433	6	Asia/Tehran
+Kamyaran	Kurdistan Province	15	N	57.077	34.79535N	46.93682E	1433	6	Asia/Tehran
 Kalaleh	Golestan	15	N	33.7	37.37899N	55.493E	152	5	Asia/Tehran
 Kahrizak	Tehran	15	N	37.527	35.3465N	51.84418E	958	5	Asia/Tehran
 Kabudarahang	Hamadan Province	15	N	19.216	35.20924N	48.72341E	1670	5	Asia/Tehran
@@ -18028,12 +18110,14 @@ Eyvan	Ilam Province	15	N	31.299	33.8272N	46.3097E	1184	5	Asia/Tehran
 Juybar	Mazandaran	15	N	32.924	36.64088N	52.91206E	-7	5	Asia/Tehran
 Jask	Hormozgan	15	N	16.68	25.64533N	57.77552E	5	5	Asia/Tehran
 Jam	Bushehr	15	N	31.436	27.82977N	52.32518E	622	5	Asia/Tehran
+Jajarm	North Khorasan	15	N	19.58	36.95012N	56.38005E	933	5	Asia/Tehran
 Jahrom	Fars	15	N	141.634	28.5N	53.5605E	1040	7	Asia/Tehran
 Izeh	Khuzestan	15	N	119.399	31.83027N	49.86756E	825	7	Asia/Tehran
 Ilam	Ilam Province	15	R	140.94	33.6374N	46.4227E	1403	7	Asia/Tehran
 Hoveyzeh	Khuzestan	15	N	19.481	31.4619N	48.074E	15	5	Asia/Tehran
 Hendijan	Khuzestan	15	N	29.015	30.2363N	49.7119E	9	5	Asia/Tehran
 Hashtgerd	Alborz Province	15	N	55.64	35.962N	50.6799E	1272	6	Asia/Tehran
+Hasanabad	Tehran	15	N	43.922	35.36732N	51.23498E	965	5	Asia/Tehran
 Harsin	Kermanshah Province	15	N	57.647	34.2721N	47.5861E	1551	6	Asia/Tehran
 Hamidiyeh	Khuzestan	15	N	22.057	31.48285N	48.4332E	17	5	Asia/Tehran
 Hamadan	Hamadan Province	15	R	528.256	34.79922N	48.51456E	1820	8	Asia/Tehran
@@ -18042,7 +18126,7 @@ Hajjiabad	Hormozgan	15	N	23.309	28.3091N	55.9017E	926	5	Asia/Tehran
 Haftkel	Khuzestan	15	N	15.802	31.44686N	49.52951E	298	5	Asia/Tehran
 Hafshejan	Chaharmahal and Bakhtiari	15	N	21.352	32.22662N	50.79314E	2049	5	Asia/Tehran
 Gorgan	Golestan	15	R	244.937	36.8427N	54.44391E	140	7	Asia/Tehran
-Gonbad-e Kavus	Golestan	15	N	131.416	37.25004N	55.16721E	38	7	Asia/Tehran
+Gonbad-e Kavus	Golestan	15	N	151.91	37.25004N	55.16721E	38	7	Asia/Tehran
 Gonabad	Razavi Khorasan	15	N	43.465	34.35287N	58.68365E	1095	5	Asia/Tehran
 Golpayegan	Isfahan	15	N	58.936	33.4537N	50.28836E	1817	6	Asia/Tehran
 Gerash	Fars	15	N	34.469	27.66966N	54.13586E	923	5	Asia/Tehran
@@ -18055,44 +18139,50 @@ Galugah	Mazandaran	15	N	21.352	36.72734N	53.80888E	34	5	Asia/Tehran
 Galugah	Mazandaran	15	N	21.352	36.31048N	52.62621E	195	5	Asia/Tehran
 Galikesh	Golestan	15	N	23.394	37.27259N	55.43394E	195	5	Asia/Tehran
 Fuman	Gilan Province	15	N	35.841	37.224N	49.3125E	33	5	Asia/Tehran
-Firuzabad	Fars	15	N	66.558	28.84459N	52.57151E	1316	6	Asia/Tehran
+Firuzkuh	Tehran	15	N	17.453	35.75674N	52.77062E	1943	5	Asia/Tehran
+Firuzabad	Fars	15	N	65.417	28.84459N	52.57151E	1316	6	Asia/Tehran
 Ferunabad	Tehran	15	N	21.682	35.5156N	51.6232E	1003	5	Asia/Tehran
 Fereydun Kenar	Mazandaran	15	N	34.097	36.68489N	52.51917E	-20	5	Asia/Tehran
+Ferdows	South Khorasan Province	15	N	28.965	34.0185N	58.17222E	1279	5	Asia/Tehran
 Fazelabad	Golestan	15	N	19.461	36.89802N	54.74963E	197	5	Asia/Tehran
 Fasa	Fars	15	N	98.061	28.9383N	53.6482E	1366	6	Asia/Tehran
-Farsan	Chaharmahal and Bakhtiari	15	N	25.071	32.25694N	50.56095E	2039	5	Asia/Tehran
+Farsan	Chaharmahal and Bakhtiari	15	N	30.504	32.25694N	50.56095E	2039	5	Asia/Tehran
 Farrashband	Fars	15	N	20.32	28.86012N	52.09452E	776	5	Asia/Tehran
 Evaz	Fars	15	N	19.987	27.7622N	54.00417E	968	5	Asia/Tehran
 Estahban	Fars	15	N	36.41	29.1266N	54.0421E	1743	5	Asia/Tehran
 Eslamabad-e Gharb	Kermanshah Province	15	N	90.559	34.1089N	46.52988E	1338	6	Asia/Tehran
 Eshtehard	Alborz Province	15	N	29.993	35.7255N	50.3662E	1161	5	Asia/Tehran
-Esfarayen	North Khorasan	15	N	59.678	37.07645N	57.51009E	1253	6	Asia/Tehran
+Esfarayen	North Khorasan	15	N	59.49	37.07645N	57.51009E	1253	6	Asia/Tehran
 Eqlid	Fars	15	N	44.341	30.89885N	52.69701E	2212	5	Asia/Tehran
-Shahrud	Semnan	15	N	131.889	36.41819N	54.97628E	1351	7	Asia/Tehran
+Shahrud	Semnan	15	N	165	36.41819N	54.97628E	1351	7	Asia/Tehran
 Dorud	Lorestan Province	15	N	121.638	33.49218N	49.0616E	1454	7	Asia/Tehran
-Dogonbadan	Kohgiluyeh and Boyer-Ahmad	15	N	94.638	30.3586N	50.7981E	723	6	Asia/Tehran
+Dogonbadan	Kohgiluyeh and Boyer-Ahmad	15	N	96.728	30.3586N	50.7981E	723	6	Asia/Tehran
 Divandarreh	Kurdistan Province	15	N	34.007	35.9139N	47.0239E	1838	5	Asia/Tehran
+Dezful	Khuzestan	15	N	264.709	32.38114N	48.40581E	143	7	Asia/Tehran
 Bandar-e Deyr	Bushehr	15	N	24.083	27.8399N	51.9378E	9	5	Asia/Tehran
 Delijan	Markazi	15	N	33.508	33.9905N	50.6838E	1522	5	Asia/Tehran
 Dehloran	Ilam Province	15	N	46.002	32.6941N	47.2679E	224	5	Asia/Tehran
 Dehdasht	Kohgiluyeh and Boyer-Ahmad	15	N	69.726	30.79337N	50.56508E	806	6	Asia/Tehran
+Safashahr	Fars	15	N	26.933	30.6131N	53.1954E	2299	5	Asia/Tehran
 Dehaqan	Isfahan	15	N	17.945	31.93986N	51.64731E	2045	5	Asia/Tehran
 Susangerd	Khuzestan	15	N	51.431	31.5635N	48.18958E	15	6	Asia/Tehran
 Darreh Shahr	Ilam Province	15	N	24.961	33.14447N	47.3799E	660	5	Asia/Tehran
+Dargaz	Razavi Khorasan	15	N	36.762	37.44447N	59.10809E	476	5	Asia/Tehran
 Daran	Isfahan	15	N	20.078	32.98741N	50.4108E	2312	5	Asia/Tehran
-Darab	Fars	15	N	63.319	28.75171N	54.54065E	1125	6	Asia/Tehran
+Darab	Fars	15	N	70.232	28.75171N	54.54065E	1125	6	Asia/Tehran
 Damghan	Semnan	15	N	67.694	36.1679N	54.34292E	1154	6	Asia/Tehran
 Damavand	Tehran	15	N	29.144	35.71842N	52.06958E	1959	5	Asia/Tehran
 Choghadak	Bushehr	15	N	18.702	28.986N	51.0364E	11	5	Asia/Tehran
-Chenaran	Razavi Khorasan	15	N	46.94	36.64546N	59.12123E	1176	5	Asia/Tehran
+Chenaran	Razavi Khorasan	15	N	53.879	36.64546N	59.12123E	1176	6	Asia/Tehran
 Charam	Kohgiluyeh and Boyer-Ahmad	15	N	15.218	30.75561N	50.74522E	726	5	Asia/Tehran
-Chalus	Mazandaran	15	N	69.638	36.655N	51.4204E	26	6	Asia/Tehran
+Chalus	Mazandaran	15	N	65.196	36.655N	51.4204E	26	6	Asia/Tehran
+Chahar Dangeh	Tehran	15	N	49.95	35.6031N	51.3098E	1091	5	Asia/Tehran
 Bushehr	Bushehr	15	R	165.377	28.96887N	50.83657E	8	7	Asia/Tehran
 Bumahen	Tehran	15	N	79.034	35.72972N	51.86884E	1700	6	Asia/Tehran
-Bukan	West Azerbaijan	15	N	213.331	36.521N	46.2089E	1352	7	Asia/Tehran
+Bukan	West Azerbaijan	15	N	193.501	36.521N	46.2089E	1352	7	Asia/Tehran
 Borujerd	Lorestan Province	15	N	251.958	33.8973N	48.7516E	1574	7	Asia/Tehran
-Borujen	Chaharmahal and Bakhtiari	15	N	52.654	31.96523N	51.2873E	2230	6	Asia/Tehran
-Borazjan	Bushehr	15	N	86.059	29.2699N	51.2188E	70	6	Asia/Tehran
+Borujen	Chaharmahal and Bakhtiari	15	N	57.071	31.96523N	51.2873E	2230	6	Asia/Tehran
+Borazjan	Bushehr	15	N	110.567	29.2699N	51.2188E	70	7	Asia/Tehran
 Bojnurd	North Khorasan	15	R	192.041	37.47473N	57.32903E	1069	7	Asia/Tehran
 Birjand	South Khorasan Province	15	R	196.982	32.86628N	59.22114E	1459	7	Asia/Tehran
 Bijar	Kurdistan Province	15	N	50.014	35.8668N	47.60506E	1929	6	Asia/Tehran
@@ -18102,10 +18192,10 @@ Behbahan	Khuzestan	15	N	122.604	30.5959N	50.2417E	326	7	Asia/Tehran
 Masal	Gilan Province	15	N	17.901	37.3631N	49.1329E	61	5	Asia/Tehran
 Bardaskan	Razavi Khorasan	15	N	28.233	35.26218N	57.97075E	990	5	Asia/Tehran
 Baravat	Kerman	15	N	22.761	29.0663N	58.4046E	1003	5	Asia/Tehran
-Baneh	Kurdistan Province	15	N	104.799	35.9975N	45.8853E	1525	7	Asia/Tehran
+Baneh	Kurdistan Province	15	N	110.218	35.9975N	45.8853E	1525	7	Asia/Tehran
 Bandar-e Torkaman	Golestan	15	N	53.97	36.90124N	54.07195E	-22	6	Asia/Tehran
 Bandar-e Mahshahr	Khuzestan	15	N	162.797	30.55655N	49.18852E	8	7	Asia/Tehran
-Bandar-e Lengeh	Hormozgan	15	N	22.768	26.55792N	54.88067E	12	5	Asia/Tehran
+Bandar-e Lengeh	Hormozgan	15	N	30.435	26.56207N	54.88382E	10	5	Asia/Tehran
 Bandar-e Kong	Hormozgan	15	N	19.213	26.59775N	54.93694E	9	5	Asia/Tehran
 Bandar-e Gaz	Golestan	15	N	20.742	36.77409N	53.94798E	-19	5	Asia/Tehran
 Bandar-e Deylam	Bushehr	15	N	25.73	30.0542N	50.159E	5	5	Asia/Tehran
@@ -18115,7 +18205,7 @@ Bam	Kerman	15	N	99.268	29.106N	58.357E	1061	6	Asia/Tehran
 Bahar	Hamadan Province	15	N	28.645	34.9072N	48.4414E	1722	5	Asia/Tehran
 Bagh-e Malek	Khuzestan	15	N	26.343	31.52398N	49.88558E	711	5	Asia/Tehran
 Baft	Kerman	15	N	34.517	29.2331N	56.6022E	2268	5	Asia/Tehran
-Bafq	Yazd Province	15	N	31.215	31.6035N	55.40249E	991	5	Asia/Tehran
+Bafq	Yazd Province	15	N	45.453	31.6035N	55.40249E	991	5	Asia/Tehran
 Babolsar	Mazandaran	15	N	48.051	36.69929N	52.65011E	-21	5	Asia/Tehran
 Babol	Mazandaran	15	N	202.796	36.55102N	52.6786E	1	7	Asia/Tehran
 Azna	Lorestan Province	15	N	47.482	33.6095N	48.9307E	1494	5	Asia/Tehran
@@ -18124,6 +18214,7 @@ Hashtrud	East Azerbaijan	15	N	16.888	37.4779N	47.0508E	1651	5	Asia/Tehran
 Shazand	Markazi	15	N	21.181	33.93132N	49.40629E	1906	5	Asia/Tehran
 Astara	Gilan Province	15	N	39.065	38.43084N	48.86994E	-22	5	Asia/Tehran
 Astaneh-ye Ashrafiyeh	Gilan Province	15	N	42.784	37.26318N	49.94325E	-8	5	Asia/Tehran
+Ashkhaneh	North Khorasan	15	N	25.104	37.5615N	56.92125E	743	5	Asia/Tehran
 Asadabad	Hamadan Province	15	N	55.703	34.78241N	48.12012E	1596	6	Asia/Tehran
 Arsanjan	Fars	15	N	17.706	29.9124N	53.3085E	1634	5	Asia/Tehran
 Ardestan	Isfahan	15	N	16.058	33.37939N	52.36981E	1219	5	Asia/Tehran
@@ -18137,21 +18228,21 @@ Anar	Kerman	15	N	15.532	30.87066N	55.27025E	1409	5	Asia/Tehran
 Amol	Mazandaran	15	N	237.528	36.46961N	52.35072E	96	7	Asia/Tehran
 Amlash	Gilan Province	15	N	15.444	37.0966N	50.18709E	30	5	Asia/Tehran
 Amir Kola	Mazandaran	15	N	30.478	36.59673N	52.6658E	-5	5	Asia/Tehran
-Alvand	Zanjan	15	N	74.889	36.31885N	49.16773E	1836	6	Asia/Tehran
 Shahriar	Tehran	15	N	309.607	35.65884N	51.05775E	1159	7	Asia/Tehran
 Aligudarz	Lorestan Province	15	N	89.268	33.404N	49.69179E	1985	6	Asia/Tehran
 Aleshtar	Lorestan Province	15	N	27.701	33.86419N	48.26258E	1614	5	Asia/Tehran
 Ajab Shir	East Azerbaijan	15	N	29.675	37.4776N	45.8943E	1297	5	Asia/Tehran
 Ahvaz	Khuzestan	15	R	841.145	31.31901N	48.6842E	23	8	Asia/Tehran
 Ahram	Bushehr	15	N	15.198	28.8826N	51.2746E	63	5	Asia/Tehran
-Ahar	East Azerbaijan	15	N	94.348	38.4774N	47.0699E	1336	6	Asia/Tehran
+Ahar	East Azerbaijan	15	N	100.641	38.4774N	47.0699E	1336	7	Asia/Tehran
 Aghajari	Khuzestan	15	N	21.785	30.7006N	49.8315E	151	5	Asia/Tehran
 Abyek	Markazi	15	N	55.128	36.06667N	50.55E	1454	6	Asia/Tehran
 Abyek	Qazvin Province	15	N	60.107	36.03993N	50.53101E	1258	6	Asia/Tehran
 Abhar	Zanjan	15	N	69.889	36.1468N	49.218E	1541	6	Asia/Tehran
 Abdanan	Ilam Province	15	N	23.946	32.9926N	47.4198E	889	5	Asia/Tehran
+Abarkuh	Yazd Province	15	N	27.524	31.1289N	53.2824E	1508	5	Asia/Tehran
 Abadeh	Fars	15	N	59.116	31.1608N	52.6506E	2006	6	Asia/Tehran
-Abadan	Khuzestan	15	N	370.18	30.3392N	48.3043E	6	7	Asia/Tehran
+Abadan	Khuzestan	15	N	231.476	30.3392N	48.3043E	6	7	Asia/Tehran
 Mohammad Shahr	Alborz Province	15	N	119.418	35.763N	50.9171E	1238	7	Asia/Tehran
 Garmdarreh	Alborz Province	15	N	22.726	35.74803N	51.06865E	1218	5	Asia/Tehran
 Baqershahr	Tehran	15	N	65.388	35.53164N	51.4048E	1023	6	Asia/Tehran
@@ -18159,7 +18250,6 @@ Qiamdasht	Tehran	15	N	36.446	35.5237N	51.6505E	1033	5	Asia/Tehran
 Showt	West Azerbaijan	15	N	25.381	39.2192N	44.77E	994	5	Asia/Tehran
 Pasargad	Fars	15	N	29.825	30.20194N	53.18E	1851	5	Asia/Tehran
 Vahidiyeh	Tehran	15	N	33.249	35.71445N	51.47086E	1244	5	Asia/Tehran
-Nazarabad	Tehran	15	N	119.512	35.6102N	51.1611E	1099	7	Asia/Tehran
 Shahedshahr	Tehran	15	N	25.544	35.5729N	51.085E	1091	5	Asia/Tehran
 Ovrin	Tehran	15	N	17.577	35.5477N	51.1282E	1072	5	Asia/Tehran
 Eqbaliyeh	Tehran	15	N	36.709	35.3022N	51.5358E	879	5	Asia/Tehran
@@ -18207,7 +18297,7 @@ Iranshahr	Sistan and Baluchestan	15	N	131.232	27.20245N	60.68476E	566	7	Asia/Teh
 Chabahar	Sistan and Baluchestan	15	N	47.287	25.2919N	60.643E	18	5	Asia/Tehran
 Chamran	Khuzestan	15	N	33.505	30.70838N	49.16266E	16	5	Asia/Tehran
 Sheyban	Khuzestan	15	N	36.374	31.40794N	48.7946E	23	5	Asia/Tehran
-Shahr-e Sadra	Fars	15	N	91.863	29.79972N	52.50215E	1839	6	Asia/Tehran
+Shahr-e Sadra	Fars	15	N	122.226	29.79972N	52.50215E	1839	7	Asia/Tehran
 Fardis	Tehran	15	N	181.174	35.7555N	50.9967E	1272	7	Asia/Tehran
 Mamuniyeh	Markazi	15	N	21.814	35.30454N	50.49934E	1258	5	Asia/Tehran
 Parand	Tehran	15	N	97.464	35.47195N	50.97547E	1113	6	Asia/Tehran
@@ -18217,7 +18307,9 @@ Sabbashahr	Tehran	15	N	53.971	35.58026N	51.11392E	1090	6	Asia/Tehran
 Nasim Shahr	Tehran	15	N	200.393	35.56504N	51.16332E	1072	7	Asia/Tehran
 Pardis	Tehran	15	N	73.363	35.74687N	51.81222E	1848	6	Asia/Tehran
 Ilkhchi	East Azerbaijan	15	N	16.574	37.9373N	45.979E	1315	5	Asia/Tehran
+Azarshahr	East Azerbaijan	15	N	44.887	37.759N	45.9783E	1386	5	Asia/Tehran
 Mahajeran	Markazi	15	N	20.346	34.05042N	49.43498E	1919	5	Asia/Tehran
+Kashan	Isfahan	15	N	304.487	34.00228N	51.43879E	948	7	Asia/Tehran
 Jiroft	Kerman	15	N	130.429	28.67806N	57.74056E	680	7	Asia/Tehran
 Kahnuj	Kerman	15	N	52.624	27.94034N	57.69983E	501	6	Asia/Tehran
 Golbahar	Razavi Khorasan	15	N	36.877	36.56976N	59.1904E	1205	5	Asia/Tehran
@@ -18226,21 +18318,24 @@ Aq Qala	Golestan	15	N	35.116	37.0139N	54.45504E	-13	5	Asia/Tehran
 Qa'emiyeh	Fars	15	N	26.918	29.85176N	51.5879E	880	5	Asia/Tehran
 Mojtame'-e Maskuni-ye Namju	Tehran	15	N	22.99	35.4723N	51.724E	1072	5	Asia/Tehran
 Shahrak-e 'Ala'in	Tehran	15	N	21.594	35.58231N	51.45559E	1048	5	Asia/Tehran
+Vahidiyeh	Tehran	15	N	33.249	35.60709N	51.03457E	1118	5	Asia/Tehran
 Khabarabad	Tehran	15	N	17.267	35.54263N	51.14813E	1065	5	Asia/Tehran
 Bandar-e Emam Khomeyni	Khuzestan	15	N	78.353	30.43698N	49.10288E	3	6	Asia/Tehran
 'Ali Shahr	Bushehr	15	N	23.178	28.93125N	51.06571E	35	5	Asia/Tehran
-Shahr-e Jadid-e Mehestan	Alborz Province	15	N	85.2	35.98907N	50.74512E	1521	6	Asia/Tehran
+Mehestan	Alborz Province	15	N	85.2	35.98907N	50.74512E	1521	6	Asia/Tehran
 Pakdasht	Tehran	15	N	236.319	35.47854N	51.6834E	1030	7	Asia/Tehran
 Boshruyeh	South Khorasan Province	15	N	15.318	33.86845N	57.42885E	879	5	Asia/Tehran
 Andisheh	Tehran	15	N	116.062	35.74708N	51.27739E	1333	7	Asia/Tehran
+Kahrizak	Tehran	15	N	37.527	35.51718N	51.36052E	1016	5	Asia/Tehran
 Nasimshahr	Tehran	15	N	200.393	35.56528N	51.1583E	1064	7	Asia/Tehran
 Baghestan	Tehran	15	N	83.934	35.64706N	51.13378E	1107	6	Asia/Tehran
 Sahand	East Azerbaijan	15	N	82.494	37.95104N	46.1103E	1596	6	Asia/Tehran
+Safadasht	Tehran	15	N	32.476	35.69244N	50.84828E	1157	5	Asia/Tehran
 Akureyri	Northeast	18	R	19.219	65.68353N	18.0878W	-9999	5	Atlantic/Reykjavik
 Reykjavik	Capital Region	18	C	118.918	64.13548N	21.89541W	37	7	Atlantic/Reykjavik
-Kopavogur	Capital Region	18	N	37.959	64.11234N	21.91298W	37	5	Atlantic/Reykjavik
+Kopavogur	Capital Region	18	N	40.04	64.11234N	21.91298W	37	5	Atlantic/Reykjavik
 Keflavik	Southern Peninsula	18	R	15.93	64.00492N	22.56242W	5	5	Atlantic/Reykjavik
-Hafnarfjoerdur	Capital Region	18	N	29.971	64.0671N	21.93774W	39	5	Atlantic/Reykjavik
+Hafnarfjoerdur	Capital Region	18	N	31.525	64.0671N	21.93774W	39	5	Atlantic/Reykjavik
 Reykjanesbaer	Southern Peninsula	18	N	19.724	63.99813N	22.56111W	13	5	Atlantic/Reykjavik
 Vittoria	Sicily	19	N	50.852	36.95151N	14.52788E	171	6	Europe/Rome
 Villabate	Sicily	19	N	19.031	38.07789N	13.44275E	56	5	Europe/Rome
@@ -18400,7 +18495,7 @@ Seregno	Lombardy	19	N	42.76	45.65002N	9.20548E	229	5	Europe/Rome
 Senigallia	The Marches	19	N	30.882	43.71626N	13.20882E	6	5	Europe/Rome
 Senago	Lombardy	19	N	20.62	45.57562N	9.1262E	167	5	Europe/Rome
 Segrate	Lombardy	19	N	28.296	45.49185N	9.29812E	120	5	Europe/Rome
-Secondigliano	Campania	19	N	42.827	40.9N	14.26667E	89	5	Europe/Rome
+Secondigliano	Campania	19	N	51.874	40.9N	14.26667E	89	6	Europe/Rome
 Schio	Veneto	19	N	33.74	45.71262N	11.35671E	199	5	Europe/Rome
 Scandicci	Tuscany	19	N	44.951	43.75423N	11.18794E	46	5	Europe/Rome
 Scandiano	Emilia-Romagna	19	N	25.896	44.5983N	10.69558E	95	5	Europe/Rome
@@ -18742,6 +18837,7 @@ Carrara	Tuscany	19	N	58.666	44.07926N	10.09789E	98	6	Europe/Rome
 Carpi	Emilia-Romagna	19	N	71.148	44.78237N	10.8777E	28	6	Europe/Rome
 Carmagnola	Piedmont	19	N	23.012	44.84963N	7.72032E	239	5	Europe/Rome
 Cardito	Campania	19	N	22.239	40.9459N	14.29952E	33	5	Europe/Rome
+Carbonara di Bari	Apulia	19	N	22.625	41.06667N	16.86667E	63	5	Europe/Rome
 Carate Brianza	Lombardy	19	N	15.404	45.67574N	9.23723E	257	5	Europe/Rome
 Capua	Campania	19	N	15.438	41.10519N	14.21269E	25	5	Europe/Rome
 Capannori	Tuscany	19	N	41.116	43.84171N	10.57271E	15	5	Europe/Rome
@@ -18844,7 +18940,7 @@ San Paolo	Apulia	19	N	29.8	41.12476N	16.79258E	35	5	Europe/Rome
 Monterusciello	Campania	19	N	29.125	40.86874N	14.08276E	117	5	Europe/Rome
 Romano Banco	Lombardy	19	N	26.163	45.42309N	9.10707E	116	5	Europe/Rome
 Casa Santa	Sicily	19	N	23.88	38.02514N	12.5484E	34	5	Europe/Rome
-Arpino	Campania	19	N	19.988	40.88882N	14.32015E	28	5	Europe/Rome
+Arpino	Campania	19	N	17.76	40.88882N	14.32015E	28	5	Europe/Rome
 Paolo VI	Apulia	19	N	17.33	40.52218N	17.27401E	47	5	Europe/Rome
 Corigliano Scalo	Calabria	19	N	15.136	39.62713N	16.51368E	38	5	Europe/Rome
 Eppan	Trentino-Alto Adige	19	N	15.062	46.45853N	11.25695E	433	5	Europe/Rome
@@ -18870,8 +18966,9 @@ Adriano	Lombardy	19	N	17.508	45.51342N	9.24871E	130	5	Europe/Rome
 Chinatown	Lombardy	19	N	29	45.48171N	9.17522E	132	5	Europe/Rome
 Barriera di Lanzo	Piedmont	19	N	50	45.10981N	7.65126E	253	6	Europe/Rome
 Porta Palazzo	Piedmont	19	N	19	45.07669N	7.68371E	235	5	Europe/Rome
+Malafede	Lazio	19	N	16.844	41.77451N	12.37739E	59	5	Europe/Rome
 Campo di Marte	Tuscany	19	N	88.588	43.77693N	11.27707E	54	6	Europe/Rome
-Chiaia	Campania	19	N	38.356	40.83255N	14.22677E	6	5	Europe/Rome
+Chiaia	Campania	19	N	40.73	40.83255N	14.22677E	6	5	Europe/Rome
 Chiaiano	Campania	19	N	23.396	40.88101N	14.20759E	229	5	Europe/Rome
 Vicaria	Campania	19	N	15.062	40.86151N	14.27328E	21	5	Europe/Rome
 San Ferdinando	Campania	19	N	18.404	40.83342N	14.24751E	53	5	Europe/Rome
@@ -18879,7 +18976,7 @@ Pendino	Campania	19	N	16.848	40.84708N	14.26321E	21	5	Europe/Rome
 Arenella	Campania	19	N	67.634	40.85734N	14.2228E	233	6	Europe/Rome
 Avvocata	Campania	19	N	33.001	40.85432N	14.24325E	104	5	Europe/Rome
 Montecalvario	Campania	19	N	23.05	40.84436N	14.24555E	74	5	Europe/Rome
-Scampia	Campania	19	N	39.06	40.90347N	14.23736E	114	5	Europe/Rome
+Scampia	Campania	19	N	23.377	40.90347N	14.23736E	114	5	Europe/Rome
 San Pietro a Patierno	Campania	19	N	17.324	40.88566N	14.29008E	85	5	Europe/Rome
 San Lorenzo	Campania	19	N	48.078	40.85686N	14.26481E	29	5	Europe/Rome
 Monte Rosello	Sardinia	19	N	45	40.73542N	8.56771E	233	5	Europe/Rome
@@ -20584,7 +20681,7 @@ Pyeongtaek	Gyeonggi-do	13	N	364.694	36.99472N	127.08889E	14	7	Asia/Seoul
 Buyeo	Chungcheongnam-do	13	N	59.823	36.27472N	126.90906E	19	6	Asia/Seoul
 Busan	Busan	13	R	3285.147	35.10168N	129.03004E	15	9	Asia/Seoul
 Bucheon-si	Gyeonggi-do	13	N	850.731	37.49889N	126.78306E	14	8	Asia/Seoul
-Puan	Jeollabuk-do	13	N	22.267	35.72806N	126.73194E	18	5	Asia/Seoul
+Buan	Jeollabuk-do	13	N	22.267	35.72806N	126.73194E	18	5	Asia/Seoul
 Beolgyo	Jeollanam-do	13	N	19.842	34.84897N	127.34052E	8	5	Asia/Seoul
 Pohang	Gyeongsangbuk-do	13	N	492.041	36.02917N	129.36481E	5	7	Asia/Seoul
 Osan	Gyeonggi-do	13	N	238.788	37.15222N	127.07056E	22	7	Asia/Seoul
@@ -20736,7 +20833,7 @@ Zaysan	East Kazakhstan	12	N	17.6	47.46657N	84.87144E	635	5	Asia/Almaty
 Zhangaqorghan	Kyzylorda	12	N	21.339	43.90652N	67.24637E	166	5	Asia/Qyzylorda
 Turar Ryskulov	Turkistan	12	N	18.421	42.5334N	70.3496E	770	5	Asia/Almaty
 Ushtobe	Zhetysu Region	12	N	20.492	45.25258N	77.98284E	433	5	Asia/Almaty
-Turkestan	Turkistan	12	R	227.098	43.29458N	68.25685E	217	7	Asia/Almaty
+Turkistan	Turkistan	12	R	227.098	43.29458N	68.25685E	217	7	Asia/Almaty
 Temirtau	Karaganda	12	N	170.6	50.05197N	72.95497E	514	7	Asia/Almaty
 Tekeli	Zhetysu Region	12	N	26.678	44.8678N	78.72807E	990	5	Asia/Almaty
 Tasbuget	Kyzylorda	12	N	16.455	44.77018N	65.55461E	128	5	Asia/Qyzylorda
@@ -20745,6 +20842,7 @@ Taldykorgan	Zhetysu Region	12	R	116.558	45.01556N	78.37389E	596	7	Asia/Almaty
 Shymkent	Shymkent	12	R	1200	42.30988N	69.60042E	520	9	Asia/Almaty
 Shu	Zhambyl	12	N	39.785	43.60507N	73.76221E	461	5	Asia/Almaty
 Shemonaikha	East Kazakhstan	12	N	20.087	50.62899N	81.91092E	300	5	Asia/Almaty
+Shelek	Almaty Region	12	N	29.032	43.59623N	78.25745E	609	5	Asia/Almaty
 Shchuchinsk	Aqmola	12	N	47.29	52.93592N	70.18895E	406	5	Asia/Almaty
 Shakhtinsk	Karaganda	12	N	41.602	49.70713N	72.59321E	504	5	Asia/Almaty
 Semey	Abai Region	12	R	292.78	50.42064N	80.25025E	195	7	Asia/Almaty
@@ -20787,7 +20885,7 @@ Atbasar	Aqmola	12	N	34.797	51.80854N	68.35823E	287	5	Asia/Almaty
 Arys	Turkistan	12	N	36.285	42.43015N	68.8087E	239	5	Asia/Almaty
 Arkalyk	Kostanay	12	N	42	50.25031N	66.90384E	332	5	Asia/Qostanay
 Aral	Kyzylorda	12	N	33.017	46.80174N	61.66312E	61	5	Asia/Qyzylorda
-Astana	Astana	12	C	345.604	51.1801N	71.44598E	358	7	Asia/Almaty
+Astana	Astana	12	C	1544.142	51.1801N	71.44598E	358	9	Asia/Almaty
 Almaty	Almaty	12	R	1977.011	43.25249N	76.9115E	783	9	Asia/Almaty
 Akkol'	Aqmola	12	N	16.773	53.29617N	69.59997E	261	5	Asia/Almaty
 Abay	Karaganda	12	N	35.454	49.63539N	72.86523E	500	5	Asia/Almaty
@@ -21351,7 +21449,7 @@ Ambanja	Diana	02	N	63.884	13.669S	48.453E	20	6	Indian/Antananarivo
 Ambalavao	Upper Matsiatra	02	N	45.784	21.83333S	46.93333E	1009	5	Indian/Antananarivo
 Alarobia	Analamanga	02	N	16	18.96667S	47.73333E	1389	5	Indian/Antananarivo
 Majuro	Majuro Atoll	23	C	25.4	7.08971N	171.38027E	6	5	Pacific/Majuro
-Dalap-Uliga-Dorrit		23	N	20.301	7.087N	171.377E	5	5	Pacific/Majuro
+Dalap-Uliga-Dorrit	Majuro Atoll	23	N	20.301	7.087N	171.377E	5	5	Pacific/Majuro
 Zelino	Zhelino	19	R	25.422	41.98028N	21.06417E	448	5	Europe/Skopje
 Vinica	Vinica	19	R	18.218	41.8812N	22.51074E	458	5	Europe/Skopje
 Veles	Veles	19	R	57.873	41.71719N	21.77196E	207	6	Europe/Skopje
@@ -23408,6 +23506,7 @@ Berkel en Rodenrijs	South Holland	20	N	20.189	51.99313N	4.47865E	0	5	Europe/Amst
 Ypenburg	South Holland	20	N	30	52.04098N	4.36981E	-4	5	Europe/Amsterdam
 Velserbroek	North Holland	20	N	15.42	52.43283N	4.66155E	3	5	Europe/Amsterdam
 Maaspoort	North Brabant	20	N	16.15	51.72611N	5.30194E	3	5	Europe/Amsterdam
+Leidsche Rijn	Utrecht	20	N	49.307	52.09497N	5.04613E	1	5	Europe/Amsterdam
 Alta	Finnmark	18	N	15.094	69.96887N	23.27165E	65	5	Europe/Oslo
 Trondheim	Trondelag	18	N	216.518	63.43049N	10.39506E	18	7	Europe/Oslo
 Tromso	Troms	18	R	41.915	69.6489N	18.95508E	-9999	5	Europe/Oslo
@@ -23625,6 +23724,7 @@ San Pedro de Lloc	La Libertad	08	N	16.25	7.4289S	79.50416W	48	5	America/Lima
 San Juan	Loreto	08	N	78.153	3.77611S	73.28139W	99	6	America/Lima
 Sana	Lambayeque	08	N	39.2	6.91888S	79.582W	65	5	America/Lima
 Rioja	San Martin Department	08	N	25.057	6.05675S	77.16651W	831	5	America/Lima
+Requena	Loreto	08	N	25.3	5.06083S	73.85028W	108	5	America/Lima
 Querecotillo	Piura	08	N	25.396	4.83778S	80.64556W	53	5	America/Lima
 Pucallpa	Ucayali	08	R	326.04	8.37915S	74.55387W	155	7	America/Lima
 Piura	Piura	08	R	484.475	5.18192S	80.65715W	29	7	America/Lima
@@ -23650,6 +23750,7 @@ Huanuco	Huanuco Department	08	R	196.627	9.92882S	76.23989W	1795	7	America/Lima
 Huamachuco	La Libertad	08	N	21.768	7.8S	78.06667W	3341	5	America/Lima
 Guadalupe	La Libertad	08	N	25.376	7.25S	79.48333W	83	5	America/Lima
 Ferrenafe	Lambayeque	08	N	34.357	6.63889S	79.78889W	42	5	America/Lima
+Contamana	Loreto	08	N	20.9	7.33333S	75.01667W	147	5	America/Lima
 Coishco	Ancash	08	N	15.083	9.02306S	78.61556W	20	5	America/Lima
 Chulucanas	Piura	08	N	68.835	5.0925S	80.1625W	92	6	America/Lima
 Chongoyape	Lambayeque	08	N	16.061	6.64056S	79.38917W	214	5	America/Lima
@@ -23666,7 +23767,6 @@ Aguaytia	Ucayali	08	N	18.318	9.03778S	75.50906W	278	5	America/Lima
 La Breita	Piura	08	N	17.693	4.25691S	80.88599W	232	5	America/Lima
 Zarumilla	Tumbes	08	N	16.907	3.50306S	80.27306W	14	5	America/Lima
 Belen	Loreto	08	N	57.824	3.76016S	73.2497W	102	6	America/Lima
-Yunguyo	Puno	08	N	16.14	16.25S	69.08333W	3857	5	America/Lima
 Yauri	Cuzco Department	08	N	23.867	14.79083S	71.40986W	3911	5	America/Lima
 Yanacancha	Huanuco Department	08	N	23.175	10.24111S	76.64556W	3997	5	America/Lima
 Tarma	Junin	08	N	51.35	11.41899S	75.68992W	3055	6	America/Lima
@@ -23679,6 +23779,7 @@ San Vicente de Canete	Lima region	08	N	25.517	13.07556S	76.38528W	45	5	America/L
 Santa Ana	Cuzco Department	08	N	25.145	12.86667S	72.71667W	1646	5	America/Lima
 San Isidro	Lima region	08	N	68.309	12.09655S	77.04258W	98	6	America/Lima
 San Clemente	Ica	08	N	15.815	13.66667S	76.15W	80	5	America/Lima
+Quillabamba	Cuzco Department	08	N	25.3	12.86334S	72.69306W	1054	5	America/Lima
 Puno	Puno	08	R	128.637	15.84003S	70.02198W	3792	7	America/Lima
 Puerto Maldonado	Madre de Dios	08	R	85.024	12.58946S	69.19948W	193	6	America/Lima
 Pisco	Ica	08	N	61.869	13.71029S	76.20538W	19	6	America/Lima
@@ -23698,7 +23799,7 @@ Villa Poeta Jose Galvez Barrenechea	Lima region	08	N	61	12.21312S	76.90522W	111	
 Jauja	Junin	08	N	21.057	11.77584S	75.49656W	3380	5	America/Lima
 Imperial	Lima region	08	N	32.344	13.05927S	76.35269W	91	5	America/Lima
 Ilo	Moquegua Department	08	N	53.476	17.63185S	71.34108W	22	6	America/Lima
-Ilave	Puno	08	N	16.033	16.08333S	69.66667W	3841	5	America/Lima
+Ilave	Puno	08	N	22.2	16.08333S	69.66667W	3841	5	America/Lima
 Ica	Ica	08	R	282.407	14.07538S	75.73422W	396	7	America/Lima
 Huaura	Lima region	08	N	20.723	11.07S	77.59944W	72	5	America/Lima
 Huarmey	Ancash	08	N	16.172	10.06806S	78.15222W	13	5	America/Lima
@@ -23718,8 +23819,9 @@ Camana	Arequipa	08	N	16.434	16.62375S	72.71055W	16	5	America/Lima
 Callao	Callao	08	R	1300	12.05162S	77.13452W	5	9	America/Lima
 Barranco	Lima region	08	N	37.525	12.14297S	77.01862W	75	5	America/Lima
 Barranca	Lima region	08	N	46.29	10.75S	77.76667W	52	5	America/Lima
-Ayaviri	Puno	08	N	19.31	14.88639S	70.58889W	3898	5	America/Lima
+Ayaviri	Puno	08	N	22.247	14.88639S	70.58889W	3898	5	America/Lima
 Ayacucho	Ayacucho	08	R	140.033	13.1638S	74.22345W	2805	7	America/Lima
+Atalaya	Ucayali	08	N	16.7	10.73067S	73.75867W	232	5	America/Lima
 Arequipa	Arequipa	08	R	1008.29	16.39899S	71.53747W	2397	9	America/Lima
 Andahuaylas	Apurimac Department	08	N	17.444	13.65556S	73.38722W	2902	5	America/Lima
 Abancay	Apurimac Department	08	R	72.277	13.63426S	72.8838W	2629	6	America/Lima
@@ -23745,6 +23847,7 @@ San Antonio	Moquegua Department	08	N	15.633	17.21718S	70.92593W	1455	5	America/L
 Selva Alegre	Arequipa	08	N	72.696	16.37057S	71.52724W	2455	6	America/Lima
 Santiago	Cuzco Department	08	N	64.075	13.52728S	71.9843W	3420	6	America/Lima
 Brena	Lima region	08	N	81.909	12.05605S	77.05295W	119	6	America/Lima
+San Miguel	Puno	08	N	60.85	15.47798S	70.12498W	3859	6	America/Lima
 Punaauia	Iles du Vent	24	N	25.75	17.63333S	149.6W	24	5	Pacific/Tahiti
 Papeete	Iles du Vent	24	C	26.357	17.5347S	149.56843W	42	5	Pacific/Tahiti
 Faaa	Iles du Vent	24	N	29.851	17.55933S	149.60352W	72	5	Pacific/Tahiti
@@ -24240,6 +24343,7 @@ Banga	Soccsksargen	14	N	58.855	6.42389N	124.77833E	165	6	Asia/Manila
 Banga	Soccsksargen	14	N	91.536	6.42381N	124.77603E	164	6	Asia/Manila
 Bambang	Cagayan Valley	14	N	60.146	16.3865N	121.1066E	329	6	Asia/Manila
 Bamban	Central Luzon	14	N	78.26	15.27386N	120.56683E	80	6	Asia/Manila
+Balulang	Northern Mindanao	14	N	42.205	8.44528N	124.63139E	13	5	Asia/Manila
 Baliuag	Central Luzon	14	N	135.679	14.95472N	120.89694E	22	7	Asia/Manila
 Balayan	Calabarzon	14	N	50.115	13.93714N	120.73224E	8	6	Asia/Manila
 Balanga	Central Luzon	14	N	72.954	14.67611N	120.53611E	12	6	Asia/Manila
@@ -25276,6 +25380,7 @@ Presidente Franco	Alto Parana Department	08	N	54.292	25.56384S	54.61097W	206	6	A
 Pilar	Neembucu Department	08	R	32.81	26.85874S	58.30639W	60	5	America/Asuncion
 Pedro Juan Caballero	Amambay Department	08	R	75.109	22.54925S	55.7387W	649	6	America/Asuncion
 Nemby	Central Department	08	N	94.641	25.3949S	57.53574W	109	6	America/Asuncion
+Loma Plata	Boqueron Department	08	N	16.46	22.3829S	59.83549W	133	5	America/Asuncion
 Limpio	Central Department	08	N	96.143	25.16611S	57.48562W	74	6	America/Asuncion
 Lambare	Central Department	08	N	126.377	25.34682S	57.60647W	119	7	America/Asuncion
 Itaugua	Central Department	08	N	64.997	25.39258S	57.35421W	140	6	America/Asuncion
@@ -26624,6 +26729,7 @@ Mezgor'e	Bashkortostan Republic	17	N	15.861	54.04976N	57.81713E	587	5	Asia/Yekat
 Semender	Dagestan	17	N	15.691	42.98556N	47.40393E	3	5	Europe/Moscow
 Kisilevsk	Kuzbass	11	N	83.431	53.99623N	86.64847E	335	6	Asia/Novokuznetsk
 gorod Solnetchnogorsk	Moscow Oblast	17	N	62	56.18595N	36.97561E	196	6	Europe/Moscow
+Narian-Mar	Nenets	17	N	22.912	67.66782N	53.09792E	10	5	Europe/Kirov
 Rwamagana	Eastern Province	02	R	47.203	1.9487S	30.4347E	1537	5	Africa/Kigali
 Musanze	Northern Province	02	N	153.368	1.49984S	29.63497E	1849	7	Africa/Kigali
 Ruhango	Southern Province	02	N	21.478	2.2246S	29.79088E	1703	5	Africa/Kigali
@@ -27207,6 +27313,7 @@ Cabudwaaq	Galguduud	02	N	120	6.24585N	46.2247E	336	7	Africa/Addis_Ababa
 Buurhakaba	Bay	02	N	27.792	2.80257N	44.07805E	277	5	Africa/Mogadishu
 Buulobarde	Hiiraan	02	N	16.928	3.85375N	45.56744E	150	5	Africa/Mogadishu
 Burao	Togdheer	02	R	99.27	9.52213N	45.53363E	1041	6	Africa/Mogadishu
+Bu'aale	Middle Juba	02	R	17.475	1.08333N	42.58333E	44	5	Africa/Mogadishu
 Bosaso	Bari	02	R	74.287	11.28421N	49.18158E	12	6	Africa/Mogadishu
 Borama	Awdal	02	N	597.842	9.93611N	43.18278E	1468	8	Africa/Mogadishu
 Berbera	Woqooyi Galbeed	02	N	242.344	10.43959N	45.01432E	11	7	Africa/Mogadishu
@@ -27840,9 +27947,10 @@ Seydi	Mary	12	N	17.762	39.4816N	62.91374E	175	5	Asia/Ashgabat
 Sayat	Lebap	12	N	17.762	38.78393N	63.88035E	203	5	Asia/Ashgabat
 Sarahs	Ahal	12	N	31.269	36.52381N	61.21477E	284	5	Asia/Ashgabat
 Mary	Mary	12	R	167.027	37.59378N	61.83031E	223	7	Asia/Ashgabat
-Hojambaz	Lebap	12	N	21.454	38.11635N	65.00347E	234	5	Asia/Ashgabat
+Halac	Lebap	12	N	20.778	38.07201N	64.87938E	233	5	Asia/Ashgabat
 Kerki	Lebap	12	N	33.242	37.83573N	65.21058E	244	5	Asia/Ashgabat
 Magdanly	Lebap	12	N	44.508	37.81244N	66.04656E	430	5	Asia/Ashgabat
+Casgyn	Mary	12	N	15.47	37.79729N	61.54905E	200	5	Asia/Ashgabat
 Tuerkmenabat	Lebap	12	R	230.861	39.07328N	63.57861E	191	7	Asia/Ashgabat
 Bayramaly	Mary	12	N	70.376	37.61852N	62.16715E	239	6	Asia/Ashgabat
 Gazojak	Lebap	12	N	21.021	41.18746N	61.4036E	123	5	Asia/Ashgabat
@@ -28220,7 +28328,7 @@ Batikent	Ankara	16	N	300	39.96833N	32.73083E	862	7	Europe/Istanbul
 Dalaman	Mugla	16	N	19.292	36.76591N	28.8028E	16	5	Europe/Istanbul
 Zonguldak	Zonguldak Province	16	R	101.749	41.45139N	31.79305E	24	7	Europe/Istanbul
 Zile	Tokat Province	16	N	55.68	40.30306N	35.88639E	746	6	Europe/Istanbul
-Zeytinburnu	Istanbul	16	N	288.743	40.99441N	28.90417E	39	7	Europe/Istanbul
+Zeytinburnu	Istanbul	16	N	280.896	40.99441N	28.90417E	39	7	Europe/Istanbul
 Zekeriya	Istanbul	16	N	22.558	41.19806N	29.03028E	120	5	Europe/Istanbul
 Yomra	Trabzon	16	N	19.77	40.95326N	39.85546E	79	5	Europe/Istanbul
 Yenisehir	Bursa Province	16	N	28.656	40.26444N	29.65306E	228	5	Europe/Istanbul
@@ -28274,6 +28382,7 @@ Maltepe	Istanbul	16	N	427.04	40.93567N	29.15507E	150	7	Europe/Istanbul
 Malkara	Tekirdag	16	N	27.427	40.89105N	26.90201E	188	5	Europe/Istanbul
 Lueleburgaz	Kirklareli	16	N	90.899	41.40173N	27.35746E	76	6	Europe/Istanbul
 Kumru	Ordu	16	N	32.174	40.87444N	37.26389E	457	5	Europe/Istanbul
+Kuecuekcekmece	Istanbul	16	N	792.03	40.99104N	28.77123E	63	8	Europe/Istanbul
 Korgan	Ordu	16	N	16.733	40.82472N	37.34667E	789	5	Europe/Istanbul
 Kocaali	Sakarya	16	N	15.076	41.05336N	30.85278E	54	5	Europe/Istanbul
 Kizilcahamam	Ankara	16	N	17.975	40.46972N	32.65056E	980	5	Europe/Istanbul
@@ -28319,6 +28428,7 @@ Gelibolu	Canakkale	16	N	25.178	40.40836N	26.67174E	41	5	Europe/Istanbul
 Gebze	Kocaeli	16	N	281.436	40.80276N	29.43068E	182	7	Europe/Istanbul
 Ferizli	Sakarya	16	N	23.74	40.94082N	30.48583E	42	5	Europe/Istanbul
 Fatsa	Ordu	16	N	82.16	41.02886N	37.49977E	2	6	Europe/Istanbul
+Fatih	Istanbul	16	N	356.025	41.0225N	28.94083E	57	7	Europe/Istanbul
 Esenyurt	Istanbul	16	N	211.33	41.02697N	28.67732E	97	7	Europe/Istanbul
 Esenler	Istanbul	16	N	520.235	41.0435N	28.87619E	72	8	Europe/Istanbul
 Eregli	Zonguldak Province	16	N	88.848	41.28261N	31.41806E	43	6	Europe/Istanbul
@@ -28395,6 +28505,7 @@ Cubuklu	Istanbul	16	N	20.698	41.10419N	29.08331E	20	5	Europe/Istanbul
 Atasehir	Izmir Province	16	N	28.864	38.48855N	27.06132E	7	5	Europe/Istanbul
 Bostanli	Izmir Province	16	N	29.842	38.45921N	27.09732E	8	5	Europe/Istanbul
 Semikler	Izmir Province	16	N	29.321	38.47497N	27.09591E	9	5	Europe/Istanbul
+Evka-UEc	Izmir Province	16	N	20.6	38.47071N	27.25094E	137	5	Europe/Istanbul
 Niluefer	Bursa Province	16	N	536.365	40.21401N	28.91567E	69	8	Europe/Istanbul
 Merkezefendi	Denizli	16	N	280.341	37.80544N	29.04236E	439	7	Europe/Istanbul
 Altinsehir	Adiyaman Province	16	N	26.153	37.74121N	38.22897E	685	5	Europe/Istanbul
@@ -28710,10 +28821,10 @@ Zuhres	Donetsk	17	N	17.871	48.01428N	38.26599E	146	5	Europe/Kyiv
 Zolotonosha	Cherkasy	17	N	27.818	49.66926N	32.03637E	96	5	Europe/Kyiv
 Zolochiv	Lviv	17	N	22.608	49.8074N	24.90376E	244	5	Europe/Kyiv
 Znamyanka	Kirovohrad	17	N	22.444	48.72066N	32.65822E	207	5	Europe/Kyiv
-Zhytomyr	Zhytomyr	17	R	261.624	50.26235N	28.67913E	236	7	Europe/Kyiv
+Zhytomyr	Zhytomyr Oblast	17	R	261.624	50.26235N	28.67913E	236	7	Europe/Kyiv
 Zhmerynka	Vinnytsia	17	N	34.498	49.03523N	28.11405E	322	5	Europe/Kyiv
 Zhovti Vody	Dnipropetrovsk	17	N	42.052	48.34518N	33.49743E	148	5	Europe/Kyiv
-Zdolbuniv	Rivne	17	N	24.501	50.52205N	26.24823E	186	5	Europe/Kyiv
+Zdolbuniv	Rivne Oblast	17	N	24.501	50.52205N	26.24823E	186	5	Europe/Kyiv
 Zaporizhzhya	Zaporizhzhia	17	R	710.052	47.85167N	35.11714E	63	8	Europe/Kyiv
 Pivdenne	Odesa	17	N	32.677	46.62472N	31.10182E	32	5	Europe/Kyiv
 Katerynivka	Luhansk	17	N	16.948	48.55586N	39.18277E	122	5	Europe/Kyiv
@@ -28721,24 +28832,23 @@ Yevpatoriya	Crimea	17	N	107.04	45.20091N	33.36655E	11	7	Europe/Simferopol
 Yenakiyeve	Donetsk	17	N	76.673	48.23857N	38.20403E	209	6	Europe/Kyiv
 Yasynuvata	Donetsk	17	N	37.6	48.12678N	37.85924E	245	5	Europe/Kyiv
 Yalta	Crimea	17	N	77.003	44.50218N	34.16624E	56	6	Europe/Simferopol
-Yahotyn	Kyiv	17	N	18.995	50.27975N	31.76246E	130	5	Europe/Kyiv
-Vyshhorod	Kyiv	17	N	22.08	50.58476N	30.4898E	112	5	Europe/Kyiv
+Yahotyn	Kyiv Oblast	17	N	18.995	50.27975N	31.76246E	130	5	Europe/Kyiv
+Vyshhorod	Kyiv Oblast	17	N	33.109	50.58476N	30.4898E	112	5	Europe/Kyiv
 Vynohradiv	Zakarpattia	17	N	25.317	48.14126N	23.03623E	137	5	Europe/Kyiv
 Vyhurivshchyna-Troyeshchyna	Kyiv City	17	N	240	50.51137N	30.60251E	100	7	Europe/Kyiv
 Voznesensk	Mykolaiv	17	N	33.442	47.56218N	31.33602E	9	5	Europe/Kyiv
 Volochysk	Khmelnytskyi	17	N	18.474	49.53606N	26.20681E	319	5	Europe/Kyiv
 Volnovakha	Donetsk	17	N	21.166	47.6008N	37.49358E	263	5	Europe/Kyiv
 Vilnohirsk	Dnipropetrovsk	17	N	22.079	48.48416N	34.01708E	176	5	Europe/Kyiv
-Vovchansk	Kharkivs'ka Oblast'	17	N	17.459	50.29078N	36.94108E	111	5	Europe/Kyiv
+Vovchansk	Kharkiv	17	N	17.459	50.29078N	36.94108E	111	5	Europe/Kyiv
 Volodymyr-Volynskyi	Volyn	17	N	37.91	50.85033N	24.32119E	191	5	Europe/Kyiv
-Vyshneve	Kyiv	17	N	42.983	50.38913N	30.3705E	176	5	Europe/Kyiv
+Vyshneve	Kyiv Oblast	17	N	42.983	50.38913N	30.3705E	176	5	Europe/Kyiv
 Vinnytsya	Vinnytsia	17	R	430.091	49.2322N	28.46871E	260	7	Europe/Kyiv
 Vynnyky	Lviv	17	N	19.037	49.81672N	24.14417E	274	5	Europe/Kyiv
 Vilnyansk	Zaporizhzhia	17	N	15.044	47.94768N	35.44034E	148	5	Europe/Kyiv
 Verkhnodniprovsk	Dnipropetrovsk	17	N	15.477	48.65557N	34.3262E	71	5	Europe/Kyiv
-Velyka Kokhnivka	Poltava	17	N	17.966	49.11719N	33.48033E	71	5	Europe/Kyiv
 Bahacheve	Cherkasy	17	N	15.763	49.01198N	31.04659E	146	5	Europe/Kyiv
-Vasylkiv	Kyiv	17	N	37.068	50.18693N	30.31346E	164	5	Europe/Kyiv
+Vasylkiv	Kyiv Oblast	17	N	37.068	50.18693N	30.31346E	164	5	Europe/Kyiv
 Uzhhorod	Zakarpattia	17	R	115.449	48.6242N	22.2947E	118	7	Europe/Kyiv
 Uman	Cherkasy	17	N	81.525	48.7501N	30.21944E	219	6	Europe/Kyiv
 Tulchyn	Vinnytsia	17	N	15.011	48.67397N	28.86848E	199	5	Europe/Kyiv
@@ -28771,7 +28881,7 @@ Snizhne	Donetsk	17	N	55.587	48.02328N	38.76205E	281	6	Europe/Kyiv
 Smila	Cherkasy	17	N	66.475	49.23295N	31.88427E	96	6	Europe/Kyiv
 Slovyansk	Donetsk	17	N	105.141	48.84974N	37.59739E	59	7	Europe/Kyiv
 Slavuta	Khmelnytskyi	17	N	35.068	50.29609N	26.86613E	218	5	Europe/Kyiv
-Skvyra	Kyiv	17	N	17.452	49.73303N	29.66426E	198	5	Europe/Kyiv
+Skvyra	Kyiv Oblast	17	N	17.452	49.73303N	29.66426E	198	5	Europe/Kyiv
 Skadovsk	Kherson	17	N	17.915	46.11313N	32.90978E	6	5	Europe/Kyiv
 Synelnykove	Dnipropetrovsk	17	N	30.556	48.32362N	35.52612E	184	5	Europe/Kyiv
 Simferopol	Crimea	17	N	336.46	44.95719N	34.11079E	247	7	Europe/Simferopol
@@ -28782,7 +28892,7 @@ Shepetivka	Khmelnytskyi	17	N	40.802	50.18118N	27.06517E	255	5	Europe/Kyiv
 Shakhtarsk	Donetsk	17	N	71.7	48.05657N	38.43826E	227	6	Europe/Kyiv
 Sevastopol	Sevastopol City	17	R	547.82	44.60795N	33.52134E	35	8	Europe/Simferopol
 Selydove	Donetsk	17	N	21.521	48.1465N	37.3022E	170	5	Europe/Kyiv
-Sarny	Rivne	17	N	28.865	51.33898N	26.60693E	149	5	Europe/Kyiv
+Sarny	Rivne Oblast	17	N	28.865	51.33898N	26.60693E	149	5	Europe/Kyiv
 Sambir	Lviv	17	N	34.152	49.51624N	23.20133E	300	5	Europe/Kyiv
 Saki	Crimea	17	N	28.322	45.13424N	33.59996E	17	5	Europe/Simferopol
 Rubizhne	Luhansk	17	N	55.247	49.00606N	38.38119E	78	6	Europe/Kyiv
@@ -28790,42 +28900,42 @@ Rozdilna	Odesa	17	N	17.858	46.85479N	30.07091E	145	5	Europe/Kyiv
 Kurakhove	Donetsk	17	N	18.22	47.9847N	37.28069E	132	5	Europe/Kyiv
 Rovenky	Luhansk	17	N	45.514	48.08331N	39.37764E	265	5	Europe/Kyiv
 Romny	Sumy	17	N	38.305	50.75104N	33.47471E	157	5	Europe/Kyiv
-Rivne	Rivne	17	R	243.873	50.62036N	26.23695E	175	7	Europe/Kyiv
+Rivne	Rivne Oblast	17	R	243.873	50.62036N	26.23695E	175	7	Europe/Kyiv
 Rakhiv	Zakarpattia	17	N	15.621	48.05472N	24.20314E	437	5	Europe/Kyiv
-Radomyshl	Zhytomyr	17	N	15.252	50.4962N	29.23003E	163	5	Europe/Kyiv
+Radomyshl	Zhytomyr Oblast	17	N	15.252	50.4962N	29.23003E	163	5	Europe/Kyiv
 Pyatykhatky	Dnipropetrovsk	17	N	18.14	48.40821N	33.70919E	167	5	Europe/Kyiv
-Pryluky	Chernihiv	17	N	52.553	50.59525N	32.38382E	119	6	Europe/Kyiv
+Pryluky	Chernihiv Oblast	17	N	52.553	50.59525N	32.38382E	119	6	Europe/Kyiv
 Popasna	Luhansk	17	N	19.199	48.63328N	38.37804E	243	5	Europe/Kyiv
 Poltava	Poltava	17	R	279.593	49.58925N	34.55367E	160	7	Europe/Kyiv
 Polonne	Khmelnytskyi	17	N	20.785	50.11944N	27.50856E	241	5	Europe/Kyiv
 Polohy	Zaporizhzhia	17	N	18.111	47.47865N	36.25463E	111	5	Europe/Kyiv
-Podil	Kyiv City	17	N	198.123	50.46936N	30.51627E	104	7	Europe/Kyiv
-Pidhorodne	Dnipropetrovsk	17	N	19.138	48.57422N	35.09702E	59	5	Europe/Kyiv
+Podil	Kyiv City	17	N	25.9	50.46936N	30.51627E	104	5	Europe/Kyiv
+Pidhorodnye	Dnipropetrovsk	17	N	19.138	48.57422N	35.09702E	59	5	Europe/Kyiv
 Voznesenskyi	Donetsk	17	N	85.399	47.93161N	37.62971E	208	6	Europe/Kyiv
-Pisochyn	Kharkivs'ka Oblast'	17	N	23.509	49.9516N	36.10262E	132	5	Europe/Kyiv
-Zlatopil	Kharkivs'ka Oblast'	17	N	28.51	49.37646N	36.21848E	172	5	Europe/Kyiv
+Pisochyn	Kharkiv	17	N	23.509	49.9516N	36.10262E	132	5	Europe/Kyiv
+Zlatopil	Kharkiv	17	N	28.51	49.37646N	36.21848E	172	5	Europe/Kyiv
 Sokolohirsk	Luhansk	17	N	36.091	48.62831N	38.56205E	100	5	Europe/Kyiv
 Pervomaysk	Mykolaiv	17	N	62.426	48.04478N	30.84784E	73	6	Europe/Kyiv
 Shakhtarske	Dnipropetrovsk	17	N	27.573	48.3479N	36.39637E	129	5	Europe/Kyiv
-Pereiaslav	Kyiv	17	N	26.273	50.06739N	31.44969E	88	5	Europe/Kyiv
+Pereiaslav	Kyiv Oblast	17	N	26.273	50.06739N	31.44969E	88	5	Europe/Kyiv
 Perevalsk	Luhansk	17	N	24.817	48.43779N	38.84384E	227	5	Europe/Kyiv
 Pelahiivka	Donetsk	17	N	17.877	48.10752N	38.61338E	292	5	Europe/Kyiv
 Pavlohrad	Dnipropetrovsk	17	N	101.43	48.53214N	35.86878E	71	7	Europe/Kyiv
-Ovruch	Zhytomyr	17	N	15.332	51.3274N	28.80165E	157	5	Europe/Kyiv
+Ovruch	Zhytomyr Oblast	17	N	15.332	51.3274N	28.80165E	157	5	Europe/Kyiv
 Pokrov	Dnipropetrovsk	17	N	37.493	47.65361N	34.11488E	48	5	Europe/Kyiv
 Oleksandriya	Kirovohrad	17	N	76.097	48.67466N	33.11761E	103	6	Europe/Kyiv
 Ihren	Dnipropetrovsk	17	N	22.118	48.47614N	35.15842E	73	5	Europe/Kyiv
 Odesa	Odesa	17	R	1010.537	46.48572N	30.74383E	34	9	Europe/Kyiv
-Obukhiv	Kyiv	17	N	31.557	50.10689N	30.61848E	136	5	Europe/Kyiv
+Obukhiv	Kyiv Oblast	17	N	31.557	50.10689N	30.61848E	136	5	Europe/Kyiv
 Novyi Rozdil	Lviv	17	N	28.304	49.47136N	24.13352E	277	5	Europe/Kyiv
 Novovolynsk	Volyn	17	N	49.772	50.72949N	24.15976E	236	5	Europe/Kyiv
 Novoukrayinka	Kirovohrad	17	N	16.479	48.31661N	31.52355E	157	5	Europe/Kyiv
 Samar	Dnipropetrovsk	17	N	70.55	48.62893N	35.2589E	61	6	Europe/Kyiv
-Zvyahel	Zhytomyr	17	N	55.925	50.59141N	27.60884E	210	6	Europe/Kyiv
-Novhorod-Siverskyi	Chernihiv	17	N	15.175	52.00684N	33.2634E	178	5	Europe/Kyiv
+Zvyahel	Zhytomyr Oblast	17	N	55.925	50.59141N	27.60884E	210	6	Europe/Kyiv
+Novhorod-Siverskyi	Chernihiv Oblast	17	N	15.175	52.00684N	33.2634E	178	5	Europe/Kyiv
 Nova Kakhovka	Kherson	17	N	44.427	46.75966N	33.35591E	19	5	Europe/Kyiv
 Nova Darnytsya	Kyiv City	17	N	45.7	50.42405N	30.6558E	109	5	Europe/Kyiv
-Nizhyn	Chernihiv	17	N	66.983	51.04772N	31.88844E	116	6	Europe/Kyiv
+Nizhyn	Chernihiv Oblast	17	N	66.983	51.04772N	31.88844E	116	6	Europe/Kyiv
 Nyzhnodniprovsk	Dnipropetrovsk	17	N	160.123	48.47546N	35.1167E	57	7	Europe/Kyiv
 Nikopol	Dnipropetrovsk	17	N	105.16	47.56826N	34.39126E	70	7	Europe/Kyiv
 Netishyn	Khmelnytskyi	17	N	36.492	50.32863N	26.64872E	197	5	Europe/Kyiv
@@ -28836,141 +28946,143 @@ Mostyska	Lviv	17	N	16.945	49.79467N	23.15077E	210	5	Europe/Kyiv
 Otamanivka	Luhansk	17	N	22.449	48.34511N	39.65244E	215	5	Europe/Kyiv
 Mohyliv-Podilskyy	Vinnytsia	17	N	30.589	48.44278N	27.79975E	66	5	Europe/Kyiv
 Myrhorod	Poltava	17	N	39.575	49.96464N	33.60861E	98	5	Europe/Kyiv
-Merefa	Kharkivs'ka Oblast'	17	N	21.202	49.82107N	36.0567E	128	5	Europe/Kyiv
+Merefa	Kharkiv	17	N	21.202	49.82107N	36.0567E	128	5	Europe/Kyiv
 Melitopol	Zaporizhzhia	17	N	148.851	46.84735N	35.38196E	15	7	Europe/Kyiv
-Masany	Chernihiv	17	N	30	51.53316N	31.2313E	145	5	Europe/Kyiv
+Masany	Chernihiv Oblast	17	N	30	51.53316N	31.2313E	145	5	Europe/Kyiv
 Mariupol	Donetsk	17	N	230	47.09514N	37.54131E	65	7	Europe/Kyiv
 Marhanets	Dnipropetrovsk	17	N	44.98	47.63088N	34.6245E	61	5	Europe/Kyiv
-Malyn	Zhytomyr	17	N	25.172	50.76756N	29.24225E	158	5	Europe/Kyiv
+Malyn	Zhytomyr Oblast	17	N	25.172	50.76756N	29.24225E	158	5	Europe/Kyiv
 Makiyivka	Donetsk	17	N	338.968	48.04782N	37.92576E	223	7	Europe/Kyiv
-Liubotyn	Kharkivs'ka Oblast'	17	N	20.001	49.94691N	35.92907E	182	5	Europe/Kyiv
+Liubotyn	Kharkiv	17	N	20.001	49.94691N	35.92907E	182	5	Europe/Kyiv
 Lviv	Lviv	17	R	717.273	49.83826N	24.02324E	284	8	Europe/Kyiv
 Lutuhyne	Luhansk	17	N	17.061	48.40507N	39.22675E	119	5	Europe/Kyiv
 Lutsk	Volyn	17	R	215.986	50.75784N	25.35024E	177	7	Europe/Kyiv
 Luhansk	Luhansk	17	R	397.677	48.56814N	39.30553E	104	7	Europe/Kyiv
 Lubny	Poltava	17	N	44.595	50.01413N	32.99975E	157	5	Europe/Kyiv
-Lozova	Kharkivs'ka Oblast'	17	N	54.026	48.89066N	36.31412E	186	6	Europe/Kyiv
+Lozova	Kharkiv	17	N	54.026	48.89066N	36.31412E	186	6	Europe/Kyiv
 Lysychansk	Luhansk	17	N	93.34	48.90421N	38.44094E	179	6	Europe/Kyiv
 Ladyzhyn	Vinnytsia	17	N	22.459	48.68437N	29.23636E	205	5	Europe/Kyiv
 Kyiv	Kyiv City	17	C	2952.301	50.45466N	30.5238E	187	9	Europe/Kyiv
-Kupyansk	Kharkivs'ka Oblast'	17	N	27.169	49.71003N	37.61581E	92	5	Europe/Kyiv
+Kupyansk	Kharkiv	17	N	27.169	49.71003N	37.61581E	92	5	Europe/Kyiv
 Kryvyy Rih	Dnipropetrovsk	17	N	603.904	47.90572N	33.39404E	95	8	Europe/Kyiv
 Kryukiv	Poltava	17	N	75.578	49.02894N	33.43847E	67	6	Europe/Kyiv
 Krolevets	Sumy	17	N	24.115	51.54775N	33.38475E	166	5	Europe/Kyiv
 Kreminna	Luhansk	17	N	18.116	49.0495N	38.21893E	62	5	Europe/Kyiv
 Kremenets	Ternopil	17	N	21.063	50.09864N	25.72787E	289	5	Europe/Kyiv
-Kremenchuk	Poltava	17	N	217.71	49.06253N	33.40484E	72	7	Europe/Kyiv
+Kremenchuk	Poltava	17	N	224.997	49.06253N	33.40484E	72	7	Europe/Kyiv
 Khrustalnyi	Luhansk	17	N	79.533	48.13954N	38.93715E	266	6	Europe/Kyiv
 Lyman	Donetsk	17	N	20.066	48.99012N	37.80843E	110	5	Europe/Kyiv
 Yany Kapu	Crimea	17	N	30.7	45.95547N	33.79261E	5	5	Europe/Simferopol
-Berestyn	Kharkivs'ka Oblast'	17	N	21.426	49.3776N	35.44485E	170	5	Europe/Kyiv
+Berestyn	Kharkiv	17	N	21.426	49.3776N	35.44485E	170	5	Europe/Kyiv
 Sorokyne	Luhansk	17	N	49.352	48.29235N	39.73921E	143	5	Europe/Kyiv
 Pokrovsk	Donetsk	17	N	60.127	48.28014N	37.17706E	204	6	Europe/Kyiv
 Krasyliv	Khmelnytskyi	17	N	18.868	49.65376N	26.97211E	289	5	Europe/Kyiv
 Kramatorsk	Donetsk	17	N	147.145	48.73106N	37.56779E	122	7	Europe/Kyiv
-Kivsharivka	Kharkivs'ka Oblast'	17	N	19.738	49.63026N	37.6775E	98	5	Europe/Kyiv
+Kivsharivka	Kharkiv	17	N	19.738	49.63026N	37.6775E	98	5	Europe/Kyiv
 Kovel	Volyn	17	N	67.575	51.21548N	24.70077E	175	6	Europe/Kyiv
-Kotsyubynske	Kyiv	17	N	17.623	50.48836N	30.32957E	156	5	Europe/Kyiv
+Kotsyubynske	Kyiv Oblast	17	N	17.623	50.48836N	30.32957E	156	5	Europe/Kyiv
 Podilsk	Odesa	17	N	39.22	47.74988N	29.53074E	247	5	Europe/Kyiv
-Kostopil	Rivne	17	N	30.838	50.87732N	26.44797E	169	5	Europe/Kyiv
-Korsun-Shevchenkivskyy	Cherkasy	17	N	17.763	49.41822N	31.25174E	125	5	Europe/Kyiv
-Korostyshiv	Zhytomyr	17	N	24.129	50.31686N	29.05774E	174	5	Europe/Kyiv
-Korosten	Zhytomyr	17	N	61.496	50.9512N	28.63859E	169	6	Europe/Kyiv
+Kostopil	Rivne Oblast	17	N	30.838	50.87732N	26.44797E	169	5	Europe/Kyiv
+Korsun-Shevchenkivskyi	Cherkasy	17	N	17.763	49.41822N	31.25174E	125	5	Europe/Kyiv
+Korostyshiv	Zhytomyr Oblast	17	N	24.129	50.31686N	29.05774E	174	5	Europe/Kyiv
+Korosten	Zhytomyr Oblast	17	N	61.496	50.9512N	28.63859E	169	6	Europe/Kyiv
 Kostyantynivka	Donetsk	17	N	67.35	48.52728N	37.70594E	87	6	Europe/Kyiv
 Konotop	Sumy	17	N	84.787	51.24032N	33.20263E	142	6	Europe/Kyiv
-Slobozhanske	Kharkivs'ka Oblast'	17	N	15.825	49.59054N	36.52172E	103	5	Europe/Kyiv
+Slobozhanske	Kharkiv	17	N	15.825	49.59054N	36.52172E	103	5	Europe/Kyiv
 Kolomyia	Ivano-Frankivsk	17	N	60.821	48.52496N	25.03712E	289	6	Europe/Kyiv
 Khrestivka	Donetsk	17	N	27.37	48.14969N	38.35941E	254	5	Europe/Kyiv
 Holubivka	Luhansk	17	N	26.654	48.63751N	38.6428E	196	5	Europe/Kyiv
 Kropyvnytskyi	Kirovohrad	17	R	219.676	48.50834N	32.26618E	114	7	Europe/Kyiv
 Kiliya	Odesa	17	N	19.54	45.44445N	29.26396E	7	5	Europe/Kyiv
+Trudivskyi	Donetsk	17	N	16	47.94699N	37.55806E	204	5	Europe/Kyiv
 Khust	Zakarpattia	17	N	28.424	48.17193N	23.29791E	166	5	Europe/Kyiv
 Khmelnytskyi	Khmelnytskyi	17	R	274.452	49.41835N	26.97936E	308	7	Europe/Kyiv
 Khmilnyk	Vinnytsia	17	N	27.707	49.5581N	27.95682E	261	5	Europe/Kyiv
 Kherson	Kherson	17	R	66	46.63695N	32.61458E	45	6	Europe/Kyiv
 Khartsyzk	Donetsk	17	N	56.182	48.04277N	38.14025E	258	6	Europe/Kyiv
-Kharkiv	Kharkivs'ka Oblast'	17	R	1421.125	49.98177N	36.25475E	128	9	Europe/Kyiv
+Kharkiv	Kharkiv	17	R	1421.125	49.98177N	36.25475E	128	9	Europe/Kyiv
 Khanzhonkove	Donetsk	17	N	40.007	48.0945N	38.07553E	269	5	Europe/Kyiv
 Kerch	Crimea	17	N	148.932	45.35675N	36.47542E	3	7	Europe/Simferopol
-Koziatyn	Vinnytsia	17	N	23.241	49.7164N	28.83858E	295	5	Europe/Kyiv
+Kozyatyn	Vinnytsia	17	N	23.241	49.7164N	28.83858E	295	5	Europe/Kyiv
 Kaniv	Cherkasy	17	N	23.503	49.75187N	31.47003E	90	5	Europe/Kyiv
 Kamyanets-Podilskyi	Khmelnytskyi	17	N	97.908	48.67882N	26.58516E	219	6	Europe/Kyiv
 Kalush	Ivano-Frankivsk	17	N	65.088	49.02398N	24.37206E	318	6	Europe/Kyiv
 Kalynivka	Vinnytsia	17	N	18.492	49.46129N	28.51541E	297	5	Europe/Kyiv
 Kakhovka	Kherson	17	N	35.983	46.81601N	33.47862E	28	5	Europe/Kyiv
-Izyum	Kharkivs'ka Oblast'	17	N	45.884	49.20697N	37.27679E	71	5	Europe/Kyiv
+Izyum	Kharkiv	17	N	45.884	49.20697N	37.27679E	71	5	Europe/Kyiv
 Iziaslav	Khmelnytskyi	17	N	16.162	50.11978N	26.82475E	229	5	Europe/Kyiv
 Izmayil	Odesa	17	N	69.932	45.35058N	28.83751E	30	6	Europe/Kyiv
 Ivano-Frankivsk	Ivano-Frankivsk	17	R	238.196	48.92312N	24.71248E	257	7	Europe/Kyiv
-Irpin	Kyiv	17	N	65.167	50.52175N	30.25055E	121	6	Europe/Kyiv
+Irpin	Kyiv Oblast	17	N	65.167	50.52175N	30.25055E	121	6	Europe/Kyiv
 Inhulets	Dnipropetrovsk	17	N	62.173	47.7301N	33.25189E	65	6	Europe/Kyiv
 Ilovays'k	Donetsk	17	N	15.447	47.92498N	38.20235E	194	5	Europe/Kyiv
 Chornomors'k	Odesa	17	N	57.983	46.29914N	30.65529E	21	6	Europe/Kyiv
 Horodok	Khmelnytskyi	17	N	16.046	49.17209N	26.56357E	258	5	Europe/Kyiv
 Horlivka	Donetsk	17	N	239.828	48.29986N	38.01709E	245	7	Europe/Kyiv
 Hlukhiv	Sumy	17	N	31.789	51.67822N	33.9162E	169	5	Europe/Kyiv
-Hostomel	Kyiv	17	N	18.466	50.56841N	30.2651E	109	5	Europe/Kyiv
+Hostomel	Kyiv Oblast	17	N	18.466	50.56841N	30.2651E	109	5	Europe/Kyiv
 Horodok	Lviv	17	N	15.993	49.78476N	23.6481E	280	5	Europe/Kyiv
 Henichesk	Kherson	17	N	19.501	46.16824N	34.80861E	17	5	Europe/Kyiv
 Haysyn	Vinnytsia	17	N	25.735	48.81294N	29.37917E	193	5	Europe/Kyiv
 Hadyach	Poltava	17	N	23.48	50.36912N	33.997E	151	5	Europe/Kyiv
 Feodosiya	Crimea	17	N	68.562	45.03199N	35.38153E	10	6	Europe/Simferopol
-Fastiv	Kyiv	17	N	44.014	50.0767N	29.9177E	208	5	Europe/Kyiv
+Fastiv	Kyiv Oblast	17	N	44.014	50.0767N	29.9177E	208	5	Europe/Kyiv
 Enerhodar	Zaporizhzhia	17	N	52.887	47.49048N	34.66199E	22	6	Europe/Kyiv
 Dzhankoy	Crimea	17	N	41.731	45.7131N	34.39273E	14	5	Europe/Simferopol
 Toretsk	Donetsk	17	N	30.914	48.39477N	37.8478E	204	5	Europe/Kyiv
 Dunayivtsi	Khmelnytskyi	17	N	15.707	48.88697N	26.84816E	324	5	Europe/Kyiv
-Dubno	Rivne	17	N	37.257	50.40752N	25.7624E	231	5	Europe/Kyiv
+Dubno	Rivne Oblast	17	N	37.257	50.40752N	25.7624E	231	5	Europe/Kyiv
 Drohobych	Lviv	17	N	73.682	49.35196N	23.51121E	297	6	Europe/Kyiv
 Donetsk	Donetsk	17	R	901.645	48.023N	37.80224E	223	8	Europe/Kyiv
 Dolyna	Ivano-Frankivsk	17	N	20.417	48.97158N	23.96558E	466	5	Europe/Kyiv
-Dolynska	Kirovohrad	17	N	18.225	48.11725N	32.77691E	185	5	Europe/Kyiv
+Dolynska	Kirovohrad	17	N	25.362	48.11725N	32.77691E	185	5	Europe/Kyiv
 Dokuchayevsk	Donetsk	17	N	22.835	47.7522N	37.67761E	145	5	Europe/Kyiv
 Dobropillia	Donetsk	17	N	28.17	48.46674N	37.08567E	182	5	Europe/Kyiv
 Dnipro	Dnipropetrovsk	17	R	968.502	48.46664N	35.04066E	61	8	Europe/Kyiv
 Kamyanske	Dnipropetrovsk	17	N	226.845	48.51716N	34.60617E	78	7	Europe/Kyiv
 Dniprorudne	Zaporizhzhia	17	N	17.736	47.38993N	35.00065E	87	5	Europe/Kyiv
 Myrnohrad	Donetsk	17	N	46.098	48.3099N	37.26513E	158	5	Europe/Kyiv
-Derhachi	Kharkivs'ka Oblast'	17	N	17.139	50.10789N	36.1209E	134	5	Europe/Kyiv
+Derhachi	Kharkiv	17	N	17.139	50.10789N	36.1209E	134	5	Europe/Kyiv
 Debaltseve	Donetsk	17	N	24.209	48.33592N	38.40261E	315	5	Europe/Kyiv
-Chuhuyiv	Kharkivs'ka Oblast'	17	N	36.519	49.83538N	36.6865E	137	5	Europe/Kyiv
+Chuhuyiv	Kharkiv	17	N	36.519	49.83538N	36.6865E	137	5	Europe/Kyiv
 Chortkiv	Ternopil	17	N	28.393	49.01701N	25.79808E	225	5	Europe/Kyiv
 Voznesenivka	Luhansk	17	N	15.218	48.07613N	39.79618E	301	5	Europe/Kyiv
 Sheptytskyi	Lviv	17	N	64.297	50.39403N	24.23935E	180	6	Europe/Kyiv
 Chernivtsi	Chernivtsi	17	R	264.298	48.29045N	25.93241E	260	7	Europe/Kyiv
-Chernihiv	Chernihiv	17	R	282.747	51.50541N	31.28656E	106	7	Europe/Kyiv
+Chernihiv	Chernihiv Oblast	17	R	282.747	51.50541N	31.28656E	106	7	Europe/Kyiv
 Cherkasy	Cherkasy	17	R	269.836	49.44452N	32.05738E	111	7	Europe/Kyiv
-Bucha	Kyiv	17	N	42.279	50.54345N	30.21201E	135	5	Europe/Kyiv
+Bucha	Kyiv Oblast	17	N	42.279	50.54345N	30.21201E	135	5	Europe/Kyiv
 Bryanka	Luhansk	17	N	44.76	48.511N	38.67222E	219	5	Europe/Kyiv
-Brovary	Kyiv	17	N	109.806	50.51809N	30.80671E	130	7	Europe/Kyiv
+Brovary	Kyiv Oblast	17	N	109.806	50.51809N	30.80671E	130	7	Europe/Kyiv
 Brody	Lviv	17	N	23.134	50.08854N	25.14606E	226	5	Europe/Kyiv
-Boyarka	Kyiv	17	N	34.394	50.31911N	30.29728E	181	5	Europe/Kyiv
+Boyarka	Kyiv Oblast	17	N	34.394	50.31911N	30.29728E	181	5	Europe/Kyiv
 Bortnychi	Kyiv City	17	N	15.5	50.38489N	30.69542E	105	5	Europe/Kyiv
-Boryspil	Kyiv	17	N	64.117	50.35269N	30.95501E	113	6	Europe/Kyiv
+Boryspil	Kyiv Oblast	17	N	64.117	50.35269N	30.95501E	113	6	Europe/Kyiv
 Boryslav	Lviv	17	N	32.473	49.28998N	23.42889E	369	5	Europe/Kyiv
 Bolhrad	Odesa	17	N	15.044	45.67786N	28.61811E	65	5	Europe/Kyiv
-Bohuslav	Kyiv	17	N	15.789	49.54637N	30.87407E	144	5	Europe/Kyiv
-Bohuniya	Zhytomyr	17	N	147.324	50.27691N	28.60962E	202	7	Europe/Kyiv
-Bohodukhiv	Kharkivs'ka Oblast'	17	N	17.818	50.16147N	35.52367E	143	5	Europe/Kyiv
+Bohuslav	Kyiv Oblast	17	N	15.789	49.54637N	30.87407E	144	5	Europe/Kyiv
+Bohuniya	Zhytomyr Oblast	17	N	147.324	50.27691N	28.60962E	202	7	Europe/Kyiv
+Bohodukhiv	Kharkiv	17	N	17.818	50.16147N	35.52367E	143	5	Europe/Kyiv
 Bilhorod-Dnistrovskyi	Odesa	17	N	47.727	46.19484N	30.34827E	19	5	Europe/Kyiv
-Bila Tserkva	Kyiv	17	N	207.273	49.8004N	30.12851E	174	7	Europe/Kyiv
+Bila Tserkva	Kyiv Oblast	17	N	207.273	49.8004N	30.12851E	174	7	Europe/Kyiv
 Berezhany	Ternopil	17	N	17.697	49.44578N	24.93686E	276	5	Europe/Kyiv
-Berezan	Kyiv	17	N	16.202	50.3112N	31.46712E	104	5	Europe/Kyiv
+Berezan	Kyiv Oblast	17	N	16.202	50.3112N	31.46712E	104	5	Europe/Kyiv
 Berehove	Zakarpattia	17	N	23.325	48.20514N	22.64453E	117	5	Europe/Kyiv
-Berdychiv	Zhytomyr	17	N	73.046	49.89421N	28.58236E	242	6	Europe/Kyiv
+Berdychiv	Zhytomyr Oblast	17	N	73.046	49.89421N	28.58236E	242	6	Europe/Kyiv
 Berdyansk	Zaporizhzhia	17	N	106.311	46.75578N	36.78815E	7	7	Europe/Kyiv
 Bilopillia	Sumy	17	N	15.6	51.15016N	34.31287E	165	5	Europe/Kyiv
 Bilohirsk	Crimea	17	N	16.428	45.05679N	34.60386E	182	5	Europe/Simferopol
-Bilohorodka	Kyiv	17	N	21.369	50.38969N	30.22532E	156	5	Europe/Kyiv
-Bilychi	Kyiv City	17	N	30	50.46544N	30.34654E	153	5	Europe/Kyiv
+Bilohorodka	Kyiv Oblast	17	N	21.369	50.38969N	30.22532E	156	5	Europe/Kyiv
+Bilychi	Kyiv City	17	N	40.2	50.46544N	30.34654E	153	5	Europe/Kyiv
 Bar	Vinnytsia	17	N	15.337	49.07362N	27.67404E	280	5	Europe/Kyiv
 Balta	Odesa	17	N	18.511	47.93596N	29.62225E	123	5	Europe/Kyiv
-Balakliya	Kharkivs'ka Oblast'	17	N	26.334	49.45595N	36.84433E	83	5	Europe/Kyiv
+Balakliya	Kharkiv	17	N	26.334	49.45595N	36.84433E	83	5	Europe/Kyiv
 Balaklava	Sevastopol City	17	N	18.649	44.51118N	33.59942E	12	5	Europe/Simferopol
-Bakhmach	Chernihiv	17	N	16.862	51.18144N	32.83463E	144	5	Europe/Kyiv
+Bakhmach	Chernihiv Oblast	17	N	16.862	51.18144N	32.83463E	144	5	Europe/Kyiv
 Bakhchysaray	Crimea	17	N	27.448	44.75525N	33.85782E	173	5	Europe/Simferopol
 Avdiyivka	Donetsk	17	N	35.826	48.14019N	37.75008E	209	5	Europe/Kyiv
 Bakhmut	Donetsk	17	N	80.5	48.59419N	37.99886E	100	6	Europe/Kyiv
+Arshyntseve	Crimea	17	N	34.5	45.30109N	36.42687E	64	5	Europe/Simferopol
 Armyansk	Crimea	17	N	24.442	46.10919N	33.69206E	16	5	Europe/Simferopol
 Apostolove	Dnipropetrovsk	17	N	15.828	47.65983N	33.71952E	87	5	Europe/Kyiv
 Antratsyt	Luhansk	17	N	52.15	48.11503N	39.09128E	235	6	Europe/Kyiv
@@ -28979,32 +29091,33 @@ Alushta	Crimea	17	N	29.586	44.67728N	34.4097E	40	5	Europe/Simferopol
 Alchevsk	Luhansk	17	N	106.062	48.46893N	38.81669E	211	7	Europe/Kyiv
 Okhtyrka	Sumy	17	N	47.216	50.31036N	34.89879E	111	5	Europe/Kyiv
 Horishni Plavni	Poltava	17	N	49.854	49.00835N	33.62926E	71	5	Europe/Kyiv
-Saltivka	Kharkivs'ka Oblast'	17	N	400	50.02207N	36.34901E	143	7	Europe/Kyiv
-Zhuravlivka	Kharkivs'ka Oblast'	17	N	20	50.0125N	36.27214E	108	5	Europe/Kyiv
-Pivnichna Saltivka	Kharkivs'ka Oblast'	17	N	45	50.04512N	36.35905E	132	5	Europe/Kyiv
-Slavutych	Kyiv	17	N	24.464	51.5225N	30.71806E	145	5	Europe/Kyiv
+Saltivka	Kharkiv	17	N	409.3	50.02207N	36.34901E	143	7	Europe/Kyiv
+Zhuravlivka	Kharkiv	17	N	20	50.0125N	36.27214E	108	5	Europe/Kyiv
+Pivnichna Saltivka	Kharkiv	17	N	45	50.04512N	36.35905E	132	5	Europe/Kyiv
+Slavutych	Kyiv Oblast	17	N	24.464	51.5225N	30.71806E	145	5	Europe/Kyiv
 Pivdennoukrainsk	Mykolaiv	17	N	38.56	47.82879N	31.17513E	100	5	Europe/Kyiv
-Varash	Rivne	17	N	42	51.34038N	25.85547E	191	5	Europe/Kyiv
-Svyatopetrivske	Kyiv	17	N	16.2	50.38214N	30.32278E	175	5	Europe/Kyiv
+Varash	Rivne Oblast	17	N	42	51.34038N	25.85547E	191	5	Europe/Kyiv
+Svyatopetrivske	Kyiv Oblast	17	N	16.2	50.38214N	30.32278E	175	5	Europe/Kyiv
 Novoyavorivs'k	Lviv	17	N	31.366	49.93023N	23.57357E	297	5	Europe/Kyiv
-Obolon	Kyiv City	17	N	317.3	50.5132N	30.5055E	86	7	Europe/Kyiv
+Obolon	Kyiv City	17	N	239.5	50.5132N	30.5055E	86	7	Europe/Kyiv
 Cheremushky	Odesa	17	N	120	46.43251N	30.71151E	50	7	Europe/Kyiv
-Molodizhnyi	Poltava	17	N	44	49.1504N	33.4305E	78	5	Europe/Kyiv
-Demiyivka	Kyiv City	17	N	30	50.40206N	30.51564E	133	5	Europe/Kyiv
-Borshchahivka	Kyiv City	17	N	65	50.4316N	30.3899E	190	6	Europe/Kyiv
+Molodizhne	Poltava	17	N	44	49.1504N	33.4305E	78	5	Europe/Kyiv
+Demiyivka	Kyiv City	17	N	29.2	50.40206N	30.51564E	133	5	Europe/Kyiv
+Borshchahivka	Kyiv City	17	N	179.9	50.4316N	30.3899E	190	7	Europe/Kyiv
 Reni	Odesa	17	N	18.53	45.45421N	28.27731E	19	5	Europe/Kyiv
 Avtozavodskyi	Poltava	17	N	157.382	49.09753N	33.43206E	84	7	Europe/Kyiv
-Oleksiyivka	Kharkivs'ka Oblast'	17	N	100.5	50.04516N	36.19322E	172	7	Europe/Kyiv
+Oleksiyivka	Kharkiv	17	N	100.5	50.04516N	36.19322E	172	7	Europe/Kyiv
 Knyahynyn	Ivano-Frankivsk	17	N	16.554	48.93561N	24.71307E	236	5	Europe/Kyiv
-Sofiivska Borschahivka	Kyiv	17	N	25.882	50.40931N	30.35908E	147	5	Europe/Kyiv
-Holosiyiv	Kyiv City	17	N	251.021	50.34433N	30.55178E	88	7	Europe/Kyiv
-Pechersk	Kyiv City	17	N	165.36	50.44441N	30.52348E	181	7	Europe/Kyiv
-Svyatoshyn	Kyiv City	17	N	340.399	50.46341N	30.34612E	149	7	Europe/Kyiv
+Sofiivska Borschahivka	Kyiv Oblast	17	N	25.882	50.40931N	30.35908E	147	5	Europe/Kyiv
+Darnytsya Car Repair Plant Microdistrict	Kyiv City	17	N	17.6	50.44953N	30.67608E	103	5	Europe/Kyiv
+Holosiyiv	Kyiv City	17	N	62.2	50.34433N	30.55178E	88	6	Europe/Kyiv
+Pechersk	Kyiv City	17	N	100.9	50.44441N	30.52348E	181	7	Europe/Kyiv
+Svyatoshyn	Kyiv City	17	N	53	50.46341N	30.34612E	149	6	Europe/Kyiv
+Rakivka	Poltava	17	N	17.4	49.02446N	33.46398E	66	5	Europe/Kyiv
 Dniprovskyi	Kyiv City	17	N	357.9	50.45366N	30.60146E	97	7	Europe/Kyiv
 Desna	Kyiv City	17	N	368.5	50.52207N	30.68228E	104	7	Europe/Kyiv
-Solomyansk	Kyiv City	17	N	280.4	50.42838N	30.45211E	181	7	Europe/Kyiv
+Solomyanka	Kyiv City	17	N	32.5	50.42838N	30.45211E	181	5	Europe/Kyiv
 Shevchenkivskyi	Kyiv City	17	N	220.077	50.46408N	30.46576E	161	7	Europe/Kyiv
-Zhulyany	Kyiv City	17	N	18	50.39428N	30.44057E	167	5	Europe/Kyiv
 Fortechnyi	Kirovohrad	17	N	167.451	48.49865N	32.25365E	116	7	Europe/Kyiv
 Podilskyi	Kirovohrad	17	N	86.652	48.50357N	32.28035E	127	6	Europe/Kyiv
 Novyi Lviv	Lviv	17	N	40	49.81519N	24.03171E	326	5	Europe/Kyiv
@@ -29020,39 +29133,42 @@ Tekstylnyk	Donetsk	17	N	75	47.94594N	37.69848E	242	6	Europe/Kyiv
 Podil	Poltava	17	N	31.87	49.6039N	34.59443E	80	5	Europe/Kyiv
 Kyivskyi	Poltava	17	N	110.6	49.60902N	34.52933E	150	7	Europe/Kyiv
 Shevchenko	Poltava	17	N	147.6	49.5645N	34.53873E	145	7	Europe/Kyiv
-Rayon KTZ	Kharkivs'ka Oblast'	17	N	200	49.94349N	36.36959E	201	7	Europe/Kyiv
+Rayon KTZ	Kharkiv	17	N	200	49.94349N	36.36959E	201	7	Europe/Kyiv
 Pravyi Bereh	Donetsk	17	N	352.088	47.11498N	37.58519E	8	7	Europe/Kyiv
 Nyvky	Kyiv City	17	N	71.7	50.46461N	30.40593E	173	6	Europe/Kyiv
 Pozniaky	Kyiv City	17	N	104.4	50.40259N	30.62352E	86	7	Europe/Kyiv
 Darnytsya	Kyiv City	17	N	343.384	50.41596N	30.69534E	116	7	Europe/Kyiv
 Berezniaky	Kyiv City	17	N	46	50.42627N	30.60218E	92	5	Europe/Kyiv
 Voskresenka	Kyiv City	17	N	84.2	50.48481N	30.6032E	86	6	Europe/Kyiv
-Stare Misto	Kyiv City	17	N	25	50.44759N	30.52635E	183	5	Europe/Kyiv
-Lypky	Kyiv City	17	N	17	50.44296N	30.53039E	183	5	Europe/Kyiv
-Vynohradar	Kyiv City	17	N	65	50.51429N	30.42452E	159	6	Europe/Kyiv
-Teremky	Kyiv City	17	N	21	50.37053N	30.45881E	175	5	Europe/Kyiv
-Vidradnyi	Kyiv City	17	N	32	50.43194N	30.42231E	178	5	Europe/Kyiv
-Chokolivka	Kyiv City	17	N	65	50.42444N	30.44732E	178	6	Europe/Kyiv
+Stare Misto	Kyiv City	17	N	41.8	50.44759N	30.52635E	183	5	Europe/Kyiv
+Lypky	Kyiv City	17	N	18.1	50.44296N	30.53039E	183	5	Europe/Kyiv
+Vynohradar	Kyiv City	17	N	57.5	50.51429N	30.42452E	159	6	Europe/Kyiv
+Teremky-II	Kyiv City	17	N	23.8	50.38067N	30.45249E	170	5	Europe/Kyiv
+Teremky	Kyiv City	17	N	34.5	50.37053N	30.45881E	175	5	Europe/Kyiv
+Vidradnyi	Kyiv City	17	N	69.8	50.43194N	30.42231E	178	6	Europe/Kyiv
+Oleksandrivska Slobidka	Kyiv City	17	N	34.1	50.41827N	30.47807E	175	5	Europe/Kyiv
+Chokolivka	Kyiv City	17	N	73.6	50.42444N	30.44732E	178	6	Europe/Kyiv
 Darnytskyi Masyv	Kyiv City	17	N	68.9	50.44311N	30.62759E	94	6	Europe/Kyiv
-Rayduzhnyi Masyv	Kyiv City	17	N	35	50.48551N	30.58571E	96	5	Europe/Kyiv
+Livoberezhnyi Masyv	Kyiv City	17	N	26.2	50.45544N	30.58969E	91	5	Europe/Kyiv
+Lisovyi Masyv	Kyiv City	17	N	87.3	50.4725N	30.63113E	96	6	Europe/Kyiv
+Rayduzhnyi Masyv	Kyiv City	17	N	26.6	50.48551N	30.58571E	96	5	Europe/Kyiv
 Vyshhorodskyi Masyv	Kyiv City	17	N	35.2	50.50978N	30.45355E	98	5	Europe/Kyiv
-Mostytskyi Masyv	Kyiv City	17	N	40	50.50231N	30.44121E	123	5	Europe/Kyiv
-Syrets	Kyiv City	17	N	30	50.47955N	30.44491E	158	5	Europe/Kyiv
-Kurenivka	Kyiv City	17	N	38	50.49371N	30.47104E	86	5	Europe/Kyiv
-Tatarka	Kyiv City	17	N	90	50.46941N	30.48649E	111	6	Europe/Kyiv
-Shulyavka	Kyiv City	17	N	100	50.45356N	30.4531E	154	7	Europe/Kyiv
-Galagany	Kyiv City	17	N	17	50.45537N	30.40233E	173	5	Europe/Kyiv
-Lukyanivka	Kyiv City	17	N	90	50.46642N	30.47591E	139	6	Europe/Kyiv
+Priorka	Kyiv City	17	N	36.5	50.50977N	30.45773E	98	5	Europe/Kyiv
+Mostytskyi Masyv	Kyiv City	17	N	25	50.50231N	30.44121E	123	5	Europe/Kyiv
+Syrets	Kyiv City	17	N	45.6	50.47955N	30.44491E	158	5	Europe/Kyiv
+Kurenivka	Kyiv City	17	N	23.7	50.49371N	30.47104E	86	5	Europe/Kyiv
+Tatarka	Kyiv City	17	N	25.8	50.46941N	30.48649E	111	5	Europe/Kyiv
+Shulyavka	Kyiv City	17	N	62.2	50.45356N	30.4531E	154	6	Europe/Kyiv
+Lukyanivka	Kyiv City	17	N	31.4	50.46642N	30.47591E	139	5	Europe/Kyiv
 Mykilska Borshchahivka	Kyiv City	17	N	127.4	50.42638N	30.37442E	169	7	Europe/Kyiv
 Kharkivskyi Masyv	Kyiv City	17	N	93.7	50.40848N	30.66006E	91	6	Europe/Kyiv
 Pivnichni Osokorky	Kyiv City	17	N	39.5	50.3932N	30.61304E	86	5	Europe/Kyiv
 Klov	Kyiv City	17	N	18	50.4349N	30.53807E	189	5	Europe/Kyiv
-Zvirynets	Kyiv City	17	N	17	50.41626N	30.5492E	138	5	Europe/Kyiv
 Kybalchych	Kyiv City	17	N	16.1	50.49288N	30.59756E	86	5	Europe/Kyiv
 Pivnichno-Brovarskyi Masyv	Kyiv City	17	N	37.6	50.46304N	30.61697E	97	5	Europe/Kyiv
 Rusanivka	Kyiv City	17	N	27.4	50.43996N	30.59682E	88	5	Europe/Kyiv
-Saperna Slobidka	Kyiv City	17	N	20	50.40077N	30.5349E	104	5	Europe/Kyiv
-Minskyi Masyv	Kyiv City	17	N	30	50.51815N	30.46238E	87	5	Europe/Kyiv
+Saperna Slobidka	Kyiv City	17	N	20.2	50.40077N	30.5349E	104	5	Europe/Kyiv
+Minskyi Masyv	Kyiv City	17	N	33	50.51815N	30.46238E	87	5	Europe/Kyiv
 Smolyanskyi	Donetsk	17	N	116.779	48.01435N	37.73586E	225	7	Europe/Kyiv
 Tsentralno-Miskyi	Donetsk	17	N	94.417	48.06167N	37.97157E	201	6	Europe/Kyiv
 Khanzhonkivskyi	Donetsk	17	N	53.04	48.09512N	38.04202E	253	6	Europe/Kyiv
@@ -29072,11 +29188,19 @@ Tsentralnyi	Donetsk	17	N	179.582	47.09833N	37.54838E	67	7	Europe/Kyiv
 Kalmiuskyi	Donetsk	17	N	101.498	47.11046N	37.54375E	17	7	Europe/Kyiv
 Livoberezhnyi	Donetsk	17	N	122.175	47.1093N	37.64306E	52	7	Europe/Kyiv
 Prymorskyi	Donetsk	17	N	71.008	47.07098N	37.49973E	43	6	Europe/Kyiv
-Desnyanskyi	Chernihiv	17	N	179.6	51.50631N	31.3168E	107	7	Europe/Kyiv
-Novozavodskyi	Chernihiv	17	N	179.6	51.4893N	31.25634E	134	7	Europe/Kyiv
-Korolyov	Zhytomyr	17	N	114.034	50.24487N	28.70013E	226	7	Europe/Kyiv
+Desnyanskyi	Chernihiv Oblast	17	N	179.6	51.50631N	31.3168E	107	7	Europe/Kyiv
+Novozavodskyi	Chernihiv Oblast	17	N	179.6	51.4893N	31.25634E	134	7	Europe/Kyiv
+Hladkivka	Donetsk	17	N	41.5	48.03556N	37.81009E	143	5	Europe/Kyiv
+Korolyov	Zhytomyr Oblast	17	N	114.034	50.24487N	28.70013E	226	7	Europe/Kyiv
 Rakove	Khmelnytskyi	17	N	17	49.39556N	27.06009E	285	5	Europe/Kyiv
 Nyzhnya Telychka	Kyiv City	17	N	17	50.38809N	30.57487E	86	5	Europe/Kyiv
+Sonyachnyi	Donetsk	17	N	40.65	48.72284N	37.5981E	168	5	Europe/Kyiv
+Skhidni Kvartaly	Luhansk	17	N	102.5	48.56622N	39.38256E	140	7	Europe/Kyiv
+Vitryani Hory	Kyiv City	17	N	18.2	50.51138N	30.43657E	120	5	Europe/Kyiv
+Karavayevi Dachi	Kyiv City	17	N	35.6	50.43044N	30.43659E	172	5	Europe/Kyiv
+Pivdenna Borshchahivka	Kyiv City	17	N	50.5	50.41059N	30.40396E	153	6	Europe/Kyiv
+Novobilychi	Kyiv City	17	N	28.5	50.47611N	30.34669E	155	5	Europe/Kyiv
+Nova Zabudova	Kyiv City	17	N	49	50.42811N	30.5153E	141	5	Europe/Kyiv
 Yumbe	Northern Region	02	N	47.6	3.46506N	31.24689E	982	5	Africa/Kampala
 Wobulenzi	Central Region	02	N	31	0.72833N	32.51222E	1155	5	Africa/Kampala
 Wakiso	Central Region	02	N	87.9	0.40444N	32.45944E	1204	6	Africa/Kampala
@@ -30197,6 +30321,7 @@ Canyon Lake	Texas	09	N	21.262	29.87522N	98.26251W	296	5	America/Chicago
 Carrollton	Texas	09	N	133.168	32.95373N	96.89028W	163	7	America/Chicago
 Cedar Hill	Texas	09	N	48.507	32.58847N	96.95612W	258	5	America/Chicago
 Cedar Park	Texas	09	N	65.945	30.5052N	97.82029W	278	6	America/Chicago
+Celina	Texas	09	N	64.427	33.32456N	96.78444W	217	6	America/Chicago
 Channelview	Texas	09	N	38.289	29.77606N	95.11465W	11	5	America/Chicago
 Cibolo	Texas	09	N	33.433	29.56162N	98.22696W	217	5	America/Chicago
 Cinco Ranch	Texas	09	N	18.274	29.73884N	95.758W	35	5	America/Chicago
@@ -32717,7 +32842,7 @@ Namangan	Namangan	12	R	713.22	40.9983N	71.67257E	442	8	Asia/Tashkent
 Marg'ilon	Fergana	12	N	253.5	40.47237N	71.72463E	494	7	Asia/Tashkent
 Manghit	Karakalpakstan	12	N	33.2	42.11556N	60.05972E	85	5	Asia/Samarkand
 Asaka	Andijan Region	12	N	62.2	40.64153N	72.23868E	501	6	Asia/Tashkent
-Quvasoy	Fergana	12	N	96.9	40.29721N	71.98026E	815	6	Asia/Bishkek
+Quvasoy	Fergana	12	N	96.9	40.29721N	71.98026E	815	6	Asia/Tashkent
 Qo`rg`ontepa	Andijan Region	12	N	25.861	40.73192N	72.76177E	709	5	Asia/Tashkent
 Kirguli	Fergana	12	N	20.459	40.43553N	71.76721E	547	5	Asia/Tashkent
 Qibray	Tashkent Region	12	N	27.75	41.38972N	69.465E	534	5	Asia/Tashkent
@@ -33043,10 +33168,12 @@ Sam Son	Thanh Hoa Province	14	N	129.801	19.73333N	105.9E	10	7	Asia/Ho_Chi_Minh
 Sa Dec	Dong Thap	14	N	214.61	10.29085N	105.75635E	6	7	Asia/Ho_Chi_Minh
 Rach Gia	An Giang	14	R	459.86	10.01245N	105.08091E	13	7	Asia/Ho_Chi_Minh
 Qui Nhon	Gia Lai	14	R	519.208	13.77648N	109.22367E	7	8	Asia/Ho_Chi_Minh
+GJong Phu	Da Nang City	14	N	34.122	15.67356N	108.2201E	43	5	Asia/Ho_Chi_Minh
 Ba GJon	Quang Tri	14	N	106.413	17.75353N	106.42355E	8	7	Asia/Bangkok
 Quan Hau	Quang Tri	14	N	36.21	17.40438N	106.64072E	13	5	Asia/Bangkok
 Quang Ngai	Quang Ngai	14	R	278.496	15.12047N	108.79232E	13	7	Asia/Ho_Chi_Minh
 Pleiku	Gia Lai	14	R	114.225	13.98333N	108E	760	7	Asia/Ho_Chi_Minh
+Tu Son	Bac Ninh	14	N	65.697	21.1N	105.96667E	10	6	Asia/Bangkok
 Phu Tho	Phu Tho	14	N	91.65	21.39963N	105.22221E	32	6	Asia/Bangkok
 Phuoc Hoa	Dong Nai	14	N	15.418	12.1N	107.11667E	329	5	Asia/Ho_Chi_Minh
 Phuoc An	Dak Lak	14	N	25.12	12.71298N	108.30148E	526	5	Asia/Ho_Chi_Minh
@@ -33072,6 +33199,7 @@ Nghi Xuan	Ha Tinh Province	14	N	118	18.658N	105.752E	6	7	Asia/Bangkok
 Nghi Son	Thanh Hoa Province	14	N	302.21	19.32746N	105.82145E	74	7	Asia/Bangkok
 Nghia Lo	Lao Cai	14	N	68.206	21.6N	104.51667E	260	6	Asia/Ho_Chi_Minh
 Nghia GJo	Hanoi	14	N	96.418	21.05N	105.8E	6	6	Asia/Bangkok
+Nga Son	Thanh Hoa Province	14	N	47.176	20.00722N	105.97044E	8	5	Asia/Bangkok
 Thi Tran Ngai Giao	Ho Chi Minh City (HCMC)	14	N	49.065	10.6471N	107.24577E	119	5	Asia/Ho_Chi_Minh
 Nam GJinh	Ninh Binh	14	R	448.225	20.43389N	106.17729E	5	7	Asia/Bangkok
 Nam Can	Ca Mau	14	N	30.135	8.75899N	104.99285E	5	5	Asia/Ho_Chi_Minh
@@ -33095,6 +33223,7 @@ Thi Tran Lam Son	Thanh Hoa Province	14	N	33.117	19.9047N	105.40562E	22	5	Asia/Ho
 La Gi	Lam Dong	14	N	160.652	10.65993N	107.77206E	8	7	Asia/Ho_Chi_Minh
 Ky Anh	Ha Tinh Province	14	N	150.226	18.06243N	106.29832E	21	7	Asia/Bangkok
 Kon Tum	Quang Ngai	14	N	205.762	14.35451N	108.00759E	543	7	Asia/Ho_Chi_Minh
+Kim Lien	Nghe An Province	14	N	24.489	18.88333N	105.31667E	19	5	Asia/Ho_Chi_Minh
 Kien An	Hai Phong	14	N	118.047	20.80528N	106.62556E	10	7	Asia/Bangkok
 Kien An	An Giang	14	N	28.333	10.56667N	105.36667E	7	5	Asia/Ho_Chi_Minh
 Huong Tra	Thua Thien Hue Province	14	N	72.677	16.52539N	107.4755E	11	6	Asia/Bangkok
@@ -33228,7 +33357,9 @@ Ly Son	Quang Ngai	14	N	22.174	15.37198N	109.11891E	22	5	Asia/Ho_Chi_Minh
 A Yun Pa	Gia Lai	14	N	35.058	13.40025N	108.43503E	165	5	Asia/Ho_Chi_Minh
 Ea Drang	Dak Lak	14	N	20.6	13.2045N	108.21029E	585	5	Asia/Ho_Chi_Minh
 Quang Phu	Dak Lak	14	N	26.733	12.81965N	108.07738E	462	5	Asia/Ho_Chi_Minh
+Ea T'ling	Lam Dong	14	N	15.342	12.58904N	107.89578E	349	5	Asia/Ho_Chi_Minh
 GJinh Van	Lam Dong	14	N	16.036	11.78624N	108.24282E	848	5	Asia/Ho_Chi_Minh
+Khanh Hai	Khanh Hoa	14	N	15.585	11.59105N	109.04052E	7	5	Asia/Ho_Chi_Minh
 Phu Quy	Lam Dong	14	N	25.267	10.5166N	108.93292E	6	5	Asia/Ho_Chi_Minh
 Long Khanh	Dong Nai	14	N	171.276	10.92655N	107.24783E	175	7	Asia/Ho_Chi_Minh
 Hoa Thanh	Tay Ninh	14	N	147.666	11.28696N	106.12936E	12	7	Asia/Ho_Chi_Minh
