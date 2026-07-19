@@ -29,10 +29,12 @@ use LWP::UserAgent;
 
 $GCVS   = "./gcvs5.txt"; 	# GCVS
 $HIPV	= "./gcvs-hip-gaia.dat";
+$LOGF	= "./log.txt";
 $fpart 	= "https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=";
 $lpart 	= "&submit=SIMBAD+search";
 
-$pause  = 5; # pause in seconds between chunks of requests
+$pausec  = 5; # pause in seconds between chunks of requests
+$pausep  = 1; # pause in seconds between requests of pages
 
 $ua = LWP::UserAgent->new(keep_alive=>1, timeout=>180);
 
@@ -41,15 +43,17 @@ $ua->agent("Opera/9.80 (X11; Linux i686; U; ru) Presto/2.9.168 Version/11.50");
 $i = 0;
 $record = 0;
 $process = 0;
+$err = 0;
 
+open (LOG, ">$LOGF");
 open (OUT, ">$HIPV");
 open (GV, "$GCVS");
 while (<GV>) {
     $i++;
     $rawstring = $_;
-    
+
     if ($rawstring =~ m/^(\d+)\s+/) { $record++; }
-    
+
     $designation = substr($rawstring,8,9);
     $designation =~ s/[ ]{1,}/+/gi;
 
@@ -61,25 +65,42 @@ while (<GV>) {
 
     $content =~ m/>HIP<\/A> (\d+)/gi;
     $hipn = $1;
+    $d = "H";
 
     if(length($hipn)==0) {
-	    $content =~ m/>Gaia<\/A> DR3 (\d+)/gi;
-	    $hipn = $1;
+	$content =~ m/>Gaia<\/A> DR3 (\d+)/gi;
+	$d = "G";
+	$hipn = $1;
+    }
+    chomp($hipn);
+
+    $len = length($hipn);
+    if ($len>0) {
+	$process++;
+	$hip = sprintf("%21d", $hipn);
+	$s = "+";
+	print OUT $hip."|".$rawstring;
+    } else {
+	$s = "!";
+	$err++;
     }
 
-    $len = 20-length($hipn);
-    if ($len<20) {
-	$process++;
-	$hip = sprintf("%20d", $hipn);
-	print OUT $hip."|".$rawstring;
-    }
+    print LOG sprintf("%12s",$designation)." ".$d."".sprintf("%21d", $hipn)." ".sprintf("%2d", $len)." ".$s." [".$URL."]\n";
+    LOG->flush();
+
     if ($i==10) {
 	$i = 0;
-	sleep $pause;
+	sleep $pausec;
+	print LOG ":------------------------------------: ".$err."\n";
+	$err = 0;
+	OUT->flush();
+    } else {
+	sleep $pausep;
     }
 }
 close GV;
 close OUT;
+close LOG;
 
 $percent = sprintf("%3.2f", 100.0*($process/$record));
 print "\nProcessed ".$percent."% of CGVS 5.1 (".$process."/".$record." stars)\n";

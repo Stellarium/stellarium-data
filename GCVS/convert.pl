@@ -55,19 +55,19 @@ $stars = "";
 
 while (<DAT>) {
     $rawstring = $_;
-    $hipstr = substr($rawstring,0,20);
-    $designationstr = substr($rawstring,29,9);
-    $coordstr = substr($rawstring,41,10);
-    $vclassstr = substr($rawstring,62,9);
-    $maxmagstr = substr($rawstring,73,7);
-    $ampflagstr = substr($rawstring,83,1);
-    $min1magstr = substr($rawstring,84,6);
-    $min2magstr = substr($rawstring,97,6);
-    $flagstr = substr($rawstring,109,2);
-    $epochstr = substr($rawstring,112,10);
-    $periodstr = substr($rawstring,132,16);
-    $mmstr = substr($rawstring,152,2);
-    $sclassstr = substr($rawstring,158,16);
+    $hipstr = substr($rawstring,0,21);
+    $designationstr = substr($rawstring,30,9);
+    $coordstr = substr($rawstring,42,10);
+    $vclassstr = substr($rawstring,65,9);
+    $maxmagstr = substr($rawstring,76,7);
+    $ampflagstr = substr($rawstring,86,1);
+    $min1magstr = substr($rawstring,87,6);
+    $min2magstr = substr($rawstring,100,6);
+    $flagstr = substr($rawstring,112,2);
+    $epochstr = substr($rawstring,115,10);
+    $periodstr = substr($rawstring,135,16);
+    $mmstr = substr($rawstring,155,2);
+    $sclassstr = substr($rawstring,161,16);
 
     $hipstr =~ s/(\s+)//gi;
     $designationstr =~ s/(\s+)/ /gi;
