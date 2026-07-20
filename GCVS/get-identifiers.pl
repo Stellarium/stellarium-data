@@ -103,4 +103,6 @@ close OUT;
 close LOG;
 
 $percent = sprintf("%3.2f", 100.0*($process/$record));
-print "\nProcessed ".$percent."% of CGVS 5.1 (".$process."/".$record." stars)\n";
+$message = "\nProcessed ".$percent."% of CGVS 5.1 (".$process."/".$record." stars)\n";
+print LOG $message;
+print $message;
