@@ -100,9 +100,13 @@ while (<GV>) {
 }
 close GV;
 close OUT;
-close LOG;
 
 $percent = sprintf("%3.2f", 100.0*($process/$record));
 $message = "\nProcessed ".$percent."% of CGVS 5.1 (".$process."/".$record." stars)\n";
-print LOG $message;
 print $message;
+
+print LOG ":------------------------------------: ".$err."\n";
+print LOG $message;
+LOG->flush();
+
+close LOG;
