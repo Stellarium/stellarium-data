@@ -11,7 +11,7 @@
 # + Fields in a record are delimited with the tab character
 # + Line beginning with a # character are comments
 # + Columns:
-#   - HIP/Gaia3
+#   - HIP/Gaia DR3
 #   - GCVS designation
 #   - Type of variability
 #   - Magnitude at maximum brightness
