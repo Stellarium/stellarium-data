@@ -3,7 +3,8 @@
 use utf8;
 use Time::Piece;
 
-$HIPDAT		= "./hipprob.txt";	# WDS - HIP cross-id
+#$HIPDAT		= "./hipprob.txt";	# WDS - HIP cross-id
+$HIPDAT		= "./hipwds.dat";	# WDS - HIP cross-id
 $DR3DAT		= "./wds_comp_dr3.txt";	# WDS - Gaia DR3 cross-id
 
 $CROSSID	= "./extra_name.fab";	# Double Stars IDs
@@ -47,9 +48,13 @@ for($i=0;$i<scalar(@hipdata);$i++)
 	$wdsd = $hipdata[$i];
 	if (substr($wdsd, 0, 1) eq '#') { next; }
 
-	$hip	= substr($wdsd, 3, 6);
+#	$hip	= substr($wdsd, 3, 6);
+#	$hip	=~ s/\s+//gi;
+#	$wds	= substr($wdsd,10,10);
+#	$wds	=~ s/\s+//gi;
+	$hip	= substr($wdsd, 35, 6);
 	$hip	=~ s/\s+//gi;
-	$wds	= substr($wdsd,10,10);
+	$wds	= substr($wdsd,201,10);
 	$wds	=~ s/\s+//gi;
 	
 	if (!exists($wdship{$wds})) {
@@ -79,15 +84,20 @@ for($i=0;$i<scalar(@dr3data);$i++)
 	
 	$data = $wds.$delimiter.$year.$delimiter.$pa.$delimiter.$sep;
 	
+	$hip = $wdship{$wds} + 0;
 	if ($dr3 > 0) {
-		if (!exists($wdscat{$dr3})) {
-			$wdscat{$dr3} = $dr3.$delimiter.$data;
+		if ($hip > 0) {
+			$starId = $hip; # HIP has priority
+		} else {
+			$starId = $dr3;
 		}
-		if (!exists($wdscmd{$dr3})) {
-			$wdscmd{$dr3} = $disc;
+		if (!exists($wdscat{$starId})) {
+			$wdscat{$starId} = $starId.$delimiter.$data;
+		}
+		if (!exists($wdscmd{$starId})) {
+			$wdscmd{$starId} = $disc;
 		}
 	} else {
-		$hip = $wdship{$wds} + 0;
 		if ($hip > 0) {
 			if (!exists($wdscat{$hip})) {
 				$wdscat{$hip} = $hip.$delimiter.$data;
