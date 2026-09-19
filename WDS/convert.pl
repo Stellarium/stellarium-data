@@ -16,7 +16,8 @@ $delimiter = "\t"; # delimiter for columns
 
 %wdscat  = ();
 %wdscmd  = ();
-%wdship = ();
+%wdshipf = ();
+%wdships = ();
 
 open(WDSHDR, "<:encoding(utf-8)", "$HDR");
 @header = <WDSHDR>;
@@ -57,8 +58,10 @@ for($i=0;$i<scalar(@hipdata);$i++)
 	$wds	= substr($wdsd,201,10);
 	$wds	=~ s/\s+//gi;
 	
-	if (!exists($wdship{$wds})) {
-		$wdship{$wds} = $hip;
+	if (!exists($wdshipf{$wds})) {
+		$wdshipf{$wds} = $hip;
+	} elsif (!exists($wdships{$wds})) {
+		$wdships{$wds} = $hip;
 	}
 }
 print "DONE!\n\n";
@@ -84,10 +87,13 @@ for($i=0;$i<scalar(@dr3data);$i++)
 	
 	$data = $wds.$delimiter.$year.$delimiter.$pa.$delimiter.$sep;
 	
-	$hip = $wdship{$wds} + 0;
+	$hipf = $wdshipf{$wds} + 0;
+	$hips = $wdships{$wds} + 0;
 	if ($dr3 > 0) {
-		if ($hip > 0) {
-			$starId = $hip; # HIP has priority
+		if ($hips > 0) {
+			$starId = $hips; # HIP has priority
+		} elsif ($hipf > 0) {
+			$starId = $hipf; # HIP has priority
 		} else {
 			$starId = $dr3;
 		}
@@ -98,12 +104,20 @@ for($i=0;$i<scalar(@dr3data);$i++)
 			$wdscmd{$starId} = $disc;
 		}
 	} else {
-		if ($hip > 0) {
-			if (!exists($wdscat{$hip})) {
-				$wdscat{$hip} = $hip.$delimiter.$data;
+		if ($hips > 0) {
+			$starId = $hips;
+		} elsif ($hipf > 0) {
+			$starId = $hipf;
+		} else {
+			$starId = 0;
+		}
+		
+		if ($starId > 0) {
+			if (!exists($wdscat{$starId})) {
+				$wdscat{$starId} = $starId.$delimiter.$data;
 			}
-			if (!exists($wdscmd{$hip})) {
-				$wdscmd{$hip} = $disc;
+			if (!exists($wdscmd{$starId})) {
+				$wdscmd{$starId} = $disc;
 			}
 		}
 	}
