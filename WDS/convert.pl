@@ -1,11 +1,36 @@
 #!/usr/bin/perl
 
+#
+# Tool for create a Stellarium Catalogue of Double Stars
+#
+# Copyright (C) 2026 Alexander Wolf
+#
+# Permission is hereby granted, free of charge, to any person obtaining a
+# copy of this software and associated documentation files (the "Software"),
+# to deal in the Software without restriction, including without limitation
+# the rights to use, copy, modify, merge, publish, distribute, sublicense,
+# and/or sell copies of the Software, and to permit persons to whom the
+# Software is furnished to do so, subject to the following conditions:
+# 
+# The above copyright notice and this permission notice shall be included
+# in all copies or substantial portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+
 use utf8;
 use Time::Piece;
 
 #$HIPDAT		= "./hipprob.txt";	# WDS - HIP cross-id
 $HIPDAT		= "./hipwds.dat";	# WDS - HIP cross-id
 $DR3DAT		= "./wds_comp_dr3.txt";	# WDS - Gaia DR3 cross-id
+$DR3HIP		= "./gaia-hip.dat";	# Gaia DR3 - HIP cross-id
 
 $CROSSID	= "./extra_name.fab";	# Double Stars IDs
 $RESULT		= "./wds.fab";		# WDS catalog for Stellarium
@@ -18,6 +43,7 @@ $delimiter = "\t"; # delimiter for columns
 %wdscmd  = ();
 %wdshipf = ();
 %wdships = ();
+%gaiahip = ();
 
 open(WDSHDR, "<:encoding(utf-8)", "$HDR");
 @header = <WDSHDR>;
@@ -27,6 +53,10 @@ open(WDSDR3, "<:encoding(utf-8)", "$DR3DAT");
 @dr3data = <WDSDR3>;
 close WDSDR3;
 
+open(GH, "<:encoding(utf-8)", "$DR3HIP");
+@dr3hip = <GH>;
+close GH;
+
 open(WDSHIP, "<:encoding(utf-8)", "$HIPDAT");
 @hipdata = <WDSHIP>;
 close WDSHIP;
@@ -34,7 +64,7 @@ close WDSHIP;
 open (FAB, ">:encoding(utf8)", "$RESULT");
 
 $date = localtime;
-$version = $date->ymd("");
+$version = "v".$date->ymd("");
 
 for($i=0; $i<scalar(@header);$i++) {
     $text = $header[$i];
@@ -43,6 +73,21 @@ for($i=0; $i<scalar(@header);$i++) {
 }
 print FAB "\n";
 
+print "Fetch and parse Gaia DR3 - HIP cross-id list...\n";
+for($i=0;$i<scalar(@dr3hip);$i++)
+{
+	$cxm = $dr3hip[$i];
+	if (substr($wdsd, 0, 1) eq '#') { next; }
+
+	($dr3,$hip) = split("|", $cxm);
+	$hip	=~ s/\s+//gi;
+	$dr3	=~ s/\s+//gi;
+	
+	if (!exists($gaiahip{$dr3})) {
+		$gaiahip{$dr3} = $hip;
+	}
+}
+print "DONE!\n\n";
 print "Fetch and parse HIP cross-id catalog...\n";
 for($i=0;$i<scalar(@hipdata);$i++)
 {
@@ -90,10 +135,14 @@ for($i=0;$i<scalar(@dr3data);$i++)
 	$hipf = $wdshipf{$wds} + 0;
 	$hips = $wdships{$wds} + 0;
 	if ($dr3 > 0) {
-		if ($hips > 0) {
-			$starId = $hips; # HIP has priority
+		$hip  = $gaiahip{$dr3} + 0;
+		# HIP has priority
+		if ($hip > 0) {
+			$starId = $hip;
+		} elsif ($hips > 0) {
+			$starId = $hips;
 		} elsif ($hipf > 0) {
-			$starId = $hipf; # HIP has priority
+			$starId = $hipf;
 		} else {
 			$starId = $dr3;
 		}
