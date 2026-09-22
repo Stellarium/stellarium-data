@@ -141,11 +141,11 @@ AS.040	Swains Island	Swains Island	5881199
 AS.010	Eastern District	Eastern District	5881219
 AS.020	Manu'a	Manu'a	5881436
 AS.030	Rose Island	Rose Island	7309441
-AT.09	State of Vienna	State of Vienna	2761367
+AT.09	Vienna	Vienna	2761367
 AT.08	Vorarlberg	Vorarlberg	2762300
 AT.07	Tyrol	Tyrol	2763586
 AT.06	Styria	Styria	2764581
-AT.05	State of Salzburg	State of Salzburg	2766823
+AT.05	Salzburg	Salzburg	2766823
 AT.04	Upper Austria	Upper Austria	2769848
 AT.03	Lower Austria	Lower Austria	2770542
 AT.02	Carinthia	Carinthia	2774686
@@ -1013,13 +1013,13 @@ FR.11	Île-de-France	Ile-de-France	3012874
 FR.94	Corsica	Corsica	3023519
 FR.24	Centre-Val de Loire	Centre-Val de Loire	3027939
 FR.53	Brittany	Brittany	3030293
-FR.27	Bourgogne	Bourgogne	11071619
+FR.27	Bourgogne-Franche-Comté	Bourgogne-Franche-Comte	11071619
 FR.75	New Aquitaine	New Aquitaine	11071620
 FR.28	Normandy	Normandy	11071621
 FR.44	Grand Est	Grand Est	11071622
 FR.76	Occitanie	Occitanie	11071623
 FR.32	Hauts-de-France	Hauts-de-France	11071624
-FR.84	Rhône-Alpes	Rhone-Alpes	11071625
+FR.84	Auvergne-Rhône-Alpes	Auvergne-Rhone-Alpes	11071625
 GA.09	Woleu-Ntem	Woleu-Ntem	2396076
 GA.08	Ogooué-Maritime	Ogooue-Maritime	2396924
 GA.07	Ogooué-Lolo	Ogooue-Lolo	2396925
