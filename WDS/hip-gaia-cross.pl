@@ -40,8 +40,6 @@ $ua = LWP::UserAgent->new(keep_alive=>1, timeout=>180);
 $ua->agent("Opera/9.80 (X11; Linux i686; U; ru) Presto/2.9.168 Version/11.50");
 
 $i = 0;
-$record = 0;
-$process = 0;
 $err = 0;
 
 open (LOG, ">$LOGF");
@@ -62,10 +60,10 @@ for($hip = 1; $hip < 118311; $hip++) {
 
     $len = length($gaia);
     if ($len>0) {
-	$process++;
 	$dr3 = sprintf("%21d", $gaia);
 	$s = "+";
 	print OUT $dr3."|".$hip."\n";
+	OUT->flush();
     } else {
 	$s = "!";
 	$err++;
@@ -79,17 +77,13 @@ for($hip = 1; $hip < 118311; $hip++) {
 	sleep $pausec;
 	print LOG ":------------------------------------: ".$err."\n";
 	$err = 0;
-	OUT->flush();
     } else {
 	sleep $pausep;
     }
 }
 close OUT;
 
-$percent = sprintf("%3.2f", 100.0*($process/$record));
-
 print LOG ":------------------------------------: ".$err."\n";
-print LOG $message;
 LOG->flush();
 
 close LOG;

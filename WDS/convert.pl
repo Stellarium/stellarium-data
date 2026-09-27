@@ -64,7 +64,7 @@ close WDSHIP;
 open (FAB, ">:encoding(utf8)", "$RESULT");
 
 $date = localtime;
-$version = "v".$date->ymd("");
+$version = $date->ymd("");
 
 for($i=0; $i<scalar(@header);$i++) {
     $text = $header[$i];
