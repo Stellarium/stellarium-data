@@ -666,7 +666,7 @@
 2772400	Linz	Linz	LNZ,Lentia,Linc,Linca,Lincas,Linec,Lints,Linz,lin ci,linaja,linaza,lincheu,liniዝ,lins,lintsa,lintsi,linza,lnz,lynts,lyntz,lynz,rintsu,Λιντς,Линц,Лінц,Լինց,לינץ,لنز,لينتز,لينز,لینتس,लिंज़,लिंत्स,লিনজ,ਲਿਨਜ਼,ลินซ์,ლინცი,ሊንዝ,リンツ,林茨,린츠	48.30639	14.28611	P	PPLA	AT		04	401	40101		204846	266	268	Europe/Vienna	2026-04-13
 2773913	Klosterneuburg	Klosterneuburg	Klostehrnojburg,Klosterneuberg,Klosterneuburg,Klosternoiburgas,Klosternojburg,Vajdlingbakh-und-Shajblinshtajn,ke luo si te xin bao,klwstrnwybwrg,kurosutanoiburuku,Вайдлингбах-унд-Шайблинштайн,Клостернойбург,Клостернојбург,Клостэрнойбург,کلوسترنویبورگ,کوسٹرنیوبرگ,კლოსტერნოიბურგი,クロスターノイブルク,克洛斯特新堡	48.30521	16.32522	P	PPLA3	AT		03	321	32144		15614		192	Europe/Vienna	2019-09-05
 2774326	Klagenfurt am Wörthersee	Klagenfurt am Woerthersee	Celovac,Celovec,Celovec na Vrbskem jezeru,Clagenfurtum,KLU,Klagenfurt,Klagenfurt am Woerthersee,Klagenfurt am Wörthersee,Klagenfurt-am-Vjorterzee,Klagenfurte,Klāgenfurte,ke la gen fu,kilageniፉriti ʿeም weriterise,klagenaphurata aima varatharasi,klagenaphurta ama oyartharsi,klaghnfwrt am fyrtirsy,klaghnfwrt am wrtrh sy,klagnfrٹ am wrtھrsy,klagnfwrt am wrtirsh,klajenapharta ema vartharsi,kuragenfuruto,qlgnpwrt,Клагенфурт,Клагенфурт-ам-Вёртерзее,קלגנפורט,كلاغنفورت أم فيرتِرسي,کلاغنفورت ام ورتره سي,کلاگنفرٹ ام ورتھرسی,کلاگنفورت آم ورتِرسه,क्लाजेनफर्ट एम वर्थर्सी,ক্লাগেনফুর্ট আম ওয়ার্থার্সি,ਕ੍ਲਾਗੇਨਫੁਰਟ ਐਮ ਵਰਥਰਸੀ,ክላገንፉርት ኤም ወርተርሴ,クラーゲンフルト,克拉根福	46.62472	14.30528	P	PPLA	AT		02	201	20101		100316		450	Europe/Vienna	2026-04-13
-2775220	Innsbruck	Innsbruck	INN,Innsbruck,Innschbruck,Insbruc,Insbruk,Insbruka,Insbrukas,Insmprouk,Inzbruk,Pons Aeni,ansbrwk,anzbrk,aynsbrwk,inasabruka,insabruka,inseubeulukeu,insuburukku,xin s brukh,yin si bei lu ke,yin si bu lu ke,İnnsbruck,İnsbruk,ʿinisibiruki,Ίνσμπρουκ,Інсбрук,Инзбрук,Инсбрук,Ինսբրուք,אינסברוק,إنسبروك,انزبرک,انسبروک,اینسبروک,इन्सब्रुक,ইন্সব্রুক,ਇਨਸਬ੍ਰੁਕ,อินส์บรุค,ინსბრუკი,ኢንስብሩክ,インスブルック,因斯孛鲁克,因斯布鲁克,인스브루크	47.26266	11.39454	P	PPLA	AT		07	701	70101		132493	570	587	Europe/Vienna	2026-04-13
+2775220	Innsbruck	Innsbruck	INN,Innsbruck,Innschbruck,Insbruc,Insbruk,Insbruka,Insbrukas,Insmprouk,Inzbruk,Oenipontum,Pons Aeni,ansbrwk,anzbrk,aynsbrwk,inasabruka,insabruka,inseubeulukeu,insuburukku,xin s brukh,yin si bei lu ke,yin si bu lu ke,İnnsbruck,İnsbruk,ʿinisibiruki,Ίνσμπρουκ,Інсбрук,Инзбрук,Инсбрук,Ինսբրուք,אינסברוק,إنسبروك,انزبرک,انسبروک,اینسبروک,इन्सब्रुक,ইন্সব্রুক,ਇਨਸਬ੍ਰੁਕ,อินส์บรุค,ინსბრუკი,ኢንስብሩክ,インスブルック,因斯孛鲁克,因斯布鲁克,인스브루크	47.26266	11.39454	P	PPLA	AT		07	701	70101		132493	570	587	Europe/Vienna	2026-09-23
 2775260	Innere Stadt	Innere Stadt	Inner City	48.20906	16.37135	P	PPLX	AT		09	900	901		16450	171	190	Europe/Vienna	2018-07-29
 2775371	Penzing	Penzing	Hutteldorf,Hütteldorf	48.2	16.26667	P	PPLX	AT		09	900	914		98176		215	Europe/Vienna	2024-04-04
 2775479	Hötting	Hoetting		47.26815	11.36868	P	PPLX	AT		07	701	70101		35043		666	Europe/Vienna	2018-07-31
@@ -8051,12 +8051,12 @@
 3061370	Zlín	Zlin	GTW,Gottvoldov,Gottwald,Gottwaldov,Z'lin,Zlin,Zlín,jlina,zalina,zlina,zlyn,zurin,Ζλιν,Злин,Зьлін,زلين,زلین,ज़्लिन,জ্লিন,ਜ਼ਲਿਨ,ዝlini,ዝሊን,ズリン	49.22645	17.67065	P	PPLA	CZ		90	0724	585068		72973		229	Europe/Prague	2026-04-13
 3061412	Žižkov	Zizkov	Zhizhkov,Zhyzhkau,Zizkov,zhyzhkwf,Žižkov,Жижков,Жыжкаў,ژیژکوف	50.08333	14.45	P	PPLX	CZ		52	8378771	500097		58267		259	Europe/Prague	2025-06-30
 3061473	Židenice	Zidenice	Brno-Zidenice,Brno-Židenice,Schimitz	49.19654	16.64738	P	PPL	CZ		78	0642	582786		18920		213	Europe/Prague	2026-01-19
-3061695	Žďár nad Sázavou	Zgar nad Sazavou	Mesto Zd'ar,Mesto Zd'ar a Zamek Zd'ar,Město Žďar,Město Žďár,Město Žďár a Zámek Žďár,Saar,Sar,Zd'ar,Zdar,Zdiaras prie Sazavos,Zdjara pie Sazavas,Zdziar nad Sazawa,Zdziar nad Sazawą,Zhdjar na Sazavi,Zhdjar-nad-Sazavoju,Zhdjar-nad-Sazavou,jdyar nad sazafw,sa zha wa he pan ri gu er,zhdar nad sazaww,Ždiaras prie Sazavos,Ždjāra pie Sāzavas,Žďár,Ждяр-над-Сазавоу,Ждяр-над-Сазавою,Ждјар на Сазави,جديار ناد سازافو,ژدار ناد سازاوو,薩扎瓦河畔日賈爾	49.56263	15.93924	P	PPL	CZ		80	0635	595209		20404	580	580	Europe/Prague	2026-03-09
+3061695	Žďár nad Sázavou	Zgar nad Sazavou	Mesto Zd'ar,Mesto Zd'ar a Zamek Zd'ar,Město Žďar,Město Žďár,Město Žďár a Zámek Žďár,Saar,Sar,Zd'ar,Zdar,Zdiaras prie Sazavos,Zdjara pie Sazavas,Zdziar nad Sazawa,Zdziar nad Sazawą,Zhdjar na Sazavi,Zhdjar-nad-Sazavoju,Zhdjar-nad-Sazavou,jdyar nad sazafw,sa zha wa he pan ri gu er,zhdar nad sazaww,Ždiaras prie Sazavos,Ždjāra pie Sāzavas,Žďár,Ждяр-над-Сазавоу,Ждяр-над-Сазавою,Ждјар на Сазави,جديار ناد سازافو,ژدار ناد سازاوو,薩扎瓦河畔日賈爾	49.56263	15.93924	P	PPL	CZ		80	0635	595209		20247	580	580	Europe/Prague	2026-09-24
 3061822	Žatec	Zatec	Saaz,Zatec,Zhatec,jatetsu,zha tai ci,Žatec,Жатец,ジャテツ,扎泰茨	50.32717	13.54577	P	PPL	CZ		89	0424	566985		18984	233	243	Europe/Prague	2026-09-04
 3062119	Žabovřesky	Zabovresky	Brno-Zabovresky,Brno-Žabovřesky	49.21395	16.57253	P	PPL	CZ		78	0642	582786		19387		216	Europe/Prague	2026-01-19
 3062152	Záběhlice	Zabehlice	Sabechlitz	50.0573	14.5038	P	PPLX	CZ		52	8378778	500224		35228		253	Europe/Prague	2025-07-01
 3062257	Vysočany	Vysocany	Vysocan,Vysocany,Vysočan,Vysočany,Wysocan,Wysočan	50.10938	14.51667	P	PPLX	CZ		52	8378777	500216		17465		209	Europe/Prague	2025-07-01
-3062283	Vyškov	Vyskov	Vyshkov,Vyskov,Vyškov,Wischau,Вышков	49.27747	16.99897	P	PPL	CZ		78	0646	592889		20645	254	254	Europe/Prague	2026-05-30
+3062283	Vyškov	Vyskov	Vyshkov,Vyskov,Vyškov,Wischau,Вышков	49.27747	16.99897	P	PPL	CZ		78	0646	592889		20664	254	254	Europe/Prague	2026-09-23
 3062339	Vsetín	Vsetin	Vsetin,Vsetina,Vsetynas,Vsetīna,Wsetin,Wszetyn,fsytyn,fu sai ting,wstyn,Всетин,Всетін,فسيتين,وستین,弗塞廷	49.33871	17.99619	P	PPL	CZ		90	0723	541630		24974		346	Europe/Prague	2026-09-03
 3062394	Vršovice	Vrsovice		50.06732	14.46026	P	PPLX	CZ		52	8378778	500224		36836		213	Europe/Prague	2025-07-01
 3063447	Valašské Meziříčí	Valasske Mezirici	Mezirzhichi,Valashke Mezirzhichi,Valashki Mezirichi,Valashske-Mezirzhichi,Valasske Mezirzici,Valasske Mezirzyciai,Valašske Meziržyčiai,Valašske Meziržīči,Walachison Mesiritsch,Wallachisch Meseritsch,falashsky myzyrytshy,wa la shen si kai mei ji ri qi,walashskh mzyrzhychy,Валашке Мезиржичи,Валашки Мезиричи,Валашске-Мезиржичи,Мезиржичи,فالاشسكي ميزيريتشي,والاشسکه مزیرژیچی,瓦拉什斯凱梅濟日奇	49.47181	17.97113	P	PPL	CZ		90	0723	545058		22568		311	Europe/Prague	2026-09-03
@@ -8065,11 +8065,11 @@
 3063739	Uherské Hradiště	Uherske Hradiste	Magyarhradis,UHE,Ugarsko Gradishte,Ugerske-Gradishte,Uherske Hradiste,Uherské Hradiště,Ungarisch Hradisch,Ungarisch-Hradisch,Угарско Градиште,Угерске-Градиште,ウヘルスケー・フラジシチェ	49.06975	17.45969	P	PPL	CZ		90	0722	592005		24852	179	182	Europe/Prague	2026-09-04
 3063907	Trutnov	Trutnov	Trautenau,Trutnau,Trutnov,Trutnovas,te lu te nuo fu,trtnwf,trwtnw,Трутнаў,Трутнов,ترتنوف,تروتنو,特魯特諾夫	50.56101	15.9127	P	PPL	CZ		82	0525	579025		29337		431	Europe/Prague	2026-09-03
 3064000	Třinec	Trinec	Trinec,Trshinec,Trsineca,Trsinecas,Trzyniec,Tršineca,Tršinecas,te ri nei ci,trzhynts,Тринец,Тршинец,Тршінец,ترژینتس,特日內茨	49.67763	18.67078	P	PPL	CZ		85	0802	598810		33523		312	Europe/Prague	2026-09-04
-3064104	Třebíč	Trebic	Trebic,Trebitsch-Stadt,Trshebich,Třebíč,toshebichi,Тршебич,トシェビーチ	49.21492	15.88166	P	PPL	CZ		80	0634	590266		34530	405	405	Europe/Prague	2026-01-29
+3064104	Třebíč	Trebic	Trebic,Trebitsch-Stadt,Trshebich,Třebíč,toshebichi,Тршебич,トシェビーチ	49.21492	15.88166	P	PPL	CZ		80	0634	590266		34476	405	405	Europe/Prague	2026-09-24
 3064288	Teplice	Teplice	Cieplice,Teplice,Teplice-Sanov,Teplice-Šanov,Teplicė,Teplitse,Teplitz,Teplitz-Schoenau,Teplitz-Schönau,tblytsh,te pu li cai,tepeulliche,tepuritsue,tplytsh,tplyzh,Теплитсе,Теплице,Тепліце,טפליצה,تبليتسه,تپلیتسه,ტეპლიცე,テプリツェ,特普利采,테플리체	50.6404	13.82451	P	PPL	CZ		89	0426	567442		50856	228	229	Europe/Prague	2026-09-03
 3064379	Tábor	Tabor	Tabar,Tabor,Taboras,Tábor,ta bo er,taboleu,tabor,taboru,tabwr,Табар,Табор,Տաբոր,تابور,ターボル,塔博尔,타보르	49.41441	14.6578	P	PPL	CZ		79	0317	552046		34339		456	Europe/Prague	2026-09-03
 3064454	Svitavy	Svitavy	Svitave,Svitavi,Svitavy,Zwittau,si wei ta wei,Свитави,斯維塔維	49.75594	16.46829	P	PPL	CZ		86	0533	577731		16073		442	Europe/Prague	2026-01-28
-3064673	Šumperk	Sumperk	Maehrisch-Schoenberg,Mährisch-Schönberg,Shumperk,Sumperka,Sumperkas,shumuperuku,shun pei er ke,shwmbyrk,shwmprk,syumpeleukeu,Šumperka,Šumperkas,Шумперк,شومبيرك,شومپرک,シュムペルク,順佩爾克,슘페르크	49.96528	16.97061	P	PPL	CZ		84	0715	523704		28768		336	Europe/Prague	2019-03-20
+3064673	Šumperk	Sumperk	Maehrisch-Schoenberg,Mährisch-Schönberg,Shumperk,Sumperka,Sumperkas,shumuperuku,shun pei er ke,shwmbyrk,shwmprk,syumpeleukeu,Šumperka,Šumperkas,Шумперк,شومبيرك,شومپرک,シュムペルク,順佩爾克,슘페르크	49.96528	16.97061	P	PPL	CZ		84	0715	523704		24444	315	336	Europe/Prague	2026-09-24
 3064894	Střížkov	Strizkov		50.12674	14.49363	P	PPLX	CZ		52	8378777	500216		15705		296	Europe/Prague	2025-07-01
 3065067	Strakonice	Strakonice	Strakonice,Strakonitse,Strakonitz,si te la ke ni cai,straknytsh,Страконитсе,Страконице,Стракоњице,ستراکنیتسه,斯特拉科尼采	49.26141	13.90237	P	PPL	CZ		79	0316	550787		22275	393	403	Europe/Prague	2026-09-07
 3065112	Stodůlky	Stodulky		50.05	14.31667	P	PPL	CZ		52	8378781	539694		60758		342	Europe/Prague	2025-06-30
@@ -8100,7 +8100,7 @@
 3069011	Olomouc	Olomouc	Aebura,Eburum,OLO,Olamauc,Olmic,Olmuetz,Olmütz,Olomouc,Olomouca,Olomoucas,Olomouch,Olomouts,Olomucium,Olomuniec,Ołomuniec,Wolomuc,Wołomuc,ao luo mu ke,awlwmwk,awlwmwts,ollomoucheu,olomauka,olomo'uka,olomoutsi,oromoutsu,xxlx mots,ʼwlwmwʼwz,ʿolomoውki,Όλομουτς,Оламаўц,Оломоутс,Оломоуц,אולומואוץ,أولوموتس,اولوموتس,اولوموڅ,اولوموک,ओलोमौक,ওলোমোউক,ਓਲੋਮੋਉਕ,ออลอโมตซ์,ოლომოუცი,ኦሎሞውክ,オロモウツ,奧洛穆克,올로모우츠	49.59552	17.25175	P	PPLA	CZ		84	0712	500496		99496		223	Europe/Prague	2026-05-30
 3069236	Nymburk	Nymburk	Neuenberg,Nimburg,Nimburk,ning bu er ke,nymbwrk,Нимбурк,Նիմբուրկ,نيمبورك,寧布爾克	50.18605	15.04167	P	PPL	CZ		88	0208	537004		15795		192	Europe/Prague	2026-09-07
 3069247	Nusle	Nusle	Nusle,Нусле	50.06458	14.4399	P	PPLX	CZ		52	8378772	500119		35150		208	Europe/Prague	2026-09-02
-3069305	Nový Jičín	Novy Jicin	Neutitschein	49.59438	18.01028	P	PPL	CZ		85	0804	599191		26547		287	Europe/Prague	2018-09-08
+3069305	Nový Jičín	Novy Jicin	Neutitschein	49.59438	18.01028	P	PPL	CZ		85	0804	599191		22740	285	287	Europe/Prague	2026-09-23
 3069467	Nové Město	Nove Mesto	Citta Nuova,Città Nuova,New Town,Nieuwe Stad,Nova Urbo,Nove Mesto,Nove-Mesta,Nove-Mesto,Nowe Miasto,Pragako Hiri Berria,Prager Neustadt,Ujvaros,bu la ge xin cheng,nobemeseuto,Újváros,Нове Мєсто,Нове-Места,Нове-Место,布拉格新城,노베메스토	50.07829	14.42089	P	PPLX	CZ		52	8378770	500089		27105		211	Europe/Prague	2024-03-27
 3069844	Neratovice	Neratovice	Nerarovice,Neratovice,Neratowitz,nei la tuo wei cai,Нератовице,內拉托維采	50.25926	14.51759	P	PPL	CZ		88	0206	535087		16279	162	170	Europe/Prague	2026-09-07
 3070122	Náchod	Nachod	Nachod	50.4167	16.16289	P	PPL	CZ		82	0523	573868		21263		350	Europe/Prague	2019-10-10
@@ -8150,7 +8150,7 @@
 3076127	Frýdek-Místek	Frydek-Mistek	Fridek-Mistek,Fridekmisteka,Friedeck,Friedek,Frydak-Mistak,Frydek,Frydek Mystekas,Frydek-Mistek,Frýdek,Frýdek-Místek,Frīdekmīsteka,fri dek-mi s tek,frydk-mystk,fu li dai ke-mi si tai ke,furideku=misuteku,peulidekeumiseutekeu,Фридек-Мистек,Фрыдак-Містак,Фрідек-Містек,فريدك-ميستك,فریدک-میستک,ฟรีเดก-มีสเตก,ფრიდეკ-მისტეკი,フリーデク＝ミーステク,弗里代克-米斯泰克,프리데크미스테크	49.68333	18.35	P	PPL	CZ		85	0802	598003		53590	291	283	Europe/Prague	2026-03-12
 3077216	Dejvice	Dejvice	Dejvice,Dejwitz	50.10079	14.39071	P	PPLX	CZ		52	8378774	500178		23401		229	Europe/Prague	2025-07-01
 3077244	Děčín	Decin	Dechin,Decin,Decina,Decynas,Dečynas,Dečīna,Djechin,Dzechyn,Děčín,Tetschen,Tetschen-Bodenbach,dechin,dechini,dychyn,dytshyn,dyychyn,jechin,jie qin,Дечин,Дзечын,Дјечин,ديتشين,دیچین,دییچین,დეჩინი,ジェチーン,杰钦,데친	50.78215	14.21478	P	PPL	CZ		89	0421	562335		46376	135	138	Europe/Prague	2026-01-28
-3077539	Chrudim	Chrudim	Chrudim,Chrudimas,Crudim,Hrudima,Khrudim,Khrudzim,he lu di mu,khrwdym,Хрудзім,Хрудим,خروديم,خرودیم,赫魯迪姆	49.95109	15.79558	P	PPL	CZ		86	0531	571164		23630		274	Europe/Prague	2019-09-05
+3077539	Chrudim	Chrudim	Chrudim,Chrudimas,Crudim,Hrudima,Khrudim,Khrudzim,he lu di mu,khrwdym,Хрудзім,Хрудим,خروديم,خرودیم,赫魯迪姆	49.95109	15.79558	P	PPL	CZ		86	0531	571164		23562	240	274	Europe/Prague	2026-09-24
 3077685	Chomutov	Chomutov	Chomutov,Chomutovas,Khomutov,Komotau,homutofu,homutopeu,huo mu tuo fu,khmwtw,khwmtw,khwmwtwf,Хомутов,خموتو,خومتو,خوموتوف,ხომუტოვი,ホムトフ,霍穆托夫,호무토프	50.46048	13.41779	P	PPL	CZ		89	0422	562971		46560	340	341	Europe/Prague	2026-09-03
 3077700	Chodov	Chodov	Chodov	50.03669	14.50444	P	PPLX	CZ		52	8378779	547034		50043		291	Europe/Prague	2025-06-30
 3077835	Cheb	Cheb	Cheb,Chebas,Eger,Egra,Kheb,hai bu,hepeu,hepu,khb,khp,Хеб,خب,خپ,ヘプ,海布,헤프	50.07963	12.37392	P	PPL	CZ		81	0411	554481		32892	459	445	Europe/Prague	2026-09-03
@@ -9259,7 +9259,7 @@
 3337408	Gropiusstadt	Gropiusstadt	Berlin-Gropiusstadt,Gropiusstadt	52.42686	13.46053	P	PPLX	DE		16	00	11000	11000000	37686		40	Europe/Berlin	2023-11-08
 3337504	Seeheim-Jugenheim	Seeheim-Jugenheim	Zeegajm-Jugengajm,Zekhajm-Jugenkhajm,sai hai mu-you gen hai mu,syhym - ywjynhaym,zehaimu=yugenhaimu,Зеегайм-Югенгайм,Зехайм-Югенхайм,Зехајм-Југенхајм,سيهيم - يوجينهايم,ゼーハイム＝ユーゲンハイム,塞海姆-尤根海姆	49.765	8.65194	P	PPLA4	DE		05	064	06432	06432022	16395		170	Europe/Berlin	2011-04-25
 6472198	Bonn Hardtberg	Bonn Hardtberg		50.704	7.054	P	PPLX	DE		07	053	05314	05314000	35000	147	147	Europe/Berlin	2026-02-06
-6545288	Charlottenburg-Nord	Charlottenburg-Nord		52.53048	13.29371	P	PPLX	DE		16	00	11000	11000000	19422		28	Europe/Berlin	2022-08-05
+6545288	Charlottenburg-Nord	Charlottenburg-Nord		52.533	13.295	P	PPLX	DE		16	00	11000	11000000	19422		35	Europe/Berlin	2026-09-25
 6545310	Mitte	Mitte	Berlin-Mitte,Mite,Mitte,Митте	52.52003	13.40489	P	PPLX	DE		16	00	11000	11000000	102338		48	Europe/Berlin	2026-09-14
 6558039	Rheinstetten	Rheinstetten	Rajnashteten,Rajnshtetten,Raynstetten,Raynştetten,lai yin si te teng,raynshtytn,Райнштеттен,Рајнаштетен,راينشتيتن,راین‌اشتتن,赖因斯特滕	48.9685	8.30704	P	PPL	DE		01	082	08215	08215108	20378		114	Europe/Berlin	2010-11-15
 6612168	Südstadt	Suedstadt		52.35967	9.7508	P	PPLX	DE		06	00	03241	03241001	40557		59	Europe/Berlin	2025-12-16
@@ -10656,7 +10656,7 @@
 6545097	El Viso	El Viso		40.44626	-3.68411	P	PPLX	ES		29	M	28079	5	27274		712	Europe/Madrid	2024-04-14
 6545103	Poble Sec	Poble Sec		41.37452	2.16326	P	PPLX	ES		56	B	08019	03	40906		31	Europe/Madrid	2017-05-26
 6545104	Hostafrancs	Hostafrancs		41.37694	2.14306	P	PPLX	ES		56	B	08019	03	15954		38	Europe/Madrid	2017-05-26
-6545105	La Bordeta	La Bordeta		41.37397	2.14377	P	PPLX	ES		56	B	08019	03	18505		34	Europe/Madrid	2017-05-26
+6545105	La Bordeta	La Bordeta		41.369	2.137	P	PPLX	ES		56	B	08019	03	18505		50	Europe/Madrid	2026-09-22
 6545107	La Bonanova	La Bonanova	Bonanova	41.40585	2.13243	P	PPLX	ES		56	B	08019	05	25761		133	Europe/Madrid	2025-07-30
 6545108	Las Tres Torres	Las Tres Torres		41.39989	2.12931	P	PPLX	ES		56	B	08019	05	16532		113	Europe/Madrid	2017-05-26
 6545114	el Poblenou	el Poblenou		41.40392	2.20413	P	PPLX	ES		56	B	08019	10	34151		13	Europe/Madrid	2025-07-30
@@ -11113,7 +11113,6 @@
 656688	Imatra	Imatra	Imatra,Imatra linn,aymatra,imateula,imatora,imatra,yi ma te la,Іматра,Иматра,إيماترا,ایماترا,イマトラ,伊馬特拉,이마트라	61.17185	28.75242	P	PPLA3	FI		09	093	153		24581		68	Europe/Helsinki	2025-11-19
 656820	Iisalmi	Iisalmi	Idensalmi,Iisalmi,Iisalmi linn,Iisalmo,Ijsalmi,Isal'mi,Isalmi,ay salmy,ayslmy,isalmi,yi sa er mi,Ίισαλμι,Ійсалмі,Ийсалми,Исалми,إيسلمي,ای سالمی,伊薩爾米,이살미	63.55915	27.19067	P	PPLA3	FI		11	111	140		20330		108	Europe/Helsinki	2025-11-20
 656913	Hyvinge	Hyvinge	Hyvinge,Hyvinkaa,Hyvinkaeae,Hyvinkää,Khjuvinkjaja,Хювинкяя	60.63333	24.86667	P	PPLA3	FI		01	011	106		43515		113	Europe/Helsinki	2014-09-25
-657530	Hollola	Hollola	Hollola,Khollola,Холлола	61.05	25.43333	P	PPLA3	FI		07	071	098		20405		104	Europe/Helsinki	2014-09-25
 657531	Hollola	Hollola	Hollola,Khollola,Холлола	61	25.5	P	PPLA3	FI		07	071	098		22843		140	Europe/Helsinki	2026-09-03
 658120	Hervanta	Hervanta	Hervanta,Khervanta,Херванта	61.44792	23.85301	P	PPLX	FI		06	064	837		25231		145	Europe/Helsinki	2026-08-30
 658132	Herttoniemi	Herttoniemi	43,Hartonas,Hertonaes,Hertonas,Hertonäs,Hertsu,Herttoniemi,Herttuaniemi,Hertunes,Härtonäs	60.19471	25.03535	P	PPLX	FI		01	011	091		26047		8	Europe/Helsinki	2024-11-11
@@ -17978,6 +17977,7 @@
 90353	Tallkayf	Tallkayf	Qada' Talkif,Qada' Tallkayf,Qaḑā’ Talkīf,Qaḑā’ Tallkayf,Tall Kaif,Tall Kayf,Tall'-Kajf,Tallkayf,Tel Kaif,Tilkayf,tlkyf,Талль-Кайф,تلكيف,قضاء تلكيف	36.49118	43.12114	P	PPLA2	IQ		15	9166618			23524		279	Asia/Baghdad	2026-02-28
 90532	Sumayl	Sumayl	Samil,Samīl,Saymayl,Semel,Simayl,Simel,Sumajl,Sumayl,Sumel,Summail,Summayl,Summel,Summēl,Sumêl,Sêmêl,Sīmayl,smyl,symyl,sێmێl,Сумайл,سميل,سومێل,سيميل,سێمێل	36.85823	42.8482	P	PPLA2	IQ		08	9166607			152512		465	Asia/Baghdad	2026-09-14
 90708	Sīnah	Sinah	Sina,Sinah,Sinakh,Sine,Sîne,Sīnah,Sīnā,synt,Синах,سينة,سينە	36.80851	43.03935	P	PPL	IQ		08	9166607			128776		604	Asia/Baghdad	2026-09-14
+91025	Mostafa	Mostafa		31.55	47.03333	P	PPL	IQ		14	9166562			150000	9	9	Asia/Baghdad	2026-09-23
 91057	Ash Sharqāt	Ash Sharqat	Ash Sharkat,Ash Sharqat,Ash Sharqāt,Sharqat,Sharqāt,alshrqat,Аш Шаркат,الشرقاط	35.51722	43.22806	P	PPLA2	IQ		18	6804454			160000		159	Asia/Baghdad	2026-09-14
 91083	Shaqlāwah	Shaqlawah	Shaglawa,Shaglāwa,Shaklawa,Shaqlawa,Shaqlawah,Shaqlwah,Shaqlāwa,Shaqlāwah,Sheqlawe,Sheqławe,shqlawh,shqlawt,shqlbd,shqlbʾ,shqlʾbʾ,شقلاوة,شقلاوه,شەقڵاوە,ܫܩܠܐܒܐ,ܫܩܠܒܐ,ܫܩܠܒܕ	36.40422	44.32563	P	PPLA2	IQ		11	9166591			32599		870	Asia/Baghdad	2026-04-23
 91597	Sāmarrā’	Samarra'	Saimarreh,Samara,Samarra,Samarra',Samarrah,Sāmarrah,Sāmarrā’,Самарра,سامراء	34.1959	43.88568	P	PPL	IQ		18	6783103			158508		80	Asia/Baghdad	2026-09-14
@@ -23179,7 +23179,6 @@
 2323675	Sapele	Sapele	Sapele,Сапеле	5.89405	5.67666	P	PPLA2	NG		36	10017			305000		9	Africa/Lagos	2026-09-14
 2324504	Rijau	Rijau	Rijau	11.10389	5.25556	P	PPLA2	NG		31	27021			16613		358	Africa/Lagos	2016-01-30
 2324575	Rano	Rano	Rano	11.55684	8.58065	P	PPLA2	NG		29	20014	KN3204		17972		526	Africa/Lagos	2016-06-22
-2324623	Saminaka	Saminaka	Rahama,Saminaka,Samunakar,Саминака	10.41227	8.68748	P	PPLA2	NG		23	19017	KD1711		500000		765	Africa/Lagos	2026-09-14
 2324767	Potiskum	Potiskum	Potiskum,Putuskum	11.71391	11.08108	P	PPLA2	NG		44	714	71401		86002		427	Africa/Lagos	2016-06-22
 2324774	Port Harcourt	Port Harcourt	PHC,Port Harcourt,Port Harkortas,Port Harkurt,Port Kharkurt,Port Xarcourt,Port-Kharkort,Ugwu Ocha,Ugwu Ọcha,bwrt harkwrt,ha ke te gang,porata harakorata,porta harakorta,poteuhakeoteu,potohakoto,pwrt harkwrt,pwrt hrqwrt,pwrٹ ہarkwrٹ,Порт Харкурт,Порт-Харкорт,פורט הרקורט,بورت هاركورت,پورت هاركورت,پورٹ ہارکورٹ,पोर्ट हारकोर्ट,পোর্ট হারকোর্ট,ਪੋਰਟ ਹਾਰਕੋਰਟ,ፖriti harikweriti,ፖርት ሃርኮርት,ポートハーコート,哈科特港,포트하커트	4.77742	7.0134	P	PPLA	NG		50	33022			2120000		16	Africa/Lagos	2026-04-14
 2324857	Pindiga	Pindiga	Pindiga,Пиндига	9.98433	10.95229	P	PPL	NG		55	16001			106322		490	Africa/Lagos	2026-09-14
@@ -23577,6 +23576,7 @@
 2751792	Leeuwarden	Leeuwarden	L'ovet,LWR,Leeuwarden,Leewarden,Leuvardehn,Leuvarden,Leuvardena,Leuvardenas,Leuwarden,Leyvarden,Lieuwarden,Liewarde,Liwwadden,Ljouwert,leiualeudeon,lew ar dein,li'u'oyardena,livaradena,livardana,liyuvardena,liውwerideni,lu fa deng,lywwardn,rewaruden,Леуварден,Леўвардэн,Льовет,ليوواردن,لیوواردن,लीयुवार्डेन,लीवार्डन,লিউওয়ার্ডেন,ਲੀਵਾਰਡੇਨ,เลวาร์เดิน,ሊውወርደን,レーワルデン,吕伐登,레이우아르던	53.20271	5.80973	P	PPLA	NL		02	0080			124481		1	Europe/Amsterdam	2026-04-14
 2751808	Leerdam	Leerdam	Leerdam,Lerdam,Leyrdam,lai er dan,lyrdam,Лердам,Լեյրդամ,ليردام,莱尔丹	51.89333	5.09167	P	PPL	NL		09	1961			20758		3	Europe/Amsterdam	2019-01-20
 2751834	Leek	Leek	De Leek,De Like,Leek,Lek,Leyk,lei ke,lyk,Лек,Լեյկ,ليك,雷克	53.1625	6.37639	P	PPL	NL		04	1969			19651		2	Europe/Amsterdam	2019-01-20
+2752240	Krommenie	Krommenie		52.49917	4.7625	P	PPL	NL		07	0479			17240		0	Europe/Amsterdam	2026-09-22
 2752264	Krimpen aan den IJssel	Krimpen aan den IJssel	Krimpen,Krimpen a/d IJssel,Krimpen a/d Yssel,Krimpen aan de Yssel,Krimpen aan den IJssel,Krimpen aan den Yssel	51.91667	4.60278	P	PPL	NL		11	0542			29017		-1	Europe/Amsterdam	2017-10-17
 2752420	Korrewegwijk	Korrewegwijk		53.23235	6.56804	P	PPLX	NL		04	0014			16710		0	Europe/Amsterdam	2011-04-19
 2752923	Kerkrade	Kerkrade	Kerkraad,Kerkrade,Kirchrath,Kirchroa,kerukurade,Керкраде,ケルクラーデ	50.86583	6.0625	P	PPL	NL		05	0928			49777		157	Europe/Amsterdam	2019-01-14
@@ -24121,7 +24121,6 @@
 1684577	Tagas	Tagas	Tagas	13.16667	123.71667	P	PPL	PH		05	05	050503000		15292		55	Asia/Manila	2017-12-13
 1684681	Tacurong	Tacurong	Kota Tacurong,Tacorong,Tacurong,Tacurong City,Tacurong Lakanbalen,Takrong,Takurong,Такуронг	6.6925	124.67639	P	PPLA3	PH		12	71	126511000		116945		48	Asia/Manila	2026-09-14
 1684712	Tacloban	Tacloban	Bandaraya Tacloban,Ciudad ti Tacloban,Dakbayan sa Tacloban,Dakuban,Dayeuh Tacloban,Kota Tacloban,Lungsod ng Tacloban,Syudad han Tacloban,Syudad nin Tacloban,TAC,Taclaban,Tacloban,Tacloban City,Tacloban Lakanbalen,Takloban,Taklobana,Taklobanas,Taklompan,Taklopan,Tocloban,Urbs Taclobana,du lu wan shi,tak lo ban,takeulloban,taklwban,takuroban,teklobena,tqlwbn,Τακλομπάν,Таклобан,Таклопан,טאקלאבאן,טקלובן,تاكلوبان,تاکلوبان,ટેક્લોબેન,ตักโลบัน,ታክሎባን,タクロバン,独鲁万市,타클로반	11.24333	125.00472	P	PPLA2	PH		08	37	083747000		259353		7	Asia/Manila	2025-09-24
-1684803	Tabuk	Tabuk	Kota Tabuk,Lungsod ng Tabuk,Siudad ti Tabuk,Tabuk,Tabuk City,tabukeu,tbwk  flpayn,Табук,تبوک، فلپائن,타부크	17.47378	121.46799	P	PPL	PH		15	32	143213000		122771		141	Asia/Manila	2026-09-14
 1685117	Tabaco	Tabaco	Kota Tabaco,Syudad nin Tabaco,Tabaco City,Tabaco Lakanbalen,Tobaco,tabako,tabako shi,タバコ市,타바코	13.35861	123.73361	P	PPLA3	PH		05	05	050517000		57860		4	Asia/Manila	2020-11-01
 1685146	Taal	Taal	Taal,Таал	13.87992	120.92311	P	PPLA3	PH		40	09	041029000		39745		42	Asia/Manila	2017-12-13
 1685218	Surigao	Surigao	Ciudad ti Surigao,Dakbayan sa Surigao,Lungsod ng Surigao,SUG,Serigao Siti,Surigao,Surigao City,Surigao Lakanbalen,su li gao,suligao,surigao,Серигао Сити,スリガオ,苏里高,수리가오	9.789	125.495	P	PPLA2	PH		13	61	166724000		87832		10	Asia/Manila	2020-11-01
@@ -24588,7 +24587,7 @@
 7090987	Bagong Silangan	Bagong Silangan	Bagong Silangan,Багонг Силанган	14.706	121.108	P	PPL	PH		NCR	137400000	137404000		106886		51	Asia/Manila	2026-09-14
 7290466	Pasig City	Pasig City	Pasig,Пасиг	14.58691	121.0614	P	PPLA2	PH		NCR	137400000	137403000		853050		63	Asia/Manila	2026-09-14
 7391141	Poblacion	Poblacion	Poblacion,Poblakion,Поблакион	14.3787	121.025	P	PPL	PH		NCR		043425000		124554		44	Asia/Manila	2026-09-14
-8031389	Tabuk	Tabuk	Tabuk,Табук	17.4084	121.2785	P	PPLA2	PH		15	32	143213000		122771		316	Asia/Manila	2026-09-14
+8031389	Tabuk	Tabuk	Tabuk,Табук	17.41456	121.44157	P	PPLA2	PH		15	32	143213000		122771		197	Asia/Manila	2026-09-27
 8299649	Pandan	Pandan	Banwa it Pandan,Banwa kang Pandan,Banwa sang Pandan,Bayan ng Pandan,Municipality of Pandan,Pandan,Пандан	11.74479	122.10027	P	PPL	PH		06	06	060611000		37325	18	20	Asia/Manila	2025-11-03
 8335226	Ayala Alabang	Ayala Alabang		14.40599	121.02222	P	PPLX	PH		NCR	137600000	137603000		25115		41	Asia/Manila	2023-03-07
 8534157	Banco Filipino Homes	Banco Filipino Homes	BF Homes,Banco Filipino Homes	14.43379	121.02231	P	PPLX	PH		NCR	137600000	137601000		92752		39	Asia/Manila	2023-03-07
@@ -24948,6 +24947,7 @@
 1346926	Pakistan Employees Cooperative Housing Society	Pakistan Employees Cooperative Housing Society	Pakistan Employees Cooperative Housing Society,Pakistan Employees Cooperative Housing Society Block A,Pākistān Employees Cooperative Housing Society Block A	24.87417	67.06419	P	PPLX	PK		05	11744833			19500		34	Asia/Karachi	2025-10-11
 1356491	Ahmadpur Sial	Ahmadpur Sial		30.67791	71.74344	P	PPL	PK		04	1175906			24889		133	Asia/Karachi	2019-12-06
 1357699	New Badah	New Badah	New Badah,New Bādāh	27.34167	68.03194	P	PPL	PK		05	1172127			38855		47	Asia/Karachi	2022-05-22
+1359673	Kurkali Sindh Pakistan	Kurkali Sindh Pakistan	Kurkali	25.94123	68.81765	P	PPL	PK		05	1166162			59387	24	24	Asia/Karachi	2026-09-22
 1385128	Musa Banda/Musa khan kallay	Musa Banda/Musa khan kallay	Musa Banda	34.03374	72.48176	P	PPL	PK		03	7419055			18000	314	314	Asia/Karachi	2025-07-09
 1386114	Khai Gala	Khai Gala	Khai Gala,kayy ghla,kھayygla,كائي غلا,کھائیگلا	33.84589	73.82722	P	PPL	PK		06	1167717			19119		1736	Asia/Karachi	2025-10-01
 1386329	Islamgarh	Islamgarh	Akalgarh,Akālgarh,Islamgarh	33.18969	73.83834	P	PPL	PK		06	1170297			16651		436	Asia/Karachi	2025-10-01
@@ -26708,7 +26708,7 @@
 1494907	Plast	Plast	Plast,Plast i Russland,blast,plast,pu la si te,Пласт,بلاست,پلاست,普拉斯特	54.36914	60.81361	P	PPL	RU		13				17050		308	Asia/Yekaterinburg	2019-09-05
 1495974	Osinniki	Osinniki	Asinniki,Osiniki,Osinniki,Ossinniki,ao xin ni ji,awsynyky,Асіннікі,Осиники,Осинники,أوسينيكي,اوسینیکی,奧辛尼基	53.60357	87.33197	P	PPLA2	RU		29				48919		235	Asia/Novokuznetsk	2025-04-15
 1496153	Omsk	Omsk	OMS,Om'sku,Omby,Omium,Oms'k,Omsc,Omsk,Omska,Omskas,Omsko,Omszk,Omva,amsk,awmsk,e mu si ke,omasaka,omaska,omseukeu,omska,omusuku,xxm skh,ʿoምsiki,Ομσκ,Омбы,Омва,Омск,Омськ,Омьскъ,Օմսկ,אומסק,أومسك,امسک,اومسک,ओम्स्क,ওমস্ক,ਓਮਸਕ,ออมสค์,ომსკი,ኦምስክ,オムスク,鄂木斯克,옴스크	54.99244	73.36859	P	PPLA	RU		54				1172070		90	Asia/Omsk	2026-04-14
-1496421	Ob’	Ob'	Ob,Ob',Ob’,Обь	54.98877	82.71337	P	PPLA2	RU		53				24238		93	Asia/Novosibirsk	2025-04-15
+1496421	Ob’	Ob'	Ob,Ob',ab,Обь,آب	54.98877	82.71337	P	PPLA2	RU		53				24238		93	Asia/Novosibirsk	2026-09-27
 1496476	Nyagan	Nyagan	NYA,Nagin,Njagan,Njagan',Nyagan,Nyakh,Nyakhyn',Nyakhyn’,Yurty Nyagin,Нягань	62.14056	65.39361	P	PPL	RU		32				52137		41	Asia/Yekaterinburg	2013-08-05
 1496503	Noyabrsk	Noyabrsk	NOJ,Nojabr'sk,Nojabrsk,Noyabrsk,Ноябрьск	63.19309	75.43728	P	PPL	RU		87				110000		110	Asia/Yekaterinburg	2023-06-02
 1496511	Novyy Urengoy	Novyy Urengoy	NUX,Novi Urengoj,Noviy Urengoi,Novy Urengoy,Novyj Urengoj,Novyy Urengoy,Nowy Urengoi,Новый Уренгой	66.08333	76.63333	P	PPL	RU		87				94212		45	Asia/Yekaterinburg	2023-06-02
@@ -28402,7 +28402,7 @@
 305742	Kulu	Kulu	Kulu,Кулу	39.09513	33.07989	P	PPLA2	TR		71	8632092			47037		983	Europe/Istanbul	2026-09-02
 305750	Kulp	Kulp	Basor,Kulp,Pasur,Pasûr,Кулп,Բասոր	38.49754	41.00668	P	PPLA2	TR		21	8630837			26569		998	Europe/Istanbul	2026-09-02
 305810	Kula	Kula	Gula,Kovla,Kul,Kula,Opsicium,Кул,Գուլա	38.54726	28.64976	P	PPLA2	TR		45	7910589			31100		671	Europe/Istanbul	2026-08-24
-305969	Küçükçiğli	Kuecuekcigli	Bosnak,Boşnak,Cigli,Kucuk Cigli,Kucukcigli,Küçük Çığlı,Küçükçiğli	38.50801	27.0554	P	PPLX	TR		35	7732714			21784		67	Europe/Istanbul	2026-03-02
+305969	Küçükçiğli	Kuecuekcigli	Bosnak,Boşnak,Cigli,Kucuk Cigli,Kucukcigli,Küçük Çığlı,Küçükçiğli	38.502	27.053	P	PPLX	TR		35	7732714			21784		90	Europe/Istanbul	2026-09-24
 306041	Kozluk	Kozluk	Kozluk,Козлук	38.19118	41.47775	P	PPLA2	TR		76	8630820			29502		937	Europe/Istanbul	2026-09-02
 306112	Kozan	Kozan	Flaviopolis,Kozan,Sis,Козан,Сис	37.45517	35.81573	P	PPLA2	TR		81	7911055			88115		140	Europe/Istanbul	2025-12-09
 306207	Kovancılar	Kovancilar	Kovancilar,Kovancılar	38.71882	39.86268	P	PPLA2	TR		23	8631562			22976		971	Europe/Istanbul	2025-05-10
@@ -28643,7 +28643,7 @@
 745697	Hayrabolu	Hayrabolu	Hayrabolu	41.21311	27.10688	P	PPLA2	TR		59	8632556			19793		64	Europe/Istanbul	2025-05-11
 745714	Havza	Havza	Havza,Khavza,Thermae Phazemonitarum,Хавза	40.97056	35.66222	P	PPLA2	TR		55	8631686			21500		632	Europe/Istanbul	2025-05-11
 746232	Gürsu	Guersu	Gursu,Gürsu	40.21876	29.19487	P	PPLA2	TR		16	7732331			24510		110	Europe/Istanbul	2025-05-10
-746234	Gürpınar	Guerpinar	Anarsa,Anarşa,Gjurpynar,Gurpinar,Gürpınar,Гюрпынар	40.99256	28.61428	P	PPL	TR		34	8521531			29411		113	Europe/Istanbul	2025-05-11
+746234	Gürpınar	Guerpinar	Anarsa,Anarşa,Gjurpynar,Gurpinar,Gürpınar,Гюрпынар	40.992	28.603	P	PPL	TR		34	8521531			29411		116	Europe/Istanbul	2026-09-25
 746252	Gürgentepe	Guergentepe	Akmescit,Gurgentepe,Gürgentepe	40.78995	37.60073	P	PPLA2	TR		52	8631636			18771	1276	1121	Europe/Istanbul	2025-05-11
 746425	Gümüşhane	Guemueshane	Argyropolis,Argyroupoli,Argyrópolis,Giwmiwsxane,Gjumjushane,Guemueshane,Gumusane,Gumushane,Gumushkhane,Gumushkhona,Gumushxona,Gümüşane,Gümüşhane,Gүmүshkhane,Gөmөshkhan,Kiwmiwshane,Nkioumouschane,gmshkhanh,gmshkhanہ,gumusahane,gumushihaነ,gyumushuhane,jwmwshkhant,Αργυρούπολη,Αργυρόπολις,Γκιουμούσχανε,Гумушхона,Гюмюшане,Гүмүшхане,Гөмөшхан,Գիւմիւշխանէ,Կիւմիւշհանէ,جوموشخانة,گمشخانه,گمشخانہ,गुमुशहाने,গুমুশহানে,ਗੁਮੁਸ਼ਹਾਨੇ,ጉሙሽሃነ,ギュムシュハネ	40.46001	39.47176	P	PPLA	TR		69	7732375			39214		1180	Europe/Istanbul	2026-08-22
 746552	Görükle	Goeruekle	Gorukle,Gurukle,Görükle,Gürükle,Korukle,Körükle	40.23114	28.84017	P	PPLA3	TR		16	7732336			35882		121	Europe/Istanbul	2025-05-10
@@ -33451,7 +33451,7 @@
 1571644	Ô Môn	O Mon	O Mon,Phong Phu,Phong Phú,Ô Môn,О Мон	10.10974	105.62318	P	PPLA2	VN		92	917			129683		5	Asia/Ho_Chi_Minh	2026-09-14
 1571725	Thị Trấn Nước Hai	Thi Tran Nuoc Hai	Hoa An,Nouc Hai,Nuoc Hai,Nước Hai,Thi Tran Nuoc Hai,Thị Trấn Nước Hai	22.73738	106.15216	P	PPLA2	VN		04	051			20309		204	Asia/Ho_Chi_Minh	2026-02-27
 1571951	Ninh Hòa	Ninh Hoa	Ninh Hoa,Ninh Hòa,Ninkh Khoa,Нинх Хоа	12.49187	109.12495	P	PPLA2	VN		56	572			230566		7	Asia/Ho_Chi_Minh	2026-09-14
-1571968	Ninh Bình	Ninh Binh	Nin Bin,Nin' Bin',Ninbinh,Ninh Binh,Ninh Bình,Thanh Pho Ninh Binh,Thành Phố Ninh Bình,nina bina,ninaha binaha,ninbin,ninha binha,ninihi binihi,ninہ binہ,nynh bynh,Нинь Бинь,نينه بينه,نِنہ بِنہ,نینه بینه,निन्ह बिन्ह,নিনহ বিনহ,ਨਿਨ ਬਿਨ,ንንህ ብንህ,ニンビン,닌빈	20.25809	105.97965	P	PPLA	VN		37	369			36864		7	Asia/Bangkok	2026-04-14
+1571968	Hoa Lư	Hoa Lu	Hoa Lu,Hoa Lư,Nin Bin,Nin' Bin',Ninbinh,Ninh Binh,Ninh Bình,Thanh Pho Ninh Binh,Thành Phố Ninh Bình,nina bina,ninaha binaha,ninbin,ninha binha,ninihi binihi,ninہ binہ,nynh bynh,Нинь Бинь,نينه بينه,نِنہ بِنہ,نینه بینه,निन्ह बिन्ह,নিনহ বিনহ,ਨਿਨ ਬਿਨ,ንንህ ብንህ,ニンビン,닌빈	20.25809	105.97965	P	PPLA	VN		37	369			319125		7	Asia/Bangkok	2026-09-26
 1572151	Nha Trang	Nha Trang	INhatrang,Kanh-Hoa,NHA,Nacana,Nga-tsong-su,Ngà-tsông-sṳ,Nha Trang,Niacangas,Niačangas,Nja Chang,Njachang,naha tranga,nateulang,nha tram,nha trang,nha tranga,nha tranj,nha trng,niha tiraniግ,nyachan,nyajjang,nھa ٹrang,ya cang,ya zhuang,ya zhuang shi,Ņačana,Ња Чанг,Ня Чанг,Нячанг,نها ترانج,نها ترانگ,نها ترنگ,نھا ٹرانگ,न्हा ट्रांग,ন্হা ট্রাং,ਨਹਾ ਤ੍ਰਾਂਗ,ญาจาง,ንሃ ትራንግ,ニャチャン,芽庄市,芽莊,芽莊市,나트랑,냐짱	12.24507	109.19432	P	PPLA	VN		56	568			579000		10	Asia/Ho_Chi_Minh	2026-04-14
 1572249	Nhà Bè	Nha Be	Lazaret,Nha Be,Nha Bè,Nhà Bè	10.69672	106.74032	P	PPLA2	VN		79	786			17264		3	Asia/Ho_Chi_Minh	2025-07-29
 1572532	Nghi Sơn	Nghi Son	Bien Son,Nghi Son,Nghi Sơn,Ngkhi Son,Нгхи Сон	19.32746	105.82145	P	PPL	VN		38	407			302210		74	Asia/Bangkok	2026-09-14
@@ -33535,7 +33535,7 @@
 1585011	Cổ Đô	Co GJo	Co Do,Cổ Đô,Cổ Độ	21.27964	105.36404	P	PPL	VN		01	271			70706		17	Asia/Bangkok	2025-12-08
 1585281	Chũ	Chu	Chu,Chũ,Чу	21.37379	106.56649	P	PPLA2	VN		24	219			127881		18	Asia/Bangkok	2026-09-14
 1585317	Chơn Thành	Chon Thanh	Ap Chon Thanh,Chon Tankh,Chon Thanh,Chơn Thành,Thanh Ghon,Чон Танх,Ấp Chơn Thành	11.42821	106.63536	P	PPLA2	VN		75	697			121083		63	Asia/Ho_Chi_Minh	2026-09-14
-1585330	Chợ Lớn	Cho Lon	Cho Lon,Chợ Lớn,Sholon,Tjolon,Тёлон	10.75	106.65	P	PPLX	VN		79	775			561000		7	Asia/Ho_Chi_Minh	2026-09-14
+1585330	Chợ Lớn	Cho Lon	Cho Lon,Chợ Lớn,Sholon,Tjolon,Тёлон	10.753	106.659	P	PPLX	VN		79	775			561000		4	Asia/Ho_Chi_Minh	2026-09-22
 1585489	Chí Linh	Chi Linh	Chi Linh,Chi Linkh,Chí Linh,Чи Линх	21.06667	106.31667	P	PPL	VN		31	290			220421		5	Asia/Ho_Chi_Minh	2026-09-14
 1585531	Chiềng Cơi	Chieng Coi		21.3	103.9	P	PPL	VN		14	116			22624		649	Asia/Bangkok	2026-07-24
 1585639	Châu Phong	Chau Phong		10.71667	105.13333	P	PPL	VN		91	887			56322		11	Asia/Ho_Chi_Minh	2026-01-14
