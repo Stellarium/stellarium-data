@@ -460,7 +460,7 @@ BY.03	Grodnenskaya	Grodnenskaya	628035
 BY.02	Homyel’ Voblasc’	Homyel' Voblasc'	628281
 BY.01	Brest	Brest	629631
 BZ.06	Toledo District	Toledo District	3580913
-BZ.05	Southern District	Southern District	3580975
+BZ.05	Stann Creek	Stann Creek	3580975
 BZ.04	Orange Walk District	Orange Walk District	3581511
 BZ.03	Corozal District	Corozal District	3582302
 BZ.02	Cayo District	Cayo District	3582429
@@ -2799,7 +2799,7 @@ RU.46	Mordoviya Republic	Mordoviya Republic	525369
 RU.45	Mariy-El Republic	Mariy-El Republic	529352
 RU.43	Lipetsk Oblast	Lipetsk Oblast	535120
 RU.42	Leningradskaya Oblast'	Leningradskaya Oblast'	536199
-RU.66	St.-Petersburg	St.-Petersburg	536203
+RU.66	St. Petersburg	St. Petersburg	536203
 RU.41	Kursk Oblast	Kursk Oblast	538555
 RU.38	Krasnodar Krai	Krasnodar Krai	542415
 RU.37	Kostroma Oblast	Kostroma Oblast	543871
@@ -3541,7 +3541,7 @@ TV.NMG	Nanumanga	Nanumanga	7601980
 TV.VAI	Vaitupu	Vaitupu	7601981
 TV.NKF	Nukufetau	Nukufetau	7601982
 TV.NKL	Nukulaelae	Nukulaelae	7601983
-TW.01	Fukien	Fukien	7280288
+TW.01	Fujian	Fujian	7280288
 TW.02	Takao	Takao	7280289
 TW.03	Taipei	Taipei	7280290
 TW.04	Taiwan	Taiwan	7280291
