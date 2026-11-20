@@ -3,7 +3,7 @@
 #
 # Tool for create a Stellarium Catalogue of Variable Stars
 #
-# Copyright (C) 2013, 2015, 2019, 2025 Alexander Wolf
+# Copyright (C) 2013, 2015, 2019, 2025, 2026 Alexander V. Wolf
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the "Software"),
@@ -30,7 +30,9 @@ use LWP::UserAgent;
 $GCVS   = "./gcvs5.txt"; 	# GCVS
 $HIPV	= "./gcvs-hip-gaia.dat";
 $LOGF	= "./log.txt";
-$fpart 	= "https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=";
+$fpart	= "https://simbad.cfa.harvard.edu/simbad/sim-basic?Ident=";
+#$fpart	= "https://simbad.u-strasbg.fr/simbad/sim-basic?Ident=";
+#$fpart 	= "https://simbad.idia.ac.za/simbad/sim-basic?Ident=";
 $lpart 	= "&submit=SIMBAD+search";
 
 $pausec  = 5; # pause in seconds between chunks of requests
@@ -38,7 +40,7 @@ $pausep  = 1; # pause in seconds between requests of pages
 
 $ua = LWP::UserAgent->new(keep_alive=>1, timeout=>180);
 
-$ua->agent("Opera/9.80 (X11; Linux i686; U; ru) Presto/2.9.168 Version/11.50");
+$ua->agent("Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0");
 
 $i = 0;
 $record = 0;
